@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Okinawa Private Guide · Day 1</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.2/babel.min.js"></script>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: #04101e; }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+
+  <script type="text/babel">
+
+    // ============================================================
+    // 📸 写真パス設定（後から画像を追加するときここを変更）
+    // 例: images/01_manzamo.jpg をフォルダに入れて下記に記入
+    // ============================================================
+    const SPOT_IMAGES = {
+      1: "",  // 万座毛
+      2: "",  // 美ら海水族館
+      3: "",  // 赤墓ビーチ
+      4: "",  // 今帰仁城
+      5: "",  // 古宇利島
+      6: "",  // ハートロック
+      7: "",  // 乙羽岳展望台
+    };
+
+    // ============================================================
+    // スポットデータ
+    // ============================================================
+    const spots = [
+      {
+        id: 1,
+        name: "Manzamo",
+        subtitle: "The Cliff of Ten Thousand Seats",
+        emoji: "🌊",
+        gradient: "linear-gradient(135deg,#0077b6,#00b4d8)",
+        accent: "#00b4d8",
+        duration: "~30 min",
+        entry: "¥100",
+        audio: `Welcome to Manzamo — one of Okinawa's most iconic viewpoints.
+
+You are standing on the edge of a dramatic limestone cliff, shaped by the East China Sea over thousands of years. The rock that juts out before you looks exactly like an elephant's trunk — this is the famous Elephant Nose, the enduring symbol of Manzamo.
+
+The name itself carries a story. In 1726, the Ryukyu King Shokei visited this place and declared it — a meadow large enough to seat ten thousand people. In the Okinawan language, the word maa means meadow or grassland. So Manzamo means exactly that: the field of ten thousand seats.
+
+Look carefully at the sea below. Those shifting shades of blue — from emerald near the shore to deep cobalt further out — are created by a coral reef just beneath the surface. This reef is protected as a Natural Monument of Okinawa Prefecture. The rare plants growing on the limestone here, including the Okinawa Violet and the Okinawa Pine Phlox, are found nowhere else on Earth, making this site scientifically precious as well as beautiful.
+
+A hidden discovery: behind the main path, a trail leads to Ura Manzamo — the secret back side of the cliff. From there, you see the Elephant Nose from the opposite angle, with almost no other tourists around.`,
+        body: [
+          `You are standing on the edge of a 20-meter limestone cliff, shaped by the East China Sea over thousands of years. The rock jutting out before you resembles a giant elephant's trunk — this is the famous "Elephant Nose," the symbol of Manzamo.`,
+          `In 1726, the Ryukyu King Shokei visited this place and declared it "a meadow large enough to seat ten thousand people." The word "maa" in Okinawan means grassland, giving the site its name: Man-za-mo.`,
+          `The shifting blues below — emerald near the shore, deep cobalt further out — are caused by a coral reef just beneath the surface. The rare plant species growing on this limestone, including the Okinawa Violet and Okinawa Pine Phlox, are found nowhere else on Earth, making this a protected Natural Monument.`,
+          `A hidden path behind the main trail leads to "Ura Manzamo" — the quiet back side of the cliff, where you can see the Elephant Nose from the opposite angle with almost no other visitors around.`
+        ],
+        tip: "Photograph the Elephant Nose from the left side, facing west, in the morning light. Afternoon visits place the rock in shadow.",
+        finland: `In Finland, you may have stood on the dramatic rocky shores of the archipelago, or looked out from a fell in Lapland. Manzamo offers a similarly raw encounter with geology — a place where ancient forces wrote their story in stone for anyone patient enough to read it. Both Finnish and Okinawan cultures share a deep reverence for nature as a source of spiritual renewal, a concept Okinawans call nuchigusui — medicine for life.`
+      },
+      {
+        id: 2,
+        name: "Churaumi Aquarium",
+        subtitle: "The World's Ocean, Under One Roof",
+        emoji: "🦈",
+        gradient: "linear-gradient(135deg,#023e8a,#0096c7)",
+        accent: "#0096c7",
+        duration: "2–3 hours",
+        entry: "¥2,090 / adult",
+        audio: `Welcome to Okinawa Churaumi Aquarium — one of the greatest aquariums on Earth.
+
+The name Churaumi comes from the Okinawan language and means beautiful ocean. That beauty is immediately visible in the centerpiece of this building: the Kuroshio Sea tank. It is 35 meters wide, 27 meters deep, and 10 meters tall. The viewing panel alone is a feat of engineering — a single seamless sheet of acrylic glass, over 60 centimeters thick.
+
+But the true star of this tank has a name: Jinta.
+
+Jinta is a male whale shark. As of March 2026, he has lived here for thirty-one years — making him the longest-surviving whale shark in captivity in the entire history of the world. No other aquarium has ever matched this record.
+
+Twice a day, the aquarium holds a feeding demonstration. Jinta rises vertically in the water, opens his massive mouth, and filters hundreds of liters of seawater to collect his meal. It is one of the most extraordinary sights you will ever see in any aquarium anywhere in the world.
+
+Outside, the free Dolphin Lagoon hosts daily performances. The nearby Emerald Beach — one of Japan's most beautiful lagoon beaches — is just a short walk away.`,
+        body: [
+          `The centerpiece here is the Kuroshio Sea tank — 35 meters wide, 27 meters deep, 10 meters tall. Its viewing panel is a single seamless sheet of acrylic glass, over 60 cm thick. It is one of the largest aquarium tanks in the world.`,
+          `The undisputed star is Jinta, a male whale shark. As of March 2026, Jinta has lived here for 31 years — the longest-living whale shark in captivity in world history. Whale sharks are the largest fish on Earth, yet they feed only on plankton and krill, making them completely gentle giants.`,
+          `Twice daily, a feeding demonstration shows Jinta rising vertically, opening his vast mouth, and filtering hundreds of liters of seawater. It is unlike anything else you will see in any aquarium in the world.`,
+          `Recent milestones: in 2025–2026, the aquarium achieved world-first breeding of multiple rare species, and a newly renovated Deep Sea Exploration Room opened in March 2026. Free dolphin shows and the beautiful Emerald Beach are steps away.`
+        ],
+        tip: "Check the feeding schedule at the entrance — it is the highlight of the visit. The 'Churaumi Theater' seating area gives the closest, most level view of Jinta.",
+        finland: `Finland has a long tradition of marine biology research, particularly in the Baltic Sea. Jinta's 31-year story is fundamentally about patience — an investment of care and observation across an entire human generation. This mirrors Finland's world-leading approach to science, education, and long-term environmental stewardship.`
+      },
+      {
+        id: 3,
+        name: "Akahaka Beach",
+        subtitle: "A Hidden Shore of Silence",
+        emoji: "🏖️",
+        gradient: "linear-gradient(135deg,#1b6ca8,#2ecc71)",
+        accent: "#2ecc71",
+        duration: "30–60 min",
+        entry: "Free",
+        audio: `After the scale and spectacle of Churaumi, Akahaka Beach offers something far rarer: stillness.
+
+This quiet, largely undiscovered beach sits in the northern reaches of Okinawa, beyond the reach of most tourist itineraries. The water here is extraordinarily clear — the kind of clarity where you can see every grain of sand five meters below the surface, and small fish dart between coral formations in water that catches the sunlight like liquid glass.
+
+This is Yanbaru territory — the ancient forested highlands that became a UNESCO World Natural Heritage Site in 2021. The forests around you are home to rare creatures found nowhere else on Earth, including the Okinawa Rail, a flightless bird so elusive that locals call it the ghost of the forest.
+
+Take off your shoes. Let the sand hold the warmth of the afternoon. Listen to the ocean.
+
+This is nuchigusui — an Okinawan concept meaning medicine for life. The people of Okinawa are among the longest-lived in the world, and many attribute this to a culture that treats moments like this one as a necessity, not a luxury.`,
+        body: [
+          `After the scale of Churaumi, Akahaka Beach offers something priceless: stillness. This largely undiscovered beach sits in the northern reaches of Okinawa, where the water is extraordinarily clear — you can see the seafloor clearly at five meters depth, with small fish darting through coral formations.`,
+          `This is Yanbaru territory — the ancient forested highlands designated a UNESCO World Natural Heritage Site in 2021. The surrounding forests shelter rare creatures found nowhere else, including the Okinawa Rail, a flightless bird locals call "the ghost of the forest."`,
+          `No souvenir stands, no facilities, no noise. Just the rhythm of waves and the feeling of having found something most visitors never will. This is nuchigusui — the Okinawan concept of nature as medicine for life.`,
+          `Okinawans are among the world's longest-lived people. Many attribute this not to any single habit, but to a culture that treats moments of natural stillness as a necessity, not a luxury.`
+        ],
+        tip: "Bring water and sun protection — no facilities on the beach. The water is calm and perfect for a quiet swim or simply sitting at the edge of the sea.",
+        finland: `Finns know this experience deeply through "metsärauha" — the peace of the forest — or the quiet of a lakeside evening in summer. In both cultures, time spent in natural stillness is not idle; it is restorative, even sacred. Akahaka Beach is Okinawa's equivalent of that Finnish summer cottage moment.`
+      },
+      {
+        id: 4,
+        name: "Nakijin Castle",
+        subtitle: "A World Heritage Fortress at the Edge of the Sky",
+        emoji: "🏯",
+        gradient: "linear-gradient(135deg,#6a0572,#c77dff)",
+        accent: "#c77dff",
+        duration: "60–90 min",
+        entry: "¥600",
+        audio: `Before you stands one of the most dramatic castle ruins in all of Asia.
+
+Nakijin Castle — known in Okinawan as Nakijin Gusuku — dates back to the thirteenth century. It sits on a plateau one hundred meters above sea level, and from its highest point you can see the ocean stretching to the horizon in three directions. In the year 2000, it was inscribed as a UNESCO World Heritage Site.
+
+Its stone walls stretch 1.5 kilometers in total length, constructed from limestone without mortar — only the precise fitting of naturally shaped stones. The walls curve with the natural contours of the hill, giving them an organic, flowing beauty that sets them apart from the rigid geometry of Japanese or European castle architecture.
+
+The last king, Han Anchi, was surrounded by overwhelming forces in 1416. With only seventeen knights remaining, he reportedly said: We are the warriors of the North Mountain. Let us face our end so that future generations will not laugh at us.
+
+Inside the castle, the sacred Uchibaru — the Inner Chamber — was tended exclusively by women priestesses, who connected the living world to the spiritual one. This tradition of female spiritual leadership continues in Okinawa today.`,
+        body: [
+          `Nakijin Castle dates to the 13th century, sitting on a plateau 100 meters above sea level with ocean views in three directions. It was inscribed as a UNESCO World Heritage Site in 2000, as part of the "Gusuku Sites and Related Properties of the Kingdom of Ryukyu."`,
+          `Its limestone walls stretch 1.5 km without mortar — only precisely fitted natural stones. They curve with the natural contours of the hill, a deliberate philosophy: working with the land, not imposing upon it. The effect is both formidable and beautiful.`,
+          `The last king, Han Anchi, was surrounded by overwhelming forces in 1416. With only seventeen knights remaining, he reportedly said: "We are the warriors of the North Mountain. Let us face our end so future generations will not laugh at us." This account was written down by the kingdom that defeated him — a profound act of cultural respect for a fallen enemy.`,
+          `Inside the castle, the sacred Uchibaru (Inner Chamber) was tended exclusively by women priestesses, who connected the living world to the spiritual one — a tradition of female spiritual leadership that continues in Okinawa today.`
+        ],
+        tip: "Wear sturdy shoes — the stone path is uneven. The panoramic view from the main hall is the finest on today's entire tour. Allow 90 minutes to absorb this place fully.",
+        finland: `Finland has its own history of a small nation maintaining identity against far larger forces — adapting, enduring, and ultimately defining itself through resilience. Han Anchi's last words carry the same spirit as the Finnish concept of sisu — the quiet, stubborn refusal to be erased. At Nakijin, you are standing in the ruins of that same force.`
+      },
+      {
+        id: 5,
+        name: "Kouri Island",
+        subtitle: "The Island of Love — and the Beginning of All Things",
+        emoji: "🌅",
+        gradient: "linear-gradient(135deg,#e07b00,#fcbf49)",
+        accent: "#fcbf49",
+        duration: "60–90 min",
+        entry: "Free",
+        audio: `The drive across Kouri Bridge alone is worth the journey.
+
+The bridge stretches 1.9 kilometers across the East China Sea. As you cross it, the ocean opens up on both sides in impossible shades of turquoise, aquamarine, and deep blue. On clear days, the water is so transparent you can see the seafloor. Locals say that if you are patient, you may spot a sea turtle swimming below the bridge.
+
+Kouri Island is called Kui-jima in the old Okinawan language — the Island of Love. This name comes from an ancient creation legend: the very first man and woman descended from the heavens and landed here, without clothing, without language, without knowledge of the world. They gradually discovered desire and connection. From their union, all human life spread outward across the islands. The cave where this legendary couple sheltered still exists on the island — it is known as the Cave of Beginnings.
+
+Today, the island remains largely rural. Sugar cane grows in the fields, and small restaurants serve sea urchin and sea grapes caught that morning. Take your time here. The Island of Love does not rush.`,
+        body: [
+          `Crossing Kouri Bridge — 1.9 km of road suspended over the East China Sea — is one of the most beautiful drives in Japan. The water reveals extraordinary turquoise gradations, and sea turtles are spotted below the bridge more often than visitors expect.`,
+          `The island is called "Kui-jima" — Island of Love. Its ancient creation legend tells of the very first man and woman descending from the heavens and landing here, gradually discovering language, desire, and connection. From their union, all human life spread outward. This is one of the oldest oral traditions in Japan.`,
+          `The cave where this legendary couple sheltered — the "Cave of Beginnings" — still exists on the island's shore. The legend predates any written record in Okinawa.`,
+          `Today, the island is quietly rural — sugar cane fields, narrow roads, small seafood restaurants serving sea urchin and sea grapes caught that morning. The Kouri Ocean Tower offers 360° panoramic views and a world-class collection of rare shells.`
+        ],
+        tip: "Stop at the center of Kouri Bridge for a photo — use the pedestrian walkway carefully. Fresh sea urchin at local restaurants is extraordinary when in season (spring–early summer).",
+        finland: `Finnish mythology — particularly the Kalevala — also contains creation stories rooted in islands and primordial water. Kouri's legend may feel strangely familiar. Both cultures understand that certain islands carry a spiritual weight — a sense that the place itself holds meaning far beyond its physical beauty.`
+      },
+      {
+        id: 6,
+        name: "Heart Rock",
+        subtitle: "Where the Ocean Carved a Love Letter",
+        emoji: "❤️",
+        gradient: "linear-gradient(135deg,#c1121f,#ff6b6b)",
+        accent: "#ff6b6b",
+        duration: "30–45 min",
+        entry: "Parking ¥100",
+        audio: `At the northern tip of Kouri Island, two small rocks stand side by side in the shallow water of Tinu Beach.
+
+They do not look like much at first.
+
+But stand in exactly the right position — slightly right of center, about fifteen meters from the waterline — and something extraordinary happens. The two rocks align perfectly. The natural erosion of the sea, working patiently for thousands of years, has carved the base of the left rock into a perfect heart shape. And when the rocks overlap from this angle, the space between them forms a second heart, inverted, floating in the air.
+
+Nature made a love letter, and left it here for anyone patient enough to find it.
+
+Heart Rock became famous across Japan when a major airline used it as the backdrop for a television commercial. Local folklore says that couples who visit together will find their bond strengthened. Whether or not you believe in such things, there is something genuinely moving about standing here, watching the sea move through the same stone shapes it has been carving for millennia.`,
+        body: [
+          `Stand about 15 meters from the waterline, slightly right of center. The two rocks of Tinu Beach align perfectly — the wave-carved base of the left rock reveals a natural heart shape. The gap between both rocks forms a second, inverted heart. Nature carved this over thousands of years of patient erosion.`,
+          `Tinu Beach itself is small, wild, and completely undeveloped — fine white sand, water clear enough to see coral below the surface, surrounded only by natural rocky outcroppings.`,
+          `Heart Rock became nationally famous in Japan after a major airline filmed a television commercial here. Local folklore now holds that couples who visit together find their bond strengthened.`,
+          `Practical notes: the descent involves a steep sandy slope — wear reliable shoes. Check the tide table; low tide lets you approach the rocks closely, while a rising tide creates the most dramatic photogenic silhouette.`
+        ],
+        tip: "Stand 15m away, slightly right of center, for the perfect heart shape. Sunset creates a stunning silhouette. Tide tables are available at the nearby parking area.",
+        finland: `Finland celebrates love and partnership in a culture that values depth over performance — relationships built quietly over decades. Heart Rock is exactly that kind of place: it does not announce itself. It rewards the people who pay attention. The quiet discovery of something this beautiful is the kind of memory that stays for a lifetime.`
+      },
+      {
+        id: 7,
+        name: "Otowadake Observatory",
+        subtitle: "The Island from Above — Your Perfect Ending",
+        emoji: "🌄",
+        gradient: "linear-gradient(135deg,#1b4332,#52b788)",
+        accent: "#52b788",
+        duration: "20–30 min",
+        entry: "Free",
+        audio: `Your day ends here, high above everything you have seen.
+
+The Otowadake Observatory sits atop a forested hill on the eastern side of Kouri Island. As you emerge from the forest and reach the platform, the view opens up with a sudden and breathtaking completeness.
+
+Below you, Kouri Island spreads outward in a tapestry of emerald fields and terracotta rooftops. The Kouri Bridge stretches across the water like a thin white thread. Beyond the bridge, the forests of Yanbaru — a UNESCO World Natural Heritage Site — cover the mountains in every direction.
+
+From this height, the color gradations of the ocean become fully visible. Shallow areas glow turquoise and gold. Deeper channels turn a rich sapphire. Where the currents meet, the colors swirl together in patterns that change by the hour.
+
+This is the view that ties the entire day together. Every place you have visited today exists within the landscape you can now see in a single glance.
+
+In Okinawa, there is a farewell that doubles as a blessing: Nifēdēbiru — thank you from the bottom of my heart. Today, Okinawa has offered you a great deal. This is the right place to say thank you in return.`,
+        body: [
+          `Atop a forested hill on Kouri Island's east side, the view from Otowadake Observatory opens suddenly and completely. Below: emerald fields, terracotta rooftops, and the Kouri Bridge threading white across the sea to the Okinawan mainland.`,
+          `From this height, the ocean's color gradations become fully legible — turquoise over coral and sand, deep sapphire in the channels, swirling at the meeting of currents. As the sun descends, the light turns golden and the entire landscape transforms.`,
+          `This single view encompasses every place you have visited today — Manzamo's cliff, the aquarium, the castle walls, the bridge, the beach — all visible in one glance. It is the natural conclusion of the day.`,
+          `The Okinawan farewell blessing is "Nifēdēbiru" — thank you from the bottom of my heart. Today, these islands have offered you something extraordinary. This is the right place to offer that thanks in return.`
+        ],
+        tip: "Arrive 60–90 minutes before sunset. The golden-hour light transforms the sea's colors dramatically, and the fading blue hour afterward is equally worth waiting for.",
+        finland: `In Finnish, the word "maisema" describes not just the appearance of a landscape, but the emotional experience of it — a view that enters you and stays. The reluctance you may feel to leave is perhaps the highest compliment a landscape can receive. It means the place has made itself part of you.`
+      }
+    ];
+
+    // ============================================================
+    // メインコンポーネント
+    // ============================================================
+    function App() {
+      const [cur, setCur] = React.useState(0);
+      const [playing, setPlaying] = React.useState(false);
+      const [showFin, setShowFin] = React.useState(false);
+
+      const spot = spots[cur];
+      const img = SPOT_IMAGES[spot.id];
+
+      React.useEffect(() => {
+        stop();
+        setShowFin(false);
+      }, [cur]);
+
+      React.useEffect(() => () => stop(), []);
+
+      function stop() {
+        window.speechSynthesis.cancel();
+        setPlaying(false);
+      }
+
+      function play() {
+        stop();
+        const u = new SpeechSynthesisUtterance(spot.audio);
+        u.lang = "en-US";
+        u.rate = 0.85;
+        u.pitch = 1.0;
+        u.onend = () => setPlaying(false);
+        u.onerror = () => setPlaying(false);
+        window.speechSynthesis.speak(u);
+        setPlaying(true);
+      }
+
+      function toggle() { playing ? stop() : play(); }
+      function go(i) { stop(); setCur(i); }
+
+      return (
+        <div style={{ minHeight:"100vh", background:"#04101e", color:"#d8eeff",
+          fontFamily:"Georgia,serif", paddingBottom:48 }}>
+
+          {/* ヘッダー */}
+          <div style={{ background:"linear-gradient(180deg,#000a16,#04101e)",
+            padding:"18px 20px 14px", borderBottom:"1px solid #0f2a42" }}>
+            <div style={{ fontSize:10, letterSpacing:3, color:"#3a8ec4",
+              fontFamily:"sans-serif", marginBottom:4 }}>
+              OKINAWA PRIVATE GUIDE · DAY 1
+            </div>
+            <div style={{ fontSize:20, fontWeight:"bold", color:"#fff" }}>
+              North Okinawa Discovery
+            </div>
+            <div style={{ fontSize:12, color:"#5a9abf", fontFamily:"sans-serif", marginTop:3 }}>
+              For our guests from Finland 🇫🇮
+            </div>
+          </div>
+
+          {/* 進捗ドット */}
+          <div style={{ display:"flex", justifyContent:"center", alignItems:"center",
+            gap:7, padding:"14px 0 8px" }}>
+            {spots.map((_, i) => (
+              <button key={i} onClick={() => go(i)} style={{
+                width: i===cur ? 26 : 8, height:8, borderRadius:4,
+                background: i===cur ? spot.accent : i<cur ? "#1a5580" : "#0f2a42",
+                border:"none", cursor:"pointer", padding:0, transition:"all 0.3s"
+              }} />
+            ))}
+          </div>
+
+          {/* カード */}
+          <div style={{ margin:"10px 14px 0", borderRadius:18, overflow:"hidden",
+            border:"1px solid #0f2a42" }}>
+
+            {/* 📸 写真エリア */}
+            {img ? (
+              <img src={img} alt={spot.name}
+                style={{ width:"100%", height:220, objectFit:"cover", display:"block" }} />
+            ) : (
+              <div style={{ width:"100%", height:180, background:"#071625",
+                display:"flex", alignItems:"center", justifyContent:"center",
+                flexDirection:"column", gap:8, borderBottom:"1px solid #0f2a42" }}>
+                <span style={{ fontSize:36 }}>{spot.emoji}</span>
+                <span style={{ fontSize:11, color:"#2a5a8c", fontFamily:"sans-serif" }}>
+                  Photo coming soon
+                </span>
+              </div>
+            )}
+
+            {/* ヒーロー情報 */}
+            <div style={{ background:spot.gradient, padding:"22px 22px 18px" }}>
+              <div style={{ fontSize:10, letterSpacing:2, color:"rgba(255,255,255,0.65)",
+                fontFamily:"sans-serif", marginBottom:4 }}>
+                STOP {spot.id} OF 7
+              </div>
+              <div style={{ fontSize:26, fontWeight:"bold", color:"#fff", marginBottom:4 }}>
+                {spot.name}
+              </div>
+              <div style={{ fontSize:13, color:"rgba(255,255,255,0.82)", fontStyle:"italic" }}>
+                {spot.subtitle}
+              </div>
+              <div style={{ display:"flex", gap:10, marginTop:14 }}>
+                <span style={{ background:"rgba(0,0,0,0.32)", borderRadius:8,
+                  padding:"5px 13px", fontSize:11, fontFamily:"sans-serif", color:"#fff" }}>
+                  ⏱ {spot.duration}
+                </span>
+                <span style={{ background:"rgba(0,0,0,0.32)", borderRadius:8,
+                  padding:"5px 13px", fontSize:11, fontFamily:"sans-serif", color:"#fff" }}>
+                  🎟 {spot.entry}
+                </span>
+              </div>
+            </div>
+
+            {/* 音声コントロール */}
+            <div style={{ background:"#071625", padding:"14px 18px", display:"flex",
+              alignItems:"center", gap:14, borderBottom:"1px solid #0f2a42" }}>
+              <button onClick={toggle} style={{
+                width:50, height:50, borderRadius:"50%",
+                background: playing
+                  ? "linear-gradient(135deg,#c1121f,#ff6b6b)"
+                  : "linear-gradient(135deg,#0077b6,#00b4d8)",
+                border:"none", cursor:"pointer", fontSize:18,
+                display:"flex", alignItems:"center", justifyContent:"center",
+                flexShrink:0, boxShadow:"0 4px 18px rgba(0,119,182,0.35)"
+              }}>
+                {playing ? "⏹" : "▶"}
+              </button>
+              <div>
+                <div style={{ fontSize:13, fontFamily:"sans-serif", color:"#6ac4e8" }}>
+                  {playing ? "Narrating…" : "Tap to hear audio guide"}
+                </div>
+                <div style={{ fontSize:11, color:"#2a6080", fontFamily:"sans-serif", marginTop:2 }}>
+                  {playing ? "Tap again to stop" : "Clear English · deep commentary"}
+                </div>
+              </div>
+            </div>
+
+            {/* 本文 */}
+            <div style={{ background:"#05121f", padding:"20px 18px" }}>
+              {spot.body.map((p, i) => (
+                <p key={i} style={{ lineHeight:1.82, fontSize:14.5, color:"#b4d4ec",
+                  marginBottom:14, marginTop:0 }}>{p}</p>
+              ))}
+
+              {/* Tip */}
+              <div style={{ background:"#071e34", border:"1px solid #0f3558",
+                borderRadius:12, padding:"13px 15px", marginTop:6 }}>
+                <div style={{ fontSize:10, color:"#3a8ec4", letterSpacing:2,
+                  fontFamily:"sans-serif", marginBottom:5 }}>💡 GUIDE'S TIP</div>
+                <div style={{ fontSize:13, color:"#90c4e4", lineHeight:1.65 }}>
+                  {spot.tip}
+                </div>
+              </div>
+
+              {/* Finland Connection */}
+              <button onClick={() => setShowFin(!showFin)} style={{
+                width:"100%", marginTop:14,
+                background: showFin ? "#0a253e" : "transparent",
+                border:"1px solid #1a4a70",
+                borderRadius: showFin ? "12px 12px 0 0" : 12,
+                padding:"12px 15px", cursor:"pointer",
+                display:"flex", alignItems:"center", gap:10,
+                color:"#6ac4e8", fontSize:13, fontFamily:"sans-serif", textAlign:"left"
+              }}>
+                <span style={{ fontSize:22 }}>🇫🇮</span>
+                <div style={{ flex:1 }}>
+                  <div style={{ fontWeight:"bold", color:"#9ad0ef", fontSize:13 }}>
+                    Finland Connection
+                  </div>
+                  <div style={{ fontSize:11, color:"#3a7a9a", marginTop:2 }}>
+                    {showFin ? "Tap to close" : "A note written especially for you"}
+                  </div>
+                </div>
+                <span style={{ color:"#3a7a9a" }}>{showFin ? "▲" : "▼"}</span>
+              </button>
+
+              {showFin && (
+                <div style={{ background:"#071e34", borderRadius:"0 0 12px 12px",
+                  border:"1px solid #1a4a70", borderTop:"none", padding:"15px 16px" }}>
+                  <p style={{ fontSize:13.5, color:"#a4cfe8", lineHeight:1.8,
+                    margin:0, fontStyle:"italic" }}>{spot.finland}</p>
+                </div>
+              )}
+            </div>
+          </div>
+
+          {/* ナビゲーション */}
+          <div style={{ display:"flex", gap:10, padding:"12px 14px 0" }}>
+            <button disabled={cur===0} onClick={() => cur>0 && go(cur-1)} style={{
+              flex:1, padding:"13px 10px",
+              background: cur===0 ? "#071625" : "#0a1e30",
+              border:"1px solid #0f2a42", borderRadius:12,
+              color: cur===0 ? "#1a3a52" : "#6ac4e8",
+              fontSize:13, cursor: cur===0 ? "default" : "pointer",
+              fontFamily:"sans-serif"
+            }}>
+              ← {cur>0 ? spots[cur-1].name : "—"}
+            </button>
+            <button disabled={cur===spots.length-1}
+              onClick={() => cur<spots.length-1 && go(cur+1)} style={{
+              flex:1, padding:"13px 10px",
+              background: cur===spots.length-1 ? "#071625" : spot.gradient,
+              border: cur===spots.length-1 ? "1px solid #0f2a42" : "none",
+              borderRadius:12,
+              color: cur===spots.length-1 ? "#1a3a52" : "#fff",
+              fontSize:13, fontWeight:"bold",
+              cursor: cur===spots.length-1 ? "default" : "pointer",
+              fontFamily:"sans-serif"
+            }}>
+              {cur<spots.length-1 ? spots[cur+1].name : "Journey Complete"} {cur<spots.length-1 ? "→" : "✓"}
+            </button>
+          </div>
+        </div>
+      );
+    }
+
+    ReactDOM.createRoot(document.getElementById("root")).render(<App />);
+  </script>
+</body>
+</html>
