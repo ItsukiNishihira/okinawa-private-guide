@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>沖縄・宿泊業ニュース</title>
+<style>
+:root{
+  --bg:#f6f7f9;--card:#fff;--text:#1d2433;--muted:#5d6678;--line:#e2e6ec;
+  --accent:#0a6dc2;
+  --c-okinawa:#0f8a7e;--c-dx_ai:#6b4fd8;--c-subsidy:#c0661a;
+  --new:#d93a3a;
+}
+@media (prefers-color-scheme:dark){
+  :root{
+    --bg:#10141b;--card:#181e27;--text:#e6ebf2;--muted:#98a3b5;--line:#2a3340;
+    --accent:#5aa9ec;
+    --c-okinawa:#3cc4b5;--c-dx_ai:#a593f5;--c-subsidy:#f0a35e;
+    --new:#ff6b6b;
+  }
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Noto Sans JP","Yu Gothic",sans-serif;line-height:1.6}
+a{color:var(--accent)}
+.wrap{max-width:880px;margin:0 auto;padding:20px 16px 48px}
+header h1{font-size:22px}
+header p{color:var(--muted);font-size:13px;margin-top:4px}
+.status{margin-top:12px;font-size:12px;color:var(--muted);display:flex;flex-wrap:wrap;gap:6px 14px}
+.status .ok::before{content:"● ";color:var(--c-okinawa)}
+.status .ng::before{content:"● ";color:var(--new)}
+.warn{margin-top:10px;padding:10px 12px;border-radius:8px;background:color-mix(in srgb,var(--new) 12%,transparent);font-size:13px}
+
+.tabs{display:flex;gap:6px;margin:20px 0 12px;overflow-x:auto;padding-bottom:4px}
+.tab{flex:0 0 auto;border:1px solid var(--line);background:var(--card);color:var(--text);border-radius:999px;padding:8px 14px;font-size:14px;cursor:pointer}
+.tab[aria-selected="true"]{background:var(--tab-color,var(--accent));border-color:transparent;color:#fff;font-weight:600}
+.tab .n{opacity:.75;font-size:12px;margin-left:4px}
+
+.tools{display:flex;gap:8px;flex-wrap:wrap}
+.tools input,.tools select{font:inherit;font-size:14px;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--text)}
+.tools input{flex:1 1 220px;min-width:0}
+
+.desc{font-size:13px;color:var(--muted);margin:12px 2px 4px}
+.list{list-style:none;margin-top:8px}
+.item{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px;margin-bottom:8px}
+.item a.t{font-weight:600;font-size:15px;color:var(--text);text-decoration:none}
+.item a.t:hover{text-decoration:underline}
+.meta{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:12px;color:var(--muted);margin-bottom:4px}
+.badge{font-size:11px;padding:1px 8px;border-radius:999px;color:#fff;white-space:nowrap}
+.badge.new{background:var(--new)}
+.badge.okinawa{background:var(--c-okinawa)}
+.badge.dx_ai{background:var(--c-dx_ai)}
+.badge.subsidy{background:var(--c-subsidy)}
+.sum{font-size:13px;color:var(--muted);margin-top:4px}
+.empty{padding:28px;text-align:center;color:var(--muted);background:var(--card);border:1px dashed var(--line);border-radius:10px}
+
+section.official{margin-top:32px}
+section.official h2{font-size:16px;margin-bottom:6px}
+section.official p{font-size:13px;color:var(--muted);margin-bottom:8px}
+section.official ul{list-style:none;display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:8px}
+section.official li{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px;font-size:13px}
+section.official li span{display:block;color:var(--muted);font-size:12px}
+footer{margin-top:28px;font-size:12px;color:var(--muted)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>沖縄・宿泊業ニュース</h1>
+    <p>沖縄観光の実態 ／ DX・AI活用 ／ 宿泊業の補助金 を、訪日ラボ・HOTEL BANK・トラベルボイスから自動収集（個人用）</p>
+    <div class="status" id="status">読み込み中…</div>
+    <div id="warn"></div>
+  </header>
+
+  <nav class="tabs" id="tabs" role="tablist"></nav>
+
+  <div class="tools">
+    <input id="q" type="search" placeholder="キーワードで絞り込み（例：石垣、生成AI、高付加価値化）">
+    <select id="src"><option value="">すべてのサイト</option></select>
+  </div>
+
+  <p class="desc" id="desc"></p>
+  <ul class="list" id="list"></ul>
+
+  <section class="official">
+    <h2>一次情報（公式サイト）で必ず確認</h2>
+    <p>補助金の締切・金額や統計の数字は変わることがあります。申請や判断の前に、必ず公式サイトで最新の内容を確認してください。</p>
+    <ul>
+      <li><a href="https://www.mlit.go.jp/kankocho/" target="_blank" rel="noopener">観光庁</a><span>宿泊業向けの補助事業・観光統計</span></li>
+      <li><a href="https://www.pref.okinawa.jp/" target="_blank" rel="noopener">沖縄県</a><span>入域観光客数などの公式統計・県の支援策</span></li>
+      <li><a href="https://www.ocvb.or.jp/" target="_blank" rel="noopener">沖縄観光コンベンションビューロー（OCVB）</a><span>沖縄観光の調査・事業者向け情報</span></li>
+      <li><a href="https://www.jgrants-portal.go.jp/" target="_blank" rel="noopener">jGrants（補助金の電子申請）</a><span>国の補助金の検索・申請</span></li>
+      <li><a href="https://mirasapo-plus.go.jp/" target="_blank" rel="noopener">ミラサポplus（中小企業庁）</a><span>中小企業向け補助金・支援制度</span></li>
+    </ul>
+  </section>
+
+  <footer>記事の著作権は各サイトに帰属します。このページはタイトルと元記事へのリンクのみを表示しています。</footer>
+</div>
+
+<script>
+const CATS = [
+  {id:"all",     label:"すべて",          desc:"3つのテーマに当てはまる記事をまとめて表示しています。"},
+  {id:"okinawa", label:"① 沖縄観光の実態", desc:"沖縄の観光客数・動向・地域ニュースなど。"},
+  {id:"dx_ai",   label:"② DX・AI活用",    desc:"生成AI・自動化・ホテルDXなど、業務効率化に関する記事。"},
+  {id:"subsidy", label:"③ 宿泊業の補助金", desc:"補助金・助成金・公募・支援事業の記事。締切や条件は必ず公式サイトで確認してください。"},
+];
+const SOURCE_NAMES = {honichi:"訪日ラボ", hotelbank:"HOTEL BANK", travelvoice:"トラベルボイス"};
+const CAT_LABEL = {okinawa:"沖縄観光", dx_ai:"DX・AI", subsidy:"補助金"};
+
+let data = {articles:[], sources:[]};
+let current = "all";
+try { current = localStorage.getItem("tab") || "all"; } catch(e) {}
+if (!CATS.some(c => c.id === current)) current = "all";
+
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+function fmtDate(iso){
+  if (!iso) return "日付不明";
+  const d = new Date(iso);
+  if (isNaN(d)) return "日付不明";
+  return d.toLocaleString("ja-JP", {timeZone:"Asia/Tokyo", year:"numeric", month:"numeric", day:"numeric", hour:"2-digit", minute:"2-digit"});
+}
+function isNew(iso){ return iso && (Date.now() - new Date(iso)) < 48*3600*1000; }
+function safeUrl(u){ return /^https?:\/\//.test(u || "") ? u : "#"; }
+
+function renderStatus(){
+  const s = $("status");
+  if (!data.updated_at){
+    s.textContent = "まだ記事を取得していません。";
+    $("warn").innerHTML = '<div class="warn">GitHub の「Actions」タブ →「ニュース自動更新」→「Run workflow」を押すと、最初の収集が始まります。</div>';
+    return;
+  }
+  const parts = [`最終更新：${esc(fmtDate(data.updated_at))}`];
+  for (const src of data.sources || []){
+    const ok = src.direct_feed || src.new_items > 0;
+    parts.push(`<span class="${ok ? "ok" : "ng"}">${esc(src.name)}</span>`);
+  }
+  s.innerHTML = parts.join("");
+  const hours = (Date.now() - new Date(data.updated_at)) / 3600000;
+  if (hours > 30){
+    $("warn").innerHTML = `<div class="warn">最後の更新から ${Math.floor(hours)} 時間たっています。自動更新が止まっている可能性があります（Actions タブを確認してください）。</div>`;
+  }
+}
+
+function renderTabs(){
+  $("tabs").innerHTML = CATS.map(c => {
+    const n = c.id === "all" ? data.articles.length : data.articles.filter(a => a.categories.includes(c.id)).length;
+    const color = c.id === "all" ? "" : `style="--tab-color:var(--c-${c.id})"`;
+    return `<button class="tab" role="tab" data-id="${c.id}" ${color} aria-selected="${c.id === current}">${c.label}<span class="n">${n}</span></button>`;
+  }).join("");
+  $("tabs").querySelectorAll(".tab").forEach(b => b.onclick = () => {
+    current = b.dataset.id;
+    try { localStorage.setItem("tab", current); } catch(e) {}
+    renderTabs(); renderList();
+  });
+}
+
+function renderList(){
+  const q = $("q").value.trim().toLowerCase();
+  const src = $("src").value;
+  $("desc").textContent = CATS.find(c => c.id === current).desc;
+  const items = data.articles.filter(a =>
+    (current === "all" || a.categories.includes(current)) &&
+    (!src || a.source === src) &&
+    (!q || (a.title + " " + (a.summary || "")).toLowerCase().includes(q))
+  );
+  if (!items.length){
+    $("list").innerHTML = `<li class="empty">${data.articles.length ? "条件に合う記事はありません。" : "記事はまだありません。"}</li>`;
+    return;
+  }
+  $("list").innerHTML = items.map(a => `
+    <li class="item">
+      <div class="meta">
+        ${isNew(a.published) ? '<span class="badge new">NEW</span>' : ""}
+        <span>${esc(fmtDate(a.published))}</span>
+        <span>・${esc(SOURCE_NAMES[a.source] || a.source)}</span>
+        ${a.categories.map(c => `<span class="badge ${esc(c)}">${esc(CAT_LABEL[c] || c)}</span>`).join("")}
+      </div>
+      <a class="t" href="${esc(safeUrl(a.url))}" target="_blank" rel="noopener noreferrer">${esc(a.title)}</a>
+      ${a.summary ? `<p class="sum">${esc(a.summary)}</p>` : ""}
+    </li>`).join("");
+}
+
+$("src").innerHTML += Object.entries(SOURCE_NAMES).map(([id,n]) => `<option value="${id}">${n}</option>`).join("");
+$("q").oninput = renderList;
+$("src").onchange = renderList;
+
+// ?t=時刻 を付けて、ブラウザに古いデータが残らないようにする
+fetch("data/articles.json?t=" + Date.now())
+  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then(d => { data = {...data, ...d}; })
+  .catch(() => { $("warn").innerHTML = '<div class="warn">データファイルを読み込めませんでした。</div>'; })
+  .finally(() => { renderStatus(); renderTabs(); renderList(); });
+</script>
+</body>
+</html>
