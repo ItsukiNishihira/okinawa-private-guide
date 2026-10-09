@@ -1,29 +1,89 @@
 {
- "updated_at": "2026-10-09T12:30+09:00",
+ "updated_at": "2026-10-09T22:06+09:00",
  "sources": [
   {
    "id": "honichi",
    "name": "訪日ラボ",
    "home": "https://honichi.com/",
    "direct_feed": true,
-   "new_items": 12
+   "new_items": 14
   },
   {
    "id": "hotelbank",
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
    "direct_feed": false,
-   "new_items": 29
+   "new_items": 30
   },
   {
    "id": "travelvoice",
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 53
+   "new_items": 55
   }
  ],
  "articles": [
+  {
+   "title": "沖縄 宿泊税は2027年2月1日から2%｜1名1泊100〜320円、上限2,000円が効く価格帯と宿の準備",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN3V3ekExVnlJUlJJLUFaRDRITDFPZzRzMVhpS1ktb09IV0FhWmpmVmsyR2FWZ2JZMzNWTkpROUc2cHB6VEVCZjNKQmtmNXB0ZWJfTEluai04NVBmeFBTQ3pBQmFpOUsyX085RFBzdExlUDJZUjlIQ0dnc0lSaEFOQ1NuUmZPeTFh?oc=5",
+   "source": "hotelbank",
+   "published": "2026-10-09T20:52+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "ファイターズ、AI旅行予約サービスの運営会社と資本業務提携、北海道Fビレッジへのインバウンド誘客を強化",
+   "url": "https://www.travelvoice.jp/20261009-160652",
+   "source": "travelvoice",
+   "published": "2026-10-09T18:14+09:00",
+   "summary": "ファイターズ スポーツ＆エンターテイメント（FSE）は、AIワンストップ旅行予約サービス「TripToJapan.com」を展開する高輪トラベルグループと資本業務提携契約。Fビレッジへのインバウンド集客を強化していく。",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "県内観光需要の平準化・周遊促進に向けた富士山静岡空港二次交通実証運行事業業務に係る企画提案の公募",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12T0tIUzFwLW1kLW5tVkRqTzI2dUFpeHRkN1M5dGM4eDNabFB5Z3B1d2dIUW54Z3VMU1dkbGVub0dPbVN6ZnIyMzFxVHdOdlo4?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-09T16:53+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "AIはアパレル購買にどこまで使われている？〜生成AIでアパレル店を探す600人に聞いた検索手段とAIの影響度",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1valJSeXpZY3dWdGNjVzd6eWZtdm14aVJDbF91c0dWSk9HSkNGbWpMeHJnRVJfS3FNbUVuNnNFZmZ6aTBDYUtGYkJqZ1FkaERuaTFtZVBJaDFEZ2VaeFlHS0RR?oc=5",
+   "source": "honichi",
+   "published": "2026-10-09T14:38+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "ぶらり丹波路魅力体験＆拡散ツアー事業に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtcDI5NGVQNElpYktIOUxYSG4wWkhPZVFkQ1Y3TUl3VWVBUWZHdnNpODBjeTN2OTNLNTBhenJzdmRLLVhkVl9ueldyOVFPUGFU?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-09T13:00+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "京都観光サポーター制度企画・運営業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5Z3ZFZThaekxBcFFZVlB0ejQyZWJ3SnNGQ3NJaF9Va2VhU3ZrWHVKZTVObEcwMVptVWFwb2FvcnlMbGwySjV2ZlFveDVWbks3?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-09T13:00+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
   {
    "title": "沖縄15離島の観光活性化へ、ポケモン「ガーディ」の現地限定ステッカーで来訪促進、新たに9島が参加",
    "url": "https://www.travelvoice.jp/20261009-160600",
@@ -42,16 +102,6 @@
    "summary": "",
    "categories": [
     "subsidy"
-   ]
-  },
-  {
-   "title": "ファイターズ、AI旅行予約サービスの運営会社と資本業務提携、北海道Fビレッジへのインバウンド誘客を強化",
-   "url": "https://www.travelvoice.jp/20261009-160652",
-   "source": "travelvoice",
-   "published": "2026-10-09T10:50+09:00",
-   "summary": "ファイターズ スポーツ＆エンターテイメント（FSE）は、AIワンストップ旅行予約サービス「TripToJapan.com」を展開する高輪トラベルグループと資本業務提携契約。Fビレッジへのインバウンド集客を強化していく。",
-   "categories": [
-    "dx_ai"
    ]
   },
   {
@@ -245,6 +295,16 @@
    ]
   },
   {
+   "title": "埼玉県、移住相談に対応する「住むなら埼玉」AI相談を開始、先輩移住者への無料相談も｜ふるさと住民制度・実践ガイド【公式】",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82VHhFX2p2a0p0R0loeV9UX2hSY1UzS1d2VTB5ai1aYVk4UVh3MFkzZlNSUlUxaTVfVnhpYUNFcHpFX0M3Y1o1M2xYcVRldnhCVDJqY28tVDBBT3NnQ2wwRzh3?oc=5",
+   "source": "travelvoice",
+   "published": "2026-09-30T15:15+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
    "title": "ITBアジア2026、AI時代の「人間中心の旅行・観光」を議論、10月にシンガポールで開催",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1TFpJam15MzlhZmkwaDhWRzFFYkxnOVdZR2xZNFNYS0wtelJvaF9NRE50SUl3NzdMemhOeXkyX1ktMExVU3lKRWlkN3RsazVJblo3ZA?oc=5",
    "source": "travelvoice",
@@ -325,16 +385,6 @@
    ]
   },
   {
-   "title": "ジェットスター・ジャパン、那覇～高雄線を12月6日に開設 同社初の那覇発着で週3往復運航",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TQzUtQnRjYkpVYVVLajJwVjJDOTBVa3VKbmhTaHBNdVVQQTAwNFd2TUZpSHFTUk9FT3BzMlBXZXhMQTVRMWlJaFhvRFFHSnRuNk5mN2NmOWdPSGlNUzR0VWtEcy1Odw?oc=5",
-   "source": "honichi",
-   "published": "2026-09-16T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "省力化投資補助金、ホテルの3年回収ラインは68室→34室 — 30/100/200室で試算",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcV9fMnhqVHppTzZVUzRGOXQxV3dGb0ZQSGJEYjVxM3ZxOTBYVmxFaVF2bUE1V3pKU3BlT0RyWmVsSnhKdkFWeHQyX3pvM3ZqQV91aUcxSVVqWTg0UVhpMnJjVkpCMy1hbFh4X0hCeS16aVB0cWNoSXJPZ2dxVnZLUkxjZTA5bFpscktscXlldVpoalE?oc=5",
    "source": "hotelbank",
@@ -343,6 +393,16 @@
    "categories": [
     "dx_ai",
     "subsidy"
+   ]
+  },
+  {
+   "title": "ジェットスター・ジャパン、那覇～高雄線を12月6日に開設 同社初の那覇発着で週3往復運航",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TQzUtQnRjYkpVYVVLajJwVjJDOTBVa3VKbmhTaHBNdVVQQTAwNFd2TUZpSHFTUk9FT3BzMlBXZXhMQTVRMWlJaFhvRFFHSnRuNk5mN2NmOWdPSGlNUzR0VWtEcy1Odw?oc=5",
+   "source": "honichi",
+   "published": "2026-09-16T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
    ]
   },
   {
@@ -463,6 +523,26 @@
    "summary": "",
    "categories": [
     "dx_ai"
+   ]
+  },
+  {
+   "title": "グローバル展開ホテルのラディソン、ChatGPT向けアプリ提供開始、空室表示し自社サイトに遷移で予約完結、アクセンチュアと開発",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LWWVzeGdySDhvbUZVbTZzcWlielJsNk9RQTFReGIwT3cxc0R3dU1sU0ZoX1gyejBMeWRDTTNNT3g3NzBmbjYzTkp6OGZYNHhubHBKbQ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-09-03T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "スターラックス航空、神戸・那覇〜高雄（台湾）線を新規就航",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92bFRCc0t4bnowZHZKT1N4dG9MU21VcnN1S2hUdGZnSWtiWm1mUjhpX01rTlIwbHVzVnFmTWoyUnJubTUtbmJxbXd0UWkyTmNDYWV0QjY4a05OQ01lN092MmljX2Y?oc=5",
+   "source": "honichi",
+   "published": "2026-09-02T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
    ]
   },
   {
@@ -838,6 +918,16 @@
   {
    "title": "日立システムズ、旅費精算を生成AIで支援、伝票作成や不正検知、国家公務員旅費法改正にも対応",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Kb3ZWcm40TnpfUU5vb3hCRElIZ1luT0tkZ3l3UFhoLUZXQ1J4MXN6WkJLVFNkSENFM1dGMHJMdU1la05zVy1aMXhyTTc4SWd4bjBPSg?oc=5",
+   "source": "travelvoice",
+   "published": "2026-07-28T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "ウーバー、法人向け経費精算を効率化、SAP Concurと連携で、インボイス対応を自動化",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xbUtxbjJoakM4U0FselMzQmxOekttNExSUHRnMFU5S2VMYXJXQjBxTjJpNGlETEVOd0dIQXBEZlhkaksxa1dvUy1kRkkycW9ZOExuUw?oc=5",
    "source": "travelvoice",
    "published": "2026-07-28T16:00+09:00",
    "summary": "",
