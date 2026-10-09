@@ -1,34 +1,44 @@
 {
- "updated_at": "2026-10-09T22:06+09:00",
+ "updated_at": "2026-10-10T07:33+09:00",
  "sources": [
   {
    "id": "honichi",
    "name": "訪日ラボ",
    "home": "https://honichi.com/",
    "direct_feed": true,
-   "new_items": 14
+   "new_items": 13
   },
   {
    "id": "hotelbank",
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
    "direct_feed": false,
-   "new_items": 30
+   "new_items": 29
   },
   {
    "id": "travelvoice",
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 55
+   "new_items": 59
   }
  ],
  "articles": [
   {
+   "title": "観光客向けマナー啓発等推進業務に係る公募型企画競争の実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IOWo2Y01PVUM5WWFJejZpNVo0cHJOVEVLUnZnRi1kcXVLVVE5Sk1NR3ZidVZiYU81REVVV0kzMG9CdEJOU0UyaWpsVG5JRGtp?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-10T05:39+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
    "title": "沖縄 宿泊税は2027年2月1日から2%｜1名1泊100〜320円、上限2,000円が効く価格帯と宿の準備",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN3V3ekExVnlJUlJJLUFaRDRITDFPZzRzMVhpS1ktb09IV0FhWmpmVmsyR2FWZ2JZMzNWTkpROUc2cHB6VEVCZjNKQmtmNXB0ZWJfTEluai04NVBmeFBTQ3pBQmFpOUsyX085RFBzdExlUDJZUjlIQ0dnc0lSaEFOQ1NuUmZPeTFh?oc=5",
    "source": "hotelbank",
-   "published": "2026-10-09T20:52+09:00",
+   "published": "2026-10-09T22:58+09:00",
    "summary": "",
    "categories": [
     "okinawa"
@@ -65,8 +75,8 @@
    ]
   },
   {
-   "title": "ぶらり丹波路魅力体験＆拡散ツアー事業に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtcDI5NGVQNElpYktIOUxYSG4wWkhPZVFkQ1Y3TUl3VWVBUWZHdnNpODBjeTN2OTNLNTBhenJzdmRLLVhkVl9ueldyOVFPUGFU?oc=5",
+   "title": "京都観光サポーター制度企画・運営業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5Z3ZFZThaekxBcFFZVlB0ejQyZWJ3SnNGQ3NJaF9Va2VhU3ZrWHVKZTVObEcwMVptVWFwb2FvcnlMbGwySjV2ZlFveDVWbks3?oc=5",
    "source": "travelvoice",
    "published": "2026-10-09T13:00+09:00",
    "summary": "",
@@ -75,8 +85,8 @@
    ]
   },
   {
-   "title": "京都観光サポーター制度企画・運営業務に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5Z3ZFZThaekxBcFFZVlB0ejQyZWJ3SnNGQ3NJaF9Va2VhU3ZrWHVKZTVObEcwMVptVWFwb2FvcnlMbGwySjV2ZlFveDVWbks3?oc=5",
+   "title": "ぶらり丹波路魅力体験＆拡散ツアー事業に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtcDI5NGVQNElpYktIOUxYSG4wWkhPZVFkQ1Y3TUl3VWVBUWZHdnNpODBjeTN2OTNLNTBhenJzdmRLLVhkVl9ueldyOVFPUGFU?oc=5",
    "source": "travelvoice",
    "published": "2026-10-09T13:00+09:00",
    "summary": "",
@@ -225,6 +235,16 @@
    ]
   },
   {
+   "title": "旅行者は「安さ」から「納得感」重視へ、スカイスキャナー・JALらが語る乗り継ぎ、旅先選び、AI活用の変化",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15eGo3TFBid0Jlb0ZPSnhMRk5PUFdKWlhOZEJCSGJ6VVdROFlLWjJXbzY0QjlEY09SNGdFYkVxSzRzS19PS0NqaDhWbkVPNjZKVUU0OA?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-05T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
    "title": "ブッキングHD、新AIアシスタント「Lola」始動、ホテル・飲食・体験の提案から予約まで、会員向け特典も",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhbFdETnR6Z3lhWElmbHVIRXF1QW4yZWYxSXpTX0dMdXZUVTZhT3FsM3FDZVpoc3NZQlhyMDM5eEtsU29iNEZNdTRlV2FiZUZSdWlLcg?oc=5",
    "source": "travelvoice",
@@ -358,7 +378,7 @@
    "title": "ホテル客室数ランキング2026｜全国TOP30・沖縄TOP20と大箱が立つ4条件",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xeGQzdGhHcU9yM2E3MEJYWEh2WDNPV1JPRUV6ZWd4a3dSVWthOVJSbjhkcUtkanktbjlPb0E4Zi1SZ2piVWRmdjFTakk0d3o2YlJ1MlJSQ05iX2xkcnZmV2JaWmhHcHJ0YjZINGs3ZG5aZG9oVHc?oc=5",
    "source": "hotelbank",
-   "published": "2026-09-23T21:04+09:00",
+   "published": "2026-09-23T16:00+09:00",
    "summary": "",
    "categories": [
     "okinawa"
@@ -416,16 +436,6 @@
    ]
   },
   {
-   "title": "沖縄のホテル客室数ランキング2026｜1位826室、300室超34軒を圏域別に",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUElnam9xVEs3SXNuOWVBNzNndWh0ckc0eE4wcmZjT0lTNldFSU40NVZWc1FJQzdrN1dPdkdjSlYxaTZYRGJUM0lyS1l4RFhLa1g3d1d3NS0wYVhwSnU5Vm9wa2ZUNkgzZG0wTnYxZ1JMUDdqaGdwNHA1ME5xQkFLd3VTUjQwUQ?oc=5",
-   "source": "hotelbank",
-   "published": "2026-09-14T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "ホテルブランド専用ChatGPTアプリ、構築・運用支援を開始 — メトロエンジンが発表",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSlNnVDJUTHhTcWlZV19ZRW1WVXdQeUE5TG92Yk82M2k4cnl4ZHkwVU9ZN3pzRVZVaUJTM3hNMGVveEJJV0s4TGFOaS1Bc1k0MWZzSVNCbllscFFaZFRJZ2k1VkVxY0toelowZ2VESnRybldRekh4N3lGZXV3dWFYVThlZXVvSGZFdnJveXVkUQ?oc=5",
    "source": "hotelbank",
@@ -433,6 +443,16 @@
    "summary": "",
    "categories": [
     "dx_ai"
+   ]
+  },
+  {
+   "title": "沖縄のホテル客室数ランキング2026｜1位826室、300室超34軒を圏域別に",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUElnam9xVEs3SXNuOWVBNzNndWh0ckc0eE4wcmZjT0lTNldFSU40NVZWc1FJQzdrN1dPdkdjSlYxaTZYRGJUM0lyS1l4RFhLa1g3d1d3NS0wYVhwSnU5Vm9wa2ZUNkgzZG0wTnYxZ1JMUDdqaGdwNHA1ME5xQkFLd3VTUjQwUQ?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-14T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
    ]
   },
   {
@@ -503,6 +523,16 @@
    "summary": "",
    "categories": [
     "okinawa"
+   ]
+  },
+  {
+   "title": "ブッキング・ドットコム本社でAI戦略を聞いてきた、旅行全体を起点に再設計へ、旅行者のAI利用89％も「完全信頼」はわずか6％を受け",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52aHpkaXdud1VhQjNnUXRtalFiRmRrYXBpR0Y2R1pMMVREYmhKUmFfYXVhRTQ3eXIxWVJXa08yazZoZ0tYam0xV1gxUlNFTWt5RXREdQ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-09-04T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
    ]
   },
   {
@@ -676,6 +706,16 @@
    ]
   },
   {
+   "title": "グーグル、経営破綻したスピリット航空の事業データを16億円で取得へ、AIモデルの学習に活用",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzaXBJclowM3QwZ29vTWlvSFVoSmhJaE4xX0wwQlJfc2hSNUc2MmtKSERkS3JnT2VtQ3BiUUVMSG1Lc0hZNUJib1VoQlVyX3dYZW9jdA?oc=5",
+   "source": "travelvoice",
+   "published": "2026-08-20T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
    "title": "旅行者のAI利用に「信頼ギャップ」、53％がAIの提案を歓迎する一方、66％は予約代行に不信 ―エクスペディア調査",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80SXBkM0pPbEFPQlVEQnU4ZkJxaWN1VFh6a0JEMU9vQjVrZ01PSEcwVE5TTllTbkc0MXp4TktIOGFyN0lLdjBoM3VaZ2J3OHAxdXVnbQ?oc=5",
    "source": "travelvoice",
@@ -688,16 +728,6 @@
   {
    "title": "欧州の「AI法」本格始動で、旅行業界のAI利用はどう変わるのか？ AI生成コンテンツやチャットボットに透明性ルール、違反なら巨額制裁金も【外電】",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TTFVQWS1rVkMwQUtDemZLWWlqZTFNYW5sQURRSy1QV2hoU3lVMER3dkdwelQ2R0FmaHVSVGZvVEhxMlRkN0c0R0V4bEctUEJjczkzQw?oc=5",
-   "source": "travelvoice",
-   "published": "2026-08-20T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
-   "title": "グーグル、経営破綻したスピリット航空の事業データを16億円で取得へ、AIモデルの学習に活用",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzaXBJclowM3QwZ29vTWlvSFVoSmhJaE4xX0wwQlJfc2hSNUc2MmtKSERkS3JnT2VtQ3BiUUVMSG1Lc0hZNUJib1VoQlVyX3dYZW9jdA?oc=5",
    "source": "travelvoice",
    "published": "2026-08-20T16:00+09:00",
    "summary": "",
@@ -836,8 +866,8 @@
    ]
   },
   {
-   "title": "AIが変えるDMOの役割とは？ 観光の新運営モデル「デスティネーション・アズ・ア・サービス」（DaaS）が必要な理由【外電】",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tZ1lneC16clhTc3RaeVlMRENOOGxkdDBFWlVmOEJXb2kxMGZTdWpvbTBMcVZ5Znh0MmhzVVZIdEdCay05aTA1aDNMeHI0TWxRNVhsaA?oc=5",
+   "title": "大学生の約8割が海外旅行に意欲、経験の有無が次の渡航に影響、旅行計画でAI利用は55％ ―日本旅行業協会が調査",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iZjRiSkVrYnhfRVFSeVhVWGpfZ2pTX2p5ZjZ6TmhrYkZpaUd0NU5LRUx0YWVyMU1NWEI1VU5iRGRsNXRORmlZTnExV0lUWmJZQ3ZyYQ?oc=5",
    "source": "travelvoice",
    "published": "2026-08-04T16:00+09:00",
    "summary": "",
@@ -846,8 +876,8 @@
    ]
   },
   {
-   "title": "大学生の約8割が海外旅行に意欲、経験の有無が次の渡航に影響、旅行計画でAI利用は55％ ―日本旅行業協会が調査",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iZjRiSkVrYnhfRVFSeVhVWGpfZ2pTX2p5ZjZ6TmhrYkZpaUd0NU5LRUx0YWVyMU1NWEI1VU5iRGRsNXRORmlZTnExV0lUWmJZQ3ZyYQ?oc=5",
+   "title": "AIが変えるDMOの役割とは？ 観光の新運営モデル「デスティネーション・アズ・ア・サービス」（DaaS）が必要な理由【外電】",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tZ1lneC16clhTc3RaeVlMRENOOGxkdDBFWlVmOEJXb2kxMGZTdWpvbTBMcVZ5Znh0MmhzVVZIdEdCay05aTA1aDNMeHI0TWxRNVhsaA?oc=5",
    "source": "travelvoice",
    "published": "2026-08-04T16:00+09:00",
    "summary": "",
@@ -896,16 +926,6 @@
    ]
   },
   {
-   "title": "SQUEEZE、宿泊運営システムにAI電話応答機能を実装、AIのみで完結した問い合わせは約8割",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqRmVCTC1MRFktQ1A1dFVmT1M0OHo3RG5ndms5RzFEVXV0amxqUGlsMHFBNTZaM0ZueFZ3V3FNU29ESlJxUDE5emhSZFlwcDgybnBITA?oc=5",
-   "source": "travelvoice",
-   "published": "2026-07-28T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
    "title": "旅行テックの国際会議「スキフト・世界フォーラム2026」、AI時代の市場の再構築を議論、ニューヨークで9月開催",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2R3R6cW9uVFEyVUp1VEdncTZDRm81bnNoRnQ5OHo2T1c1ckttN3VmUUEya0Z1bVlFQlRWM2Jld1VUa1FLaE4zdHB2VVhxQjB4YjZvQw?oc=5",
    "source": "travelvoice",
@@ -918,6 +938,16 @@
   {
    "title": "日立システムズ、旅費精算を生成AIで支援、伝票作成や不正検知、国家公務員旅費法改正にも対応",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Kb3ZWcm40TnpfUU5vb3hCRElIZ1luT0tkZ3l3UFhoLUZXQ1J4MXN6WkJLVFNkSENFM1dGMHJMdU1la05zVy1aMXhyTTc4SWd4bjBPSg?oc=5",
+   "source": "travelvoice",
+   "published": "2026-07-28T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "SQUEEZE、宿泊運営システムにAI電話応答機能を実装、AIのみで完結した問い合わせは約8割",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqRmVCTC1MRFktQ1A1dFVmT1M0OHo3RG5ndms5RzFEVXV0amxqUGlsMHFBNTZaM0ZueFZ3V3FNU29ESlJxUDE5emhSZFlwcDgybnBITA?oc=5",
    "source": "travelvoice",
    "published": "2026-07-28T16:00+09:00",
    "summary": "",
