@@ -1,5 +1,909 @@
 {
- "updated_at": null,
- "sources": [],
- "articles": []
+ "updated_at": "2026-10-09T12:30+09:00",
+ "sources": [
+  {
+   "id": "honichi",
+   "name": "訪日ラボ",
+   "home": "https://honichi.com/",
+   "direct_feed": true,
+   "new_items": 12
+  },
+  {
+   "id": "hotelbank",
+   "name": "HOTEL BANK",
+   "home": "https://hotelbank.jp/",
+   "direct_feed": false,
+   "new_items": 29
+  },
+  {
+   "id": "travelvoice",
+   "name": "トラベルボイス",
+   "home": "https://www.travelvoice.jp/",
+   "direct_feed": true,
+   "new_items": 53
+  }
+ ],
+ "articles": [
+  {
+   "title": "沖縄15離島の観光活性化へ、ポケモン「ガーディ」の現地限定ステッカーで来訪促進、新たに9島が参加",
+   "url": "https://www.travelvoice.jp/20261009-160600",
+   "source": "travelvoice",
+   "published": "2026-10-09T11:42+09:00",
+   "summary": "沖縄観光コンベンションビューローが、おきなわ応援ポケモン「ガーディ」のコラボステッカーを沖縄本島周辺の15離島で配布。新たに9離島を加え、収集目的の来訪者増加を目指す。",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "冬季誘客コンテンツ充実業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qY0tBbnN0NE1jQmk1Ry1xXzhGczRlYVFWUzBlNWphTEpRZGtteEJ6NXhHajIxeURidTVVcUJhRUJpNkp6RG5vNmRWZ0p2ZXEz?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-09T11:09+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "ファイターズ、AI旅行予約サービスの運営会社と資本業務提携、北海道Fビレッジへのインバウンド誘客を強化",
+   "url": "https://www.travelvoice.jp/20261009-160652",
+   "source": "travelvoice",
+   "published": "2026-10-09T10:50+09:00",
+   "summary": "ファイターズ スポーツ＆エンターテイメント（FSE）は、AIワンストップ旅行予約サービス「TripToJapan.com」を展開する高輪トラベルグループと資本業務提携契約。Fビレッジへのインバウンド集客を強化していく。",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "Airbnb、知人との旅行共有やAI検索などの新機能を追加 2026年秋アップデートを発表",
+   "url": "https://honichi.com/news/2026/10/09/airbnb-2026-fall-update/",
+   "source": "honichi",
+   "published": "2026-10-09T07:00+09:00",
+   "summary": "Airbnb Japan株式会社は10月1日、旅行の計画や現地での滞在をサポートする新機能を盛り込んだ「2026秋季アップデート」を発表しました。 今回のアップデートでは、知人との旅情報の共有機能をはじめ、 AI を活用した検索やカスタマーサポート、現地での各種 サービス 拡充、ホスト向けツールの追加などが発表されてい…",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "日本への入国・帰国手続きをデジタル庁が解説、入国審査・税関のワンストップ化や免税リファンド方式への対応など",
+   "url": "https://www.travelvoice.jp/20261009-160578",
+   "source": "travelvoice",
+   "published": "2026-10-09T00:27+09:00",
+   "summary": "訪日6000万人時代に向け、デジタル化が進む日本の入国・帰国手続き。「Visit Japan Web」サービスを軸にした審査・税関のワンストップ化、免税リファンド対応など、デジタル庁が業界向けに実施したセミナーを取材した。",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "ご当地Suica移行に伴うGunMaaSプロモーション業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92OS1Ed2dyalNQYnpwbjlyTnN2TmFNeFc1QmtoTzF1U21LOWVfeklORl80blJpLTVKLUhjYll5UGx6cUlCTndtV3FZSFE0UFlR?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-08T14:49+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "ベトナムにおける青森県レセプション運営等業務に係る企画提案の公募",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1enZLNmpXTXpLS25FcEVMSzJaWGFHdWJraGtfckVHRk5TQjJhaWFNemVhWVU5am5IZnhENWx4bVlnNUpYRDV3b3BELW9VQlhK?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-08T14:21+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "福島県観光地実態ウェブ調査業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6dWQ1T3B4UmE5MTdKaURUNDJlSmcxd2w4WGl2c0pnZVR6Z18xWWFPclg5Q3NHUW43OVNYM0ZwM2FBdXBLaXZ3RTl2XzJwcEFl?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-08T14:21+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "冬・春のひろしま観光ブランドプロモーション業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlcEhMMHVDLWR0aTA2RjZIMjdSVXdONmJtZmxnVWIwckJ5ZXdjeWtEZmJnaFhzclVzbm5qS2JvbTJ3XzBiVndjNGI1Rk1uT3BJ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-08T14:21+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "冬ダイヤ2026の増便を座席数に換算 — 成田1日592席・那覇242席、9県の客室と受け皿試算",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYlo1d2U4X2VWaTJCT2ZZUGswVTg3V0pJeDJBWFNGTmJ0WnlRQXAzR3RoM09xcV84UUtIQ2xTR0tod3VOUERzeTQ5dE1mQ1RncFNscjJZQ1djb3B5bVlMbkdMY2xTb1NSdE9qaG5BYmthOHNXc2MtYmcwSWVMUXZIX2tWcnN1OTRnVzJVMUdvNFp0R3hxV2FZ?oc=5",
+   "source": "hotelbank",
+   "published": "2026-10-08T10:58+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "歩行支援ロボットで高尾山登山、東京科学大学とスカイツアーズ、足腰に不安のある人の観光を支援",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yUGJxSkxHUUhfb1FOQ1pTLUxtLTEwVkhTaU1NRHNZbEJUZUhRcHNpSXlEbXJSRWg1VnVncWxMeDczY01BNlY1X2xVYjdfb2t2TWJsSg?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-07T17:39+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "ロンリープラネット「2027年に訪れるべき場所50選」 日本からは沖縄・東北が選出",
+   "url": "https://honichi.com/news/2026/10/07/lonelyplanet-best-in-travel-2027/",
+   "source": "honichi",
+   "published": "2026-10-07T09:00+09:00",
+   "summary": "英語 圏を中心に支持を集める旅行 メディア の ロンリープラネット は9月22日、「BEST IN TRAVEL 2027」を発表しました。 このなかで、「2027年に訪れるべき場所50選（50 Best Places to Go in 2027）」として、日本からは沖縄と 東北 が選ばれています。 関連記事： 世界の…",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "豪州市場向けOTA活用インバウンド誘客促進事業業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBVnQ1aC12OEZRS0pHRkUxanFycGltTmkyUGtkTmRiVnF3aWprNjJvWXlHTEFlQnFMRE1DSzVMVml4QmU4RHhkcWdtRFY3RWJ1?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-06T13:12+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "2027年度鳥取市グローバル人材育成事業、旅行代理業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MT0pxZDB3MlZwT3hYOHV3R1BLQ0VUUm5kUVMybWdacTdUNEo5ZUVGM3I2cUFLTXV2R2tzZS1ZNUw3MWMwSUVERjFKMUpqOU1w?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-06T12:54+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "次に仕掛けるべきUGC戦略 ~バズるUGCとAIに読まれるUGCは違う~",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95V2wzblhTR1VuSWs5VmN5WVp0QlFuczRaeF9oLXExMUJfZHJCdnVlSnVIUm1SVndhLXhoTmF5ZnBVQzU4SG9pd01QUnlSR0JWRWo2NUstTWRkb1psVkJGdWNmb1VRZFU?oc=5",
+   "source": "honichi",
+   "published": "2026-10-05T19:15+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "ブッキングHD、新AIアシスタント「Lola」始動、ホテル・飲食・体験の提案から予約まで、会員向け特典も",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhbFdETnR6Z3lhWElmbHVIRXF1QW4yZWYxSXpTX0dMdXZUVTZhT3FsM3FDZVpoc3NZQlhyMDM5eEtsU29iNEZNdTRlV2FiZUZSdWlLcg?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-05T13:48+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "中津川市観光マーケティング基礎調査業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTb0V0WFg5RGVEbmtkOVZWUWEyVXdpdjQ4UVdaOXR5MDhxY3BKbzlyVm10RTYxVy1ybWd1WGlDa0FHQ0x3RklMQ3Y0RUJRQUdG?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-05T11:39+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "エープレミアム海外プロモーション実施業務（シンガポール）に係る企画提案の公募",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xQ2ZPMHlPb0pKZS1aOWdleXk4dmdpZmNfU245dUFRN2tVc1JvSno5ZG5ReVZIb1dVMGJxYldENWsyWi1kM1VwQm9WLXRnLTZJ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-04T00:40+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "沖縄の10月三連休、最終日はリゾート82.8%・ビジネス75.9% — 初日との落差15.7ptを残り12日でどう売るか",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUktENlBRaWxRWGhKOC1PM1JhSk12V1BzZzJQR0tSOXdmWVpWRk5nMnJ6TUZyaVN3M1BieWQ2NzBaTlNTQ2tjTDhJME9HUWp3WF9tZFdHT1hxelVVc2xKZm9NN2VQdVRvcnl1eHp2RTN3cGZUOERWeEtUSUpmb3pNNWw5SlkteVVrRmxQSkRxbXB0WWtzV2phRm5oVXhnQWdxUm9YcHJoMUYxbVFMTEE?oc=5",
+   "source": "hotelbank",
+   "published": "2026-10-02T11:09+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "ブッキング・ホールディングスCEOが語るAI戦略、5つのAIプロジェクトを同時進行、B2B再編にも言及",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yT0JaN2ZHV0dWc0JkTUxlNzB1WncyVkdmWDljU1g1WmM0ZXluWUdoWHhLRlREaDg5WC16MFI5OVQwQW1EaHpIeUhVdk5zXzkwX3lEYw?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-01T17:06+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "AIツール推奨店への来店率は60%！訪日ラボ、AIツールが飲食店選定に与える影響度レポートを公開",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wQVlzeU5CVVlCVG1zZVduZFVmd08wcEpuLTBheHBiWkF6ZUlxWEdUTlpjYmhFNi1CX2RncHl5bmJ4djdiakN2SVFCNzhGdkJhWXFMZG9oSkRFZnpWS1J3SnBfVEpQczZiei00cFFB?oc=5",
+   "source": "honichi",
+   "published": "2026-10-01T12:01+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "REIT公表8月、大阪は稼働93.5%でADR−29.8%・沖縄は−9.9% — エリア差を推定成約ADRで読む",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM2ZRb2o5bzE4LUljTTBGZkJkSnZCWXY3MmNYQWFqMk0xZ0VoNXd2M0M5Z2NJRUJtQWstTWpCemRtUE9nc1FBUkN4LTFPbDdSS1VybmFWUWQ3UVRqVzQ1SFNZaWR5WDZCOFhHX2tRVzJ6d19jMXVVNEFJRWk1SExNWGwtZktUbG9NWnc?oc=5",
+   "source": "hotelbank",
+   "published": "2026-10-01T08:08+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "ITBアジア2026、AI時代の「人間中心の旅行・観光」を議論、10月にシンガポールで開催",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1TFpJam15MzlhZmkwaDhWRzFFYkxnOVdZR2xZNFNYS0wtelJvaF9NRE50SUl3NzdMemhOeXkyX1ktMExVU3lKRWlkN3RsazVJblo3ZA?oc=5",
+   "source": "travelvoice",
+   "published": "2026-09-29T11:10+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "業務改善助成金2026の締切は最短9月30日 — 宿の47都道府県残り日数と上限600万円の1室換算",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWkYtY09VTm9NY2hvalQ4M0NPUHlobnM4RkJUajBMZ3Bna2hIWndISzhFYWMySFNyWGxuYjJMYkhzNzJld0F4WTBaTXE5bzZ6bEF2N2V5WFFhVm9QNXdOcVdKYzI1cTRJTmR1UkJaRmN3eUNOTkRpajBvcDRBQnRxZktPcWVzMTB4dGJQeFA0VVhXdGo4dTlR?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-28T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "2026年開業1,592施設、半数は1室の宿 — フロント不設置の3要件と省人化型の新規供給",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRkxOUlBvUEtsUzNQQkxVQ1ZVOXpnc0NzMjh6WDc5WkRnV09iRGMwenhvbTU5OXpCbkdtYzhqVnFyR0RkdkdjcjZKS2lia2ZWOWVlUG40SWNud3VPSEVBWjZIMk11cjNtdGEwSkVmWFIxaTRmTVJmTkUxN2llNDYyaENrUQ?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-28T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "台湾双十節×韓国ハングルの日、10/9〜11の宿泊需要 — 沖縄・福岡の金曜泊が前後週比+2pt",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRllsWGR1aWtHYlVBcUxSSW12ZV9sU1JjOUFDOHRTSk9DZkdmbEVYcndRUWI1NWE3dUZlZGFBbGFmbWxQSGpXbUZGSlEzME9HQmRPeFFTaHZFbXA1dmhMVk83Mm13bUZiUkI1Ym9wd25MMnZibzZwQzB3cWJ6SkZOU2ltZw?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-27T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "修学旅行の時期は10〜12月に64%集中｜京都・沖縄・広島の平日稼働と受け入れ余力2026",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR24yY25FbHJFQkhtQ25QZHNRTzlzams5WXZNVy1jdTk3S3FGeEJlVWR5U2pLdHY0dFU5VDhkWGp4dTh3cGJibEZ3d1lDMnhodXBhWkYxcnRqbjhmbDB6TXg3YUlvN2hDRjIxTE1uZHlLLTc2YmJsZnd3T3NJRjJndERSZWtDZGpvNkpwUVFkUjBWZTdTR2l6bmY2eTFhcTByT3dYSDd1NTAtNWJW?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-25T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "ホテル客室数ランキング2026｜全国TOP30・沖縄TOP20と大箱が立つ4条件",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xeGQzdGhHcU9yM2E3MEJYWEh2WDNPV1JPRUV6ZWd4a3dSVWthOVJSbjhkcUtkanktbjlPb0E4Zi1SZ2piVWRmdjFTakk0d3o2YlJ1MlJSQ05iX2xkcnZmV2JaWmhHcHJ0YjZINGs3ZG5aZG9oVHc?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-23T21:04+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "沖縄のリゾート・シティ・ビジネス3業態比較 — 推定成約ADRの季節形状と10月連休のブッキングカーブ",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcm9nUGVFbzlBNlZuZFM2YS04cFA0cEdrdTBleW4xVnp0dG12LURHQ2NZR1FSOTEzUkk1QXhPY1RRN0gxWmlKbVUxLU80cTZxMk1pTjVxcE9iNDlCcTdPdEtoZDdOTG5TUkJWV1FUYWwzdFVQUnFiSXV6a1NYRWNDM01sV3Z1U1JlQi1ZVXJpeFlkQQ?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-21T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "リニア中間4駅のホテル投資｜駅5km圏46施設3,943室、2036年開業へ用地公募と必要ADR",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYXdYeUhjU3FIQkJOcWNFT09xOGtKNVdLVE5aeGxBUFVRMnlGNnpDQmFTRC1yQUp0QnFRbHJNcjVSYTZQdWtlcFhWRnhndnRjVjZrNDMtRWtiV09vV3RPVUVKSUhKWk5ZSlNubG9TcUZZT21KZHZmVks2SGF2YmZxWHI4VS16YUJXZzFIZEFoU2xSUQ?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-19T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "ジェットスター・ジャパン、那覇～高雄線を12月6日に開設 同社初の那覇発着で週3往復運航",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TQzUtQnRjYkpVYVVLajJwVjJDOTBVa3VKbmhTaHBNdVVQQTAwNFd2TUZpSHFTUk9FT3BzMlBXZXhMQTVRMWlJaFhvRFFHSnRuNk5mN2NmOWdPSGlNUzR0VWtEcy1Odw?oc=5",
+   "source": "honichi",
+   "published": "2026-09-16T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "省力化投資補助金、ホテルの3年回収ラインは68室→34室 — 30/100/200室で試算",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcV9fMnhqVHppTzZVUzRGOXQxV3dGb0ZQSGJEYjVxM3ZxOTBYVmxFaVF2bUE1V3pKU3BlT0RyWmVsSnhKdkFWeHQyX3pvM3ZqQV91aUcxSVVqWTg0UVhpMnJjVkpCMy1hbFh4X0hCeS16aVB0cWNoSXJPZ2dxVnZLUkxjZTA5bFpscktscXlldVpoalE?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-16T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai",
+    "subsidy"
+   ]
+  },
+  {
+   "title": "ホテル客室数ランキング2026｜日本一は品川プリンス3,560室・全国TOP30と沖縄編",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11SDFLcnhaUkhodUYzMzFJdVpKQUg2SnROa2FCMk9USVhEeFh6TU44ZGdFUGxBN2hlT2ZXVlVfME9xMXRtZ1JraEYxX0RtTk1mT2V4WHBQLTBzOG1QUEpQLUxXUi1fMm9NekNwTXo1THVXU2s?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-14T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "沖縄のホテル客室数ランキング2026｜1位826室、300室超34軒を圏域別に",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUElnam9xVEs3SXNuOWVBNzNndWh0ckc0eE4wcmZjT0lTNldFSU40NVZWc1FJQzdrN1dPdkdjSlYxaTZYRGJUM0lyS1l4RFhLa1g3d1d3NS0wYVhwSnU5Vm9wa2ZUNkgzZG0wTnYxZ1JMUDdqaGdwNHA1ME5xQkFLd3VTUjQwUQ?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-14T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "ホテルブランド専用ChatGPTアプリ、構築・運用支援を開始 — メトロエンジンが発表",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSlNnVDJUTHhTcWlZV19ZRW1WVXdQeUE5TG92Yk82M2k4cnl4ZHkwVU9ZN3pzRVZVaUJTM3hNMGVveEJJV0s4TGFOaS1Bc1k0MWZzSVNCbllscFFaZFRJZ2k1VkVxY0toelowZ2VESnRybldRekh4N3lGZXV3dWFYVThlZXVvSGZFdnJveXVkUQ?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-14T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "沖縄の返還跡地1,000ha超は用地になるか — 浦添4軒43室・宜野湾7軒583室",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFBObld2WmFudnlsazhxZ1U3eHNqaVVJRTV4bGpWclo3T1BOZWlQQkh4RDNTUjBjc241bUgzdFNGOTVpTEZsRWpaalVrRnFQQWs4YVhGa191SmZITEtwX2FiNTJQQjF6bjNwVVd2c1dScWkxd1hKc0M4QV9mUVZWTTY3UTU0Y3VNNnpabA?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-11T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "【取材】なぜホテルの客室に“森”をつくったのか 沖縄・EMウェルネス「ミ森 -MIMORI-」誕生の背景",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGTlljbWlHajlodkt3QWdoLVJWYm1DaUdDTGpkc184NlBPZXdhNEo1dnZhSkhYNW9Rc2NhQjN0ZFpqdGs5dTItaGNpYWVvcDNKWDJ0T1NhVEd4amRWQzRPYVJkaWI1VXpsZ3F6R0JJVk9SWXNDYTdZ?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-11T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "海外富裕層向け旅行のエクスペリサス、総額4億円の資金調達・融資枠を確保、財務基盤の強化とAI開発への投資に充当",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Qd2p0Q1F1c2tWellhVXhOTTRIdmdzX3pfZXlubEJWS1gyTzR4TTNGd0hNRmZFelVLVmFEN0N6UE9mS2Q5dHNIbzEzWkVSYU5Veno3Zw?oc=5",
+   "source": "travelvoice",
+   "published": "2026-09-11T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "台湾市場向け旅行会社招へい・商談会実施事業業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uNGJKcmdPakpRcG8zWllJM1A1YnloTDZBYTZoN2lrYUJmaGRteVd4eGY4c0VHdVZNMmMzREVGR0h6eEJuS05rTm9IM2IzZGRF?oc=5",
+   "source": "travelvoice",
+   "published": "2026-09-10T16:52+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "メトロエンジン、宿泊施設の口コミを9分野189テーマで分析｜AIがプラン名称の改善案も提示",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeEkxTnh2YnJWV3dVaE84RFhZb2VOU3M4RFhPb3V0SkJRRGtMTU43bE9KaWcxdGkzSUdtZm91QktqeXliXzNaaS1qYms3MllpQTQ2Wm41TGFLanVPclMxbklFZmk4WlM2U0R1WDk0OXdEVnRIVU4zTldydXdFMThHMDJB?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-10T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "沖縄のシーズン逆算カレンダー — T-45で決め、T-30で動かし、T-14で諦めるを業態別に切り分ける",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWVRKN3pXY3E0RzJnZjlGNE9EbC13YVFyWGJkaWFhU0hWb1lJeFJ0Z0NndTRJVHB0aXhaVWhsYUJNSW5QMThlMmZBZVV2Q0xOWEQ0c002bVdiU0llTTRoR0hrcTBEVDlFOU5BYzI1V3piSGpzRjFuT1JTYTlSOWxpYURKYlktQQ?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-09T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "中国客半減でも宿泊費総額は+12.1% — 沖縄+22.6%・福岡+14.2%、大阪は-4.3%",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYzFiRWw0NWtJcHcwZmhPTW55SFNzX2ZPcnMwQ2pUeGJteWtWOEhBOWtiY1d1M2x4bGJIemFnUFZKUjFTSkRqNDFmdHEtb2pZOEhMUVRQWExzRko5b0pYczE0cUZxZVZxTjE5QUd2UTRFM3ZfbHVOdnFaVmg4eEdjQXFnay03azRJeG12UHJoWU4?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-04T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "オーストラリア政府観光局、「AIに選ばれる」観光マーケティングを推進、日本市場の成長に手ごたえ、2035年戦略で",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzQkY3eVNfNHg1VGtDU0lFU3ByVzIwdXN1T3pYMWNsZVo5YUp0U3N2VzJ1emo3RkNNOGtrOFdoOHRCTUc4eXFGNk5zZ2stbDJWNTlWaA?oc=5",
+   "source": "travelvoice",
+   "published": "2026-09-04T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "Google、AIモードに3つの新機能 航空券の価格追跡やホテル直接予約が可能に",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JMlZXTzBkOGkyZ1dSQkdSdjMzdFZiSVA0blBEc3gtOERCUkVmcWZjVU9HWTZXZDBUX1g3UjA1S3BsQm5pUk1UY1hWQ3JDT18waTBULUR3ZjdQUjc5SElmVUh1NFVjSlJKVWpmWHlqMURidw?oc=5",
+   "source": "honichi",
+   "published": "2026-09-03T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "九州応援割、発表3日で7県すべての土曜が加速 — 沖縄・山口と比較した実測",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRHZEZVllbUJXVTl6eWV2NFVyYmVhZFdOU2U1b2w3Vjg0ZkZ4emhpNzA3c21sMTg1Zldfb2lSdXM1REp4Y0JNcU1DWUNnSWZJanNKa1JMcElRVkVScHpqR3VCaTg2c2RudlVtS2xnaDR2Rzc3WEdrUFdONEVUejZTSWVXSVZKeTRCTHllQ2dnTjFvRHZtdzRB?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-01T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "LINEヤフー、AIエージェントの量産体制へ、旅行領域では観光モデルコースやおでかけプランに加え、海外旅行特化型も",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xR1N2Z0dKYnFUT0J6UWNaa2dOUURIRTQ4TFc1U0hCVUYzSWRlVzE0RWZMdUJEX2tWTkk2QWFlbVp3a0J2WUhDTzNYLTNRdDRVNmJkaA?oc=5",
+   "source": "travelvoice",
+   "published": "2026-08-31T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "グーグル、ホテル予約を「AIモード」で決済まで実行するサービス開始、米国で、エクスペディアやマリオットなど参画【外電】",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EMWI2dGJXLS1ENWV4M3JYUHFIOTg3QUc3bFFhREhKNlpuc1NYRHNWa1hUcEpYNDQwdzFNMW1RMnlwQXIxc0praUxnYVhvMEl0dEQ1Ng?oc=5",
+   "source": "travelvoice",
+   "published": "2026-08-31T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "楽天トラベル、自治体の旅行支援クーポン発行予定が2.2倍、重点支援地方交付金で拡大",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83ei1xaWZ1d3AybnNkUzJMMTdnTGlpc0JUNUdHeWk5N2JCcjFVcXdlbHBlVXlYUEp1dFlnLXItZkVsZllBRU02QlBzSDFHR2dTWnU3MQ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-08-31T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "インバウンド向け高付加価値コンテンツの造成・販売業務に係る企画提案の公募",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wY1EzZ0V0ZkRoMEFyWUF2YWE5R01rc3d2dWp0Vl90X0FZaE5PUUp3Y3hZRU94OFg3TGlDTk40cm5LNFFBVlJxQ2w5WHliZXUy?oc=5",
+   "source": "travelvoice",
+   "published": "2026-08-31T11:23+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "デルタ航空、AIコンシェルジュを全会員に拡大、再予約やキャンセル、手荷物追跡にも対応、日本語でも",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LQ3Exa1E2SXRrd204cFdaZ3EtdEdhZEVRNld4SEo2bVV4cHdhV0czVmFkSlNpRnltMkh0QmFXTERlb1FqSFBGaUZ2Vkh1VnY0bHNnMA?oc=5",
+   "source": "travelvoice",
+   "published": "2026-08-28T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "マリオット、沖縄初進出の中価格帯ホテル「シティエクスプレス」、那覇に全215室、2027年春開業",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tZGlOSzFpdzlsM0FqTURPbWpJMWIxeTB0N1kwdk5haVk1TmU0ck5qSVlVMXZULTNhU2xHNEk3WU9CTG5QOUk1ZlNPc09nRHhGcUJMOQ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-08-27T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "キヤノンITソリューションズ、ホテルPMSで「シンプル画面」提供開始、かんたん操作でチェックイン・アウト業務",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rQ1c1X2hyYTJwQ1RidEIzYkhyVi1lMXE2U0J3bmRobmNUOG43NlVuMlpiNmlqRmNOSVNTU1FFYkVXUWx3TnBTVWpQYWIwaFpnZ0xNMA?oc=5",
+   "source": "travelvoice",
+   "published": "2026-08-27T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "HIS、旅行のプロ275人の経験知を「AIアバター」に活用、現地情報と掛け合わせて韓国旅行を提案",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Td3A1ZkREbFo5YWxuRktONndZN1ZCTzVhcHBNdTlOcXB5QzZzY1doaXNmRFdKRGtiSnVXSU54Q1J6Q1FKNVphYVZCbl9weEJacEUzZQ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-08-27T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "ユナイテッド航空、米国本土から沖縄へ新規就航、世界10都市に路線拡大、過去最大の国際線拡充と新型機導入を発表",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RdjBIYW1RVmZFZFNSSWwwU0ZET1pBSE8wQVNpN2l4X2JTLWhNZVd4d0thRk5EckhySVd0NldnczZVVDNVX3BxWkVMN0VWSXhsYlZONQ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-08-26T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "ホテルリゾネックス名護に何があった？倒産の経緯と現在【負債48億円】",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OZW94Uk84OXV0OXdfaE0tWUl2eUFuekVCWThTZGs3eUZLMkRMSnZ4ZXdremppRVZWc0NHM3lfQTJyakw3LWxMMXJ4c1FobTdDV2FqMlZQZ2Q4TlY1YllwZg?oc=5",
+   "source": "hotelbank",
+   "published": "2026-08-21T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "九州応援割、詳細は8月28日に発表予定 — 過去制度の補助率で読む実質単価と宿の準備",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV1dkekhvTDRYU19GMTZSb01hWTh5ZWdURFBlQjdaeUZBMTM0MGc1NnNYUl9uQllqRDc4RDVzV1JiMTdsTW1KRk03aWdmenhUbEJmUTVVVnBvRG5JWHdZWjRpdEszbFp5VnlkTHZ1eFJXZ09IZGhHWU42Z2x2ZWlRWQ?oc=5",
+   "source": "hotelbank",
+   "published": "2026-08-21T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "Booking. com、LGBTQ+旅行者の動向を調査 情報収集にAI活用も進む",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5dV83ZFZNY19OUEV4cm1uRVRldGpNWldPM242T213RkgtMHZHaVMzSE1sVFE1QVJueDVnOUYtQU9yeHJNTkRfd2ZmTTlYandzM2YwTVNnbjJHNm84RVBYQnRFNFJsQjVZejBDMQ?oc=5",
+   "source": "honichi",
+   "published": "2026-08-20T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "旅行者のAI利用に「信頼ギャップ」、53％がAIの提案を歓迎する一方、66％は予約代行に不信 ―エクスペディア調査",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80SXBkM0pPbEFPQlVEQnU4ZkJxaWN1VFh6a0JEMU9vQjVrZ01PSEcwVE5TTllTbkc0MXp4TktIOGFyN0lLdjBoM3VaZ2J3OHAxdXVnbQ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-08-20T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "欧州の「AI法」本格始動で、旅行業界のAI利用はどう変わるのか？ AI生成コンテンツやチャットボットに透明性ルール、違反なら巨額制裁金も【外電】",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TTFVQWS1rVkMwQUtDemZLWWlqZTFNYW5sQURRSy1QV2hoU3lVMER3dkdwelQ2R0FmaHVSVGZvVEhxMlRkN0c0R0V4bEctUEJjczkzQw?oc=5",
+   "source": "travelvoice",
+   "published": "2026-08-20T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "グーグル、経営破綻したスピリット航空の事業データを16億円で取得へ、AIモデルの学習に活用",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzaXBJclowM3QwZ29vTWlvSFVoSmhJaE4xX0wwQlJfc2hSNUc2MmtKSERkS3JnT2VtQ3BiUUVMSG1Lc0hZNUJib1VoQlVyX3dYZW9jdA?oc=5",
+   "source": "travelvoice",
+   "published": "2026-08-20T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "アパホテル宿泊者にAIでタビナカ体験・飲食店を提案、JapanTicketらが予約までつなぐ送客モデルを検証",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnTlI0R2VNOUhOYUJUVWF1eTg1QnNqdkphUHRZTkhPVGlJRDRmS3B5MU55VTdtRGV1OE9oaTdHeGg4M0xOOElwR0liZVE2Qm9SQnJmRg?oc=5",
+   "source": "travelvoice",
+   "published": "2026-08-20T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "アゴダ、客室選びをAIがサポート、検索条件や希望からおすすめプランを提案",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12SVp2WmkyMy04amN2Qm90SnMzZmVRTG9FN3VhbWt5UmNlNmE2VFpXZ2xzUnd4UGl2dDJ6RUJtLVB1ZHIzQmtENnAtOVBZRzBpdGlmQQ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-08-18T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "Z世代の富裕層旅行者、ストレスない旅を求め自分で計画・手配をする傾向に 23%がAIツールを活用（マリオット・インターナショナ",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMQlVNZWk2eXFTSmhyRUJ5TjAzcVh5b21sLTdLZlVVNmV4TWpaeVBYTE9XSXY1dnZOMld1LWp6MUJkX1RvblE4RWpseHpUUng5eTk2YzN2bTFpZGpzcWptZmFxQXNYcG9SZWs2MWJyNHlUdw?oc=5",
+   "source": "honichi",
+   "published": "2026-08-17T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "ニュースアプリのスマニュー、地図アプリを提供開始、AIで全国のスポット情報を集約、街歩きの見どころを提案",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmSTFSeTFqRGQ1Q1g2NWxnaVlBMWQzSV9hTVdmTTE0amVOTFRjdjdWQ3JMREU5UDRLU3dSWDAtUlBlcFd6cGZ6X2RzdGtYbFAtN3ZSOA?oc=5",
+   "source": "travelvoice",
+   "published": "2026-08-17T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "沖縄の新規供給2,842室を業態別に割り戻す — 在庫比はビジネス0.6%・シティ22.1%、推定成約ADRは7月確定で+7.6%〜+9.9%",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNllYOExwUmZXTHBSSlhwUnBNekxraEgwSjZHWG9jZGtWb2xvemlpRFMweXdTRklERExrbjRMWEgwMVdzeDZiaUR1RklhZU45MV92SzV6R1NsdURFRnpraVN2UUp2OFBBY3FuUWd0U2ZYejFUM0wyM2JieEw4ZVRtbFNkTVNpbDlnR1E?oc=5",
+   "source": "hotelbank",
+   "published": "2026-08-16T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "家族型AIロボット「LOVOT（ラボット）」のオーナー向け1泊2日のオフ会、製造地の静岡県伊豆の国市で",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPbU9NVndVUnhySEY3SS1PN0s4Z3FqTVAwZ2JSOTJsSlBuaERnM21yYS1oOGZ4ZTMxRjhGd21OWi03QXFUTFd2UWxSWTlyUW80QXh3ag?oc=5",
+   "source": "travelvoice",
+   "published": "2026-08-14T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "Googleマップ、AI連携の新機能「マップに相談」日本で提供開始、旅行計画やリアルタイム交通情報にも対応",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45T0lxY3B6NEhyNzBhV1dyNFAya3Bmc1hLM2FyemZtNkZwSnRGRWtGRXo4c0F6S25yWVVzYVFkRXpTdFlqa2I1bXlSd1FQd3dvQnc4NA?oc=5",
+   "source": "travelvoice",
+   "published": "2026-08-13T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "沖縄リゾート176施設の在庫消化を分解する — お盆と9月上旬で「30日前」の推定稼働率は3.0pt差",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeDAtRldvaWFnVnl4bmkwMF9aOHdCVi1FQXNwRXFYRkRNdnotN0k5YUFVcjZjMXhDSU1haVoxUEo3Yld6a2k5N3k4Ty14RTFVdFdRR0tabXAyQjlPaEs0aFhSTnp0NmtUWFhVc1JvQVYtQmdEaEltUC1NS3lWU0JIazQzYUo?oc=5",
+   "source": "hotelbank",
+   "published": "2026-08-12T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "秋の教育旅行ピーク10〜11月｜平日の価格フロアを5エリアで読む — 京都・奈良・広島・長崎・沖縄",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTGRHMGpYNm1qdF9RaDd1VnhOd3pxOVlTd0dQWXJsWkVhZDlqYXdoODBFNHptb0FreFc1azJOQldEZVQ4Y0pHYkhsLVFPUjlzSllMWWFvY3RfaS1OWlk5SHNyRTVxeGl0dFRvVmNkMFB3QURoUUJiQk9mQk1NZVd3NDItZGxOQ0hteWc?oc=5",
+   "source": "hotelbank",
+   "published": "2026-08-09T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "日本の小売事業者334社の「AIエージェント」への投資意向は97％、一方で消費者62％は「抵抗あり」 ―Adyen調査",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yWEtTdk50bWxlVEhZbzNoYkIwRGRfVnVBRUxyWmJhYnpKUEUxY2MtUGp3VU04UDctSFozNTRaZWxYcHIya3RGODBqT0VuS1RjMmR1Mg?oc=5",
+   "source": "travelvoice",
+   "published": "2026-08-07T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "「AIに聞いて宿を決める」時代の情報整備 — Google UCP・ChatGPT経由の来訪に備える3つの実務",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTjdRVWZkMnlEb05PYV9fM3ZWakgxVmhINGZfMG9KSnVwX0N2TllUTDdnejZ6QklKcFZqNVYxZTU2NkdnelBHalY2d3BFbUVqWXNtcjlWMVhhRFIxUzByU3MtbDdXUkdnTHZXdkhrNnVCWWpJQ0ZUUlE4NGVlQ3B6QjdOT3pPS2tIUmNSOEFWNA?oc=5",
+   "source": "hotelbank",
+   "published": "2026-08-06T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "沖縄の夏終盤ブッキングカーブ2026 — 9/5土曜の8日間上積みはお盆超え、シティ+4.7pt",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSzhNTXRPUXdVWUVXUDU3ZVZfd3RSUmlpTTRJaWc3UjBUVWVSTlNLNjlocTVVa0JOU2JEUXV5by1adDdybFNHRmxsOE5pcmhIS0pOUTNSWVJWcElhdUNXZUczSDVPRjdDaHFPclc3Wk5jVC05RHBuMnlhOHhjWENEZDlxWTQ2Sm5PMk95NEdiNWtZd2JBUVl6cWNn?oc=5",
+   "source": "hotelbank",
+   "published": "2026-08-04T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "AI利用率トップは「旅行」で35.3%、一方で影響度は平均並み、旅程作成や複雑な条件の宿探しで活用 ―読売広告社",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlNlBLckRoUml1UjNyTTZoZlRMY3Q4VFZtbTEwVHRPMnRqQnFRMVRRT0xCLUF2S2VSTUhIVTlOaE93a1NHWVZNX3RjR3l1MTI0ZjNLdQ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-08-04T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "AIが変えるDMOの役割とは？ 観光の新運営モデル「デスティネーション・アズ・ア・サービス」（DaaS）が必要な理由【外電】",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tZ1lneC16clhTc3RaeVlMRENOOGxkdDBFWlVmOEJXb2kxMGZTdWpvbTBMcVZ5Znh0MmhzVVZIdEdCay05aTA1aDNMeHI0TWxRNVhsaA?oc=5",
+   "source": "travelvoice",
+   "published": "2026-08-04T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "大学生の約8割が海外旅行に意欲、経験の有無が次の渡航に影響、旅行計画でAI利用は55％ ―日本旅行業協会が調査",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iZjRiSkVrYnhfRVFSeVhVWGpfZ2pTX2p5ZjZ6TmhrYkZpaUd0NU5LRUx0YWVyMU1NWEI1VU5iRGRsNXRORmlZTnExV0lUWmJZQ3ZyYQ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-08-04T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "LINEヤフー、中小企業DX支援の新組織、LINE公式アカウントとミニアプリで5万件に拡大へ",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CMEhVaU5idVZQNkxqekx6QjBLVVdITDV0LS13OERJT3h6cEJQRXFuQnowZjNXUXBYYXlUZjdVWlRmeFdnY01Kb2NjMjVIOWw4Sk1nZw?oc=5",
+   "source": "travelvoice",
+   "published": "2026-08-03T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "AI時代に人の心を動かすものとは？ 旅行と家族型ロボット「LOVOT（ラボット）」の意外な共通点を開発者に聞いてきた",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XWF9GTDlBa0w2Ni03TTJ6a3hiM2RIanQ1TFdBaWp1c3Q0OTBfcjA5YlNhUVJPeExBbmlUdDVSckFkRFlRQWI1amJZSXdya3hRMTJJeQ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-07-31T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "沖縄の宿泊税2%、実勢単価にいくら乗るか — 市町村別に1人1泊の税額を試算",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Sb1lQVFRjNnUzUXp6T2lTbmVpYVZVOXBjZ1ctaTNtNFdRS3JfYVd0NGhWMHNQek9OSHpwUVNnZTRFZ1R4SjFEUGFCY3ZxZC04SkcxVGRFQl9uVzdic3ZLaTExeWExSmhKMGI2Ql9HZmFvRjJYdUZIVXBR?oc=5",
+   "source": "hotelbank",
+   "published": "2026-07-30T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "ラグジュアリー旅行は「AI」でどう変わるか？ カギは置き換えではなく、「卓越した」サービス【外電】",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfeUZzQkw2cFlRWm9DSWR2SmJSQkdUREloR0xKUXd6NVJUSmtWUkNSOUxvd1BneFNnc1Y5ajlUaHlrRmhqTTZzODBEMlJJVjBnb1JuYQ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-07-29T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "SQUEEZE、宿泊運営システムにAI電話応答機能を実装、AIのみで完結した問い合わせは約8割",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqRmVCTC1MRFktQ1A1dFVmT1M0OHo3RG5ndms5RzFEVXV0amxqUGlsMHFBNTZaM0ZueFZ3V3FNU29ESlJxUDE5emhSZFlwcDgybnBITA?oc=5",
+   "source": "travelvoice",
+   "published": "2026-07-28T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "旅行テックの国際会議「スキフト・世界フォーラム2026」、AI時代の市場の再構築を議論、ニューヨークで9月開催",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2R3R6cW9uVFEyVUp1VEdncTZDRm81bnNoRnQ5OHo2T1c1ckttN3VmUUEya0Z1bVlFQlRWM2Jld1VUa1FLaE4zdHB2VVhxQjB4YjZvQw?oc=5",
+   "source": "travelvoice",
+   "published": "2026-07-28T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "日立システムズ、旅費精算を生成AIで支援、伝票作成や不正検知、国家公務員旅費法改正にも対応",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Kb3ZWcm40TnpfUU5vb3hCRElIZ1luT0tkZ3l3UFhoLUZXQ1J4MXN6WkJLVFNkSENFM1dGMHJMdU1la05zVy1aMXhyTTc4SWd4bjBPSg?oc=5",
+   "source": "travelvoice",
+   "published": "2026-07-28T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "国交省、訪日客のレンタカー事故対策を本格展開へ 新千歳・福岡・那覇空港周辺で先行実施",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VM0wwMGdaRklwRmtkN09VTWV0ejdpVS1KV0kwbDBic2NRdktyakJienZOZ05BVTdteldUZHZSZS1INnpjak94QzFITDU3anhaUVJLcnhHVlRPb2J2amtfQk9aN1VWV2FVVTVB?oc=5",
+   "source": "honichi",
+   "published": "2026-07-27T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "プール評価が高いホテル全国50選 ― 沖縄・都心湾岸・温泉リゾートの棲み分けを口コミで読む",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMWx2ejE3eGJ1UGoyeHdNRG9NV1U5djh1MzVwNjVScGJlRTRFQkpCTHBuRTYzblVWeDNaXzEtRmtYU09sazlvVEpfMTVPVElCNVJaeUtHR09Bb2ZmZVU3UGZBQmdiZktLZS1rWEFVb0lqdE1GWktvajk4S1lpQUx4Ug?oc=5",
+   "source": "hotelbank",
+   "published": "2026-07-22T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "【受付中】インバウンド手配の「リアルな苦労と解決策」、業務自動化ツールと予約管理の連携で実現するDX構想、日鉄ソリューションがウェビナー ―8月3日開催（PR）",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8ya2FrTVZyVFVJT0Q5WHlzeFBaVmtOT3pQaVNXUWstbERwMWZFdG1CdkpmaDBBTFNUdWdJQXBSa05tVllyM1M2eThvczBqU2pZeUh2aA?oc=5",
+   "source": "travelvoice",
+   "published": "2026-07-22T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "博多・天神でインバウンドに人気の飲食店、沖縄・静岡の人気宿泊施設は？",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BX1JINEF0aVEzRk1fQWpXQnlDdmoyVlVyN1lKS2VmOUhmcjlib09sVUNKcmlwRWFnZWtnVWtMcXQ2dEFiZjlETVROaFB2Rk1uZzRUUjdXd1JpM0MtNTdLcVBIeFNzOVl4d2FCQ3pqTQ?oc=5",
+   "source": "honichi",
+   "published": "2026-07-16T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "世界大手OTAトリップ・ドットコムのAI最新取組、ユーザーの予約までのクリック数が8割減、カギは予約時の不安を減らすこと",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12blRCdzQ5N0w1Qm84ejcyZ1B6SlZ1ZG5Sal84WTZEZWdyVmZaRVZYTmVlamVFdnFKcHBjSkxjWUltejRmUURvM0pMNUlEV292NmItRQ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-07-14T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "インバウンド向けの伊豆諸島ツアー予約システムが始動、宿泊や島への交通、体験を一括手配、東京都の支援事業で",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TXzVZc05XOXNjakxrME54eEp2eHI4SlVSMngtY1RuUVZOcFRTSTVFd18xTjI3ektDWkdWTWlnX3JqbUlXYkM2YTJMR0psdmFoYXk0Tg?oc=5",
+   "source": "travelvoice",
+   "published": "2026-07-14T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  }
+ ]
 }
