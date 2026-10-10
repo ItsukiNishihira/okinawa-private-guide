@@ -1,29 +1,59 @@
 {
- "updated_at": "2026-10-10T21:22+09:00",
+ "updated_at": "2026-10-11T06:34+09:00",
  "sources": [
   {
    "id": "honichi",
    "name": "訪日ラボ",
    "home": "https://honichi.com/",
    "direct_feed": true,
-   "new_items": 2
+   "new_items": 13
   },
   {
    "id": "hotelbank",
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
    "direct_feed": false,
-   "new_items": 0
+   "new_items": 31
   },
   {
    "id": "travelvoice",
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 2
+   "new_items": 63
   }
  ],
  "articles": [
+  {
+   "title": "沖縄の食事プレミアム、ビジネス朝食+12.9%・リゾート+7.4% — 単価が高いほど薄い朝食の段差、2食付で+19.8%",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdWJFOXA3d0xOYm9UZGFXcVdReXlnS0lnV0tqbFpjZjEzLWVVNHlTazNDODFvWHphWU45Vk1yRGRtajJhNVFNRDlueVNmdTJwMWluNkxNQ0tULVIwZFR1ZnctMXFMaEtQQjg5OEMtSlUwN3d4N0R0bWlmeXR3MmxYdVBwVTdSVUc2dXFObGQwaw?oc=5",
+   "source": "hotelbank",
+   "published": "2026-10-10T15:15+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "冬・春のひろしま観光ブランドプロモーション業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlcEhMMHVDLWR0aTA2RjZIMjdSVXdONmJtZmxnVWIwckJ5ZXdjeWtEZmJnaFhzclVzbm5qS2JvbTJ3XzBiVndjNGI1Rk1uT3BJ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-10T11:45+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "中津川市観光マーケティング基礎調査業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTb0V0WFg5RGVEbmtkOVZWUWEyVXdpdjQ4UVdaOXR5MDhxY3BKbzlyVm10RTYxVy1ybWd1WGlDa0FHQ0x3RklMQ3Y0RUJRQUdG?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-10T08:13+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
   {
    "title": "2027年度鳥取市グローバル人材育成事業、旅行代理業務に係る公募型プロポーザルの実施",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MT0pxZDB3MlZwT3hYOHV3R1BLQ0VUUm5kUVMybWdacTdUNEo5ZUVGM3I2cUFLTXV2R2tzZS1ZNUw3MWMwSUVERjFKMUpqOU1w?oc=5",
@@ -175,16 +205,6 @@
    ]
   },
   {
-   "title": "冬・春のひろしま観光ブランドプロモーション業務に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlcEhMMHVDLWR0aTA2RjZIMjdSVXdONmJtZmxnVWIwckJ5ZXdjeWtEZmJnaFhzclVzbm5qS2JvbTJ3XzBiVndjNGI1Rk1uT3BJ?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-08T14:21+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
-   ]
-  },
-  {
    "title": "冬ダイヤ2026の増便を座席数に換算 — 成田1日592席・那覇242席、9県の客室と受け皿試算",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYlo1d2U4X2VWaTJCT2ZZUGswVTg3V0pJeDJBWFNGTmJ0WnlRQXAzR3RoM09xcV84UUtIQ2xTR0tod3VOUERzeTQ5dE1mQ1RncFNscjJZQ1djb3B5bVlMbkdMY2xTb1NSdE9qaG5BYmthOHNXc2MtYmcwSWVMUXZIX2tWcnN1OTRnVzJVMUdvNFp0R3hxV2FZ?oc=5",
    "source": "hotelbank",
@@ -252,16 +272,6 @@
    "summary": "",
    "categories": [
     "dx_ai"
-   ]
-  },
-  {
-   "title": "中津川市観光マーケティング基礎調査業務に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTb0V0WFg5RGVEbmtkOVZWUWEyVXdpdjQ4UVdaOXR5MDhxY3BKbzlyVm10RTYxVy1ybWd1WGlDa0FHQ0x3RklMQ3Y0RUJRQUdG?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-05T11:39+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
    ]
   },
   {
@@ -456,16 +466,6 @@
    ]
   },
   {
-   "title": "沖縄の返還跡地1,000ha超は用地になるか — 浦添4軒43室・宜野湾7軒583室",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFBObld2WmFudnlsazhxZ1U3eHNqaVVJRTV4bGpWclo3T1BOZWlQQkh4RDNTUjBjc241bUgzdFNGOTVpTEZsRWpaalVrRnFQQWs4YVhGa191SmZITEtwX2FiNTJQQjF6bjNwVVd2c1dScWkxd1hKc0M4QV9mUVZWTTY3UTU0Y3VNNnpabA?oc=5",
-   "source": "hotelbank",
-   "published": "2026-09-11T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "【取材】なぜホテルの客室に“森”をつくったのか 沖縄・EMウェルネス「ミ森 -MIMORI-」誕生の背景",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGTlljbWlHajlodkt3QWdoLVJWYm1DaUdDTGpkc184NlBPZXdhNEo1dnZhSkhYNW9Rc2NhQjN0ZFpqdGs5dTItaGNpYWVvcDNKWDJ0T1NhVEd4amRWQzRPYVJkaWI1VXpsZ3F6R0JJVk9SWXNDYTdZ?oc=5",
    "source": "hotelbank",
@@ -483,6 +483,16 @@
    "summary": "",
    "categories": [
     "dx_ai"
+   ]
+  },
+  {
+   "title": "沖縄の返還跡地1,000ha超は用地になるか — 浦添4軒43室・宜野湾7軒583室",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFBObld2WmFudnlsazhxZ1U3eHNqaVVJRTV4bGpWclo3T1BOZWlQQkh4RDNTUjBjc241bUgzdFNGOTVpTEZsRWpaalVrRnFQQWs4YVhGa191SmZITEtwX2FiNTJQQjF6bjNwVVd2c1dScWkxd1hKc0M4QV9mUVZWTTY3UTU0Y3VNNnpabA?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-11T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
    ]
   },
   {
@@ -706,16 +716,6 @@
    ]
   },
   {
-   "title": "グーグル、経営破綻したスピリット航空の事業データを16億円で取得へ、AIモデルの学習に活用",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzaXBJclowM3QwZ29vTWlvSFVoSmhJaE4xX0wwQlJfc2hSNUc2MmtKSERkS3JnT2VtQ3BiUUVMSG1Lc0hZNUJib1VoQlVyX3dYZW9jdA?oc=5",
-   "source": "travelvoice",
-   "published": "2026-08-20T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
    "title": "旅行者のAI利用に「信頼ギャップ」、53％がAIの提案を歓迎する一方、66％は予約代行に不信 ―エクスペディア調査",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80SXBkM0pPbEFPQlVEQnU4ZkJxaWN1VFh6a0JEMU9vQjVrZ01PSEcwVE5TTllTbkc0MXp4TktIOGFyN0lLdjBoM3VaZ2J3OHAxdXVnbQ?oc=5",
    "source": "travelvoice",
@@ -738,6 +738,16 @@
   {
    "title": "アパホテル宿泊者にAIでタビナカ体験・飲食店を提案、JapanTicketらが予約までつなぐ送客モデルを検証",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnTlI0R2VNOUhOYUJUVWF1eTg1QnNqdkphUHRZTkhPVGlJRDRmS3B5MU55VTdtRGV1OE9oaTdHeGg4M0xOOElwR0liZVE2Qm9SQnJmRg?oc=5",
+   "source": "travelvoice",
+   "published": "2026-08-20T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "グーグル、経営破綻したスピリット航空の事業データを16億円で取得へ、AIモデルの学習に活用",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzaXBJclowM3QwZ29vTWlvSFVoSmhJaE4xX0wwQlJfc2hSNUc2MmtKSERkS3JnT2VtQ3BiUUVMSG1Lc0hZNUJib1VoQlVyX3dYZW9jdA?oc=5",
    "source": "travelvoice",
    "published": "2026-08-20T16:00+09:00",
    "summary": "",
@@ -890,6 +900,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CMEhVaU5idVZQNkxqekx6QjBLVVdITDV0LS13OERJT3h6cEJQRXFuQnowZjNXUXBYYXlUZjdVWlRmeFdnY01Kb2NjMjVIOWw4Sk1nZw?oc=5",
    "source": "travelvoice",
    "published": "2026-08-03T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "メトロエンジン、宿泊施設向け「無料レベニュー診断」を提供開始｜OTA公開データからAIが価格戦略を分析",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZamZoRWcyS2VvZEpVNVZPQ3g3aEJ5dFAxU3FxVTA2Z1FoV0V2aTNic05wb1BPeU9TR2ZWb1d2SG1sRkhZTUt3OFYtUW93c2lqY1YxYjFzbVN2NjRfd2pqWEM0YUV6d3lkLXZJT0VhVGdRRFVHMnZRbTZ3?oc=5",
+   "source": "hotelbank",
+   "published": "2026-07-31T16:00+09:00",
    "summary": "",
    "categories": [
     "dx_ai"
