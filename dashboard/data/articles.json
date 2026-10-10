@@ -1,29 +1,39 @@
 {
- "updated_at": "2026-10-10T07:33+09:00",
+ "updated_at": "2026-10-10T14:40+09:00",
  "sources": [
   {
    "id": "honichi",
    "name": "訪日ラボ",
    "home": "https://honichi.com/",
    "direct_feed": true,
-   "new_items": 13
+   "new_items": 14
   },
   {
    "id": "hotelbank",
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
    "direct_feed": false,
-   "new_items": 29
+   "new_items": 30
   },
   {
    "id": "travelvoice",
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 59
+   "new_items": 60
   }
  ],
  "articles": [
+  {
+   "title": "2027年度鳥取市グローバル人材育成事業、旅行代理業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MT0pxZDB3MlZwT3hYOHV3R1BLQ0VUUm5kUVMybWdacTdUNEo5ZUVGM3I2cUFLTXV2R2tzZS1ZNUw3MWMwSUVERjFKMUpqOU1w?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-10T07:21+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
   {
    "title": "観光客向けマナー啓発等推進業務に係る公募型企画競争の実施",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IOWo2Y01PVUM5WWFJejZpNVo0cHJOVEVLUnZnRi1kcXVLVVE5Sk1NR3ZidVZiYU81REVVV0kzMG9CdEJOU0UyaWpsVG5JRGtp?oc=5",
@@ -209,16 +219,6 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBVnQ1aC12OEZRS0pHRkUxanFycGltTmkyUGtkTmRiVnF3aWprNjJvWXlHTEFlQnFMRE1DSzVMVml4QmU4RHhkcWdtRFY3RWJ1?oc=5",
    "source": "travelvoice",
    "published": "2026-10-06T13:12+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
-   ]
-  },
-  {
-   "title": "2027年度鳥取市グローバル人材育成事業、旅行代理業務に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MT0pxZDB3MlZwT3hYOHV3R1BLQ0VUUm5kUVMybWdacTdUNEo5ZUVGM3I2cUFLTXV2R2tzZS1ZNUw3MWMwSUVERjFKMUpqOU1w?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-06T12:54+09:00",
    "summary": "",
    "categories": [
     "subsidy"
@@ -436,16 +436,6 @@
    ]
   },
   {
-   "title": "ホテルブランド専用ChatGPTアプリ、構築・運用支援を開始 — メトロエンジンが発表",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSlNnVDJUTHhTcWlZV19ZRW1WVXdQeUE5TG92Yk82M2k4cnl4ZHkwVU9ZN3pzRVZVaUJTM3hNMGVveEJJV0s4TGFOaS1Bc1k0MWZzSVNCbllscFFaZFRJZ2k1VkVxY0toelowZ2VESnRybldRekh4N3lGZXV3dWFYVThlZXVvSGZFdnJveXVkUQ?oc=5",
-   "source": "hotelbank",
-   "published": "2026-09-14T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
    "title": "沖縄のホテル客室数ランキング2026｜1位826室、300室超34軒を圏域別に",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUElnam9xVEs3SXNuOWVBNzNndWh0ckc0eE4wcmZjT0lTNldFSU40NVZWc1FJQzdrN1dPdkdjSlYxaTZYRGJUM0lyS1l4RFhLa1g3d1d3NS0wYVhwSnU5Vm9wa2ZUNkgzZG0wTnYxZ1JMUDdqaGdwNHA1ME5xQkFLd3VTUjQwUQ?oc=5",
    "source": "hotelbank",
@@ -453,6 +443,16 @@
    "summary": "",
    "categories": [
     "okinawa"
+   ]
+  },
+  {
+   "title": "ホテルブランド専用ChatGPTアプリ、構築・運用支援を開始 — メトロエンジンが発表",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSlNnVDJUTHhTcWlZV19ZRW1WVXdQeUE5TG92Yk82M2k4cnl4ZHkwVU9ZN3pzRVZVaUJTM3hNMGVveEJJV0s4TGFOaS1Bc1k0MWZzSVNCbllscFFaZFRJZ2k1VkVxY0toelowZ2VESnRybldRekh4N3lGZXV3dWFYVThlZXVvSGZFdnJveXVkUQ?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-14T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
    ]
   },
   {
@@ -946,8 +946,8 @@
    ]
   },
   {
-   "title": "SQUEEZE、宿泊運営システムにAI電話応答機能を実装、AIのみで完結した問い合わせは約8割",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqRmVCTC1MRFktQ1A1dFVmT1M0OHo3RG5ndms5RzFEVXV0amxqUGlsMHFBNTZaM0ZueFZ3V3FNU29ESlJxUDE5emhSZFlwcDgybnBITA?oc=5",
+   "title": "ウーバー、法人向け経費精算を効率化、SAP Concurと連携で、インボイス対応を自動化",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xbUtxbjJoakM4U0FselMzQmxOekttNExSUHRnMFU5S2VMYXJXQjBxTjJpNGlETEVOd0dIQXBEZlhkaksxa1dvUy1kRkkycW9ZOExuUw?oc=5",
    "source": "travelvoice",
    "published": "2026-07-28T16:00+09:00",
    "summary": "",
@@ -956,8 +956,8 @@
    ]
   },
   {
-   "title": "ウーバー、法人向け経費精算を効率化、SAP Concurと連携で、インボイス対応を自動化",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xbUtxbjJoakM4U0FselMzQmxOekttNExSUHRnMFU5S2VMYXJXQjBxTjJpNGlETEVOd0dIQXBEZlhkaksxa1dvUy1kRkkycW9ZOExuUw?oc=5",
+   "title": "SQUEEZE、宿泊運営システムにAI電話応答機能を実装、AIのみで完結した問い合わせは約8割",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqRmVCTC1MRFktQ1A1dFVmT1M0OHo3RG5ndms5RzFEVXV0amxqUGlsMHFBNTZaM0ZueFZ3V3FNU29ESlJxUDE5emhSZFlwcDgybnBITA?oc=5",
    "source": "travelvoice",
    "published": "2026-07-28T16:00+09:00",
    "summary": "",
