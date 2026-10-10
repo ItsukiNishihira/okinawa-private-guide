@@ -1,26 +1,26 @@
 {
- "updated_at": "2026-10-10T14:40+09:00",
+ "updated_at": "2026-10-10T21:22+09:00",
  "sources": [
   {
    "id": "honichi",
    "name": "訪日ラボ",
    "home": "https://honichi.com/",
    "direct_feed": true,
-   "new_items": 14
+   "new_items": 2
   },
   {
    "id": "hotelbank",
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
    "direct_feed": false,
-   "new_items": 30
+   "new_items": 0
   },
   {
    "id": "travelvoice",
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 60
+   "new_items": 2
   }
  ],
  "articles": [
