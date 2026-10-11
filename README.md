@@ -10,7 +10,7 @@
 2. DX推進のためのAI活用
 3. 宿泊業のための補助金施策
 
-情報源：[訪日ラボ](https://honichi.com/)・[HOTEL BANK](https://hotelbank.jp/)・[トラベルボイス](https://www.travelvoice.jp/)
+情報源：[訪日ラボ](https://honichi.com/)・[HOTEL BANK](https://hotelbank.jp/)・[トラベルボイス](https://www.travelvoice.jp/)・[OCVB（沖縄観光コンベンションビューロー）](https://www.ocvb.or.jp/)・[観光DX（観光庁）](https://kanko-dx.go.jp/)・[リゾテック沖縄](https://resortech-expo.okinawa/)
 
 ### しくみ
 - GitHub Actions（`.github/workflows/update-news.yml`）が **6時間ごと** に `scripts/fetch_news.py` を実行
