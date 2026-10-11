@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T21:39+09:00",
+ "updated_at": "2026-10-12T06:50+09:00",
  "sources": [
   {
    "id": "honichi",
@@ -20,10 +20,20 @@
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 62
+   "new_items": 64
   }
  ],
  "articles": [
+  {
+   "title": "冬・春のひろしま観光ブランドプロモーション業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlcEhMMHVDLWR0aTA2RjZIMjdSVXdONmJtZmxnVWIwckJ5ZXdjeWtEZmJnaFhzclVzbm5qS2JvbTJ3XzBiVndjNGI1Rk1uT3BJ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-12T01:54+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
   {
    "title": "ぶらり丹波路魅力体験＆拡散ツアー事業に係る公募型プロポーザルの実施",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtcDI5NGVQNElpYktIOUxYSG4wWkhPZVFkQ1Y3TUl3VWVBUWZHdnNpODBjeTN2OTNLNTBhenJzdmRLLVhkVl9ueldyOVFPUGFU?oc=5",
@@ -75,6 +85,16 @@
    ]
   },
   {
+   "title": "ご当地Suica移行に伴うGunMaaSプロモーション業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92OS1Ed2dyalNQYnpwbjlyTnN2TmFNeFc1QmtoTzF1U21LOWVfeklORl80blJpLTVKLUhjYll5UGx6cUlCTndtV3FZSFE0UFlR?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-10T23:06+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
    "title": "沖縄の食事プレミアム、ビジネス朝食+12.9%・リゾート+7.4% — 単価が高いほど薄い朝食の段差、2食付で+19.8%",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdWJFOXA3d0xOYm9UZGFXcVdReXlnS0lnV0tqbFpjZjEzLWVVNHlTazNDODFvWHphWU45Vk1yRGRtajJhNVFNRDlueVNmdTJwMWluNkxNQ0tULVIwZFR1ZnctMXFMaEtQQjg5OEMtSlUwN3d4N0R0bWlmeXR3MmxYdVBwVTdSVUc2dXFObGQwaw?oc=5",
    "source": "hotelbank",
@@ -82,16 +102,6 @@
    "summary": "",
    "categories": [
     "okinawa"
-   ]
-  },
-  {
-   "title": "冬・春のひろしま観光ブランドプロモーション業務に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlcEhMMHVDLWR0aTA2RjZIMjdSVXdONmJtZmxnVWIwckJ5ZXdjeWtEZmJnaFhzclVzbm5qS2JvbTJ3XzBiVndjNGI1Rk1uT3BJ?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-10T11:45+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
    ]
   },
   {
@@ -192,16 +202,6 @@
    "summary": "訪日6000万人時代に向け、デジタル化が進む日本の入国・帰国手続き。「Visit Japan Web」サービスを軸にした審査・税関のワンストップ化、免税リファンド対応など、デジタル庁が業界向けに実施したセミナーを取材した。",
    "categories": [
     "dx_ai"
-   ]
-  },
-  {
-   "title": "ご当地Suica移行に伴うGunMaaSプロモーション業務に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92OS1Ed2dyalNQYnpwbjlyTnN2TmFNeFc1QmtoTzF1U21LOWVfeklORl80blJpLTVKLUhjYll5UGx6cUlCTndtV3FZSFE0UFlR?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-08T14:49+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
    ]
   },
   {
@@ -536,6 +536,16 @@
    ]
   },
   {
+   "title": "長野県でマイカーを空き時間に貸し出し、新たなカーシェアで交通空白の解消も、国交省DX実証を経て市民も参画へ",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43MFZiRVYwUk5RYi05WEExVnM1QVdwVUxTMXZhR211UjhBTXcyc1RpLWNlbzd3QnpEdDdwT0Q2YjJlZGVFRVpjendEdTkycFZZOWdPXw?oc=5",
+   "source": "travelvoice",
+   "published": "2026-09-07T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
    "title": "中国客半減でも宿泊費総額は+12.1% — 沖縄+22.6%・福岡+14.2%、大阪は-4.3%",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYzFiRWw0NWtJcHcwZmhPTW55SFNzX2ZPcnMwQ2pUeGJteWtWOEhBOWtiY1d1M2x4bGJIemFnUFZKUjFTSkRqNDFmdHEtb2pZOEhMUVRQWExzRko5b0pYczE0cUZxZVZxTjE5QUd2UTRFM3ZfbHVOdnFaVmg4eEdjQXFnay03azRJeG12UHJoWU4?oc=5",
    "source": "hotelbank",
@@ -776,6 +786,16 @@
    ]
   },
   {
+   "title": "メトロエンジン社、宿泊施設向けに「無料レベニュー診断」を提供、AIが競合価格や曜⽇別の予約動向など分析",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80eTV4ZEM1LTVmQ0xXUm9ISndFb2dBTWtsQzFJeU9fM3BKdWlVTy1QMGNxLTNvX0dPNThTc3JZS0V2UjJUa21DMUxxWlB5b0F6aVAwdg?oc=5",
+   "source": "travelvoice",
+   "published": "2026-08-18T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
    "title": "Z世代の富裕層旅行者、ストレスない旅を求め自分で計画・手配をする傾向に 23%がAIツールを活用（マリオット・インターナショナ",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMQlVNZWk2eXFTSmhyRUJ5TjAzcVh5b21sLTdLZlVVNmV4TWpaeVBYTE9XSXY1dnZOMld1LWp6MUJkX1RvblE4RWpseHpUUng5eTk2YzN2bTFpZGpzcWptZmFxQXNYcG9SZWs2MWJyNHlUdw?oc=5",
    "source": "honichi",
@@ -956,6 +976,16 @@
    ]
   },
   {
+   "title": "SQUEEZE、宿泊運営システムにAI電話応答機能を実装、AIのみで完結した問い合わせは約8割",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqRmVCTC1MRFktQ1A1dFVmT1M0OHo3RG5ndms5RzFEVXV0amxqUGlsMHFBNTZaM0ZueFZ3V3FNU29ESlJxUDE5emhSZFlwcDgybnBITA?oc=5",
+   "source": "travelvoice",
+   "published": "2026-07-28T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
    "title": "旅行テックの国際会議「スキフト・世界フォーラム2026」、AI時代の市場の再構築を議論、ニューヨークで9月開催",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2R3R6cW9uVFEyVUp1VEdncTZDRm81bnNoRnQ5OHo2T1c1ckttN3VmUUEya0Z1bVlFQlRWM2Jld1VUa1FLaE4zdHB2VVhxQjB4YjZvQw?oc=5",
    "source": "travelvoice",
@@ -978,16 +1008,6 @@
   {
    "title": "ウーバー、法人向け経費精算を効率化、SAP Concurと連携で、インボイス対応を自動化",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xbUtxbjJoakM4U0FselMzQmxOekttNExSUHRnMFU5S2VMYXJXQjBxTjJpNGlETEVOd0dIQXBEZlhkaksxa1dvUy1kRkkycW9ZOExuUw?oc=5",
-   "source": "travelvoice",
-   "published": "2026-07-28T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
-   "title": "SQUEEZE、宿泊運営システムにAI電話応答機能を実装、AIのみで完結した問い合わせは約8割",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqRmVCTC1MRFktQ1A1dFVmT1M0OHo3RG5ndms5RzFEVXV0amxqUGlsMHFBNTZaM0ZueFZ3V3FNU29ESlJxUDE5emhSZFlwcDgybnBITA?oc=5",
    "source": "travelvoice",
    "published": "2026-07-28T16:00+09:00",
    "summary": "",
