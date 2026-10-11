@@ -36,6 +36,8 @@ MAX_PER_CATEGORY = 150
 # list_pages / article_pattern: RSS がないサイトは、お知らせ一覧ページから
 #   article_pattern（正規表現）に合うリンクを記事として読み取る
 # default_categories: サイト自体がテーマ専門のときに、キーワードに関係なく付けるテーマ
+# google_news: False にすると Googleニュースでの補完をしない（記事以外のページが混ざるサイト向け）
+# exclude: タイトルにこの正規表現が含まれる記事は載せない（採用情報など）
 # ---------------------------------------------------------------------------
 SOURCES = [
     {
@@ -80,6 +82,7 @@ SOURCES = [
         "list_pages": ["https://www.ocvb.or.jp/topics"],
         "article_pattern": r"^https://www\.ocvb\.or\.jp/(topics|support|membernews)/\d+/?$",
         "default_categories": ["okinawa"],
+        "exclude": r"採用|求職|契約の状況|担当者（",
     },
     {
         "id": "kankodx",
@@ -91,6 +94,7 @@ SOURCES = [
         # 観光DX推進事業のプレスリリースは PR TIMES（企業ID 107216）に載るため、それも記事として扱う
         "article_pattern": r"^https://(kanko-dx\.go\.jp/news/\d+/?|prtimes\.jp/main/html/rd/p/\d+\.000107216\.html)$",
         "default_categories": ["dx_ai"],
+        "google_news": False,  # 採択団体の紹介ページなどが大量に混ざるため
     },
     {
         "id": "resortech",
@@ -101,6 +105,7 @@ SOURCES = [
         "list_pages": ["https://resortech-expo.okinawa/news/"],
         "article_pattern": r"^https://resortech-expo\.okinawa/news/\d+/?$",
         "default_categories": ["okinawa", "dx_ai"],
+        "google_news": False,  # 出展企業の紹介ページが大量に混ざるため
     },
 ]
 
@@ -449,15 +454,18 @@ def main():
         if not raw_items and src.get("list_pages"):
             raw_items = from_list_pages(src)
         ok_feed = bool(raw_items)
-        for c in CATEGORIES:
-            for q in c["search"]:
-                raw_items += from_google_news(src, q)
+        if src.get("google_news", True) or not raw_items:
+            for c in CATEGORIES:
+                for q in c["search"]:
+                    raw_items += from_google_news(src, q)
 
         count = 0
         for it in raw_items:
             title = clean_text(it.get("title"))
             url = (it.get("url") or "").strip()
             if not title or not url:
+                continue
+            if src.get("exclude") and re.search(src["exclude"], title):
                 continue
             summary = clean_text(it.get("summary"), limit=160)
             cats = sorted(set(categorize(title, summary, it.get("tags") or []))

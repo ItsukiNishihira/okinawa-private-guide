@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T17:47+09:00",
+ "updated_at": "2026-10-11T14:36+09:00",
  "sources": [
   {
    "id": "honichi",
@@ -13,7 +13,7 @@
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
    "direct_feed": false,
-   "new_items": 32
+   "new_items": 31
   },
   {
    "id": "travelvoice",
@@ -21,27 +21,6 @@
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
    "new_items": 63
-  },
-  {
-   "id": "ocvb",
-   "name": "OCVB",
-   "home": "https://www.ocvb.or.jp/",
-   "direct_feed": true,
-   "new_items": 58
-  },
-  {
-   "id": "kankodx",
-   "name": "観光DX（観光庁）",
-   "home": "https://kanko-dx.go.jp/",
-   "direct_feed": true,
-   "new_items": 24
-  },
-  {
-   "id": "resortech",
-   "name": "リゾテック沖縄",
-   "home": "https://resortech-expo.okinawa/",
-   "direct_feed": true,
-   "new_items": 21
   }
  ],
  "articles": [
@@ -60,16 +39,6 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBVnQ1aC12OEZRS0pHRkUxanFycGltTmkyUGtkTmRiVnF3aWprNjJvWXlHTEFlQnFMRE1DSzVMVml4QmU4RHhkcWdtRFY3RWJ1?oc=5",
    "source": "travelvoice",
    "published": "2026-10-11T07:07+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
-   ]
-  },
-  {
-   "title": "県内観光需要の平準化・周遊促進に向けた富士山静岡空港二次交通実証運行事業業務に係る企画提案の公募",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12T0tIUzFwLW1kLW5tVkRqTzI2dUFpeHRkN1M5dGM4eDNabFB5Z3B1d2dIUW54Z3VMU1dkbGVub0dPbVN6ZnIyMzFxVHdOdlo4?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-11T01:23+09:00",
    "summary": "",
    "categories": [
     "subsidy"
@@ -156,6 +125,16 @@
    ]
   },
   {
+   "title": "県内観光需要の平準化・周遊促進に向けた富士山静岡空港二次交通実証運行事業業務に係る企画提案の公募",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12T0tIUzFwLW1kLW5tVkRqTzI2dUFpeHRkN1M5dGM4eDNabFB5Z3B1d2dIUW54Z3VMU1dkbGVub0dPbVN6ZnIyMzFxVHdOdlo4?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-09T16:53+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
    "title": "AIはアパレル購買にどこまで使われている？〜生成AIでアパレル店を探す600人に聞いた検索手段とAIの影響度",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1valJSeXpZY3dWdGNjVzd6eWZtdm14aVJDbF91c0dWSk9HSkNGbWpMeHJnRVJfS3FNbUVuNnNFZmZ6aTBDYUtGYkJqZ1FkaERuaTFtZVBJaDFEZ2VaeFlHS0RR?oc=5",
    "source": "honichi",
@@ -163,17 +142,6 @@
    "summary": "",
    "categories": [
     "dx_ai"
-   ]
-  },
-  {
-   "title": "NTT西日本株式会社 沖縄支店",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LVEN2WXFvTHE1LVV4ZThwcnVUNzR1aklTRzFfTG8tM2NjT2J6M3BDR0Z1QW53WENyUVNwZGVScFpMTlZNUGs1aG11WnlZM0VhdlVkZURGOE83NE0?oc=5",
-   "source": "resortech",
-   "published": "2026-10-09T12:36+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
    ]
   },
   {
@@ -247,108 +215,10 @@
    ]
   },
   {
-   "title": "株式会社国際システム",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGUVhqLW02SW9JWHlzdkVhZXhrQkhMTDRkRi1zaTFlZmsweTM4NFVSd01XTm03WjVBUF9tc3hZa0dpdzBPX0JNREo3ZGhtdWtUU1pzTHlyMjlRWDg?oc=5",
-   "source": "resortech",
-   "published": "2026-10-08T12:36+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
-   "title": "Bカート",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvZWlaNHdFWmRnaUE0cTYxYlJTRkN0TkNMbzZtOVhQN1lVVWEzcW0weTZVQnpxOFByLW5LOGNnd3gwLUtwQmVFZExtd0hRTGF2ODdRd3VGd1RUX0k?oc=5",
-   "source": "resortech",
-   "published": "2026-10-08T12:36+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
-   "title": "サイバートラスト株式会社／株式会社イーサー",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41X201QzkzT1JYWEFzVWZmV1RVQU12cDF3VS1kWHRwRWVnNmQ2dURfRlZDU3hrSkgxVk1MY0ZBbmc2cGZUN0R0cl95ZlB6T096SEVCRFJJZUJrU1U?oc=5",
-   "source": "resortech",
-   "published": "2026-10-08T12:36+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
    "title": "冬ダイヤ2026の増便を座席数に換算 — 成田1日592席・那覇242席、9県の客室と受け皿試算",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYlo1d2U4X2VWaTJCT2ZZUGswVTg3V0pJeDJBWFNGTmJ0WnlRQXAzR3RoM09xcV84UUtIQ2xTR0tod3VOUERzeTQ5dE1mQ1RncFNscjJZQ1djb3B5bVlMbkdMY2xTb1NSdE9qaG5BYmthOHNXc2MtYmcwSWVMUXZIX2tWcnN1OTRnVzJVMUdvNFp0R3hxV2FZ?oc=5",
    "source": "hotelbank",
    "published": "2026-10-08T10:58+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "株式会社ジャスミンソフト",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54MGRSWUd4S3laNS1QeFdKYmxncWR5c3dYN2lpREh1cGxUSEJsZThEaVlyMlRERldDd3V2STZPeVVKUG9fV0pJVWNTNERNS3JzelZmTlhmMWJNWVU?oc=5",
-   "source": "resortech",
-   "published": "2026-10-07T20:31+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
-   "title": "～TISインテックグループ～ TISI株式会社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iZXZBSlliV2szWmsza25QN181bHJTUGREZE9tcDlEakhZb3MwQ2tFbUVNSHAyZHYyNTc5YklXRE1LanIyekpGdFYtUWFaUEJaZFZFNTlfZFdHWGM?oc=5",
-   "source": "resortech",
-   "published": "2026-10-07T20:31+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
-   "title": "出張手配プラス",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WRFRJVnR1ODNpQk1Cb3prWHZqVEhRU0ZRWUJUQkZHV0hxcFJaMzNJbUJ4RlBMa1BJc1dEeHBFMnNIU1BYaFJSZWl0WTN4aWx1OEI5T2RDTHlwYWc?oc=5",
-   "source": "resortech",
-   "published": "2026-10-07T20:31+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
-   "title": "株式会社あしびかんぱにー",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRZTY0b01xSUNTOS12MXIweWlJbnZ4ZlphcDFhWkJGd3dRcGdDNk9vc2h5eVNzQlhuN2VtUWhxMzZoODdTal96dFo4LWdaZ05QaWlqcWJPM0NuMU0?oc=5",
-   "source": "resortech",
-   "published": "2026-10-07T20:31+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
-   "title": "シンバホールディングス／WORXHUB",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FSXpSc1dGaGd1M2Q1Y2wwVXhQaURaN0VROXhLLVJYN2RLVEsyNzFNdmpmVGd5RmxaM29hTnBjM290MDBxWE5ndDc0ZVpXcjFlYVN2SVh6ZlJ3TjA?oc=5",
-   "source": "resortech",
-   "published": "2026-10-07T20:31+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
-   "title": "香港・中国市場における沖縄観光プロモーション業務担当者（１名）～香港・中国から沖縄を訪れる観光客の誘致のためのプロモーションを企画・実施する仕事です",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KRnFUS3NzbUFwWmxRM1NYbWtSUEdkYUlod0VXYlBJNFhCQ0tJVGlQNl9PWWhvNkplLTZwN0lWa1MyZm0xUmhtX2pGZUotVDA?oc=5",
-   "source": "ocvb",
-   "published": "2026-10-07T18:45+09:00",
    "summary": "",
    "categories": [
     "okinawa"
@@ -375,48 +245,6 @@
    ]
   },
   {
-   "title": "フランスダイビング博「Salon de la plongée」出展企業募集",
-   "url": "https://www.ocvb.or.jp/topics/4869",
-   "source": "ocvb",
-   "published": "2026-10-07T00:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "【北部広域市町村圏事務組合／一般社団法人沖縄やんばるDMO】『やんばる』観光まちづくりフォーラムの開催について",
-   "url": "https://www.ocvb.or.jp/topics/4904",
-   "source": "ocvb",
-   "published": "2026-10-07T00:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "CEATEC 2026 コンファレンス登壇決定！ 首里城復興DXから考える、文化継承と地域共創の未来",
-   "url": "https://resortech-expo.okinawa/news/11847/",
-   "source": "resortech",
-   "published": "2026-10-07T00:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
-   "title": "「Okinawa Innovators Summit 2026」予約受付開始！",
-   "url": "https://resortech-expo.okinawa/news/11850/",
-   "source": "resortech",
-   "published": "2026-10-06T00:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
    "title": "次に仕掛けるべきUGC戦略 ~バズるUGCとAIに読まれるUGCは違う~",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95V2wzblhTR1VuSWs5VmN5WVp0QlFuczRaeF9oLXExMUJfZHJCdnVlSnVIUm1SVndhLXhoTmF5ZnBVQzU4SG9pd01QUnlSR0JWRWo2NUstTWRkb1psVkJGdWNmb1VRZFU?oc=5",
    "source": "honichi",
@@ -424,16 +252,6 @@
    "summary": "",
    "categories": [
     "dx_ai"
-   ]
-  },
-  {
-   "title": "「おきなわ観光地域カルテ（8月度）」および「インバウンド人流分析（7月度）」公開のお知らせ",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BSENtMldMMkh2M0IzcExjck05MHk2MXRYX0hXcTZmYXF4cGF5NXhkSlM0S2lmRjhaZTMxbXh5Z1dZcnE3M29vMFdWcw?oc=5",
-   "source": "ocvb",
-   "published": "2026-10-05T18:27+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
    ]
   },
   {
@@ -477,37 +295,6 @@
    ]
   },
   {
-   "title": "「観光業従事者を対象とした従業員満足度調査」を実施します",
-   "url": "https://www.ocvb.or.jp/topics/4895",
-   "source": "ocvb",
-   "published": "2026-10-02T00:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "【海外・MICE事業部】令和8年度「DRT SHOW香港 2026」出展事業者募集について",
-   "url": "https://www.ocvb.or.jp/topics/4902",
-   "source": "ocvb",
-   "published": "2026-10-02T00:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "オンラインセミナー配信開始のお知らせ",
-   "url": "https://resortech-expo.okinawa/news/11768/",
-   "source": "resortech",
-   "published": "2026-10-02T00:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
    "title": "ブッキング・ホールディングスCEOが語るAI戦略、5つのAIプロジェクトを同時進行、B2B再編にも言及",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yT0JaN2ZHV0dWc0JkTUxlNzB1WncyVkdmWDljU1g1WmM0ZXluWUdoWHhLRlREaDg5WC16MFI5OVQwQW1EaHpIeUhVdk5zXzkwX3lEYw?oc=5",
    "source": "travelvoice",
@@ -538,26 +325,6 @@
    ]
   },
   {
-   "title": "沖縄市の観光に関するアンケート",
-   "url": "https://www.ocvb.or.jp/topics/4901",
-   "source": "ocvb",
-   "published": "2026-10-01T00:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "令和８年度「観光危機管理計画・BCP策定支援セミナー」を開催しました",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1lVGtfQjZjOGRvcnR1ajZpN3BWQmNMS0M3aWo2M0FZYzNVdlByaDRMNlI3d1BEUWVudHp5S1l2Um9WQ1pzX0g2a3hn?oc=5",
-   "source": "ocvb",
-   "published": "2026-09-30T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "埼玉県、移住相談に対応する「住むなら埼玉」AI相談を開始、先輩移住者への無料相談も｜ふるさと住民制度・実践ガイド【公式】",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82VHhFX2p2a0p0R0loeV9UX2hSY1UzS1d2VTB5ai1aYVk4UVh3MFkzZlNSUlUxaTVfVnhpYUNFcHpFX0M3Y1o1M2xYcVRldnhCVDJqY28tVDBBT3NnQ2wwRzh3?oc=5",
    "source": "travelvoice",
@@ -568,72 +335,10 @@
    ]
   },
   {
-   "title": "求職活動を行う皆さまへ",
-   "url": "https://www.ocvb.or.jp/topics/4896",
-   "source": "ocvb",
-   "published": "2026-09-30T00:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "2026年9月～11月 入域観光客数見通し",
-   "url": "https://www.ocvb.or.jp/topics/4899",
-   "source": "ocvb",
-   "published": "2026-09-30T00:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "おきなわ応援ポケモン「ガーディ」×離島コラボステッカー 今年度は沖縄本島周辺15離島すべてに拡大 — 10月1日より配布開始、新たに9離島が初参加",
-   "url": "https://www.ocvb.or.jp/topics/4898",
-   "source": "ocvb",
-   "published": "2026-09-30T00:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "「京都スマートシティエキスポ2026」出展のお知らせ",
-   "url": "https://resortech-expo.okinawa/news/11523/",
-   "source": "resortech",
-   "published": "2026-09-30T00:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
-   "title": "令和８年度 外国人材受入企業日本語学習支援事業（無料）のご案内",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1EbFdMWTdodjZ1SGo5cVNkYWMxNlUtcmVBRGxPRnNPVFVvZ1N6Q2JnbXRVbUxZNFBVdDZva09lRVJtOG9uQjRXY0Fn?oc=5",
-   "source": "ocvb",
-   "published": "2026-09-29T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa",
-    "subsidy"
-   ]
-  },
-  {
    "title": "ITBアジア2026、AI時代の「人間中心の旅行・観光」を議論、10月にシンガポールで開催",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1TFpJam15MzlhZmkwaDhWRzFFYkxnOVdZR2xZNFNYS0wtelJvaF9NRE50SUl3NzdMemhOeXkyX1ktMExVU3lKRWlkN3RsazVJblo3ZA?oc=5",
    "source": "travelvoice",
    "published": "2026-09-29T11:10+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
-   "title": "観光庁「観光DX」第2回”Next Tourism Seminar 2026” 開催のお知らせ",
-   "url": "https://prtimes.jp/main/html/rd/p/000000039.000107216.html",
-   "source": "kankodx",
-   "published": "2026-09-29T00:00+09:00",
    "summary": "",
    "categories": [
     "dx_ai"
@@ -680,38 +385,6 @@
    ]
   },
   {
-   "title": "【10月13日～16日】CEATEC 2026へ出展決定！",
-   "url": "https://resortech-expo.okinawa/news/11665/",
-   "source": "resortech",
-   "published": "2026-09-25T00:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
-   "title": "【プレイベント】ResorTech EXPO 2026 in 宮古島",
-   "url": "https://resortech-expo.okinawa/news/11580/",
-   "source": "resortech",
-   "published": "2026-09-25T00:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
-   "title": "令和8年度ロケ受入セミナーを開催しました",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA3dkR4QzBEaEc1SHF6clA1c19iSnMwWHhsWXhJVkpPNnhqSHNDNW45UlZxSnowWHU4Sy1IVHRIX3dSSzluYXFiZy1B?oc=5",
-   "source": "ocvb",
-   "published": "2026-09-24T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "ホテル客室数ランキング2026｜全国TOP30・沖縄TOP20と大箱が立つ4条件",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xeGQzdGhHcU9yM2E3MEJYWEh2WDNPV1JPRUV6ZWd4a3dSVWthOVJSbjhkcUtkanktbjlPb0E4Zi1SZ2piVWRmdjFTakk0d3o2YlJ1MlJSQ05iX2xkcnZmV2JaWmhHcHJ0YjZINGs3ZG5aZG9oVHc?oc=5",
    "source": "hotelbank",
@@ -742,37 +415,6 @@
    ]
   },
   {
-   "title": "観光危機管理計画・BCP策定支援セミナー",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44clYwNHNfZzg3VEN4OEgtLXV1alJBdl8xVk85RUNUNEVIZWxrYnZDcUt0YllBNUoxSWlWVTRzUGlSMDMyTTNzTk9yYVZURm1VakJwaHl3WjZNSF9DUlRxNVRma1YyU091NHNHeFdWSlNYdWxRN0NaU19oenI?oc=5",
-   "source": "ocvb",
-   "published": "2026-09-18T14:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "「QuizKnock」鶴崎 修功氏・falcon氏の基調講演、予約受付開始！",
-   "url": "https://resortech-expo.okinawa/news/11562/",
-   "source": "resortech",
-   "published": "2026-09-18T00:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
-   "title": "「令和８年熊本地震」に伴う支援金について（協力依頼）",
-   "url": "https://www.ocvb.or.jp/topics/4890",
-   "source": "ocvb",
-   "published": "2026-09-17T00:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "省力化投資補助金、ホテルの3年回収ラインは68室→34室 — 30/100/200室で試算",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcV9fMnhqVHppTzZVUzRGOXQxV3dGb0ZQSGJEYjVxM3ZxOTBYVmxFaVF2bUE1V3pKU3BlT0RyWmVsSnhKdkFWeHQyX3pvM3ZqQV91aUcxSVVqWTg0UVhpMnJjVkpCMy1hbFh4X0hCeS16aVB0cWNoSXJPZ2dxVnZLUkxjZTA5bFpscktscXlldVpoalE?oc=5",
    "source": "hotelbank",
@@ -781,16 +423,6 @@
    "categories": [
     "dx_ai",
     "subsidy"
-   ]
-  },
-  {
-   "title": "【沖縄県】宿泊税について（令和9年(2027年)2月1日より開始）",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1YYjNlVldfNzBfUWJNRUJfTDdTelNBS0EyczhLSGlhemlSLUt4QWZ0Rlp1X1doaUlfc3dTS3E4T2lmbFlvTV85cWJ3?oc=5",
-   "source": "ocvb",
-   "published": "2026-09-16T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
    ]
   },
   {
@@ -834,26 +466,6 @@
    ]
   },
   {
-   "title": "8月・【沖縄修学旅行セミナーinさいたま】・【沖縄修学旅行相談会in東京】を開催しました",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ydWtPd3RINUFBRU1xT3NIOWQ2OEZQdmVXeG9BZWJwenhUTUJkYTJKSjEzYkN0Qk5VZ0I1VlRGVkxpdWZDbzI0blVB?oc=5",
-   "source": "ocvb",
-   "published": "2026-09-14T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "沖縄の返還跡地1,000ha超は用地になるか — 浦添4軒43室・宜野湾7軒583室",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFBObld2WmFudnlsazhxZ1U3eHNqaVVJRTV4bGpWclo3T1BOZWlQQkh4RDNTUjBjc241bUgzdFNGOTVpTEZsRWpaalVrRnFQQWs4YVhGa191SmZITEtwX2FiNTJQQjF6bjNwVVd2c1dScWkxd1hKc0M4QV9mUVZWTTY3UTU0Y3VNNnpabA?oc=5",
-   "source": "hotelbank",
-   "published": "2026-09-11T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "【取材】なぜホテルの客室に“森”をつくったのか 沖縄・EMウェルネス「ミ森 -MIMORI-」誕生の背景",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGTlljbWlHajlodkt3QWdoLVJWYm1DaUdDTGpkc184NlBPZXdhNEo1dnZhSkhYNW9Rc2NhQjN0ZFpqdGs5dTItaGNpYWVvcDNKWDJ0T1NhVEd4amRWQzRPYVJkaWI1VXpsZ3F6R0JJVk9SWXNDYTdZ?oc=5",
    "source": "hotelbank",
@@ -874,19 +486,9 @@
    ]
   },
   {
-   "title": "8月・観光月間のスタートを飾る観光の日（8月1日）空港歓迎式を開催しました(9/11更新)",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBTMFczZVh0aE5zNGw4Tmk3alBlSVhLa1ZwdHRqaEtDemQxSjZ1WC1NeWhxalg3by1idTd2SlJuR2NENE1vM284N2Rn?oc=5",
-   "source": "ocvb",
-   "published": "2026-09-11T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "OCVBNews9月号",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EWmZkY3JwUW5IOTNsTk1Sa2RzZ2ViTW1zemxoYTdvak55MGM1dFVCTlR5TllaY2dMeXBIVGdfNkZidDRzS1ZpbEh5enZQUTg?oc=5",
-   "source": "ocvb",
+   "title": "沖縄の返還跡地1,000ha超は用地になるか — 浦添4軒43室・宜野湾7軒583室",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFBObld2WmFudnlsazhxZ1U3eHNqaVVJRTV4bGpWclo3T1BOZWlQQkh4RDNTUjBjc241bUgzdFNGOTVpTEZsRWpaalVrRnFQQWs4YVhGa191SmZITEtwX2FiNTJQQjF6bjNwVVd2c1dScWkxd1hKc0M4QV9mUVZWTTY3UTU0Y3VNNnpabA?oc=5",
+   "source": "hotelbank",
    "published": "2026-09-11T16:00+09:00",
    "summary": "",
    "categories": [
@@ -914,81 +516,10 @@
    ]
   },
   {
-   "title": "観光庁「観光DX」第1回”Next Tourism Seminar 2026” アーカイブ動画/講演資料を掲載いたしました - kanko-dx.go.jp",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DVHVoYU9MNk5ud2lZa2llVGpYNndqYVBIY3laSTVkNWJOeWRqYmdsdWktM1lXY21uSko5alUxbEs5V0Y2LXF0ag?oc=5",
-   "source": "kankodx",
-   "published": "2026-09-10T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
-   "title": "観光庁「観光DX」第1回”Next Tourism Seminar 2026” アーカイブ動画/講演資料を掲載いたしました",
-   "url": "https://kanko-dx.go.jp/news/3916/",
-   "source": "kankodx",
-   "published": "2026-09-10T00:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
-   "title": "「KOZAROCKS 2026 Special」同日開催のお知らせ",
-   "url": "https://resortech-expo.okinawa/news/11505/",
-   "source": "resortech",
-   "published": "2026-09-10T00:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
    "title": "沖縄のシーズン逆算カレンダー — T-45で決め、T-30で動かし、T-14で諦めるを業態別に切り分ける",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWVRKN3pXY3E0RzJnZjlGNE9EbC13YVFyWGJkaWFhU0hWb1lJeFJ0Z0NndTRJVHB0aXhaVWhsYUJNSW5QMThlMmZBZVV2Q0xOWEQ0c002bVdiU0llTTRoR0hrcTBEVDlFOU5BYzI1V3piSGpzRjFuT1JTYTlSOWxpYURKYlktQQ?oc=5",
    "source": "hotelbank",
    "published": "2026-09-09T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "JNTOインセンティブ旅行商談会（タイ）に出展しました",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xZW5WRGpkOE1BQjUwRnJmcnZmUG9TcFd6MThOQlFWWGE2eWxDczViVDdUVFh5YWhiNHZkQU9veXNmXzhjeWJxb0FR?oc=5",
-   "source": "ocvb",
-   "published": "2026-09-08T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "解説コラム「2026年5月度データから見えたこと」を公開しました（おきなわ観光地域カルテ）",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzVlBpd3EyclZLQXB3SVpJM084NDBnLWM0VHlkaklmaC1fQnYxeWJBcVhSbHJMUGFBZldCYjNZTlJtXzNsNEdkNE1aRQ?oc=5",
-   "source": "ocvb",
-   "published": "2026-09-08T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "【沖縄県からのお知らせ】令和8年度プロ野球キャンプ等訪問観光促進事業 県産品コラボ商品開発コンペティションについて",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xSFBSaTRGamhkWDZnZFNOLUFrZXc2WEs3MV9QOHBRWlVWb2Z2N0xzYU5INk9GZTVPR1ZDS280NUZNOU1iYUtVUC1B?oc=5",
-   "source": "ocvb",
-   "published": "2026-09-07T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "【国内事業部】「沖縄観光感謝の集い2027」実施業務にかかる企画コンペティションについて（終了・結果発表）",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5fNWRHNV8zY1ZHUlI1ajFkUHdsQW9kYnFhemQ5ZENER21zV0RDT1pSTFRnRmxqSFQ2V2lXU2lpSW1ld18tQmEwWW9B?oc=5",
-   "source": "ocvb",
-   "published": "2026-09-07T16:00+09:00",
    "summary": "",
    "categories": [
     "okinawa"
@@ -1025,47 +556,6 @@
    ]
   },
   {
-   "title": "「おきなわ観光地域カルテ（７月度）」および「インバウンド人流分析（６月度）」公開のお知らせ",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1laTVtbmRkLWR3TkRxUjFhVDluQ1VCVmc2SHB0bjBnZ2ppYzNLY29BZ2NrMjNZSFFOVVFUZVBkZE1yeFJMX2RUNU81NA?oc=5",
-   "source": "ocvb",
-   "published": "2026-09-04T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "東京事務所における「おきなわ旅セミナー」（国頭村編）の実施報告",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9HQU00X3pnekhpbHRiOEw2UkhoUkI5TlNLRTZWQTRLOWZfTzctLVpGcnRLQUFJWE1jOFVMTE5UOU5iVmdqTW9ob1Jn?oc=5",
-   "source": "ocvb",
-   "published": "2026-09-04T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "歴史を学ぶ体感型平和学習「旧海軍司令部壕 デジタルクイズラリー」9月19日(土)より開催",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpOE1FTU1feHRhWWU5X2RqcDhfVDNSbE4wUFJGWmdUblB3eHhOX3Z1aUJmWXN0Uk44Wi1FcTVUZ1dQNVBnQzBOY2tR?oc=5",
-   "source": "ocvb",
-   "published": "2026-09-04T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "コーラルスポンサー募集！",
-   "url": "https://resortech-expo.okinawa/news/11454/",
-   "source": "resortech",
-   "published": "2026-09-04T00:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
    "title": "Google、AIモードに3つの新機能 航空券の価格追跡やホテル直接予約が可能に",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JMlZXTzBkOGkyZ1dSQkdSdjMzdFZiSVA0blBEc3gtOERCUkVmcWZjVU9HWTZXZDBUX1g3UjA1S3BsQm5pUk1UY1hWQ3JDT18waTBULUR3ZjdQUjc5SElmVUh1NFVjSlJKVWpmWHlqMURidw?oc=5",
    "source": "honichi",
@@ -1099,16 +589,6 @@
    "title": "九州応援割、発表3日で7県すべての土曜が加速 — 沖縄・山口と比較した実測",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRHZEZVllbUJXVTl6eWV2NFVyYmVhZFdOU2U1b2w3Vjg0ZkZ4emhpNzA3c21sMTg1Zldfb2lSdXM1REp4Y0JNcU1DWUNnSWZJanNKa1JMcElRVkVScHpqR3VCaTg2c2RudlVtS2xnaDR2Rzc3WEdrUFdONEVUejZTSWVXSVZKeTRCTHllQ2dnTjFvRHZtdzRB?oc=5",
    "source": "hotelbank",
-   "published": "2026-09-01T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "8月は「観光月間」沖縄県立図書館における特別展示を実施しました(9/1更新)",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2M2JXM0RIM2xmN2ljOGQxWURIOHV2d3NDRmRlRGZtY0pGdXdKbUU3ajdHZGZlc0FfV2E0UEVfNl9NYmRpQTdkbEVn?oc=5",
-   "source": "ocvb",
    "published": "2026-09-01T16:00+09:00",
    "summary": "",
    "categories": [
@@ -1166,26 +646,6 @@
    ]
   },
   {
-   "title": "【海外・MICE事業部】「沖縄観光商談会in 高雄・台中」参加事業者募集について",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xbkVtbENaaVNsNUs4ZWQ2Z3BJVUFITW5Ub2pYS0o1UEk5N1J4R3h2b0E0c1pSaTd4dEdVU2tIYTJObUp2bnF4TFVn?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-28T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "Your Travel Concierge for Safe & Comfortable Journey in Okinawa.",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wanQ0ZU4wVVh2UjFMcnJDS3RpaUE3czliZ213VkdDSFJxcExWSkNGOHVpQ0cxMFM2Mnd0NlVaUVFzUXdnclhpR0N5VmwxOERoZDRMMkNlTWVXUlVFcldIbHFLWDMtcXFmcDJRZjJKM0RjdFNlSTYxY3RVa24?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-28T10:14+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "マリオット、沖縄初進出の中価格帯ホテル「シティエクスプレス」、那覇に全215室、2027年春開業",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tZGlOSzFpdzlsM0FqTURPbWpJMWIxeTB0N1kwdk5haVk1TmU0ck5qSVlVMXZULTNhU2xHNEk3WU9CTG5QOUk1ZlNPc09nRHhGcUJMOQ?oc=5",
    "source": "travelvoice",
@@ -1216,193 +676,10 @@
    ]
   },
   {
-   "title": "【海外・MICE事業部】令和8年度 クルーズガイドブック製作業務にかかる企画公募型コンペティションについて（終了・結果発表）",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA0OE95TjJIUHU4SzI3N3dqdWlDZHpNcTNqX0FkWUlIQ3dVekNURmppZkV5UGxHTnYzU0o2c3NEZlF5cXV6Q052ZU1B?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-27T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa",
-    "subsidy"
-   ]
-  },
-  {
-   "title": "豊岡観光DX推進協議会 - kanko-dx.go.jp",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VZnlaQVQxR2s3MlVJVFBWZ2NHc1JQdG1BbjMxQV9ZRXc1RERIc0RzemFyOV8yMHJ4Q3hGcXVlOVJhMUJSTmp0QXNHQWU1ZG9p?oc=5",
-   "source": "kankodx",
-   "published": "2026-08-27T01:28+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
-   "title": "福津観光DX推進コンソーシアム - kanko-dx.go.jp",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Kb19PUGJxYmRfVHBPZGhBZjg0enZYNm1xUDk1WFlBTzFIWjlidDRIWU1WR2ZMRHE0OXpqQ0lyVENCdDdlUUpZTHpnbFBWZlky?oc=5",
-   "source": "kankodx",
-   "published": "2026-08-26T23:58+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
-   "title": "飯坂温泉・次世代観光DX推進コンソーシアム - kanko-dx.go.jp",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IeE1ZdW84Q1k1aE5jMEtLV1M2b0p6WnJFZm10dlhxcjJKbXpTZ21qYnRqVDdHSlpzSDdORjdtZ2dLQUJ6TFFTX0hZSUcxaVRJ?oc=5",
-   "source": "kankodx",
-   "published": "2026-08-26T23:21+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
-   "title": "新潟県観光DX推進コンソーシアム - kanko-dx.go.jp",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kbERPWWdjMUxzcXhxbkRHOFFvMWthSTlwZ05xNEpOZXVkSnItY0Q3OXk2VXBtWVllZ3E1enRwa0JjMWpkQ1B5ZnY1YkcwRG9N?oc=5",
-   "source": "kankodx",
-   "published": "2026-08-26T22:06+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
-   "title": "八重山観光DX推進コンソーシアム - kanko-dx.go.jp",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxX19tUEg5ZkFzT0RCTmVLcHlVTTNfZEEyUTVvcnRPWGtaZTAxNUZ5NkZzWDhDU202YmY2Tzg4X3l1bXR2RlNsZGhJU3MyWS1N?oc=5",
-   "source": "kankodx",
-   "published": "2026-08-26T21:09+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
-   "title": "ケーススタディ - kanko-dx.go.jp",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mbFFma25JV3Jlek9SbklGQUpIU0hqZ0VsNTZvR0xUUmlwQ2hLZ0F5ZVB6QjNaTE8wTVFDME5GeDZLcVFRQTdudDFEdzVCTVBlYWc3YkRXYnBwUXdM?oc=5",
-   "source": "kankodx",
-   "published": "2026-08-26T20:44+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
-   "title": "亀山地区・久留里線沿線周遊DX推進コンソーシアム - kanko-dx.go.jp",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iaFpMLUFGSTNqM3dlMHE1ZGExU1ZFdjZKSVVGdkpLelVUZ2l5ck1XdHdfTEJ1X3pMMzhwdVdvclNwa0Noa0FJWXp5VzFkNGUz?oc=5",
-   "source": "kankodx",
-   "published": "2026-08-26T20:39+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
-   "title": "阿蘇AIコンシェルジュチーム - kanko-dx.go.jp",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1MDJlOUJyb0pRWFFmY1Fwdk90ZHdBemNRR2RWVXFURDdJS2d0bFQ3clhnNGNZcUxwc0RVUXhuZ1pjVHVrdF80OV9GR0h3U3lD?oc=5",
-   "source": "kankodx",
-   "published": "2026-08-26T20:29+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
-   "title": "一般社団法人沖縄やんばるDMO - kanko-dx.go.jp",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04TFZlbVJENnZ5RkhiYkY5SGFvenU0ZjBDVEdaNGlYeW5tV24xZXlVZXZ3eVFleUMzX3FycVduVXU3VExmMTRvS004OHkzSVRa?oc=5",
-   "source": "kankodx",
-   "published": "2026-08-26T20:07+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
-   "title": "徳島県観光DX推進コンソーシアム - kanko-dx.go.jp",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kNkJkMkItR2dvY0JTRVF5c3l4R1pSaW9nWVhHcUFWd1h4VWlXZ0Rsc3Btc0lQczV5SktlWXpWU2thY1dfaDNqQXZjMmtHb2l4?oc=5",
-   "source": "kankodx",
-   "published": "2026-08-26T19:56+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
-   "title": "日向東臼杵地域観光データコンソーシアム - kanko-dx.go.jp",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wc0tpb0ZfTnI2amJmeF9ObEp1NV9ZZHpUZkhNZDM3clEwdkRjNkFnM1Qxd2xVNm0ybGtXUzhFQ0pncEF5MkNDai1RdDNyNERF?oc=5",
-   "source": "kankodx",
-   "published": "2026-08-26T18:55+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
    "title": "ユナイテッド航空、米国本土から沖縄へ新規就航、世界10都市に路線拡大、過去最大の国際線拡充と新型機導入を発表",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RdjBIYW1RVmZFZFNSSWwwU0ZET1pBSE8wQVNpN2l4X2JTLWhNZVd4d0thRk5EckhySVd0NldnczZVVDNVX3BxWkVMN0VWSXhsYlZONQ?oc=5",
    "source": "travelvoice",
    "published": "2026-08-26T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "契約の状況（令和7年度・令和8年度）",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LMTJpS0t5OS10UThZVEdibmN4QjE3dUE2SDQ2bTlLdFJVR0JWbXU2RVNJRG5kMGJFdFJ2d0tkX25CNjQ1QzAzQm5IazY3dkk?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-26T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "離島旅館業に対する税制特例措置を ご存じですか?",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zdjJ0eFFJTUhSMGY4MTZFZkl2QnFwWHV1OVJPNU5DOGVZdjdfNHh5dE1oalhfdmJSVmY2SVFlTWJjU3J4WkwzZXgwdUdoanZwT0ZLQ2dBSDRCYkJGMnR3b3p2ckRlaHhsdGZQOXlvNWpVcDRoM256b2dHQUo?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-25T12:03+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "【国内事業部】令和8年度 エシカルトラベル動画プロモーション業務にかかる企画コンペティションについて（終了・結果発表）",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4zTjRBWG1ldTI5TlhvYWFiMnlvdkhWcXFJb19jZ1hYZ2ZReDdYSnpoVXF5TUUxMGQwZUY4aTZBQkdJcTlNZW5zTVNR?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-24T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "【総務企画部】令和8年度観光危機管理計画・BCP策定支援セミナーの開催について",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9LY2JEc0JvZGE0alN1d0s0MUlSOUNNQUVQY09heFI5ZktlMTdiaU9CUFV4TGpOTWsxV0FDenNlNFBxbnpKbl9CYWhn?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-24T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "【国内事業部】令和8年度 国内需要安定化事業 「おきなわ物語 特集記事リニューアル及び新規記事作成業務」の業務執行及び企画コンペティションについて（終了・結果発表）",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBrRjQ2M0xMQzdvcDEtbDVIRGEzUEhwOFJ3cmlmb2x1S0pNMHRPblIzWTlrZk5GNlFMbGRVdGxYUW5KQ1cwUTg5RzVB?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-24T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "映画「マッチング TRUE LOVE」× 沖縄フィルムオフィス Instagram Wフォローキャンペーン実施のお知らせ",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qUnd6V3JSalpfSE9oMy1EX3BNN0o4VUYxZzFtSHhSbDdWQ0hIUDc1QnZTcGl5QVoyZm9VUmVhRkVpaGd6NjVQZ2hUTEVsMDhOMWg3YjlhNA?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-21T18:14+09:00",
    "summary": "",
    "categories": [
     "okinawa"
@@ -1432,16 +709,6 @@
    "title": "Booking. com、LGBTQ+旅行者の動向を調査 情報収集にAI活用も進む",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5dV83ZFZNY19OUEV4cm1uRVRldGpNWldPM242T213RkgtMHZHaVMzSE1sVFE1QVJueDVnOUYtQU9yeHJNTkRfd2ZmTTlYandzM2YwTVNnbjJHNm84RVBYQnRFNFJsQjVZejBDMQ?oc=5",
    "source": "honichi",
-   "published": "2026-08-20T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
-   "title": "グーグル、経営破綻したスピリット航空の事業データを16億円で取得へ、AIモデルの学習に活用",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzaXBJclowM3QwZ29vTWlvSFVoSmhJaE4xX0wwQlJfc2hSNUc2MmtKSERkS3JnT2VtQ3BiUUVMSG1Lc0hZNUJib1VoQlVyX3dYZW9jdA?oc=5",
-   "source": "travelvoice",
    "published": "2026-08-20T16:00+09:00",
    "summary": "",
    "categories": [
@@ -1479,6 +746,16 @@
    ]
   },
   {
+   "title": "グーグル、経営破綻したスピリット航空の事業データを16億円で取得へ、AIモデルの学習に活用",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzaXBJclowM3QwZ29vTWlvSFVoSmhJaE4xX0wwQlJfc2hSNUc2MmtKSERkS3JnT2VtQ3BiUUVMSG1Lc0hZNUJib1VoQlVyX3dYZW9jdA?oc=5",
+   "source": "travelvoice",
+   "published": "2026-08-20T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
    "title": "アゴダ、客室選びをAIがサポート、検索条件や希望からおすすめプランを提案",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12SVp2WmkyMy04amN2Qm90SnMzZmVRTG9FN3VhbWt5UmNlNmE2VFpXZ2xzUnd4UGl2dDJ6RUJtLVB1ZHIzQmtENnAtOVBZRzBpdGlmQQ?oc=5",
    "source": "travelvoice",
@@ -1486,16 +763,6 @@
    "summary": "",
    "categories": [
     "dx_ai"
-   ]
-  },
-  {
-   "title": "映画「涙そうそう」公開20周年／「宝島」公開１周年記念イベント 開催のお知らせ【2026年9月20日(日)】",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IWDgxUDNReGhpYU9WYm14RHNySng5bDhsbTFtTVZnaGxmeXRSZHVXeXdoOUtCTDVqaGpucEZYMkdkNFVpYlVjM2J1OVJpSGhvUkxmS01rOA?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-18T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
    ]
   },
   {
@@ -1519,17 +786,6 @@
    ]
   },
   {
-   "title": "三井物産株式会社（株式会社LayerX、三井情報株式会社、三井物産デジタル・アセットマネジメント株式会社共同出展窓口）",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wUzNqd0pSOGFYUThoQmdmUGc2N2VDZk12UXRzc2o5eUdKVHdRbG9hN1hkUnRzSV9CU1dWQWZaMVc1em5TVThnQzc0WGNVMlpIWGFUcXc2ZXoyRlU?oc=5",
-   "source": "resortech",
-   "published": "2026-08-17T05:15+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
    "title": "沖縄の新規供給2,842室を業態別に割り戻す — 在庫比はビジネス0.6%・シティ22.1%、推定成約ADRは7月確定で+7.6%〜+9.9%",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNllYOExwUmZXTHBSSlhwUnBNekxraEgwSjZHWG9jZGtWb2xvemlpRFMweXdTRklERExrbjRMWEgwMVdzeDZiaUR1RklhZU45MV92SzV6R1NsdURFRnpraVN2UUp2OFBBY3FuUWd0U2ZYejFUM0wyM2JieEw4ZVRtbFNkTVNpbDlnR1E?oc=5",
    "source": "hotelbank",
@@ -1550,16 +806,6 @@
    ]
   },
   {
-   "title": "OCVBNews8月号",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JMmxwSmRwZHZudG1RMng0dV8xUnlZNHpyTWF1eEhMZHVuWjVTeWk5aHNiVU9HU2xla3JOeDNaQTdkM1NPVDMwSWlLM3VIbTA?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-14T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "Googleマップ、AI連携の新機能「マップに相談」日本で提供開始、旅行計画やリアルタイム交通情報にも対応",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45T0lxY3B6NEhyNzBhV1dyNFAya3Bmc1hLM2FyemZtNkZwSnRGRWtGRXo4c0F6S25yWVVzYVFkRXpTdFlqa2I1bXlSd1FQd3dvQnc4NA?oc=5",
    "source": "travelvoice",
@@ -1570,41 +816,10 @@
    ]
   },
   {
-   "title": "令和8年度「ロケ受入セミナー」のご案内（市町村・観光協会・撮影受入施設・OCVB賛助会員様向け）",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XTkpLUV9HejlQU2VybHNvSmtwM1FaZUdvc05Da1lWcE5VM1FZbExyWExZUncxZjFvbUVqcm9FSURCSXpyS19tbHBlbXQwekROYjBaaVlLWQ?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-13T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "沖縄リゾート176施設の在庫消化を分解する — お盆と9月上旬で「30日前」の推定稼働率は3.0pt差",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeDAtRldvaWFnVnl4bmkwMF9aOHdCVi1FQXNwRXFYRkRNdnotN0k5YUFVcjZjMXhDSU1haVoxUEo3Yld6a2k5N3k4Ty14RTFVdFdRR0tabXAyQjlPaEs0aFhSTnp0NmtUWFhVc1JvQVYtQmdEaEltUC1NS3lWU0JIazQzYUo?oc=5",
    "source": "hotelbank",
    "published": "2026-08-12T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "リゾテックエキスポ2026：来場登録・セミナー予約方法",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ESlFNVzc3QTJPV09wV0dnWWNHc3F6T3JWVW5JRXBPYjRrVE9wNGplM0xmaVE2cVNyeUk1YVFUVnpmUmUwRWxOTy1nc1JpRng1WGdxRV9jb083dzhS?oc=5",
-   "source": "resortech",
-   "published": "2026-08-12T00:05+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
-   "title": "令和8年 熊本地震について（義援金募集等）",
-   "url": "https://www.ocvb.or.jp/topics/4864",
-   "source": "ocvb",
-   "published": "2026-08-12T00:00+09:00",
    "summary": "",
    "categories": [
     "okinawa"
@@ -1631,16 +846,6 @@
    ]
   },
   {
-   "title": "台風接近に伴う臨時閉園・閉館のお知らせ（8/7 19：30時点）",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qSXdzbENHQmVXZVg5UUxTdnMyczNjcl9XelhaR2M3cWJtN0xyUjF4eWZjWXFyemxwXy12M2RmcXJmNFc0NXNLeXVTU3RzTEkweGRJVVV4ZmM?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-07T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "「AIに聞いて宿を決める」時代の情報整備 — Google UCP・ChatGPT経由の来訪に備える3つの実務",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTjdRVWZkMnlEb05PYV9fM3ZWakgxVmhINGZfMG9KSnVwX0N2TllUTDdnejZ6QklKcFZqNVYxZTU2NkdnelBHalY2d3BFbUVqWXNtcjlWMVhhRFIxUzByU3MtbDdXUkdnTHZXdkhrNnVCWWpJQ0ZUUlE4NGVlQ3B6QjdOT3pPS2tIUmNSOEFWNA?oc=5",
    "source": "hotelbank",
@@ -1648,26 +853,6 @@
    "summary": "",
    "categories": [
     "dx_ai"
-   ]
-  },
-  {
-   "title": "台風接近に伴う臨時閉館のお知らせ（8/6 17：00時点）",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByb2VGTlVaSHZORXU2eTlFNHo3dUtZdTBqX2RnLUplTkNZV0pEbjRIYngybktjMzdidnBEcmRLRW1iUEtWT2xDMkFQTFFScmZRU0hHcE1DSUU?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-06T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "「おきなわ観光地域カルテ（６月度）」および「インバウンド人流分析（５月度）」公開のお知らせ",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2TmZkNDItYjlBaks1RTlpSURJR0MtUHFVZFQxSUE3ZFhBcVByWEpCUGdwa1ZNSWloUG1Kc1V6MDVMcUoyeXFwZVBKTQ?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-05T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
    ]
   },
   {
@@ -1701,16 +886,6 @@
    ]
   },
   {
-   "title": "令和８年熊本地震による被災へのお見舞いメッセージ",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9kaVRBOUJWblV1S0pIRVB2NDBKc2wxYjRKUEVSNHVabndybDZYcUJ2WnNLbWNQY1VEbzg2cHFmX3hiNzFQR0VOZU9R?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-04T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "AIが変えるDMOの役割とは？ 観光の新運営モデル「デスティネーション・アズ・ア・サービス」（DaaS）が必要な理由【外電】",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tZ1lneC16clhTc3RaeVlMRENOOGxkdDBFWlVmOEJXb2kxMGZTdWpvbTBMcVZ5Znh0MmhzVVZIdEdCay05aTA1aDNMeHI0TWxRNVhsaA?oc=5",
    "source": "travelvoice",
@@ -1728,26 +903,6 @@
    "summary": "",
    "categories": [
     "dx_ai"
-   ]
-  },
-  {
-   "title": "【海外・MICE事業部】令和８年度 沖縄MICEプロジェクト「MICE商談会・ランチョンセミナー」運営業務にかかるコンペティションについて",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE51MHJ1dXNoR3FvQkRyVmhQbHNyODYxQ3dkV19sYUJIcHJnb0JIU002VXNMSFRVTHQ5TzRKcjBvazZqRlZDU1VrY0tn?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-03T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "令和8年度 OCVB職員採用試験について(8/3更新）",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9taGIxcmd2VW9nSGZpd2s5emJ1cnB1ZU81bldkelJobzNzdld3aEpfcVpmR1hpS1BrZl9oUGVuLWFTQmtiUklUR0dB?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-03T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
    ]
   },
   {
@@ -1771,17 +926,6 @@
    ]
   },
   {
-   "title": "【国内事業部】令和8年度スポーツアイランド沖縄 動画活用プロモーション業務にかかる企画公募型コンペティションについて（終了・結果発表）",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CQnhGVnFTUDFZNkJNMmdzRUFGQjdKTEhZb2ZKX254Z21TWDRnek53U2FxenBaMHRCWW5YS2xXMHRocTYzbnNjdFVn?oc=5",
-   "source": "ocvb",
-   "published": "2026-07-31T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa",
-    "subsidy"
-   ]
-  },
-  {
    "title": "沖縄の宿泊税2%、実勢単価にいくら乗るか — 市町村別に1人1泊の税額を試算",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Sb1lQVFRjNnUzUXp6T2lTbmVpYVZVOXBjZ1ctaTNtNFdRS3JfYVd0NGhWMHNQek9OSHpwUVNnZTRFZ1R4SjFEUGFCY3ZxZC04SkcxVGRFQl9uVzdic3ZLaTExeWExSmhKMGI2Ql9HZmFvRjJYdUZIVXBR?oc=5",
    "source": "hotelbank",
@@ -1792,41 +936,10 @@
    ]
   },
   {
-   "title": "令和8年度第2回OCVB定例記者懇談会を開催いたしました",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1TbTdJRk5TZVV5TWFpYUM0RkVTc1pzLUJRbkRsN0RhTTZUVEtDam1Lb1ByTE1yTmVnOUIzVWJkUkhCdEozT1BwNmdB?oc=5",
-   "source": "ocvb",
-   "published": "2026-07-30T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "IT未来フェス開催のお知らせ！",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43TkFRQ1JwVWhRdVNLOS1zSUFFTTgxRDY5Rk1ybkkxbWhvbTJTcmFSX3ZwTGxZdkJ3Zndqd1dQSWtIczNFZlExQ2hmajd0VXg2QzFqSA?oc=5",
-   "source": "resortech",
-   "published": "2026-07-30T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
    "title": "ラグジュアリー旅行は「AI」でどう変わるか？ カギは置き換えではなく、「卓越した」サービス【外電】",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfeUZzQkw2cFlRWm9DSWR2SmJSQkdUREloR0xKUXd6NVJUSmtWUkNSOUxvd1BneFNnc1Y5ajlUaHlrRmhqTTZzODBEMlJJVjBnb1JuYQ?oc=5",
    "source": "travelvoice",
    "published": "2026-07-29T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
-   "title": "SQUEEZE、宿泊運営システムにAI電話応答機能を実装、AIのみで完結した問い合わせは約8割",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqRmVCTC1MRFktQ1A1dFVmT1M0OHo3RG5ndms5RzFEVXV0amxqUGlsMHFBNTZaM0ZueFZ3V3FNU29ESlJxUDE5emhSZFlwcDgybnBITA?oc=5",
-   "source": "travelvoice",
-   "published": "2026-07-28T16:00+09:00",
    "summary": "",
    "categories": [
     "dx_ai"
@@ -1863,20 +976,10 @@
    ]
   },
   {
-   "title": "タイ ダイビング事業者とのネットワークイベント参加者募集のお知らせ",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1WMVcwR0VwZVgtaWpZQjNESzZNRlo3OFk1MnRHTE15ZE4zOE9PYzdxUEZqLUJkX1pkb3VSbGtuVlFCUENTaC02T1Fn?oc=5",
-   "source": "ocvb",
+   "title": "SQUEEZE、宿泊運営システムにAI電話応答機能を実装、AIのみで完結した問い合わせは約8割",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqRmVCTC1MRFktQ1A1dFVmT1M0OHo3RG5ndms5RzFEVXV0amxqUGlsMHFBNTZaM0ZueFZ3V3FNU29ESlJxUDE5emhSZFlwcDgybnBITA?oc=5",
+   "source": "travelvoice",
    "published": "2026-07-28T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "観光庁「観光DX」第1回”Next Tourism Seminar 2026” 開催のお知らせ",
-   "url": "https://prtimes.jp/main/html/rd/p/000000038.000107216.html",
-   "source": "kankodx",
-   "published": "2026-07-28T00:00+09:00",
    "summary": "",
    "categories": [
     "dx_ai"
@@ -1886,26 +989,6 @@
    "title": "国交省、訪日客のレンタカー事故対策を本格展開へ 新千歳・福岡・那覇空港周辺で先行実施",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VM0wwMGdaRklwRmtkN09VTWV0ejdpVS1KV0kwbDBic2NRdktyakJienZOZ05BVTdteldUZHZSZS1INnpjak94QzFITDU3anhaUVJLcnhHVlRPb2J2amtfQk9aN1VWV2FVVTVB?oc=5",
    "source": "honichi",
-   "published": "2026-07-27T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "【沖縄県からのお知らせ】沖縄県宿泊税制度の開始及び修学旅行等の課税免除手続きについて",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAtV3VwMHgyNlRMLWoya2RUcXBuWlQ1V2xTUXRibGlmSURLR2dONlNQTmZNRDVEenRLbVFaemFCX2IzYjdER2lmNVRR?oc=5",
-   "source": "ocvb",
-   "published": "2026-07-27T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "「沖縄観光大使2026-2028」お披露目について",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5KSUZXMXlNeWNwNEtVajJNTUdqZWNOVnBfXzd6aHd3M2pJbDJfc01MTGlVZjN2T2JwU1J5VjR4TzQwQjFfbHk0Ni1R?oc=5",
-   "source": "ocvb",
    "published": "2026-07-27T16:00+09:00",
    "summary": "",
    "categories": [
@@ -1933,57 +1016,6 @@
    ]
   },
   {
-   "title": "シンガポール「SJ60」出展企業募集のお知らせ",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFByU1ZrYkNWM3BhQXRYNGtYV2dMODBJRVZ5SHBZMlR0VndUR0tMY1g0NlRBekNyU2lENUJlMzlMSWRMOXRTeEpWeFFB?oc=5",
-   "source": "ocvb",
-   "published": "2026-07-22T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "首都圏からの観光誘客プロモーションの取り組み 「第23回新宿エイサーまつり」会場にて沖縄の魅力を発信します！",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9yVHBiREVKbzNyZFJsNzQ0SkNnRmhQNURmLUJnVmwyZUpUMjVnTEl1WlJwU3hBeE1HeXpVeDBqRFRrVE9zSy1KeW53?oc=5",
-   "source": "ocvb",
-   "published": "2026-07-22T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "チャイナエアライン台中―那覇 運航再開に伴う空港歓迎式を実施しました",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5NUldpX1IzeUhtS1NscDFxM0NXYU84RGtuV3A4bXltZ3gtVktvSFB0dzg3THRLUXpqYXByTHlsYUUtSDY4QTBwbnNn?oc=5",
-   "source": "ocvb",
-   "published": "2026-07-21T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "「香港ブックフェア2026 スポーツ＆レジャーエキスポ 」にて沖縄観光プロモーションを実施しました",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBWSmQ2VS1fYWJlZXdidXdLYnNTbkVybmdvb2pPVlNuODdXWGJrOXd6dmphdHcxUkxOWXg3dGs3ODJSY3BCX0pEU0NR?oc=5",
-   "source": "ocvb",
-   "published": "2026-07-21T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "第1回『AIセミナー≪ＤＸ＆ブランディング編≫』を開催します！（令和７年度補正 観光事業者収益力向上サポート事業２０２６）",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ERzJJNlREUUlXZWlHV3l0MmQzS1gzUVVicjBvdUJhSkNmd1FFUWo1dlJzTFA5aWI4RnQ5N1RsUXFMYVdhQTdrcU1n?oc=5",
-   "source": "ocvb",
-   "published": "2026-07-17T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
    "title": "博多・天神でインバウンドに人気の飲食店、沖縄・静岡の人気宿泊施設は？",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BX1JINEF0aVEzRk1fQWpXQnlDdmoyVlVyN1lKS2VmOUhmcjlib09sVUNKcmlwRWFnZWtnVWtMcXQ2dEFiZjlETVROaFB2Rk1uZzRUUjdXd1JpM0MtNTdLcVBIeFNzOVl4d2FCQ3pqTQ?oc=5",
    "source": "honichi",
@@ -2001,16 +1033,6 @@
    "summary": "",
    "categories": [
     "dx_ai"
-   ]
-  },
-  {
-   "title": "OCVBNews7月号",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iYkkwMW5IMUQ5TkZJVndrSm5wYy1wZ1hJNENSRnE0OGswRENaSXFHcTFXV2tnR3B2NnMwQVIwZkFQRlBVT0lHbGJOWXQ3WHM?oc=5",
-   "source": "ocvb",
-   "published": "2026-07-14T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
    ]
   },
   {
