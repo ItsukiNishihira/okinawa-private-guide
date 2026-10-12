@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T06:50+09:00",
+ "updated_at": "2026-10-12T14:46+09:00",
  "sources": [
   {
    "id": "honichi",
@@ -13,22 +13,22 @@
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
    "direct_feed": false,
-   "new_items": 32
+   "new_items": 30
   },
   {
    "id": "travelvoice",
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 64
+   "new_items": 61
   }
  ],
  "articles": [
   {
-   "title": "冬・春のひろしま観光ブランドプロモーション業務に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlcEhMMHVDLWR0aTA2RjZIMjdSVXdONmJtZmxnVWIwckJ5ZXdjeWtEZmJnaFhzclVzbm5qS2JvbTJ3XzBiVndjNGI1Rk1uT3BJ?oc=5",
+   "title": "県内観光需要の平準化・周遊促進に向けた富士山静岡空港二次交通実証運行事業業務に係る企画提案の公募",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12T0tIUzFwLW1kLW5tVkRqTzI2dUFpeHRkN1M5dGM4eDNabFB5Z3B1d2dIUW54Z3VMU1dkbGVub0dPbVN6ZnIyMzFxVHdOdlo4?oc=5",
    "source": "travelvoice",
-   "published": "2026-10-12T01:54+09:00",
+   "published": "2026-10-12T09:27+09:00",
    "summary": "",
    "categories": [
     "subsidy"
@@ -38,7 +38,17 @@
    "title": "ぶらり丹波路魅力体験＆拡散ツアー事業に係る公募型プロポーザルの実施",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtcDI5NGVQNElpYktIOUxYSG4wWkhPZVFkQ1Y3TUl3VWVBUWZHdnNpODBjeTN2OTNLNTBhenJzdmRLLVhkVl9ueldyOVFPUGFU?oc=5",
    "source": "travelvoice",
-   "published": "2026-10-11T10:06+09:00",
+   "published": "2026-10-12T09:27+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "冬・春のひろしま観光ブランドプロモーション業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlcEhMMHVDLWR0aTA2RjZIMjdSVXdONmJtZmxnVWIwckJ5ZXdjeWtEZmJnaFhzclVzbm5qS2JvbTJ3XzBiVndjNGI1Rk1uT3BJ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-12T01:54+09:00",
    "summary": "",
    "categories": [
     "subsidy"
@@ -65,16 +75,6 @@
    ]
   },
   {
-   "title": "県内観光需要の平準化・周遊促進に向けた富士山静岡空港二次交通実証運行事業業務に係る企画提案の公募",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12T0tIUzFwLW1kLW5tVkRqTzI2dUFpeHRkN1M5dGM4eDNabFB5Z3B1d2dIUW54Z3VMU1dkbGVub0dPbVN6ZnIyMzFxVHdOdlo4?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-11T01:23+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
-   ]
-  },
-  {
    "title": "京都観光サポーター制度企画・運営業務に係る公募型プロポーザルの実施",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5Z3ZFZThaekxBcFFZVlB0ejQyZWJ3SnNGQ3NJaF9Va2VhU3ZrWHVKZTVObEcwMVptVWFwb2FvcnlMbGwySjV2ZlFveDVWbks3?oc=5",
    "source": "travelvoice",
@@ -89,6 +89,16 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92OS1Ed2dyalNQYnpwbjlyTnN2TmFNeFc1QmtoTzF1U21LOWVfeklORl80blJpLTVKLUhjYll5UGx6cUlCTndtV3FZSFE0UFlR?oc=5",
    "source": "travelvoice",
    "published": "2026-10-10T23:06+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "冬季誘客コンテンツ充実業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qY0tBbnN0NE1jQmk1Ry1xXzhGczRlYVFWUzBlNWphTEpRZGtteEJ6NXhHajIxeURidTVVcUJhRUJpNkp6RG5vNmRWZ0p2ZXEz?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-10T22:51+09:00",
    "summary": "",
    "categories": [
     "subsidy"
@@ -172,16 +182,6 @@
    "summary": "沖縄観光コンベンションビューローが、おきなわ応援ポケモン「ガーディ」のコラボステッカーを沖縄本島周辺の15離島で配布。新たに9離島を加え、収集目的の来訪者増加を目指す。",
    "categories": [
     "okinawa"
-   ]
-  },
-  {
-   "title": "冬季誘客コンテンツ充実業務に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qY0tBbnN0NE1jQmk1Ry1xXzhGczRlYVFWUzBlNWphTEpRZGtteEJ6NXhHajIxeURidTVVcUJhRUJpNkp6RG5vNmRWZ0p2ZXEz?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-09T11:09+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
    ]
   },
   {
