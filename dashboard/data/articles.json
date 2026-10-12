@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T14:46+09:00",
+ "updated_at": "2026-10-13T00:12+09:00",
  "sources": [
   {
    "id": "honichi",
@@ -13,20 +13,30 @@
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
    "direct_feed": false,
-   "new_items": 30
+   "new_items": 28
   },
   {
    "id": "travelvoice",
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 61
+   "new_items": 60
   }
  ],
  "articles": [
   {
    "title": "県内観光需要の平準化・周遊促進に向けた富士山静岡空港二次交通実証運行事業業務に係る企画提案の公募",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12T0tIUzFwLW1kLW5tVkRqTzI2dUFpeHRkN1M5dGM4eDNabFB5Z3B1d2dIUW54Z3VMU1dkbGVub0dPbVN6ZnIyMzFxVHdOdlo4?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-12T09:27+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "京都観光サポーター制度企画・運営業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5Z3ZFZThaekxBcFFZVlB0ejQyZWJ3SnNGQ3NJaF9Va2VhU3ZrWHVKZTVObEcwMVptVWFwb2FvcnlMbGwySjV2ZlFveDVWbks3?oc=5",
    "source": "travelvoice",
    "published": "2026-10-12T09:27+09:00",
    "summary": "",
@@ -69,16 +79,6 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1enZLNmpXTXpLS25FcEVMSzJaWGFHdWJraGtfckVHRk5TQjJhaWFNemVhWVU5am5IZnhENWx4bVlnNUpYRDV3b3BELW9VQlhK?oc=5",
    "source": "travelvoice",
    "published": "2026-10-11T01:29+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
-   ]
-  },
-  {
-   "title": "京都観光サポーター制度企画・運営業務に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5Z3ZFZThaekxBcFFZVlB0ejQyZWJ3SnNGQ3NJaF9Va2VhU3ZrWHVKZTVObEcwMVptVWFwb2FvcnlMbGwySjV2ZlFveDVWbks3?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-11T00:39+09:00",
    "summary": "",
    "categories": [
     "subsidy"
@@ -516,16 +516,6 @@
    ]
   },
   {
-   "title": "沖縄のシーズン逆算カレンダー — T-45で決め、T-30で動かし、T-14で諦めるを業態別に切り分ける",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWVRKN3pXY3E0RzJnZjlGNE9EbC13YVFyWGJkaWFhU0hWb1lJeFJ0Z0NndTRJVHB0aXhaVWhsYUJNSW5QMThlMmZBZVV2Q0xOWEQ0c002bVdiU0llTTRoR0hrcTBEVDlFOU5BYzI1V3piSGpzRjFuT1JTYTlSOWxpYURKYlktQQ?oc=5",
-   "source": "hotelbank",
-   "published": "2026-09-09T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "九州ふっこう応援割2026 まとめ｜いつから・いつまで・いくら安い・県別の予約開始日と補助率（最大60%）",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORG44ZWZPN080WU43Q1lON2xVbndJLU5rdDBwcnA0WnlvWFJGSXl3ZDBrblNwb1l0TTZQQXg4MTFuc0t2R3l1SER0T0h2YlZQMUctVHRWaExGTFhCSjlPM0UtX3I2ekNlMXF2QXM3ME4xT1FxaW1ta2ZFcnVUbWpwYTgtYw?oc=5",
    "source": "hotelbank",
@@ -533,6 +523,16 @@
    "summary": "",
    "categories": [
     "subsidy"
+   ]
+  },
+  {
+   "title": "沖縄のシーズン逆算カレンダー — T-45で決め、T-30で動かし、T-14で諦めるを業態別に切り分ける",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWVRKN3pXY3E0RzJnZjlGNE9EbC13YVFyWGJkaWFhU0hWb1lJeFJ0Z0NndTRJVHB0aXhaVWhsYUJNSW5QMThlMmZBZVV2Q0xOWEQ0c002bVdiU0llTTRoR0hrcTBEVDlFOU5BYzI1V3piSGpzRjFuT1JTYTlSOWxpYURKYlktQQ?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-09T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
    ]
   },
   {
