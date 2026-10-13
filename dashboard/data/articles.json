@@ -1,26 +1,26 @@
 {
- "updated_at": "2026-10-13T09:33+09:00",
+ "updated_at": "2026-10-13T23:03+09:00",
  "sources": [
   {
    "id": "honichi",
    "name": "訪日ラボ",
    "home": "https://honichi.com/",
    "direct_feed": true,
-   "new_items": 13
+   "new_items": 14
   },
   {
    "id": "hotelbank",
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
    "direct_feed": false,
-   "new_items": 27
+   "new_items": 28
   },
   {
    "id": "travelvoice",
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 60
+   "new_items": 61
   }
  ],
  "articles": [
@@ -28,10 +28,51 @@
    "title": "北海道ファイターズ、AI旅行予約サービスの運営会社と資本業務提携、Fビレッジへのインバウンド誘客を強化",
    "url": "https://www.travelvoice.jp/20261009-160652",
    "source": "travelvoice",
-   "published": "2026-10-13T08:56+09:00",
+   "published": "2026-10-13T13:27+09:00",
    "summary": "ファイターズ スポーツ＆エンターテイメント（FSE）は、AIワンストップ旅行予約サービス「TripToJapan.com」を展開する高輪トラベルグループと資本業務提携契約。Fビレッジへのインバウンド集客を強化していく。",
    "categories": [
     "dx_ai"
+   ]
+  },
+  {
+   "title": "高岡市北部地区観光商品造成・情報発信業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wVnRTbVpNQXpIOW1YSENWVWJybUM4SjdCdlVFazJYUFViOTMyRnphMUdOVnJFYUtaZlFsV1BOQTBMMEVkei1tRlhjMjh3RkRX?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-13T13:07+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "AIツール推奨商品の購買率は60%！アパレル購買におけるAI利用実態レポート",
+   "url": "https://honichi.com/news/2026/10/13/202610_survey_retail_ai/",
+   "source": "honichi",
+   "published": "2026-10-13T13:00+09:00",
+   "summary": "訪日ラボでは消費者アンケートを実施し、業界ごとに 独自調査 レポートを発表しています。 今回は「アパレル購買」をテーマに、 AI ツールがどの程度、どんな方法で活用されているのかを調査しました。 ＜本レポートでご覧いただける内容＞ アパレル購買に利用する情報媒体 AIツールの使われ方・影響力 情報整備・口コミの重要性…",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "群馬県、「ご当地Suica」移行へ準備本格化、住民向け交通割引や来訪者の交通検索・予約を便利に",
+   "url": "https://www.travelvoice.jp/20261013-160653",
+   "source": "travelvoice",
+   "published": "2026-10-13T10:50+09:00",
+   "summary": "群馬県は、「ご当地Suica」移行に伴う「GunMaaS」プロモーション業務委託について公募を開始。JR東日本が推進する「ご当地Suica」とはモバイルSuicaに地域独自のMaaSと生活サービスを一体化したもの。",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "ゼンリンなど5社、沖縄の観光周遊を支援、観光アプリで交通・観光チケットを販売、移動データ分析も",
+   "url": "https://www.travelvoice.jp/20261013-160618",
+   "source": "travelvoice",
+   "published": "2026-10-13T10:45+09:00",
+   "summary": "ゼンリンら5社が連携し、沖縄県那覇・浦添エリアで観光DXを推進。アプリ「STLOCAL」でモノレールやバス、観光施設などのデジタルチケット販売。観光情報提供やスタンプラリーで周遊促進。",
+   "categories": [
+    "dx_ai",
+    "okinawa"
    ]
   },
   {
@@ -105,16 +146,6 @@
    ]
   },
   {
-   "title": "冬季誘客コンテンツ充実業務に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qY0tBbnN0NE1jQmk1Ry1xXzhGczRlYVFWUzBlNWphTEpRZGtteEJ6NXhHajIxeURidTVVcUJhRUJpNkp6RG5vNmRWZ0p2ZXEz?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-10T22:51+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
-   ]
-  },
-  {
    "title": "沖縄の食事プレミアム、ビジネス朝食+12.9%・リゾート+7.4% — 単価が高いほど薄い朝食の段差、2食付で+19.8%",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdWJFOXA3d0xOYm9UZGFXcVdReXlnS0lnV0tqbFpjZjEzLWVVNHlTazNDODFvWHphWU45Vk1yRGRtajJhNVFNRDlueVNmdTJwMWluNkxNQ0tULVIwZFR1ZnctMXFMaEtQQjg5OEMtSlUwN3d4N0R0bWlmeXR3MmxYdVBwVTdSVUc2dXFObGQwaw?oc=5",
    "source": "hotelbank",
@@ -165,6 +196,16 @@
    ]
   },
   {
+   "title": "冬季誘客コンテンツ充実業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qY0tBbnN0NE1jQmk1Ry1xXzhGczRlYVFWUzBlNWphTEpRZGtteEJ6NXhHajIxeURidTVVcUJhRUJpNkp6RG5vNmRWZ0p2ZXEz?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-09T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
    "title": "AIはアパレル購買にどこまで使われている？〜生成AIでアパレル店を探す600人に聞いた検索手段とAIの影響度",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1valJSeXpZY3dWdGNjVzd6eWZtdm14aVJDbF91c0dWSk9HSkNGbWpMeHJnRVJfS3FNbUVuNnNFZmZ6aTBDYUtGYkJqZ1FkaERuaTFtZVBJaDFEZ2VaeFlHS0RR?oc=5",
    "source": "honichi",
@@ -175,16 +216,6 @@
    ]
   },
   {
-   "title": "沖縄15離島の観光活性化へ、ポケモン「ガーディ」の現地限定ステッカーで来訪促進、新たに9島が参加",
-   "url": "https://www.travelvoice.jp/20261009-160600",
-   "source": "travelvoice",
-   "published": "2026-10-09T11:42+09:00",
-   "summary": "沖縄観光コンベンションビューローが、おきなわ応援ポケモン「ガーディ」のコラボステッカーを沖縄本島周辺の15離島で配布。新たに9離島を加え、収集目的の来訪者増加を目指す。",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "ファイターズ、AI旅行予約サービスの運営会社と資本業務提携、北海道Fビレッジへのインバウンド誘客を強化",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHRF9hNGR5Z3A0alFEWVJ3WDNnNVBualVnQ1JqTVU0TkJuT3R5Tm1DRFdiT1RoYTRBel9KV2lScnlyUUpFVXo3QlM0RlpjdTRKMzNiUw?oc=5",
    "source": "travelvoice",
@@ -192,6 +223,16 @@
    "summary": "",
    "categories": [
     "dx_ai"
+   ]
+  },
+  {
+   "title": "沖縄15離島の観光活性化へ、ポケモン「ガーディ」の現地限定ステッカーで来訪促進、新たに9島が参加",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uR0dNaU9YVzZMRjZNOUJUbDZnTzZZamlQTE9fMmhiM2V4ZmdrWUJUY19TWGRUZnpBZVBUdWZNVnUzb05rZjlrYXZVQXl0cEtzd2c0MA?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-09T10:40+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
    ]
   },
   {
@@ -526,16 +567,6 @@
    ]
   },
   {
-   "title": "九州ふっこう応援割2026 まとめ｜いつから・いつまで・いくら安い・県別の予約開始日と補助率（最大60%）",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORG44ZWZPN080WU43Q1lON2xVbndJLU5rdDBwcnA0WnlvWFJGSXl3ZDBrblNwb1l0TTZQQXg4MTFuc0t2R3l1SER0T0h2YlZQMUctVHRWaExGTFhCSjlPM0UtX3I2ekNlMXF2QXM3ME4xT1FxaW1ta2ZFcnVUbWpwYTgtYw?oc=5",
-   "source": "hotelbank",
-   "published": "2026-09-09T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
-   ]
-  },
-  {
    "title": "沖縄のシーズン逆算カレンダー — T-45で決め、T-30で動かし、T-14で諦めるを業態別に切り分ける",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWVRKN3pXY3E0RzJnZjlGNE9EbC13YVFyWGJkaWFhU0hWb1lJeFJ0Z0NndTRJVHB0aXhaVWhsYUJNSW5QMThlMmZBZVV2Q0xOWEQ0c002bVdiU0llTTRoR0hrcTBEVDlFOU5BYzI1V3piSGpzRjFuT1JTYTlSOWxpYURKYlktQQ?oc=5",
    "source": "hotelbank",
@@ -546,6 +577,16 @@
    ]
   },
   {
+   "title": "九州ふっこう応援割2026 まとめ｜いつから・いつまで・いくら安い・県別の予約開始日と補助率（最大60%）",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORG44ZWZPN080WU43Q1lON2xVbndJLU5rdDBwcnA0WnlvWFJGSXl3ZDBrblNwb1l0TTZQQXg4MTFuc0t2R3l1SER0T0h2YlZQMUctVHRWaExGTFhCSjlPM0UtX3I2ekNlMXF2QXM3ME4xT1FxaW1ta2ZFcnVUbWpwYTgtYw?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-09T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
    "title": "沖縄県産品を世界のガストロノミー市場へ 大阪で開催された「OKINAWA ACROSS THE WORLD 2026」をレポート",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Eb2d3OTBQRWdnNjVYMGZ3UWo4LXpjTjdIX0xhOTVqaHdLc3pLVXV1cFNsV1FmaWd2UFVrY1UtTWhNaVhHSDB6MWdFTHliWGZSak4wSUxiUmd2cXZSMUtDU0pFY2NvNERnazY3anRBaE1fQXVQ?oc=5",
    "source": "honichi",
@@ -553,6 +594,16 @@
    "summary": "",
    "categories": [
     "okinawa"
+   ]
+  },
+  {
+   "title": "京都市長が語った「京都観光の課題と未来」、住民生活との両立、高付加価値化、市バス「市民優先価格」など取材した",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14ME9CRE5RaTBrR3JEU0JVXzZlLWxLcXRrbm5WU3JKVVdRZXBqanlYdHFDTmxaVFh0RFU5a1U3UENGdGlrX1pVZ0R6QkFFZ3loUkZkQQ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-09-08T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
    ]
   },
   {
@@ -623,6 +674,26 @@
    "summary": "",
    "categories": [
     "okinawa"
+   ]
+  },
+  {
+   "title": "近ツー、JTBなど旅行大手ら4社、スポーツ観戦の高付加価値化へ新団体を設立、地域誘客や交流創出を推進",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CbHk3ZzN5VFZkV2tMa0ZPVXZvZ2tTc0lsZWd0WEFKYV9EckhUTjllbk9tZ21GcTI2d3RlS2xmb3dzelIwXzFfTVpscWlDanNxWlFKUw?oc=5",
+   "source": "travelvoice",
+   "published": "2026-09-02T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "AIエージェント時代の旅行販売、勝負を分ける「予約・決済」の仕組みとは？ 次世代販売戦略を決済大手のAdyenがウェビナーで解説（PR）",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Bb1MxY19yUUtNV1poLWhwQ29oVmtXR2hiYldJenRlVkVwYUM3Yk1vQ0JhOF9wc1Z0QVFOcTcyMVJ1MlRoNHpIWWxlZXdnRXVFd2pjcA?oc=5",
+   "source": "travelvoice",
+   "published": "2026-09-02T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
    ]
   },
   {
@@ -1066,6 +1137,16 @@
    ]
   },
   {
+   "title": "フランスにおける観光プロモーション実施事業業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zT2p4bDUwa3pMUWlBQzA4QTI4WVRRNXpWWkcxd1lFbFpIZkJ3bEhudmpaY01uLTl1OTIweW1PR0Y5SlhXNVdmeThjdDJTNmlv?oc=5",
+   "source": "travelvoice",
+   "published": "2026-07-16T16:48+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
    "title": "博多・天神でインバウンドに人気の飲食店、沖縄・静岡の人気宿泊施設は？",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BX1JINEF0aVEzRk1fQWpXQnlDdmoyVlVyN1lKS2VmOUhmcjlib09sVUNKcmlwRWFnZWtnVWtMcXQ2dEFiZjlETVROaFB2Rk1uZzRUUjdXd1JpM0MtNTdLcVBIeFNzOVl4d2FCQ3pqTQ?oc=5",
    "source": "honichi",
@@ -1090,6 +1171,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TXzVZc05XOXNjakxrME54eEp2eHI4SlVSMngtY1RuUVZOcFRTSTVFd18xTjI3ektDWkdWTWlnX3JqbUlXYkM2YTJMR0psdmFoYXk0Tg?oc=5",
    "source": "travelvoice",
    "published": "2026-07-14T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "ホテル誘致営業活動強化事業業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQRmpvdk5NZDRkVUNZZ3FBWHRxdzJPVURreXdOMDQtZE5Wc0F3dnZqTWtSMTIzdjhVb0wyb1M0Y0VWdnBLYnlDTEtBRDZja2I2?oc=5",
+   "source": "travelvoice",
+   "published": "2026-07-10T13:47+09:00",
    "summary": "",
    "categories": [
     "subsidy"
