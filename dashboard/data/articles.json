@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T00:12+09:00",
+ "updated_at": "2026-10-13T09:33+09:00",
  "sources": [
   {
    "id": "honichi",
@@ -13,7 +13,7 @@
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
    "direct_feed": false,
-   "new_items": 28
+   "new_items": 27
   },
   {
    "id": "travelvoice",
@@ -24,6 +24,16 @@
   }
  ],
  "articles": [
+  {
+   "title": "北海道ファイターズ、AI旅行予約サービスの運営会社と資本業務提携、Fビレッジへのインバウンド誘客を強化",
+   "url": "https://www.travelvoice.jp/20261009-160652",
+   "source": "travelvoice",
+   "published": "2026-10-13T08:56+09:00",
+   "summary": "ファイターズ スポーツ＆エンターテイメント（FSE）は、AIワンストップ旅行予約サービス「TripToJapan.com」を展開する高輪トラベルグループと資本業務提携契約。Fビレッジへのインバウンド集客を強化していく。",
+   "categories": [
+    "dx_ai"
+   ]
+  },
   {
    "title": "県内観光需要の平準化・周遊促進に向けた富士山静岡空港二次交通実証運行事業業務に係る企画提案の公募",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12T0tIUzFwLW1kLW5tVkRqTzI2dUFpeHRkN1M5dGM4eDNabFB5Z3B1d2dIUW54Z3VMU1dkbGVub0dPbVN6ZnIyMzFxVHdOdlo4?oc=5",
@@ -155,16 +165,6 @@
    ]
   },
   {
-   "title": "ファイターズ、AI旅行予約サービスの運営会社と資本業務提携、北海道Fビレッジへのインバウンド誘客を強化",
-   "url": "https://www.travelvoice.jp/20261009-160652",
-   "source": "travelvoice",
-   "published": "2026-10-09T18:14+09:00",
-   "summary": "ファイターズ スポーツ＆エンターテイメント（FSE）は、AIワンストップ旅行予約サービス「TripToJapan.com」を展開する高輪トラベルグループと資本業務提携契約。Fビレッジへのインバウンド集客を強化していく。",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
    "title": "AIはアパレル購買にどこまで使われている？〜生成AIでアパレル店を探す600人に聞いた検索手段とAIの影響度",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1valJSeXpZY3dWdGNjVzd6eWZtdm14aVJDbF91c0dWSk9HSkNGbWpMeHJnRVJfS3FNbUVuNnNFZmZ6aTBDYUtGYkJqZ1FkaERuaTFtZVBJaDFEZ2VaeFlHS0RR?oc=5",
    "source": "honichi",
@@ -182,6 +182,16 @@
    "summary": "沖縄観光コンベンションビューローが、おきなわ応援ポケモン「ガーディ」のコラボステッカーを沖縄本島周辺の15離島で配布。新たに9離島を加え、収集目的の来訪者増加を目指す。",
    "categories": [
     "okinawa"
+   ]
+  },
+  {
+   "title": "ファイターズ、AI旅行予約サービスの運営会社と資本業務提携、北海道Fビレッジへのインバウンド誘客を強化",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHRF9hNGR5Z3A0alFEWVJ3WDNnNVBualVnQ1JqTVU0TkJuT3R5Tm1DRFdiT1RoYTRBel9KV2lScnlyUUpFVXo3QlM0RlpjdTRKMzNiUw?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-09T10:52+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
    ]
   },
   {
@@ -530,6 +540,16 @@
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWVRKN3pXY3E0RzJnZjlGNE9EbC13YVFyWGJkaWFhU0hWb1lJeFJ0Z0NndTRJVHB0aXhaVWhsYUJNSW5QMThlMmZBZVV2Q0xOWEQ0c002bVdiU0llTTRoR0hrcTBEVDlFOU5BYzI1V3piSGpzRjFuT1JTYTlSOWxpYURKYlktQQ?oc=5",
    "source": "hotelbank",
    "published": "2026-09-09T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "沖縄県産品を世界のガストロノミー市場へ 大阪で開催された「OKINAWA ACROSS THE WORLD 2026」をレポート",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Eb2d3OTBQRWdnNjVYMGZ3UWo4LXpjTjdIX0xhOTVqaHdLc3pLVXV1cFNsV1FmaWd2UFVrY1UtTWhNaVhHSDB6MWdFTHliWGZSak4wSUxiUmd2cXZSMUtDU0pFY2NvNERnazY3anRBaE1fQXVQ?oc=5",
+   "source": "honichi",
+   "published": "2026-09-08T16:00+09:00",
    "summary": "",
    "categories": [
     "okinawa"
@@ -886,16 +906,6 @@
    ]
   },
   {
-   "title": "沖縄の夏終盤ブッキングカーブ2026 — 9/5土曜の8日間上積みはお盆超え、シティ+4.7pt",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSzhNTXRPUXdVWUVXUDU3ZVZfd3RSUmlpTTRJaWc3UjBUVWVSTlNLNjlocTVVa0JOU2JEUXV5by1adDdybFNHRmxsOE5pcmhIS0pOUTNSWVJWcElhdUNXZUczSDVPRjdDaHFPclc3Wk5jVC05RHBuMnlhOHhjWENEZDlxWTQ2Sm5PMk95NEdiNWtZd2JBUVl6cWNn?oc=5",
-   "source": "hotelbank",
-   "published": "2026-08-04T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "AI利用率トップは「旅行」で35.3%、一方で影響度は平均並み、旅程作成や複雑な条件の宿探しで活用 ―読売広告社",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlNlBLckRoUml1UjNyTTZoZlRMY3Q4VFZtbTEwVHRPMnRqQnFRMVRRT0xCLUF2S2VSTUhIVTlOaE93a1NHWVZNX3RjR3l1MTI0ZjNLdQ?oc=5",
    "source": "travelvoice",
@@ -913,6 +923,16 @@
    "summary": "",
    "categories": [
     "dx_ai"
+   ]
+  },
+  {
+   "title": "沖縄の夏終盤ブッキングカーブ2026 — 9/5土曜の8日間上積みはお盆超え、シティ+4.7pt",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSzhNTXRPUXdVWUVXUDU3ZVZfd3RSUmlpTTRJaWc3UjBUVWVSTlNLNjlocTVVa0JOU2JEUXV5by1adDdybFNHRmxsOE5pcmhIS0pOUTNSWVJWcElhdUNXZUczSDVPRjdDaHFPclc3Wk5jVC05RHBuMnlhOHhjWENEZDlxWTQ2Sm5PMk95NEdiNWtZd2JBUVl6cWNn?oc=5",
+   "source": "hotelbank",
+   "published": "2026-08-04T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
    ]
   },
   {
