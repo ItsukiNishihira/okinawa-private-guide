@@ -1,26 +1,26 @@
 {
- "updated_at": "2026-10-14T20:42+09:00",
+ "updated_at": "2026-10-15T02:03+09:00",
  "sources": [
   {
    "id": "honichi",
    "name": "訪日ラボ",
    "home": "https://honichi.com/",
    "direct_feed": true,
-   "new_items": 15
+   "new_items": 14
   },
   {
    "id": "hotelbank",
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
    "direct_feed": false,
-   "new_items": 27
+   "new_items": 26
   },
   {
    "id": "travelvoice",
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 57
+   "new_items": 55
   }
  ],
  "articles": [
@@ -526,8 +526,8 @@
    ]
   },
   {
-   "title": "沖縄のホテル客室数ランキング2026｜1位826室、300室超34軒を圏域別に",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUElnam9xVEs3SXNuOWVBNzNndWh0ckc0eE4wcmZjT0lTNldFSU40NVZWc1FJQzdrN1dPdkdjSlYxaTZYRGJUM0lyS1l4RFhLa1g3d1d3NS0wYVhwSnU5Vm9wa2ZUNkgzZG0wTnYxZ1JMUDdqaGdwNHA1ME5xQkFLd3VTUjQwUQ?oc=5",
+   "title": "ホテル客室数ランキング2026｜日本一は品川プリンス3,560室・全国TOP30と沖縄編",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11SDFLcnhaUkhodUYzMzFJdVpKQUg2SnROa2FCMk9USVhEeFh6TU44ZGdFUGxBN2hlT2ZXVlVfME9xMXRtZ1JraEYxX0RtTk1mT2V4WHBQLTBzOG1QUEpQLUxXUi1fMm9NekNwTXo1THVXU2s?oc=5",
    "source": "hotelbank",
    "published": "2026-09-14T16:00+09:00",
    "summary": "",
@@ -536,8 +536,8 @@
    ]
   },
   {
-   "title": "ホテル客室数ランキング2026｜日本一は品川プリンス3,560室・全国TOP30と沖縄編",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11SDFLcnhaUkhodUYzMzFJdVpKQUg2SnROa2FCMk9USVhEeFh6TU44ZGdFUGxBN2hlT2ZXVlVfME9xMXRtZ1JraEYxX0RtTk1mT2V4WHBQLTBzOG1QUEpQLUxXUi1fMm9NekNwTXo1THVXU2s?oc=5",
+   "title": "沖縄のホテル客室数ランキング2026｜1位826室、300室超34軒を圏域別に",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUElnam9xVEs3SXNuOWVBNzNndWh0ckc0eE4wcmZjT0lTNldFSU40NVZWc1FJQzdrN1dPdkdjSlYxaTZYRGJUM0lyS1l4RFhLa1g3d1d3NS0wYVhwSnU5Vm9wa2ZUNkgzZG0wTnYxZ1JMUDdqaGdwNHA1ME5xQkFLd3VTUjQwUQ?oc=5",
    "source": "hotelbank",
    "published": "2026-09-14T16:00+09:00",
    "summary": "",
