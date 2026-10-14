@@ -1,26 +1,26 @@
 {
- "updated_at": "2026-10-15T02:03+09:00",
+ "updated_at": "2026-10-15T06:35+09:00",
  "sources": [
   {
    "id": "honichi",
    "name": "訪日ラボ",
    "home": "https://honichi.com/",
    "direct_feed": true,
-   "new_items": 14
+   "new_items": 15
   },
   {
    "id": "hotelbank",
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
    "direct_feed": false,
-   "new_items": 26
+   "new_items": 27
   },
   {
    "id": "travelvoice",
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 55
+   "new_items": 54
   }
  ],
  "articles": [
@@ -95,6 +95,16 @@
    ]
   },
   {
+   "title": "ベトナムにおける青森県レセプション運営等業務に係る企画提案の公募",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1enZLNmpXTXpLS25FcEVMSzJaWGFHdWJraGtfckVHRk5TQjJhaWFNemVhWVU5am5IZnhENWx4bVlnNUpYRDV3b3BELW9VQlhK?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-12T21:49+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
    "title": "県内観光需要の平準化・周遊促進に向けた富士山静岡空港二次交通実証運行事業業務に係る企画提案の公募",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12T0tIUzFwLW1kLW5tVkRqTzI2dUFpeHRkN1M5dGM4eDNabFB5Z3B1d2dIUW54Z3VMU1dkbGVub0dPbVN6ZnIyMzFxVHdOdlo4?oc=5",
    "source": "travelvoice",
@@ -139,16 +149,6 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBVnQ1aC12OEZRS0pHRkUxanFycGltTmkyUGtkTmRiVnF3aWprNjJvWXlHTEFlQnFMRE1DSzVMVml4QmU4RHhkcWdtRFY3RWJ1?oc=5",
    "source": "travelvoice",
    "published": "2026-10-11T07:07+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
-   ]
-  },
-  {
-   "title": "ベトナムにおける青森県レセプション運営等業務に係る企画提案の公募",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1enZLNmpXTXpLS25FcEVMSzJaWGFHdWJraGtfckVHRk5TQjJhaWFNemVhWVU5am5IZnhENWx4bVlnNUpYRDV3b3BELW9VQlhK?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-11T01:29+09:00",
    "summary": "",
    "categories": [
     "subsidy"
