@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-10-14T07:38+09:00",
+ "updated_at": "2026-10-14T13:44+09:00",
  "sources": [
   {
    "id": "honichi",
    "name": "訪日ラボ",
    "home": "https://honichi.com/",
    "direct_feed": true,
-   "new_items": 14
+   "new_items": 15
   },
   {
    "id": "hotelbank",
@@ -20,10 +20,20 @@
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 55
+   "new_items": 56
   }
  ],
  "articles": [
+  {
+   "title": "JTBと世界自然保護基金、生物多様性保全と自然体験の両立モデル構築へ、「保全型エコツーリズム」を企業研修に",
+   "url": "https://www.travelvoice.jp/20261014-160657",
+   "source": "travelvoice",
+   "published": "2026-10-14T10:35+09:00",
+   "summary": "JTBグループとWWFジャパンは、2026年10月から生物多様性推進に向けた協働を開始。貴重な生態系が残る観光地での自然体験と環境保全を両立させるモデルケース構築目指す。",
+   "categories": [
+    "okinawa"
+   ]
+  },
   {
    "title": "北海道ファイターズ、AI旅行予約サービスの運営会社と資本業務提携、Fビレッジへのインバウンド誘客を強化",
    "url": "https://www.travelvoice.jp/20261009-160652",
@@ -477,10 +487,30 @@
    ]
   },
   {
+   "title": "ナビタイム、生成AIとの会話から旅行プラン自動作成、ChatGPTなどのテキストをコピペ、移動時間も考慮",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHdHpHdU5abGxoeTliREVuNzg4MXBvdENOMWh5TVVjeGl0T1RSaTZzd3VOeWxzRFgyZG9YR250Ql9ETXpFeTRSeEo0Ti1CTlFTQnNNaQ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-09-16T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
    "title": "ジェットスター・ジャパン、那覇～高雄線を12月6日に開設 同社初の那覇発着で週3往復運航",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TQzUtQnRjYkpVYVVLajJwVjJDOTBVa3VKbmhTaHBNdVVQQTAwNFd2TUZpSHFTUk9FT3BzMlBXZXhMQTVRMWlJaFhvRFFHSnRuNk5mN2NmOWdPSGlNUzR0VWtEcy1Odw?oc=5",
    "source": "honichi",
    "published": "2026-09-16T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "大阪が世界観光都市魅力度指数で3位に 京都・沖縄もトップ10入り",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yd1lhRWRnUGpmZDJYbDYzdUVTZU45ZVVidGpIUThNWXRHcFZUd3NUQlJLd0pQZmZXZlpnQVV2alJUUElNRUhITVBkc2JpZWtyeVVFUFV4WVFLdEVZOTY1blZwbWFSNjl4WHBBRzR1VQ?oc=5",
+   "source": "honichi",
+   "published": "2026-09-14T16:00+09:00",
    "summary": "",
    "categories": [
     "okinawa"
@@ -524,6 +554,16 @@
    "summary": "",
    "categories": [
     "okinawa"
+   ]
+  },
+  {
+   "title": "北九州市観光ショートドラマ制作業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jdWNSbXhPUUxMaDZieENsTkJTMWlQb1JSRFRMaXRwWUJwVTNwZm5JSjJXSGRIcllINEwtV041M0xnZlBXUFBFd3owT2h3WWwt?oc=5",
+   "source": "travelvoice",
+   "published": "2026-09-11T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
    ]
   },
   {
@@ -987,6 +1027,16 @@
    ]
   },
   {
+   "title": "沖縄の夏終盤ブッキングカーブ2026 — 9/5土曜の8日間上積みはお盆超え、シティ+4.7pt",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSzhNTXRPUXdVWUVXUDU3ZVZfd3RSUmlpTTRJaWc3UjBUVWVSTlNLNjlocTVVa0JOU2JEUXV5by1adDdybFNHRmxsOE5pcmhIS0pOUTNSWVJWcElhdUNXZUczSDVPRjdDaHFPclc3Wk5jVC05RHBuMnlhOHhjWENEZDlxWTQ2Sm5PMk95NEdiNWtZd2JBUVl6cWNn?oc=5",
+   "source": "hotelbank",
+   "published": "2026-08-04T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
    "title": "AI利用率トップは「旅行」で35.3%、一方で影響度は平均並み、旅程作成や複雑な条件の宿探しで活用 ―読売広告社",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlNlBLckRoUml1UjNyTTZoZlRMY3Q4VFZtbTEwVHRPMnRqQnFRMVRRT0xCLUF2S2VSTUhIVTlOaE93a1NHWVZNX3RjR3l1MTI0ZjNLdQ?oc=5",
    "source": "travelvoice",
@@ -1004,16 +1054,6 @@
    "summary": "",
    "categories": [
     "dx_ai"
-   ]
-  },
-  {
-   "title": "沖縄の夏終盤ブッキングカーブ2026 — 9/5土曜の8日間上積みはお盆超え、シティ+4.7pt",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSzhNTXRPUXdVWUVXUDU3ZVZfd3RSUmlpTTRJaWc3UjBUVWVSTlNLNjlocTVVa0JOU2JEUXV5by1adDdybFNHRmxsOE5pcmhIS0pOUTNSWVJWcElhdUNXZUczSDVPRjdDaHFPclc3Wk5jVC05RHBuMnlhOHhjWENEZDlxWTQ2Sm5PMk95NEdiNWtZd2JBUVl6cWNn?oc=5",
-   "source": "hotelbank",
-   "published": "2026-08-04T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
    ]
   },
   {
