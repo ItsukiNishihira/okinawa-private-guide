@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T13:44+09:00",
+ "updated_at": "2026-10-14T20:42+09:00",
  "sources": [
   {
    "id": "honichi",
@@ -20,10 +20,20 @@
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 56
+   "new_items": 57
   }
  ],
  "articles": [
+  {
+   "title": "アップルワールド、BtoB戦略の次の一手とは？ 国内ホテル・団体旅行への領域拡大と、AIによる旅行会社支援を聞いた",
+   "url": "https://www.travelvoice.jp/20261014-160669",
+   "source": "travelvoice",
+   "published": "2026-10-14T16:23+09:00",
+   "summary": "じげん傘下のアップルワールドが旅行BtoB事業を拡大している。深田健史氏に、価格競争とは一線を画すBtoB戦略、国内ホテルの開拓、団体旅行、AI活用まで今後の展望を聞いた。",
+   "categories": [
+    "dx_ai"
+   ]
+  },
   {
    "title": "JTBと世界自然保護基金、生物多様性保全と自然体験の両立モデル構築へ、「保全型エコツーリズム」を企業研修に",
    "url": "https://www.travelvoice.jp/20261014-160657",
@@ -65,6 +75,16 @@
    ]
   },
   {
+   "title": "ゼンリンなど5社、沖縄の観光周遊を支援、観光アプリで交通・観光チケットを販売、移動データ分析も",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HMkVqM1VVVjZsWDNQakh4OE1MMVdZUGdMT0s5b1BYVWx6bTZRdE5CR08zcnVYX2Y3VnV5cnlHUmdlWWc1U29hRF93MUdXNFJJbjVleQ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-13T10:50+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
    "title": "群馬県、「ご当地Suica」移行へ準備本格化、住民向け交通割引や来訪者の交通検索・予約を便利に",
    "url": "https://www.travelvoice.jp/20261013-160653",
    "source": "travelvoice",
@@ -72,17 +92,6 @@
    "summary": "群馬県は、「ご当地Suica」移行に伴う「GunMaaS」プロモーション業務委託について公募を開始。JR東日本が推進する「ご当地Suica」とはモバイルSuicaに地域独自のMaaSと生活サービスを一体化したもの。",
    "categories": [
     "subsidy"
-   ]
-  },
-  {
-   "title": "ゼンリンなど5社、沖縄の観光周遊を支援、観光アプリで交通・観光チケットを販売、移動データ分析も",
-   "url": "https://www.travelvoice.jp/20261013-160618",
-   "source": "travelvoice",
-   "published": "2026-10-13T10:45+09:00",
-   "summary": "ゼンリンら5社が連携し、沖縄県那覇・浦添エリアで観光DXを推進。アプリ「STLOCAL」でモノレールやバス、観光施設などのデジタルチケット販売。観光情報提供やスタンプラリーで周遊促進。",
-   "categories": [
-    "dx_ai",
-    "okinawa"
    ]
   },
   {
@@ -476,6 +485,16 @@
    ]
   },
   {
+   "title": "ジェットスター・ジャパン、那覇～高雄線を12月6日に開設 同社初の那覇発着で週3往復運航",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TQzUtQnRjYkpVYVVLajJwVjJDOTBVa3VKbmhTaHBNdVVQQTAwNFd2TUZpSHFTUk9FT3BzMlBXZXhMQTVRMWlJaFhvRFFHSnRuNk5mN2NmOWdPSGlNUzR0VWtEcy1Odw?oc=5",
+   "source": "honichi",
+   "published": "2026-09-16T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
    "title": "省力化投資補助金、ホテルの3年回収ラインは68室→34室 — 30/100/200室で試算",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcV9fMnhqVHppTzZVUzRGOXQxV3dGb0ZQSGJEYjVxM3ZxOTBYVmxFaVF2bUE1V3pKU3BlT0RyWmVsSnhKdkFWeHQyX3pvM3ZqQV91aUcxSVVqWTg0UVhpMnJjVkpCMy1hbFh4X0hCeS16aVB0cWNoSXJPZ2dxVnZLUkxjZTA5bFpscktscXlldVpoalE?oc=5",
    "source": "hotelbank",
@@ -497,16 +516,6 @@
    ]
   },
   {
-   "title": "ジェットスター・ジャパン、那覇～高雄線を12月6日に開設 同社初の那覇発着で週3往復運航",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TQzUtQnRjYkpVYVVLajJwVjJDOTBVa3VKbmhTaHBNdVVQQTAwNFd2TUZpSHFTUk9FT3BzMlBXZXhMQTVRMWlJaFhvRFFHSnRuNk5mN2NmOWdPSGlNUzR0VWtEcy1Odw?oc=5",
-   "source": "honichi",
-   "published": "2026-09-16T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "大阪が世界観光都市魅力度指数で3位に 京都・沖縄もトップ10入り",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yd1lhRWRnUGpmZDJYbDYzdUVTZU45ZVVidGpIUThNWXRHcFZUd3NUQlJLd0pQZmZXZlpnQVV2alJUUElNRUhITVBkc2JpZWtyeVVFUFV4WVFLdEVZOTY1blZwbWFSNjl4WHBBRzR1VQ?oc=5",
    "source": "honichi",
@@ -517,8 +526,8 @@
    ]
   },
   {
-   "title": "ホテル客室数ランキング2026｜日本一は品川プリンス3,560室・全国TOP30と沖縄編",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11SDFLcnhaUkhodUYzMzFJdVpKQUg2SnROa2FCMk9USVhEeFh6TU44ZGdFUGxBN2hlT2ZXVlVfME9xMXRtZ1JraEYxX0RtTk1mT2V4WHBQLTBzOG1QUEpQLUxXUi1fMm9NekNwTXo1THVXU2s?oc=5",
+   "title": "沖縄のホテル客室数ランキング2026｜1位826室、300室超34軒を圏域別に",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUElnam9xVEs3SXNuOWVBNzNndWh0ckc0eE4wcmZjT0lTNldFSU40NVZWc1FJQzdrN1dPdkdjSlYxaTZYRGJUM0lyS1l4RFhLa1g3d1d3NS0wYVhwSnU5Vm9wa2ZUNkgzZG0wTnYxZ1JMUDdqaGdwNHA1ME5xQkFLd3VTUjQwUQ?oc=5",
    "source": "hotelbank",
    "published": "2026-09-14T16:00+09:00",
    "summary": "",
@@ -527,8 +536,8 @@
    ]
   },
   {
-   "title": "沖縄のホテル客室数ランキング2026｜1位826室、300室超34軒を圏域別に",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUElnam9xVEs3SXNuOWVBNzNndWh0ckc0eE4wcmZjT0lTNldFSU40NVZWc1FJQzdrN1dPdkdjSlYxaTZYRGJUM0lyS1l4RFhLa1g3d1d3NS0wYVhwSnU5Vm9wa2ZUNkgzZG0wTnYxZ1JMUDdqaGdwNHA1ME5xQkFLd3VTUjQwUQ?oc=5",
+   "title": "ホテル客室数ランキング2026｜日本一は品川プリンス3,560室・全国TOP30と沖縄編",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11SDFLcnhaUkhodUYzMzFJdVpKQUg2SnROa2FCMk9USVhEeFh6TU44ZGdFUGxBN2hlT2ZXVlVfME9xMXRtZ1JraEYxX0RtTk1mT2V4WHBQLTBzOG1QUEpQLUxXUi1fMm9NekNwTXo1THVXU2s?oc=5",
    "source": "hotelbank",
    "published": "2026-09-14T16:00+09:00",
    "summary": "",
@@ -554,6 +563,16 @@
    "summary": "",
    "categories": [
     "okinawa"
+   ]
+  },
+  {
+   "title": "米メタ社、新AIエージェント「Muse」を発表、航空券予約・決済、予約後の管理まで、将来的には宿泊予約も【外電】",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YdmJncl9rOTZqRkVyQWdQMGpycWhjZ3Y4eS1lYWJTZ1Ezb1RKeDMzNVl2dW9zX1ZzazJzWFZRMFpzX3NmbW1wdXM0UDRnQi1CMlRwMQ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-09-11T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
    ]
   },
   {
@@ -717,16 +736,6 @@
    ]
   },
   {
-   "title": "近ツー、JTBなど旅行大手ら4社、スポーツ観戦の高付加価値化へ新団体を設立、地域誘客や交流創出を推進",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CbHk3ZzN5VFZkV2tMa0ZPVXZvZ2tTc0lsZWd0WEFKYV9EckhUTjllbk9tZ21GcTI2d3RlS2xmb3dzelIwXzFfTVpscWlDanNxWlFKUw?oc=5",
-   "source": "travelvoice",
-   "published": "2026-09-02T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
-   ]
-  },
-  {
    "title": "AIエージェント時代の旅行販売、勝負を分ける「予約・決済」の仕組みとは？ 次世代販売戦略を決済大手のAdyenがウェビナーで解説（PR）",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Bb1MxY19yUUtNV1poLWhwQ29oVmtXR2hiYldJenRlVkVwYUM3Yk1vQ0JhOF9wc1Z0QVFOcTcyMVJ1MlRoNHpIWWxlZXdnRXVFd2pjcA?oc=5",
    "source": "travelvoice",
@@ -737,6 +746,16 @@
    ]
   },
   {
+   "title": "近ツー、JTBなど旅行大手ら4社、スポーツ観戦の高付加価値化へ新団体を設立、地域誘客や交流創出を推進",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CbHk3ZzN5VFZkV2tMa0ZPVXZvZ2tTc0lsZWd0WEFKYV9EckhUTjllbk9tZ21GcTI2d3RlS2xmb3dzelIwXzFfTVpscWlDanNxWlFKUw?oc=5",
+   "source": "travelvoice",
+   "published": "2026-09-02T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
    "title": "九州応援割、発表3日で7県すべての土曜が加速 — 沖縄・山口と比較した実測",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRHZEZVllbUJXVTl6eWV2NFVyYmVhZFdOU2U1b2w3Vjg0ZkZ4emhpNzA3c21sMTg1Zldfb2lSdXM1REp4Y0JNcU1DWUNnSWZJanNKa1JMcElRVkVScHpqR3VCaTg2c2RudlVtS2xnaDR2Rzc3WEdrUFdONEVUejZTSWVXSVZKeTRCTHllQ2dnTjFvRHZtdzRB?oc=5",
    "source": "hotelbank",
@@ -744,16 +763,6 @@
    "summary": "",
    "categories": [
     "okinawa"
-   ]
-  },
-  {
-   "title": "楽天トラベル、自治体の旅行支援クーポン発行予定が2.2倍、重点支援地方交付金で拡大",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83ei1xaWZ1d3AybnNkUzJMMTdnTGlpc0JUNUdHeWk5N2JCcjFVcXdlbHBlVXlYUEp1dFlnLXItZkVsZllBRU02QlBzSDFHR2dTWnU3MQ?oc=5",
-   "source": "travelvoice",
-   "published": "2026-08-31T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
    ]
   },
   {
@@ -774,6 +783,16 @@
    "summary": "",
    "categories": [
     "dx_ai"
+   ]
+  },
+  {
+   "title": "楽天トラベル、自治体の旅行支援クーポン発行予定が2.2倍、重点支援地方交付金で拡大",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83ei1xaWZ1d3AybnNkUzJMMTdnTGlpc0JUNUdHeWk5N2JCcjFVcXdlbHBlVXlYUEp1dFlnLXItZkVsZllBRU02QlBzSDFHR2dTWnU3MQ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-08-31T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
    ]
   },
   {
