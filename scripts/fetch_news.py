@@ -1,5 +1,5 @@
 """
-3つのニュースサイトから最新記事を集めて、テーマ別に分類し JSON に保存するスクリプト。
+ニュースサイト・観光関連団体のサイトから最新記事を集めて、テーマ別に分類し JSON に保存するスクリプト。
 
   1. 沖縄観光の実態
   2. DX推進のためのAI活用
@@ -33,6 +33,11 @@ MAX_PER_CATEGORY = 150
 # ---------------------------------------------------------------------------
 # 情報源（ここを編集すればサイトを増やせます）
 # feeds: 直接読みにいく RSS の候補 URL（見つかったものを使う）
+# list_pages / article_pattern: RSS がないサイトは、お知らせ一覧ページから
+#   article_pattern（正規表現）に合うリンクを記事として読み取る
+# default_categories: サイト自体がテーマ専門のときに、キーワードに関係なく付けるテーマ
+# google_news: False にすると Googleニュースでの補完をしない（記事以外のページが混ざるサイト向け）
+# exclude: タイトルにこの正規表現が含まれる記事は載せない（採用情報など）
 # ---------------------------------------------------------------------------
 SOURCES = [
     {
@@ -67,6 +72,40 @@ SOURCES = [
             "https://www.travelvoice.jp/rss",
             "https://www.travelvoice.jp/index.rdf",
         ],
+    },
+    {
+        "id": "ocvb",
+        "name": "OCVB",
+        "home": "https://www.ocvb.or.jp/",
+        "domain": "ocvb.or.jp",
+        "feeds": [],
+        "list_pages": ["https://www.ocvb.or.jp/topics"],
+        "article_pattern": r"^https://www\.ocvb\.or\.jp/(topics|support|membernews)/\d+/?$",
+        "default_categories": ["okinawa"],
+        "exclude": r"採用|求職|契約の状況|担当者（",
+    },
+    {
+        "id": "kankodx",
+        "name": "観光DX（観光庁）",
+        "home": "https://kanko-dx.go.jp/",
+        "domain": "kanko-dx.go.jp",
+        "feeds": ["https://kanko-dx.go.jp/news/feed/", "https://kanko-dx.go.jp/feed/"],
+        "list_pages": ["https://kanko-dx.go.jp/news/"],
+        # 観光DX推進事業のプレスリリースは PR TIMES（企業ID 107216）に載るため、それも記事として扱う
+        "article_pattern": r"^https://(kanko-dx\.go\.jp/news/\d+/?|prtimes\.jp/main/html/rd/p/\d+\.000107216\.html)$",
+        "default_categories": ["dx_ai"],
+        "google_news": False,  # 採択団体の紹介ページなどが大量に混ざるため
+    },
+    {
+        "id": "resortech",
+        "name": "リゾテック沖縄",
+        "home": "https://resortech-expo.okinawa/",
+        "domain": "resortech-expo.okinawa",
+        "feeds": ["https://resortech-expo.okinawa/news/feed/", "https://resortech-expo.okinawa/feed/"],
+        "list_pages": ["https://resortech-expo.okinawa/news/"],
+        "article_pattern": r"^https://resortech-expo\.okinawa/news/\d+/?$",
+        "default_categories": ["okinawa", "dx_ai"],
+        "google_news": False,  # 出展企業の紹介ページが大量に混ざるため
     },
 ]
 
@@ -257,6 +296,100 @@ def from_site_feed(source):
     return []
 
 
+DATE_RE = re.compile(r"(20\d{2})\s*[./年-]\s*(\d{1,2})\s*[./月-]\s*(\d{1,2})")
+BLOCK_TAGS = {"li", "article", "tr", "dl", "div", "section", "p"}
+
+
+def find_date(text):
+    m = DATE_RE.search(text or "")
+    if not m:
+        return None
+    try:
+        return datetime(int(m.group(1)), int(m.group(2)), int(m.group(3)), tzinfo=JST) \
+            .isoformat(timespec="minutes")
+    except ValueError:
+        return None
+
+
+class ArticleLinkParser(HTMLParser):
+    """一覧ページの記事リンクと、その周り（同じ li / article など）にある日付を読み取る"""
+
+    def __init__(self, base, pattern):
+        super().__init__()
+        self.base, self.pattern = base, re.compile(pattern)
+        self.blocks = []      # 開いているブロック要素: [tag, テキスト片, 中のリンク]
+        self.link = None      # 読み取り中のリンク
+        self.links = []
+
+    def handle_starttag(self, tag, attrs):
+        if tag in BLOCK_TAGS:
+            self.blocks.append([tag, [], []])
+        if tag == "a":
+            href = urllib.parse.urljoin(self.base, dict(attrs).get("href") or "")
+            href = href.split("#")[0]
+            if self.pattern.match(href):
+                self.link = {"url": href, "chunks": [], "published": None}
+        elif self.link and tag in ("br", "span", "p", "div", "h2", "h3", "h4", "time"):
+            self.link["chunks"].append("\n")
+
+    def handle_data(self, data):
+        if self.link:
+            self.link["chunks"].append(data)
+        for b in self.blocks:
+            b[1].append(data)
+
+    def handle_endtag(self, tag):
+        if tag == "a" and self.link:
+            text = "".join(self.link["chunks"])
+            self.link["published"] = find_date(text)
+            # 日付やカテゴリ名が混ざっていても、いちばん長い文字列をタイトルとみなす
+            parts = [clean_text(DATE_RE.sub(" ", p)) for p in text.split("\n")]
+            self.link["title"] = max(parts, key=len, default="")
+            self.links.append(self.link)
+            if self.blocks:
+                self.blocks[-1][2].append(self.link)
+            self.link = None
+            return
+        if tag not in BLOCK_TAGS:
+            return
+        # 閉じタグに対応するブロックを閉じ、リンクに日付がなければブロック内のテキストから探す
+        while self.blocks:
+            btag, chunks, links = self.blocks.pop()
+            # 別々の記事へのリンクが2つ以上あるブロックは一覧全体なので、日付の推定には使わない
+            single = len({l["url"] for l in links}) == 1
+            if single:
+                date = find_date("".join(chunks))
+                for l in links:
+                    l["published"] = l["published"] or date
+            if self.blocks and (single or not links):
+                self.blocks[-1][2].extend(links)
+            if btag == tag:
+                break
+
+
+def from_list_pages(source):
+    """RSS がないサイト向け：お知らせ一覧ページから記事リンクを取得"""
+    items, seen = [], set()
+    for page in source.get("list_pages", []):
+        try:
+            raw, charset = fetch(page)
+        except Exception as e:  # noqa: BLE001
+            log(f"  [{source['id']}] {page} -> 失敗 ({e})")
+            continue
+        parser = ArticleLinkParser(page, source["article_pattern"])
+        parser.feed(raw.decode(charset, errors="replace"))
+        found = 0
+        for l in parser.links:
+            if l["url"] in seen or len(l["title"]) < 6:
+                continue  # 同じ記事への2つ目のリンクや「続きを読む」などは除く
+            seen.add(l["url"])
+            items.append({"title": l["title"], "url": l["url"], "published": l["published"],
+                          "summary": "", "tags": []})
+            found += 1
+        log(f"  [{source['id']}] {page} -> {found}件")
+    return items
+
+
 def from_google_news(source, query):
     """Google ニュースの『サイト内検索』RSS で、テーマに合う記事を補完取得"""
     q = f"{query} site:{source['domain']} when:90d"
@@ -318,10 +451,13 @@ def main():
     for src in SOURCES:
         log(f"■ {src['name']}")
         raw_items = from_site_feed(src)
+        if not raw_items and src.get("list_pages"):
+            raw_items = from_list_pages(src)
         ok_feed = bool(raw_items)
-        for c in CATEGORIES:
-            for q in c["search"]:
-                raw_items += from_google_news(src, q)
+        if src.get("google_news", True) or not raw_items:
+            for c in CATEGORIES:
+                for q in c["search"]:
+                    raw_items += from_google_news(src, q)
 
         count = 0
         for it in raw_items:
@@ -329,8 +465,11 @@ def main():
             url = (it.get("url") or "").strip()
             if not title or not url:
                 continue
+            if src.get("exclude") and re.search(src["exclude"], title):
+                continue
             summary = clean_text(it.get("summary"), limit=160)
-            cats = categorize(title, summary, it.get("tags") or [])
+            cats = sorted(set(categorize(title, summary, it.get("tags") or []))
+                          | set(src.get("default_categories", [])))
             if not cats:
                 continue  # 3テーマのどれにも当てはまらない記事は載せない
             key = title  # Google ニュース経由と直接 RSS で URL が違うことがあるのでタイトルで重複判定

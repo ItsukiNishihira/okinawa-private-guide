@@ -67,7 +67,7 @@ footer{margin-top:28px;font-size:12px;color:var(--muted)}
 <div class="wrap">
   <header>
     <h1>沖縄・宿泊業ニュース</h1>
-    <p>沖縄観光の実態 ／ DX・AI活用 ／ 宿泊業の補助金 を、訪日ラボ・HOTEL BANK・トラベルボイスから自動収集（個人用）</p>
+    <p>沖縄観光の実態 ／ DX・AI活用 ／ 宿泊業の補助金 を、訪日ラボ・HOTEL BANK・トラベルボイス・OCVB・観光DX（観光庁）・リゾテック沖縄から自動収集（個人用）</p>
     <div class="status" id="status">読み込み中…</div>
     <div id="warn"></div>
   </header>
@@ -104,7 +104,7 @@ const CATS = [
   {id:"dx_ai",   label:"② DX・AI活用",    desc:"生成AI・自動化・ホテルDXなど、業務効率化に関する記事。"},
   {id:"subsidy", label:"③ 宿泊業の補助金", desc:"補助金・助成金・公募・支援事業の記事。締切や条件は必ず公式サイトで確認してください。"},
 ];
-const SOURCE_NAMES = {honichi:"訪日ラボ", hotelbank:"HOTEL BANK", travelvoice:"トラベルボイス"};
+const SOURCE_NAMES = {honichi:"訪日ラボ", hotelbank:"HOTEL BANK", travelvoice:"トラベルボイス", ocvb:"OCVB", kankodx:"観光DX（観光庁）", resortech:"リゾテック沖縄"};
 const CAT_LABEL = {okinawa:"沖縄観光", dx_ai:"DX・AI", subsidy:"補助金"};
 
 let data = {articles:[], sources:[]};

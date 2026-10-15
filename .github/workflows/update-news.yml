@@ -1,4 +1,4 @@
-# 3つのサイトから最新記事を自動で集めて dashboard/data/articles.json を更新します。
+# 6つのサイトから最新記事を自動で集めて dashboard/data/articles.json を更新します。
 # 日本時間 6時・12時・18時・0時ごろに実行（GitHub の混雑で数分〜数十分遅れることがあります）。
 # 「Actions」タブ →「ニュース自動更新」→「Run workflow」で手動実行もできます。
 name: ニュース自動更新
