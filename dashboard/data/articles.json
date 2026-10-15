@@ -1,50 +1,90 @@
 {
- "updated_at": "2026-10-15T20:19+09:00",
+ "updated_at": "2026-10-16T01:51+09:00",
  "sources": [
   {
    "id": "honichi",
    "name": "訪日ラボ",
    "home": "https://honichi.com/",
    "direct_feed": true,
-   "new_items": 16
+   "new_items": 14
   },
   {
    "id": "hotelbank",
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
    "direct_feed": false,
-   "new_items": 27
+   "new_items": 29
   },
   {
    "id": "travelvoice",
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 53
+   "new_items": 48
   },
   {
    "id": "ocvb",
    "name": "OCVB",
    "home": "https://www.ocvb.or.jp/",
    "direct_feed": true,
-   "new_items": 57
+   "new_items": 59
   },
   {
    "id": "kankodx",
    "name": "観光DX（観光庁）",
    "home": "https://kanko-dx.go.jp/",
-   "direct_feed": false,
+   "direct_feed": true,
    "new_items": 12
   },
   {
    "id": "resortech",
    "name": "リゾテック沖縄",
    "home": "https://resortech-expo.okinawa/",
-   "direct_feed": false,
-   "new_items": 13
+   "direct_feed": true,
+   "new_items": 9
   }
  ],
  "articles": [
+  {
+   "title": "ぶらり丹波路魅力体験＆拡散ツアー事業に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtcDI5NGVQNElpYktIOUxYSG4wWkhPZVFkQ1Y3TUl3VWVBUWZHdnNpODBjeTN2OTNLNTBhenJzdmRLLVhkVl9ueldyOVFPUGFU?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-16T00:54+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "地図は観光と地域をどう変えるか？ 周遊促進から担い手の「手応え」まで、データ活用の可能性を聞いてきた",
+   "url": "https://www.travelvoice.jp/20261014-160602",
+   "source": "travelvoice",
+   "published": "2026-10-15T21:03+09:00",
+   "summary": "観光需要創出や地域課題の解決にデータとマップ技術をどう活かすか。観光庁やMaaS、地域経営の識者5名が語る、持続可能な観光地づくりと周遊促進の具体的なアプローチとは？",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "欧州観光の成長に向け「8つの優先政策」を発表、ビザ改革からAI導入まで、2036年に経済効果3.8兆ドルへ ―WTTCグローバルサミット",
+   "url": "https://www.travelvoice.jp/20261015-160668",
+   "source": "travelvoice",
+   "published": "2026-10-15T20:57+09:00",
+   "summary": "世界旅行ツーリズム協議会が欧州観光産業の競争力強化に向けて8つの優先政策を提言。ビザ電子化、アジア市場の回復、投資拡大、持続可能な観光、人材育成、AI導入、交通ネットワーク強化を重視。2036年にはGDP寄与額3.8兆ドル、雇用5000万人超を予測。",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "ASEAN市場（シンガポール、タイ、マレーシア等）における沖縄観光プロモーション業務担当（1名）～ASEAN各国から沖縄を訪れる観光客誘致のためのプロモーションを企画・実施する仕事です。",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMTzItb1VYVXdwVF84OHV4elZ1N0lrUjBTX3hzYVpuVExXc29VclI5OUVxVzNPSEZ5ZThENnpVOXUxNkYyb2UtYldOTU9UdGs?oc=5",
+   "source": "ocvb",
+   "published": "2026-10-15T18:35+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
   {
    "title": "冬・春のひろしま観光ブランドプロモーション業務に係る公募型プロポーザルの実施",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlcEhMMHVDLWR0aTA2RjZIMjdSVXdONmJtZmxnVWIwckJ5ZXdjeWtEZmJnaFhzclVzbm5qS2JvbTJ3XzBiVndjNGI1Rk1uT3BJ?oc=5",
@@ -209,16 +249,6 @@
   {
    "title": "県内観光需要の平準化・周遊促進に向けた富士山静岡空港二次交通実証運行事業業務に係る企画提案の公募",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12T0tIUzFwLW1kLW5tVkRqTzI2dUFpeHRkN1M5dGM4eDNabFB5Z3B1d2dIUW54Z3VMU1dkbGVub0dPbVN6ZnIyMzFxVHdOdlo4?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-12T09:27+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
-   ]
-  },
-  {
-   "title": "ぶらり丹波路魅力体験＆拡散ツアー事業に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtcDI5NGVQNElpYktIOUxYSG4wWkhPZVFkQ1Y3TUl3VWVBUWZHdnNpODBjeTN2OTNLNTBhenJzdmRLLVhkVl9ueldyOVFPUGFU?oc=5",
    "source": "travelvoice",
    "published": "2026-10-12T09:27+09:00",
    "summary": "",
@@ -676,17 +706,6 @@
    ]
   },
   {
-   "title": "「京都スマートシティエキスポ2026」出展のお知らせ",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84TkhRc2pVVlB3emFjbHF6czlvb2UyaUtaMk9NZXhMTDRNSDBZaTVjR0J5dkIwR09QUUZGN3IyV21qd0I4cUI4TkxjWWd4Q1FrZ0tmdA?oc=5",
-   "source": "resortech",
-   "published": "2026-09-30T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
    "title": "埼玉県、移住相談に対応する「住むなら埼玉」AI相談を開始、先輩移住者への無料相談も｜ふるさと住民制度・実践ガイド【公式】",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82VHhFX2p2a0p0R0loeV9UX2hSY1UzS1d2VTB5ai1aYVk4UVh3MFkzZlNSUlUxaTVfVnhpYUNFcHpFX0M3Y1o1M2xYcVRldnhCVDJqY28tVDBBT3NnQ2wwRzh3?oc=5",
    "source": "travelvoice",
@@ -694,6 +713,17 @@
    "summary": "",
    "categories": [
     "dx_ai"
+   ]
+  },
+  {
+   "title": "「京都スマートシティエキスポ2026」出展のお知らせ",
+   "url": "https://resortech-expo.okinawa/news/11523/",
+   "source": "resortech",
+   "published": "2026-09-30T00:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai",
+    "okinawa"
    ]
   },
   {
@@ -814,6 +844,16 @@
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcm9nUGVFbzlBNlZuZFM2YS04cFA0cEdrdTBleW4xVnp0dG12LURHQ2NZR1FSOTEzUkk1QXhPY1RRN0gxWmlKbVUxLU80cTZxMk1pTjVxcE9iNDlCcTdPdEtoZDdOTG5TUkJWV1FUYWwzdFVQUnFiSXV6a1NYRWNDM01sV3Z1U1JlQi1ZVXJpeFlkQQ?oc=5",
    "source": "hotelbank",
    "published": "2026-09-21T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "県産品を活かしたコラボ商品企画・開発",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6OWxIRUd0S3pNa180bGZEcjJuMXlpS1E4YVpmaGFia01FUHVZdHFtYllUU2hwdXhNSUdDcUFZTW9sOGY1amFxUERqYVFkdlppelZuekJHdzJUOGEzUnhhUVFRQ1lsUld2X3R2cHVTNzQ4REpBekxtUDlkSFE?oc=5",
+   "source": "ocvb",
+   "published": "2026-09-20T17:34+09:00",
    "summary": "",
    "categories": [
     "okinawa"
@@ -962,6 +1002,16 @@
    ]
   },
   {
+   "title": "沖縄の返還跡地1,000ha超は用地になるか — 浦添4軒43室・宜野湾7軒583室",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFBObld2WmFudnlsazhxZ1U3eHNqaVVJRTV4bGpWclo3T1BOZWlQQkh4RDNTUjBjc241bUgzdFNGOTVpTEZsRWpaalVrRnFQQWs4YVhGa191SmZITEtwX2FiNTJQQjF6bjNwVVd2c1dScWkxd1hKc0M4QV9mUVZWTTY3UTU0Y3VNNnpabA?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-11T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
    "title": "【取材】なぜホテルの客室に“森”をつくったのか 沖縄・EMウェルネス「ミ森 -MIMORI-」誕生の背景",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGTlljbWlHajlodkt3QWdoLVJWYm1DaUdDTGpkc184NlBPZXdhNEo1dnZhSkhYNW9Rc2NhQjN0ZFpqdGs5dTItaGNpYWVvcDNKWDJ0T1NhVEd4amRWQzRPYVJkaWI1VXpsZ3F6R0JJVk9SWXNDYTdZ?oc=5",
    "source": "hotelbank",
@@ -1005,16 +1055,6 @@
    "title": "OCVBNews9月号",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EWmZkY3JwUW5IOTNsTk1Sa2RzZ2ViTW1zemxoYTdvak55MGM1dFVCTlR5TllaY2dMeXBIVGdfNkZidDRzS1ZpbEh5enZQUTg?oc=5",
    "source": "ocvb",
-   "published": "2026-09-11T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "沖縄の返還跡地1,000ha超は用地になるか — 浦添4軒43室・宜野湾7軒583室",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFBObld2WmFudnlsazhxZ1U3eHNqaVVJRTV4bGpWclo3T1BOZWlQQkh4RDNTUjBjc241bUgzdFNGOTVpTEZsRWpaalVrRnFQQWs4YVhGa191SmZITEtwX2FiNTJQQjF6bjNwVVd2c1dScWkxd1hKc0M4QV9mUVZWTTY3UTU0Y3VNNnpabA?oc=5",
-   "source": "hotelbank",
    "published": "2026-09-11T16:00+09:00",
    "summary": "",
    "categories": [
@@ -1890,16 +1930,6 @@
    ]
   },
   {
-   "title": "台風接近に伴う臨時閉館のお知らせ（8/6 17：00時点）",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByb2VGTlVaSHZORXU2eTlFNHo3dUtZdTBqX2RnLUplTkNZV0pEbjRIYngybktjMzdidnBEcmRLRW1iUEtWT2xDMkFQTFFScmZRU0hHcE1DSUU?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-06T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "「AIに聞いて宿を決める」時代の情報整備 — Google UCP・ChatGPT経由の来訪に備える3つの実務",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTjdRVWZkMnlEb05PYV9fM3ZWakgxVmhINGZfMG9KSnVwX0N2TllUTDdnejZ6QklKcFZqNVYxZTU2NkdnelBHalY2d3BFbUVqWXNtcjlWMVhhRFIxUzByU3MtbDdXUkdnTHZXdkhrNnVCWWpJQ0ZUUlE4NGVlQ3B6QjdOT3pPS2tIUmNSOEFWNA?oc=5",
    "source": "hotelbank",
@@ -1907,6 +1937,16 @@
    "summary": "",
    "categories": [
     "dx_ai"
+   ]
+  },
+  {
+   "title": "台風接近に伴う臨時閉館のお知らせ（8/6 17：00時点）",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByb2VGTlVaSHZORXU2eTlFNHo3dUtZdTBqX2RnLUplTkNZV0pEbjRIYngybktjMzdidnBEcmRLRW1iUEtWT2xDMkFQTFFScmZRU0hHcE1DSUU?oc=5",
+   "source": "ocvb",
+   "published": "2026-08-06T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
    ]
   },
   {
@@ -2173,16 +2213,6 @@
    ]
   },
   {
-   "title": "【受付中】インバウンド手配の「リアルな苦労と解決策」、業務自動化ツールと予約管理の連携で実現するDX構想、日鉄ソリューションがウェビナー ―8月3日開催（PR）",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8ya2FrTVZyVFVJT0Q5WHlzeFBaVmtOT3pQaVNXUWstbERwMWZFdG1CdkpmaDBBTFNUdWdJQXBSa05tVllyM1M2eThvczBqU2pZeUh2aA?oc=5",
-   "source": "travelvoice",
-   "published": "2026-07-22T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
    "title": "シンガポール「SJ60」出展企業募集のお知らせ",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFByU1ZrYkNWM3BhQXRYNGtYV2dMODBJRVZ5SHBZMlR0VndUR0tMY1g0NlRBekNyU2lENUJlMzlMSWRMOXRTeEpWeFFB?oc=5",
    "source": "ocvb",
@@ -2200,6 +2230,16 @@
    "summary": "",
    "categories": [
     "okinawa"
+   ]
+  },
+  {
+   "title": "【受付中】インバウンド手配の「リアルな苦労と解決策」、業務自動化ツールと予約管理の連携で実現するDX構想、日鉄ソリューションがウェビナー ―8月3日開催（PR）",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8ya2FrTVZyVFVJT0Q5WHlzeFBaVmtOT3pQaVNXUWstbERwMWZFdG1CdkpmaDBBTFNUdWdJQXBSa05tVllyM1M2eThvczBqU2pZeUh2aA?oc=5",
+   "source": "travelvoice",
+   "published": "2026-07-22T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
    ]
   },
   {
