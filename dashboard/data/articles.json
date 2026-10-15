@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T01:51+09:00",
+ "updated_at": "2026-10-16T06:17+09:00",
  "sources": [
   {
    "id": "honichi",
@@ -20,7 +20,7 @@
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 48
+   "new_items": 46
   },
   {
    "id": "ocvb",
@@ -912,8 +912,8 @@
    ]
   },
   {
-   "title": "ナビタイム、生成AIとの会話から旅行プラン自動作成、ChatGPTなどのテキストをコピペ、移動時間も考慮",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHdHpHdU5abGxoeTliREVuNzg4MXBvdENOMWh5TVVjeGl0T1RSaTZzd3VOeWxzRFgyZG9YR250Ql9ETXpFeTRSeEo0Ti1CTlFTQnNNaQ?oc=5",
+   "title": "JTB、AIスマートグラスで訪日客の多言語対応、宿泊施設や観光案内所などで実証、事業化検討へ",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ERFU0MGRvc1pyNWNhVDF1RDQ5aG13allocVFub0ZGanZWMjlqc3E5QmJBS0djcHFQV0U0Tzlqc0NacHJFN01VMC13NXdGMzlSMG9OVQ?oc=5",
    "source": "travelvoice",
    "published": "2026-09-16T16:00+09:00",
    "summary": "",
@@ -922,8 +922,8 @@
    ]
   },
   {
-   "title": "JTB、AIスマートグラスで訪日客の多言語対応、宿泊施設や観光案内所などで実証、事業化検討へ",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ERFU0MGRvc1pyNWNhVDF1RDQ5aG13allocVFub0ZGanZWMjlqc3E5QmJBS0djcHFQV0U0Tzlqc0NacHJFN01VMC13NXdGMzlSMG9OVQ?oc=5",
+   "title": "ナビタイム、生成AIとの会話から旅行プラン自動作成、ChatGPTなどのテキストをコピペ、移動時間も考慮",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHdHpHdU5abGxoeTliREVuNzg4MXBvdENOMWh5TVVjeGl0T1RSaTZzd3VOeWxzRFgyZG9YR250Ql9ETXpFeTRSeEo0Ti1CTlFTQnNNaQ?oc=5",
    "source": "travelvoice",
    "published": "2026-09-16T16:00+09:00",
    "summary": "",
@@ -1032,16 +1032,6 @@
    ]
   },
   {
-   "title": "北九州市観光ショートドラマ制作業務に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jdWNSbXhPUUxMaDZieENsTkJTMWlQb1JSRFRMaXRwWUJwVTNwZm5JSjJXSGRIcllINEwtV041M0xnZlBXUFBFd3owT2h3WWwt?oc=5",
-   "source": "travelvoice",
-   "published": "2026-09-11T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
-   ]
-  },
-  {
    "title": "8月・観光月間のスタートを飾る観光の日（8月1日）空港歓迎式を開催しました(9/11更新)",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBTMFczZVh0aE5zNGw4Tmk3alBlSVhLa1ZwdHRqaEtDemQxSjZ1WC1NeWhxalg3by1idTd2SlJuR2NENE1vM284N2Rn?oc=5",
    "source": "ocvb",
@@ -1059,6 +1049,16 @@
    "summary": "",
    "categories": [
     "okinawa"
+   ]
+  },
+  {
+   "title": "北九州市観光ショートドラマ制作業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jdWNSbXhPUUxMaDZieENsTkJTMWlQb1JSRFRMaXRwWUJwVTNwZm5JSjJXSGRIcllINEwtV041M0xnZlBXUFBFd3owT2h3WWwt?oc=5",
+   "source": "travelvoice",
+   "published": "2026-09-11T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
    ]
   },
   {
