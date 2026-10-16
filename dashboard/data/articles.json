@@ -1,19 +1,19 @@
 {
- "updated_at": "2026-10-16T06:17+09:00",
+ "updated_at": "2026-10-16T13:21+09:00",
  "sources": [
   {
    "id": "honichi",
    "name": "訪日ラボ",
    "home": "https://honichi.com/",
    "direct_feed": true,
-   "new_items": 14
+   "new_items": 15
   },
   {
    "id": "hotelbank",
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
    "direct_feed": false,
-   "new_items": 29
+   "new_items": 30
   },
   {
    "id": "travelvoice",
@@ -27,7 +27,7 @@
    "name": "OCVB",
    "home": "https://www.ocvb.or.jp/",
    "direct_feed": true,
-   "new_items": 59
+   "new_items": 61
   },
   {
    "id": "kankodx",
@@ -46,6 +46,46 @@
  ],
  "articles": [
   {
+   "title": "OCVBNews10月号",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SQWd5SVA3STYwZFVObEdqOWNJd3NycWl1a0JIMl9JdnY1T1BCWXNNRXF5UHozMlJOMzY1MlFUNnphYUNZUVp4MmhKNlBkS3c?oc=5",
+   "source": "ocvb",
+   "published": "2026-10-16T11:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "「AIの中で宿の予約が完結」が米国で始動 — チャネルが1つ増えたときに動く手数料・在庫・価格の3変数",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZVRxRmtTYWs5QzVtNnd3Nk1JZndhdXZQalB3UWlZQmhkdFB4RU1DN1pBT0Y1dEdCOTBBcDBGX2xFeE14QS11aGNlZ0hfVW5rSk9tdGJWbmpfYmtyNjdvNDA3Mkk2WDN1SzVSaWloRk5yQ0VWMTB5Ykd3aGRMNFFBRXRLbUFpRmF1bkFLSVhKN1hGaDBYYmc?oc=5",
+   "source": "hotelbank",
+   "published": "2026-10-16T10:02+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "バズるUGCとAIに読まれるUGCは違う！AI時代に“指名買い”を生むUGC設計を解説［10/22無料セミナー］",
+   "url": "https://honichi.com/news/2026/10/16/202610_trialjapan_2/",
+   "source": "honichi",
+   "published": "2026-10-16T10:00+09:00",
+   "summary": "訪日外国人 の情報収集が Google から AI 検索（ AI Overviews・ChatGPT型）へシフトしている現在。 AI がユーザーに商品を推薦する際、その情報源になるか否かは「UGCの厚み」で決まります。 本セミナーでは、 AI に推薦されるブランドとそうでないブランドを分けるUGCの条件を最新データで解…",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "ベトナムにおける青森県レセプション運営等業務に係る企画提案の公募",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1enZLNmpXTXpLS25FcEVMSzJaWGFHdWJraGtfckVHRk5TQjJhaWFNemVhWVU5am5IZnhENWx4bVlnNUpYRDV3b3BELW9VQlhK?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-16T05:15+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
    "title": "ぶらり丹波路魅力体験＆拡散ツアー事業に係る公募型プロポーザルの実施",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtcDI5NGVQNElpYktIOUxYSG4wWkhPZVFkQ1Y3TUl3VWVBUWZHdnNpODBjeTN2OTNLNTBhenJzdmRLLVhkVl9ueldyOVFPUGFU?oc=5",
    "source": "travelvoice",
@@ -53,6 +93,16 @@
    "summary": "",
    "categories": [
     "subsidy"
+   ]
+  },
+  {
+   "title": "「ツーリズムEXPOジャパン2026」にて国内観光誘客プロモーションを実施しました",
+   "url": "https://www.ocvb.or.jp/topics/4909",
+   "source": "ocvb",
+   "published": "2026-10-16T00:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
    ]
   },
   {
@@ -198,10 +248,10 @@
   },
   {
    "title": "AIツール推奨商品の購買率は60%！アパレル購買におけるAI利用実態レポート",
-   "url": "https://honichi.com/news/2026/10/13/202610_survey_retail_ai/",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXU3JnUXNZSTFybmZFSXlxM2w5VUQzQ1ZnMTZUZTJzVkdtUWRiT2hmMjhwNGxLc001VzVJS0RaM08wek9FRVFISl8zbGxRRFJiNHUzZzlJSFdLYUZaZW5SU2w1ZFJhMjlxeFZaQg?oc=5",
    "source": "honichi",
-   "published": "2026-10-13T13:00+09:00",
-   "summary": "訪日ラボでは消費者アンケートを実施し、業界ごとに 独自調査 レポートを発表しています。 今回は「アパレル購買」をテーマに、 AI ツールがどの程度、どんな方法で活用されているのかを調査しました。 ＜本レポートでご覧いただける内容＞ アパレル購買に利用する情報媒体 AIツールの使われ方・影響力 情報整備・口コミの重要性…",
+   "published": "2026-10-13T13:05+09:00",
+   "summary": "",
    "categories": [
     "dx_ai"
    ]
@@ -234,16 +284,6 @@
    "summary": "",
    "categories": [
     "okinawa"
-   ]
-  },
-  {
-   "title": "ベトナムにおける青森県レセプション運営等業務に係る企画提案の公募",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1enZLNmpXTXpLS25FcEVMSzJaWGFHdWJraGtfckVHRk5TQjJhaWFNemVhWVU5am5IZnhENWx4bVlnNUpYRDV3b3BELW9VQlhK?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-12T21:49+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
    ]
   },
   {
@@ -545,16 +585,6 @@
    ]
   },
   {
-   "title": "次に仕掛けるべきUGC戦略 ~バズるUGCとAIに読まれるUGCは違う~",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95V2wzblhTR1VuSWs5VmN5WVp0QlFuczRaeF9oLXExMUJfZHJCdnVlSnVIUm1SVndhLXhoTmF5ZnBVQzU4SG9pd01QUnlSR0JWRWo2NUstTWRkb1psVkJGdWNmb1VRZFU?oc=5",
-   "source": "honichi",
-   "published": "2026-10-05T19:15+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
    "title": "「おきなわ観光地域カルテ（8月度）」および「インバウンド人流分析（7月度）」公開のお知らせ",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BSENtMldMMkh2M0IzcExjck05MHk2MXRYX0hXcTZmYXF4cGF5NXhkSlM0S2lmRjhaZTMxbXh5Z1dZcnE3M29vMFdWcw?oc=5",
    "source": "ocvb",
@@ -565,9 +595,9 @@
    ]
   },
   {
-   "title": "旅行者は「安さ」から「納得感」重視へ、スカイスキャナー・JALらが語る乗り継ぎ、旅先選び、AI活用の変化",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15eGo3TFBid0Jlb0ZPSnhMRk5PUFdKWlhOZEJCSGJ6VVdROFlLWjJXbzY0QjlEY09SNGdFYkVxSzRzS19PS0NqaDhWbkVPNjZKVUU0OA?oc=5",
-   "source": "travelvoice",
+   "title": "次に仕掛けるべきUGC戦略 ~バズるUGCとAIに読まれるUGCは違う~",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95V2wzblhTR1VuSWs5VmN5WVp0QlFuczRaeF9oLXExMUJfZHJCdnVlSnVIUm1SVndhLXhoTmF5ZnBVQzU4SG9pd01QUnlSR0JWRWo2NUstTWRkb1psVkJGdWNmb1VRZFU?oc=5",
+   "source": "honichi",
    "published": "2026-10-05T16:00+09:00",
    "summary": "",
    "categories": [
@@ -578,7 +608,17 @@
    "title": "ブッキングHD、新AIアシスタント「Lola」始動、ホテル・飲食・体験の提案から予約まで、会員向け特典も",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhbFdETnR6Z3lhWElmbHVIRXF1QW4yZWYxSXpTX0dMdXZUVTZhT3FsM3FDZVpoc3NZQlhyMDM5eEtsU29iNEZNdTRlV2FiZUZSdWlLcg?oc=5",
    "source": "travelvoice",
-   "published": "2026-10-05T13:48+09:00",
+   "published": "2026-10-05T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "旅行者は「安さ」から「納得感」重視へ、スカイスキャナー・JALらが語る乗り継ぎ、旅先選び、AI活用の変化",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15eGo3TFBid0Jlb0ZPSnhMRk5PUFdKWlhOZEJCSGJ6VVdROFlLWjJXbzY0QjlEY09SNGdFYkVxSzRzS19PS0NqaDhWbkVPNjZKVUU0OA?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-05T16:00+09:00",
    "summary": "",
    "categories": [
     "dx_ai"
@@ -636,6 +676,16 @@
    ]
   },
   {
+   "title": "沖縄市の観光に関するアンケート",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85RkgyeE9LQkRSNTA5UElVOW5qNExSYXU4LWphTmJZWUFvdk9jeUVxYnJNRkZVeXFVRUJLSHlfd2xMeHhQSnMzcjBn?oc=5",
+   "source": "ocvb",
+   "published": "2026-10-01T19:22+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
    "title": "ブッキング・ホールディングスCEOが語るAI戦略、5つのAIプロジェクトを同時進行、B2B再編にも言及",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yT0JaN2ZHV0dWc0JkTUxlNzB1WncyVkdmWDljU1g1WmM0ZXluWUdoWHhLRlREaDg5WC16MFI5OVQwQW1EaHpIeUhVdk5zXzkwX3lEYw?oc=5",
    "source": "travelvoice",
@@ -660,16 +710,6 @@
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM2ZRb2o5bzE4LUljTTBGZkJkSnZCWXY3MmNYQWFqMk0xZ0VoNXd2M0M5Z2NJRUJtQWstTWpCemRtUE9nc1FBUkN4LTFPbDdSS1VybmFWUWQ3UVRqVzQ1SFNZaWR5WDZCOFhHX2tRVzJ6d19jMXVVNEFJRWk1SExNWGwtZktUbG9NWnc?oc=5",
    "source": "hotelbank",
    "published": "2026-10-01T08:08+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "沖縄市の観光に関するアンケート",
-   "url": "https://www.ocvb.or.jp/topics/4901",
-   "source": "ocvb",
-   "published": "2026-10-01T00:00+09:00",
    "summary": "",
    "categories": [
     "okinawa"
@@ -1335,16 +1375,6 @@
    ]
   },
   {
-   "title": "AIエージェント時代の旅行販売、勝負を分ける「予約・決済」の仕組みとは？ 次世代販売戦略を決済大手のAdyenがウェビナーで解説（PR）",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Bb1MxY19yUUtNV1poLWhwQ29oVmtXR2hiYldJenRlVkVwYUM3Yk1vQ0JhOF9wc1Z0QVFOcTcyMVJ1MlRoNHpIWWxlZXdnRXVFd2pjcA?oc=5",
-   "source": "travelvoice",
-   "published": "2026-09-02T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
    "title": "近ツー、JTBなど旅行大手ら4社、スポーツ観戦の高付加価値化へ新団体を設立、地域誘客や交流創出を推進",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CbHk3ZzN5VFZkV2tMa0ZPVXZvZ2tTc0lsZWd0WEFKYV9EckhUTjllbk9tZ21GcTI2d3RlS2xmb3dzelIwXzFfTVpscWlDanNxWlFKUw?oc=5",
    "source": "travelvoice",
@@ -1362,6 +1392,16 @@
    "summary": "",
    "categories": [
     "okinawa"
+   ]
+  },
+  {
+   "title": "AIエージェント時代の旅行販売、勝負を分ける「予約・決済」の仕組みとは？ 次世代販売戦略を決済大手のAdyenがウェビナーで解説（PR）",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Bb1MxY19yUUtNV1poLWhwQ29oVmtXR2hiYldJenRlVkVwYUM3Yk1vQ0JhOF9wc1Z0QVFOcTcyMVJ1MlRoNHpIWWxlZXdnRXVFd2pjcA?oc=5",
+   "source": "travelvoice",
+   "published": "2026-09-02T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
    ]
   },
   {
