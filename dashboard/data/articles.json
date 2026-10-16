@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T13:21+09:00",
+ "updated_at": "2026-10-16T20:14+09:00",
  "sources": [
   {
    "id": "honichi",
@@ -20,14 +20,14 @@
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 46
+   "new_items": 49
   },
   {
    "id": "ocvb",
    "name": "OCVB",
    "home": "https://www.ocvb.or.jp/",
    "direct_feed": true,
-   "new_items": 61
+   "new_items": 60
   },
   {
    "id": "kankodx",
@@ -46,6 +46,16 @@
  ],
  "articles": [
   {
+   "title": "地図は観光と地域をどう変えるか？ 周遊促進から担い手の「手応え」まで、データ活用の可能性を聞いてきた",
+   "url": "https://www.travelvoice.jp/20261014-160602",
+   "source": "travelvoice",
+   "published": "2026-10-16T18:31+09:00",
+   "summary": "観光需要創出や地域課題の解決にデータとマップ技術をどう活かすか。観光庁やMaaS、地域経営の識者5名が語る、持続可能な観光地づくりと周遊促進の具体的なアプローチとは？",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
    "title": "OCVBNews10月号",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SQWd5SVA3STYwZFVObEdqOWNJd3NycWl1a0JIMl9JdnY1T1BCWXNNRXF5UHozMlJOMzY1MlFUNnphYUNZUVp4MmhKNlBkS3c?oc=5",
    "source": "ocvb",
@@ -53,6 +63,16 @@
    "summary": "",
    "categories": [
     "okinawa"
+   ]
+  },
+  {
+   "title": "奥入瀬渓流 来訪者時季平準化対策（冬季観光の広報）業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WZ0tCcWVWbV9tVTlaTkE3NU50Mjh2MkNPSkt1NEJCYWdiRGJmV0VXOXlhQ2d1UGZzT0VrU182dVpKNHJqMG9ZN1dKVi1nWUJT?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-16T10:24+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
    ]
   },
   {
@@ -73,6 +93,16 @@
    "summary": "訪日外国人 の情報収集が Google から AI 検索（ AI Overviews・ChatGPT型）へシフトしている現在。 AI がユーザーに商品を推薦する際、その情報源になるか否かは「UGCの厚み」で決まります。 本セミナーでは、 AI に推薦されるブランドとそうでないブランドを分けるUGCの条件を最新データで解…",
    "categories": [
     "dx_ai"
+   ]
+  },
+  {
+   "title": "首都圏における「北の近江」の魅力発信講座実施業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CQTBaOTRudURqYThBTE9MZEZ2YmdQS1dSSGlGLXJnQWxtNXZOMGF0Q24zVEgyRF9QRndOSUFpRDJvREVqXy0xQ0djcWFqUnl2?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-16T09:41+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
    ]
   },
   {
@@ -106,21 +136,11 @@
    ]
   },
   {
-   "title": "地図は観光と地域をどう変えるか？ 周遊促進から担い手の「手応え」まで、データ活用の可能性を聞いてきた",
-   "url": "https://www.travelvoice.jp/20261014-160602",
-   "source": "travelvoice",
-   "published": "2026-10-15T21:03+09:00",
-   "summary": "観光需要創出や地域課題の解決にデータとマップ技術をどう活かすか。観光庁やMaaS、地域経営の識者5名が語る、持続可能な観光地づくりと周遊促進の具体的なアプローチとは？",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
    "title": "欧州観光の成長に向け「8つの優先政策」を発表、ビザ改革からAI導入まで、2036年に経済効果3.8兆ドルへ ―WTTCグローバルサミット",
-   "url": "https://www.travelvoice.jp/20261015-160668",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zUnpaYXNwTElybkYzMUR3aWZOalNDRDRIRDJnNy05VVg5X3pQdmxTelgwVUJhTi0xMHNrRk15TThDTTRWRUV1REhuUndwZ3U1TU10SA?oc=5",
    "source": "travelvoice",
-   "published": "2026-10-15T20:57+09:00",
-   "summary": "世界旅行ツーリズム協議会が欧州観光産業の競争力強化に向けて8つの優先政策を提言。ビザ電子化、アジア市場の回復、投資拡大、持続可能な観光、人材育成、AI導入、交通ネットワーク強化を重視。2036年にはGDP寄与額3.8兆ドル、雇用5000万人超を予測。",
+   "published": "2026-10-15T21:01+09:00",
+   "summary": "",
    "categories": [
     "dx_ai"
    ]
@@ -638,7 +658,7 @@
    "title": "沖縄の10月三連休、最終日はリゾート82.8%・ビジネス75.9% — 初日との落差15.7ptを残り12日でどう売るか",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUktENlBRaWxRWGhKOC1PM1JhSk12V1BzZzJQR0tSOXdmWVpWRk5nMnJ6TUZyaVN3M1BieWQ2NzBaTlNTQ2tjTDhJME9HUWp3WF9tZFdHT1hxelVVc2xKZm9NN2VQdVRvcnl1eHp2RTN3cGZUOERWeEtUSUpmb3pNNWw5SlkteVVrRmxQSkRxbXB0WWtzV2phRm5oVXhnQWdxUm9YcHJoMUYxbVFMTEE?oc=5",
    "source": "hotelbank",
-   "published": "2026-10-02T11:09+09:00",
+   "published": "2026-10-02T16:00+09:00",
    "summary": "",
    "categories": [
     "okinawa"
@@ -818,6 +838,16 @@
    ]
   },
   {
+   "title": "観光産業の底上げをはかる観光リサーチプラットフォームの構築業務、公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4bVdiaF9SWU10QW9KNnhIRnJZVHF0Qm1YV3FRUXhwQnpJQTVJTHh2SVVQYXRkY1VISWE3MTJRamh5WExkS0VXYVBqTlBRODN1?oc=5",
+   "source": "travelvoice",
+   "published": "2026-09-28T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
    "title": "台湾双十節×韓国ハングルの日、10/9〜11の宿泊需要 — 沖縄・福岡の金曜泊が前後週比+2pt",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRllsWGR1aWtHYlVBcUxSSW12ZV9sU1JjOUFDOHRTSk9DZkdmbEVYcndRUWI1NWE3dUZlZGFBbGFmbWxQSGpXbUZGSlEzME9HQmRPeFFTaHZFbXA1dmhMVk83Mm13bUZiUkI1Ym9wd25MMnZibzZwQzB3cWJ6SkZOU2ltZw?oc=5",
    "source": "hotelbank",
@@ -952,8 +982,8 @@
    ]
   },
   {
-   "title": "JTB、AIスマートグラスで訪日客の多言語対応、宿泊施設や観光案内所などで実証、事業化検討へ",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ERFU0MGRvc1pyNWNhVDF1RDQ5aG13allocVFub0ZGanZWMjlqc3E5QmJBS0djcHFQV0U0Tzlqc0NacHJFN01VMC13NXdGMzlSMG9OVQ?oc=5",
+   "title": "ナビタイム、生成AIとの会話から旅行プラン自動作成、ChatGPTなどのテキストをコピペ、移動時間も考慮",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHdHpHdU5abGxoeTliREVuNzg4MXBvdENOMWh5TVVjeGl0T1RSaTZzd3VOeWxzRFgyZG9YR250Ql9ETXpFeTRSeEo0Ti1CTlFTQnNNaQ?oc=5",
    "source": "travelvoice",
    "published": "2026-09-16T16:00+09:00",
    "summary": "",
@@ -962,8 +992,8 @@
    ]
   },
   {
-   "title": "ナビタイム、生成AIとの会話から旅行プラン自動作成、ChatGPTなどのテキストをコピペ、移動時間も考慮",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHdHpHdU5abGxoeTliREVuNzg4MXBvdENOMWh5TVVjeGl0T1RSaTZzd3VOeWxzRFgyZG9YR250Ql9ETXpFeTRSeEo0Ti1CTlFTQnNNaQ?oc=5",
+   "title": "JTB、AIスマートグラスで訪日客の多言語対応、宿泊施設や観光案内所などで実証、事業化検討へ",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ERFU0MGRvc1pyNWNhVDF1RDQ5aG13allocVFub0ZGanZWMjlqc3E5QmJBS0djcHFQV0U0Tzlqc0NacHJFN01VMC13NXdGMzlSMG9OVQ?oc=5",
    "source": "travelvoice",
    "published": "2026-09-16T16:00+09:00",
    "summary": "",
@@ -1274,8 +1304,8 @@
    ]
   },
   {
-   "title": "ブッキング・ドットコム本社でAI戦略を聞いてきた、旅行全体を起点に再設計へ、旅行者のAI利用89％も「完全信頼」はわずか6％を受け",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52aHpkaXdud1VhQjNnUXRtalFiRmRrYXBpR0Y2R1pMMVREYmhKUmFfYXVhRTQ3eXIxWVJXa08yazZoZ0tYam0xV1gxUlNFTWt5RXREdQ?oc=5",
+   "title": "オーストラリア政府観光局、「AIに選ばれる」観光マーケティングを推進、日本市場の成長に手ごたえ、2035年戦略で",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzQkY3eVNfNHg1VGtDU0lFU3ByVzIwdXN1T3pYMWNsZVo5YUp0U3N2VzJ1emo3RkNNOGtrOFdoOHRCTUc4eXFGNk5zZ2stbDJWNTlWaA?oc=5",
    "source": "travelvoice",
    "published": "2026-09-04T16:00+09:00",
    "summary": "",
@@ -1284,8 +1314,8 @@
    ]
   },
   {
-   "title": "オーストラリア政府観光局、「AIに選ばれる」観光マーケティングを推進、日本市場の成長に手ごたえ、2035年戦略で",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzQkY3eVNfNHg1VGtDU0lFU3ByVzIwdXN1T3pYMWNsZVo5YUp0U3N2VzJ1emo3RkNNOGtrOFdoOHRCTUc4eXFGNk5zZ2stbDJWNTlWaA?oc=5",
+   "title": "ブッキング・ドットコム本社でAI戦略を聞いてきた、旅行全体を起点に再設計へ、旅行者のAI利用89％も「完全信頼」はわずか6％を受け",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52aHpkaXdud1VhQjNnUXRtalFiRmRrYXBpR0Y2R1pMMVREYmhKUmFfYXVhRTQ3eXIxWVJXa08yazZoZ0tYam0xV1gxUlNFTWt5RXREdQ?oc=5",
    "source": "travelvoice",
    "published": "2026-09-04T16:00+09:00",
    "summary": "",
@@ -2010,8 +2040,8 @@
    ]
   },
   {
-   "title": "AI利用率トップは「旅行」で35.3%、一方で影響度は平均並み、旅程作成や複雑な条件の宿探しで活用 ―読売広告社",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlNlBLckRoUml1UjNyTTZoZlRMY3Q4VFZtbTEwVHRPMnRqQnFRMVRRT0xCLUF2S2VSTUhIVTlOaE93a1NHWVZNX3RjR3l1MTI0ZjNLdQ?oc=5",
+   "title": "大学生の約8割が海外旅行に意欲、経験の有無が次の渡航に影響、旅行計画でAI利用は55％ ―日本旅行業協会が調査",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iZjRiSkVrYnhfRVFSeVhVWGpfZ2pTX2p5ZjZ6TmhrYkZpaUd0NU5LRUx0YWVyMU1NWEI1VU5iRGRsNXRORmlZTnExV0lUWmJZQ3ZyYQ?oc=5",
    "source": "travelvoice",
    "published": "2026-08-04T16:00+09:00",
    "summary": "",
@@ -2020,8 +2050,8 @@
    ]
   },
   {
-   "title": "大学生の約8割が海外旅行に意欲、経験の有無が次の渡航に影響、旅行計画でAI利用は55％ ―日本旅行業協会が調査",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iZjRiSkVrYnhfRVFSeVhVWGpfZ2pTX2p5ZjZ6TmhrYkZpaUd0NU5LRUx0YWVyMU1NWEI1VU5iRGRsNXRORmlZTnExV0lUWmJZQ3ZyYQ?oc=5",
+   "title": "AI利用率トップは「旅行」で35.3%、一方で影響度は平均並み、旅程作成や複雑な条件の宿探しで活用 ―読売広告社",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlNlBLckRoUml1UjNyTTZoZlRMY3Q4VFZtbTEwVHRPMnRqQnFRMVRRT0xCLUF2S2VSTUhIVTlOaE93a1NHWVZNX3RjR3l1MTI0ZjNLdQ?oc=5",
    "source": "travelvoice",
    "published": "2026-08-04T16:00+09:00",
    "summary": "",
@@ -2240,6 +2270,16 @@
    "summary": "",
    "categories": [
     "okinawa"
+   ]
+  },
+  {
+   "title": "フランス向け情報発信業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlM2FmZGhrQUoxb1BPVWdqUG4ybXNqU3pCUzdranFpX3NuOEtTd2U5bU85QkNFRTZ1ZlpobGNDVTVadjFRWjJFbGNyLVBObUw2?oc=5",
+   "source": "travelvoice",
+   "published": "2026-07-27T13:45+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
    ]
   },
   {
