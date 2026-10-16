@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T20:14+09:00",
+ "updated_at": "2026-10-17T01:32+09:00",
  "sources": [
   {
    "id": "honichi",
@@ -20,7 +20,7 @@
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 49
+   "new_items": 50
   },
   {
    "id": "ocvb",
@@ -45,6 +45,16 @@
   }
  ],
  "articles": [
+  {
+   "title": "高岡市北部地区観光商品造成・情報発信業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wVnRTbVpNQXpIOW1YSENWVWJybUM4SjdCdlVFazJYUFViOTMyRnphMUdOVnJFYUtaZlFsV1BOQTBMMEVkei1tRlhjMjh3RkRX?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-16T22:27+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
   {
    "title": "地図は観光と地域をどう変えるか？ 周遊促進から担い手の「手応え」まで、データ活用の可能性を聞いてきた",
    "url": "https://www.travelvoice.jp/20261014-160602",
@@ -254,16 +264,6 @@
    "summary": "ファイターズ スポーツ＆エンターテイメント（FSE）は、AIワンストップ旅行予約サービス「TripToJapan.com」を展開する高輪トラベルグループと資本業務提携契約。Fビレッジへのインバウンド集客を強化していく。",
    "categories": [
     "dx_ai"
-   ]
-  },
-  {
-   "title": "高岡市北部地区観光商品造成・情報発信業務に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wVnRTbVpNQXpIOW1YSENWVWJybUM4SjdCdlVFazJYUFViOTMyRnphMUdOVnJFYUtaZlFsV1BOQTBMMEVkei1tRlhjMjh3RkRX?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-13T13:07+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
    ]
   },
   {
@@ -948,6 +948,16 @@
    "categories": [
     "dx_ai",
     "okinawa"
+   ]
+  },
+  {
+   "title": "中国人の海外旅行、2025年は16％増の1.68億回、ラグジュアリーや文化・学びの旅に注目、AI活用も加速 ―ITB China",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93MzNvQ3dqY0k0Yld6eFpQMXFrWVVHTzVSTUxfWEVxcmdkWmJfMjN3WDFvTENmU29tMXVqZlQ3UFBud1REWUh2NmFCN1JXVXVHWlZxVg?oc=5",
+   "source": "travelvoice",
+   "published": "2026-09-17T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
    ]
   },
   {
@@ -2040,8 +2050,8 @@
    ]
   },
   {
-   "title": "大学生の約8割が海外旅行に意欲、経験の有無が次の渡航に影響、旅行計画でAI利用は55％ ―日本旅行業協会が調査",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iZjRiSkVrYnhfRVFSeVhVWGpfZ2pTX2p5ZjZ6TmhrYkZpaUd0NU5LRUx0YWVyMU1NWEI1VU5iRGRsNXRORmlZTnExV0lUWmJZQ3ZyYQ?oc=5",
+   "title": "AI利用率トップは「旅行」で35.3%、一方で影響度は平均並み、旅程作成や複雑な条件の宿探しで活用 ―読売広告社",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlNlBLckRoUml1UjNyTTZoZlRMY3Q4VFZtbTEwVHRPMnRqQnFRMVRRT0xCLUF2S2VSTUhIVTlOaE93a1NHWVZNX3RjR3l1MTI0ZjNLdQ?oc=5",
    "source": "travelvoice",
    "published": "2026-08-04T16:00+09:00",
    "summary": "",
@@ -2050,8 +2060,8 @@
    ]
   },
   {
-   "title": "AI利用率トップは「旅行」で35.3%、一方で影響度は平均並み、旅程作成や複雑な条件の宿探しで活用 ―読売広告社",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlNlBLckRoUml1UjNyTTZoZlRMY3Q4VFZtbTEwVHRPMnRqQnFRMVRRT0xCLUF2S2VSTUhIVTlOaE93a1NHWVZNX3RjR3l1MTI0ZjNLdQ?oc=5",
+   "title": "大学生の約8割が海外旅行に意欲、経験の有無が次の渡航に影響、旅行計画でAI利用は55％ ―日本旅行業協会が調査",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iZjRiSkVrYnhfRVFSeVhVWGpfZ2pTX2p5ZjZ6TmhrYkZpaUd0NU5LRUx0YWVyMU1NWEI1VU5iRGRsNXRORmlZTnExV0lUWmJZQ3ZyYQ?oc=5",
    "source": "travelvoice",
    "published": "2026-08-04T16:00+09:00",
    "summary": "",
