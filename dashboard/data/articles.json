@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-10-17T01:32+09:00",
+ "updated_at": "2026-10-17T05:58+09:00",
  "sources": [
   {
    "id": "honichi",
    "name": "訪日ラボ",
    "home": "https://honichi.com/",
    "direct_feed": true,
-   "new_items": 15
+   "new_items": 14
   },
   {
    "id": "hotelbank",
@@ -20,14 +20,14 @@
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 50
+   "new_items": 51
   },
   {
    "id": "ocvb",
    "name": "OCVB",
    "home": "https://www.ocvb.or.jp/",
    "direct_feed": true,
-   "new_items": 60
+   "new_items": 59
   },
   {
    "id": "kankodx",
@@ -818,16 +818,6 @@
    ]
   },
   {
-   "title": "業務改善助成金2026の締切は最短9月30日 — 宿の47都道府県残り日数と上限600万円の1室換算",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWkYtY09VTm9NY2hvalQ4M0NPUHlobnM4RkJUajBMZ3Bna2hIWndISzhFYWMySFNyWGxuYjJMYkhzNzJld0F4WTBaTXE5bzZ6bEF2N2V5WFFhVm9QNXdOcVdKYzI1cTRJTmR1UkJaRmN3eUNOTkRpajBvcDRBQnRxZktPcWVzMTB4dGJQeFA0VVhXdGo4dTlR?oc=5",
-   "source": "hotelbank",
-   "published": "2026-09-28T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
-   ]
-  },
-  {
    "title": "2026年開業1,592施設、半数は1室の宿 — フロント不設置の3要件と省人化型の新規供給",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRkxOUlBvUEtsUzNQQkxVQ1ZVOXpnc0NzMjh6WDc5WkRnV09iRGMwenhvbTU5OXpCbkdtYzhqVnFyR0RkdkdjcjZKS2lia2ZWOWVlUG40SWNud3VPSEVBWjZIMk11cjNtdGEwSkVmWFIxaTRmTVJmTkUxN2llNDYyaENrUQ?oc=5",
    "source": "hotelbank",
@@ -835,6 +825,16 @@
    "summary": "",
    "categories": [
     "dx_ai"
+   ]
+  },
+  {
+   "title": "業務改善助成金2026の締切は最短9月30日 — 宿の47都道府県残り日数と上限600万円の1室換算",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWkYtY09VTm9NY2hvalQ4M0NPUHlobnM4RkJUajBMZ3Bna2hIWndISzhFYWMySFNyWGxuYjJMYkhzNzJld0F4WTBaTXE5bzZ6bEF2N2V5WFFhVm9QNXdOcVdKYzI1cTRJTmR1UkJaRmN3eUNOTkRpajBvcDRBQnRxZktPcWVzMTB4dGJQeFA0VVhXdGo4dTlR?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-28T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
    ]
   },
   {
