@@ -15,13 +15,6 @@
       "page": "https://commons.wikimedia.org/wiki/File:%E6%81%A9%E7%B4%8D%E6%9D%91%E4%B8%87%E5%BA%A7%E6%AF%9B%E3%81%AB%E3%81%82%E3%82%8B%E6%81%A9%E7%B4%8D%E3%83%8A%E3%83%93%E3%83%BC%E3%81%AE%E6%AD%8C%E7%A2%91.jpg"
     },
     {
-      "title": "File:Onna Okinawa Japan Cape-Manzamo-01.jpg",
-      "width": 5387,
-      "height": 3591,
-      "license": "CC BY-SA 3.0",
-      "page": "https://commons.wikimedia.org/wiki/File:Onna_Okinawa_Japan_Cape-Manzamo-01.jpg"
-    },
-    {
       "title": "File:萬座毛 (35191744026).jpg",
       "width": 5710,
       "height": 3188,
@@ -104,66 +97,16 @@
       "height": 3456,
       "license": "CC BY 2.0",
       "page": "https://commons.wikimedia.org/wiki/File:%E8%90%AC%E5%BA%A7%E6%AF%9B_(33170554264).jpg"
+    },
+    {
+      "title": "File:萬座毛 (33972736426).jpg",
+      "width": 5184,
+      "height": 3456,
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:%E8%90%AC%E5%BA%A7%E6%AF%9B_(33972736426).jpg"
     }
   ],
-  "02_churaumi.jpg": [
-    {
-      "title": "File:Okinawa Aquarium.jpg",
-      "width": 5862,
-      "height": 3912,
-      "license": "CC BY-SA 3.0",
-      "page": "https://commons.wikimedia.org/wiki/File:Okinawa_Aquarium.jpg"
-    },
-    {
-      "title": "File:People inside the tank of Okinawa Churaumi Aquarium.jpg",
-      "width": 5184,
-      "height": 3888,
-      "license": "CC BY-SA 4.0",
-      "page": "https://commons.wikimedia.org/wiki/File:People_inside_the_tank_of_Okinawa_Churaumi_Aquarium.jpg"
-    },
-    {
-      "title": "File:Big and small fish at Okinawa Churaumi Aquarium.jpg",
-      "width": 5184,
-      "height": 3888,
-      "license": "CC BY-SA 4.0",
-      "page": "https://commons.wikimedia.org/wiki/File:Big_and_small_fish_at_Okinawa_Churaumi_Aquarium.jpg"
-    },
-    {
-      "title": "File:Inside one small tank of Okinawa Churaumi Aquarium.jpg",
-      "width": 5184,
-      "height": 3888,
-      "license": "CC BY-SA 4.0",
-      "page": "https://commons.wikimedia.org/wiki/File:Inside_one_small_tank_of_Okinawa_Churaumi_Aquarium.jpg"
-    },
-    {
-      "title": "File:Whale shark at Churauma Aquarium, Okinawa.jpg",
-      "width": 3917,
-      "height": 2938,
-      "license": "CC BY-SA 3.0",
-      "page": "https://commons.wikimedia.org/wiki/File:Whale_shark_at_Churauma_Aquarium,_Okinawa.jpg"
-    },
-    {
-      "title": "File:Whale Shark - Churaumi aquarium, Okinawa, Japan.jpg",
-      "width": 3872,
-      "height": 2592,
-      "license": "CC BY-SA 2.0",
-      "page": "https://commons.wikimedia.org/wiki/File:Whale_Shark_-_Churaumi_aquarium,_Okinawa,_Japan.jpg"
-    },
-    {
-      "title": "File:Churaumi aquarium, Okinawa, Japan (38308328).jpg",
-      "width": 2048,
-      "height": 1536,
-      "license": "CC BY-SA 2.0",
-      "page": "https://commons.wikimedia.org/wiki/File:Churaumi_aquarium,_Okinawa,_Japan_(38308328).jpg"
-    },
-    {
-      "title": "File:USMC-081220-M-0902C-004.jpg",
-      "width": 2000,
-      "height": 1333,
-      "license": "Public domain",
-      "page": "https://commons.wikimedia.org/wiki/File:USMC-081220-M-0902C-004.jpg"
-    }
-  ],
+  "02_churaumi.jpg": [],
   "03_akahaka.jpg": [
     {
       "title": "File:Pumice on the shore of Okinawa 202112 01.jpg",
@@ -185,6 +128,20 @@
       "height": 3575,
       "license": "CC0",
       "page": "https://commons.wikimedia.org/wiki/File:Kouri-Beach.jpg"
+    },
+    {
+      "title": "File:Cape Hedo - panoramio.jpg",
+      "width": 4928,
+      "height": 3264,
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Cape_Hedo_-_panoramio.jpg"
+    },
+    {
+      "title": "File:国頭村楚洲の海岸 20130205 - panoramio.jpg",
+      "width": 2736,
+      "height": 1824,
+      "license": "CC BY 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:%E5%9B%BD%E9%A0%AD%E6%9D%91%E6%A5%9A%E6%B4%B2%E3%81%AE%E6%B5%B7%E5%B2%B8_20130205_-_panoramio.jpg"
     }
   ],
   "04_nakijin.jpg": [
@@ -377,18 +334,46 @@
   ],
   "07_otowadake.jpg": [
     {
-      "title": "File:Amesoko, Nakijin, Kunigami District, Okinawa Prefecture 905-0411, Japan - panoramio.jpg",
-      "width": 5760,
-      "height": 3840,
-      "license": "CC BY 3.0",
-      "page": "https://commons.wikimedia.org/wiki/File:Amesoko,_Nakijin,_Kunigami_District,_Okinawa_Prefecture_905-0411,_Japan_-_panoramio.jpg"
+      "title": "File:Kouri Island seen from Mutabaru Observatory 202607.jpg",
+      "width": 7008,
+      "height": 4672,
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Kouri_Island_seen_from_Mutabaru_Observatory_202607.jpg"
     },
     {
-      "title": "File:Japan, Okinawa-ken, 県道247号線 - panoramio.jpg",
-      "width": 5760,
-      "height": 3840,
-      "license": "CC BY 3.0",
-      "page": "https://commons.wikimedia.org/wiki/File:Japan,_Okinawa-ken,_%E7%9C%8C%E9%81%93247%E5%8F%B7%E7%B7%9A_-_panoramio.jpg"
+      "title": "File:Yagaji and Kouri Island from Mount Nago 202007.jpg",
+      "width": 6000,
+      "height": 4000,
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Yagaji_and_Kouri_Island_from_Mount_Nago_202007.jpg"
+    },
+    {
+      "title": "File:Kouri Bridge 202006.jpg",
+      "width": 6000,
+      "height": 4000,
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Kouri_Bridge_202006.jpg"
+    },
+    {
+      "title": "File:Mount Oppa from Kouri Island 202006.jpg",
+      "width": 6000,
+      "height": 4000,
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Mount_Oppa_from_Kouri_Island_202006.jpg"
+    },
+    {
+      "title": "File:View of Kouri Island and Kouri Bridge seen from Mount Oppa 202408.jpg",
+      "width": 6000,
+      "height": 4000,
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:View_of_Kouri_Island_and_Kouri_Bridge_seen_from_Mount_Oppa_202408.jpg"
+    },
+    {
+      "title": "File:View of Kouri Island seen from Mount Oppa 202408.jpg",
+      "width": 6000,
+      "height": 4000,
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:View_of_Kouri_Island_seen_from_Mount_Oppa_202408.jpg"
     },
     {
       "title": "File:Kouri, Nakijin, Kunigami District, Okinawa Prefecture 905-0406, Japan - panoramio.jpg",
@@ -398,88 +383,60 @@
       "page": "https://commons.wikimedia.org/wiki/File:Kouri,_Nakijin,_Kunigami_District,_Okinawa_Prefecture_905-0406,_Japan_-_panoramio.jpg"
     },
     {
-      "title": "File:Under the Kouri Bridge - panoramio.jpg",
-      "width": 4000,
-      "height": 3000,
-      "license": "CC BY 3.0",
-      "page": "https://commons.wikimedia.org/wiki/File:Under_the_Kouri_Bridge_-_panoramio.jpg"
+      "title": "File:Nago Okinawa Kouri-Bridge-02.jpg",
+      "width": 5739,
+      "height": 3228,
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Nago_Okinawa_Kouri-Bridge-02.jpg"
     },
     {
-      "title": "File:ショップ - panoramio.jpg",
-      "width": 3264,
-      "height": 2448,
-      "license": "CC BY 3.0",
-      "page": "https://commons.wikimedia.org/wiki/File:%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97_-_panoramio.jpg"
+      "title": "File:Kouri Bridge (15130568259).jpg",
+      "width": 4704,
+      "height": 3136,
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Kouri_Bridge_(15130568259).jpg"
     },
     {
-      "title": "File:古宇利大橋 古宇利ビーチ 20100814b.jpg",
-      "width": 3264,
-      "height": 2448,
-      "license": "CC BY 3.0",
-      "page": "https://commons.wikimedia.org/wiki/File:%E5%8F%A4%E5%AE%87%E5%88%A9%E5%A4%A7%E6%A9%8B_%E5%8F%A4%E5%AE%87%E5%88%A9%E3%83%93%E3%83%BC%E3%83%81_20100814b.jpg"
+      "title": "File:Nago Okinawa Kouri-Bridge-01.jpg",
+      "width": 4967,
+      "height": 2794,
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Nago_Okinawa_Kouri-Bridge-01.jpg"
     },
     {
-      "title": "File:古宇利島への道路 - panoramio.jpg",
-      "width": 3264,
-      "height": 2448,
-      "license": "CC BY 3.0",
-      "page": "https://commons.wikimedia.org/wiki/File:%E5%8F%A4%E5%AE%87%E5%88%A9%E5%B3%B6%E3%81%B8%E3%81%AE%E9%81%93%E8%B7%AF_-_panoramio.jpg"
+      "title": "File:JP 沖繩 Okinawa Nago Kouri Island n Road Bridge n Beach January 2026 N13P 08.jpg",
+      "width": 4080,
+      "height": 3060,
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:JP_%E6%B2%96%E7%B9%A9_Okinawa_Nago_Kouri_Island_n_Road_Bridge_n_Beach_January_2026_N13P_08.jpg"
     },
     {
-      "title": "File:古宇利島の公園 - panoramio.jpg",
-      "width": 3264,
-      "height": 2448,
-      "license": "CC BY 3.0",
-      "page": "https://commons.wikimedia.org/wiki/File:%E5%8F%A4%E5%AE%87%E5%88%A9%E5%B3%B6%E3%81%AE%E5%85%AC%E5%9C%92_-_panoramio.jpg"
+      "title": "File:JP 沖繩 Okinawa Nago Kouri Island n Road Bridge n Beach January 2026 N13P 06.jpg",
+      "width": 4080,
+      "height": 3060,
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:JP_%E6%B2%96%E7%B9%A9_Okinawa_Nago_Kouri_Island_n_Road_Bridge_n_Beach_January_2026_N13P_06.jpg"
     },
     {
-      "title": "File:古宇利大橋 古宇利ビーチ 20100814a.jpg",
-      "width": 3264,
-      "height": 2448,
-      "license": "CC BY 3.0",
-      "page": "https://commons.wikimedia.org/wiki/File:%E5%8F%A4%E5%AE%87%E5%88%A9%E5%A4%A7%E6%A9%8B_%E5%8F%A4%E5%AE%87%E5%88%A9%E3%83%93%E3%83%BC%E3%83%81_20100814a.jpg"
+      "title": "File:JP 沖繩 Okinawa Nago Kouri Island n Road Bridge n Beach January 2026 N13P 07.jpg",
+      "width": 4080,
+      "height": 3060,
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:JP_%E6%B2%96%E7%B9%A9_Okinawa_Nago_Kouri_Island_n_Road_Bridge_n_Beach_January_2026_N13P_07.jpg"
     },
     {
-      "title": "File:沖縄 古宇利大橋の小島 - panoramio.jpg",
-      "width": 3648,
-      "height": 2056,
-      "license": "CC BY 3.0",
-      "page": "https://commons.wikimedia.org/wiki/File:%E6%B2%96%E7%B8%84_%E5%8F%A4%E5%AE%87%E5%88%A9%E5%A4%A7%E6%A9%8B%E3%81%AE%E5%B0%8F%E5%B3%B6_-_panoramio.jpg"
+      "title": "File:JP 沖繩 Okinawa Nago Kouri Island n Road Bridge n Beach January 2026 N13P 09.jpg",
+      "width": 4080,
+      "height": 3060,
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:JP_%E6%B2%96%E7%B9%A9_Okinawa_Nago_Kouri_Island_n_Road_Bridge_n_Beach_January_2026_N13P_09.jpg"
     },
     {
-      "title": "File:古宇利大橋の小島 - panoramio.jpg",
-      "width": 3648,
-      "height": 2056,
-      "license": "CC BY 3.0",
-      "page": "https://commons.wikimedia.org/wiki/File:%E5%8F%A4%E5%AE%87%E5%88%A9%E5%A4%A7%E6%A9%8B%E3%81%AE%E5%B0%8F%E5%B3%B6_-_panoramio.jpg"
-    },
-    {
-      "title": "File:古宇利島一周 - panoramio.jpg",
-      "width": 3648,
-      "height": 2056,
-      "license": "CC BY 3.0",
-      "page": "https://commons.wikimedia.org/wiki/File:%E5%8F%A4%E5%AE%87%E5%88%A9%E5%B3%B6%E4%B8%80%E5%91%A8_-_panoramio.jpg"
-    },
-    {
-      "title": "File:古宇利大橋 - panoramio (1).jpg",
-      "width": 3648,
-      "height": 2056,
-      "license": "CC BY 3.0",
-      "page": "https://commons.wikimedia.org/wiki/File:%E5%8F%A4%E5%AE%87%E5%88%A9%E5%A4%A7%E6%A9%8B_-_panoramio_(1).jpg"
-    },
-    {
-      "title": "File:古宇利大橋 - panoramio (2).jpg",
-      "width": 3648,
-      "height": 2056,
-      "license": "CC BY 3.0",
-      "page": "https://commons.wikimedia.org/wiki/File:%E5%8F%A4%E5%AE%87%E5%88%A9%E5%A4%A7%E6%A9%8B_-_panoramio_(2).jpg"
-    },
-    {
-      "title": "File:Japan, 県道248号線 - panoramio.jpg",
-      "width": 2592,
-      "height": 1936,
-      "license": "CC BY 3.0",
-      "page": "https://commons.wikimedia.org/wiki/File:Japan,_%E7%9C%8C%E9%81%93248%E5%8F%B7%E7%B7%9A_-_panoramio.jpg"
+      "title": "File:JP 沖繩 Okinawa Nago Kouri Island n Road Bridge n Beach January 2026 N13P 10.jpg",
+      "width": 4080,
+      "height": 3060,
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:JP_%E6%B2%96%E7%B9%A9_Okinawa_Nago_Kouri_Island_n_Road_Bridge_n_Beach_January_2026_N13P_10.jpg"
     }
   ]
 }
