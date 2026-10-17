@@ -25,6 +25,15 @@ jobs:
 
       - name: 写真を取得
         run: python scripts/fetch_photos.py
+        env:
+          PREVIEW_DIR: ${{ runner.temp }}/preview
+
+      - name: 候補写真の一覧を保存（Actions の Artifacts からダウンロードして見比べられます）
+        uses: actions/upload-artifact@v4
+        with:
+          name: photo-candidates
+          path: ${{ runner.temp }}/preview
+          retention-days: 7
 
       - name: 変更があれば保存（コミット）
         run: |

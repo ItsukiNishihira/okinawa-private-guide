@@ -12,6 +12,7 @@
 GitHub Actions（.github/workflows/fetch-photos.yml）から実行される想定です。
 """
 import json
+import os
 import pathlib
 import re
 import time
@@ -23,6 +24,8 @@ IMG_DIR = ROOT / "images"
 API = "https://commons.wikimedia.org/w/api.php"
 UA = "okinawa-private-guide/1.0 (https://github.com/ItsukiNishihira/okinawa-private-guide)"
 WIDTH = 1200
+# 候補写真を見比べたいときは PREVIEW_DIR を指定すると、各スポットの候補の縮小版をそこへ保存します
+PREVIEW_DIR = os.environ.get("PREVIEW_DIR")
 ALLOWED = re.compile(r"^(CC0|Public domain|PD|CC BY(-SA)? [0-9.]+)", re.I)
 
 
@@ -87,6 +90,18 @@ def download(url, dest):
         dest.write_bytes(r.read())
 
 
+def save_previews(out, cs):
+    d = pathlib.Path(PREVIEW_DIR)
+    d.mkdir(parents=True, exist_ok=True)
+    stem = out.removesuffix(".jpg")
+    for n, c in enumerate(cs):
+        try:
+            download(c["thumb"].replace(f"/{WIDTH}px-", "/400px-"), d / f"{stem}__{n:02d}.jpg")
+        except Exception as e:
+            print("  preview failed:", c["title"], e)
+    (d / f"{stem}.txt").write_text("\n".join(f"{n:02d} {c['title']}" for n, c in enumerate(cs)) + "\n", encoding="utf-8")
+
+
 def main():
     spots = json.loads((IMG_DIR / "photos.json").read_text(encoding="utf-8"))
     credits, report = {}, {}
@@ -100,6 +115,8 @@ def main():
             cs.sort(key=lambda c: c["width"] * c["height"], reverse=True)
             report[spot["out"]] = [{k: c[k] for k in ("title", "width", "height", "license", "page")} for c in cs[:15]]
             pick = cs[0] if cs else None
+            if PREVIEW_DIR:
+                save_previews(spot["out"], cs[:24])
         if not pick:
             print(f"✗ {spot['out']}: 使える写真が見つかりませんでした")
             continue

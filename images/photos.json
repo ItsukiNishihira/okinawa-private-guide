@@ -1,9 +1,9 @@
 [
-  {"out": "01_manzamo.jpg",   "category": "Manzamo", "search": ["Manzamo cliff Onna"]},
-  {"out": "02_churaumi.jpg",  "category": "Okinawa Churaumi Aquarium", "search": ["Churaumi Aquarium Kuroshio Sea whale shark"]},
-  {"out": "03_akahaka.jpg",   "search": ["Akahaka beach", "Kunigami beach Okinawa", "Yanbaru coast"]},
-  {"out": "04_nakijin.jpg",   "category": "Nakijin Castle", "search": ["Nakijin Castle walls"]},
+  {"out": "01_manzamo.jpg",   "category": "Manzamo", "search": ["Manzamo elephant", "万座毛 象の鼻"]},
+  {"out": "02_churaumi.jpg",  "file": "Okinawa Aquarium.jpg"},
+  {"out": "03_akahaka.jpg",   "search": ["Akahaka", "Kunigami coast sea", "国頭村 海岸", "Yanbaru coast", "Okinawa Kunigami beach"]},
+  {"out": "04_nakijin.jpg",   "category": "Nakijin Castle", "search": ["Nakijin Castle wall", "今帰仁城跡 城壁"]},
   {"out": "05_kouri.jpg",     "category": "Kouri Bridge", "search": ["Kouri Bridge Okinawa"]},
-  {"out": "06_heartrock.jpg", "search": ["Heart Rock Kouri", "Tinu Beach Kouri"]},
-  {"out": "07_otowadake.jpg", "search": ["Otowadake Kouri", "Kouri island view from above"]}
+  {"out": "06_heartrock.jpg", "search": ["Heart Rock Kouri", "Tinu Beach Kouri", "Tinu-hama"]},
+  {"out": "07_otowadake.jpg", "search": ["Otowadake", "音羽岳", "古宇利島 展望", "Kouri Island view from hill", "View of Kouri Island"]}
 ]
