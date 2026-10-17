@@ -28,12 +28,14 @@ jobs:
         env:
           PREVIEW_DIR: ${{ runner.temp }}/preview
 
-      - name: 候補写真の一覧を保存（Actions の Artifacts からダウンロードして見比べられます）
-        uses: actions/upload-artifact@v4
-        with:
-          name: photo-candidates
-          path: ${{ runner.temp }}/preview
-          retention-days: 7
+      - name: 候補写真を見比べ用ブランチ（photo-previews）に保存
+        run: |
+          cd "${{ runner.temp }}/preview"
+          git init -q -b photo-previews
+          git config user.name "github-actions[bot]"
+          git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
+          git add . && git commit -qm "写真候補のプレビュー"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" photo-previews
 
       - name: 変更があれば保存（コミット）
         run: |
