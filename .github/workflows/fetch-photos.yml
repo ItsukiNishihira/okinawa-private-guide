@@ -8,6 +8,7 @@ on:
     paths:
       - images/photos.json
       - scripts/fetch_photos.py
+      - .github/workflows/fetch-photos.yml
   workflow_dispatch:
 
 permissions:
