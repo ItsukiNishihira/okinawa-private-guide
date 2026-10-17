@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T00:27+09:00",
+ "updated_at": "2026-10-18T05:29+09:00",
  "sources": [
   {
    "id": "honichi",
@@ -13,7 +13,7 @@
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
    "direct_feed": false,
-   "new_items": 30
+   "new_items": 29
   },
   {
    "id": "travelvoice",
@@ -27,7 +27,7 @@
    "name": "OCVB",
    "home": "https://www.ocvb.or.jp/",
    "direct_feed": true,
-   "new_items": 61
+   "new_items": 62
   },
   {
    "id": "kankodx",
@@ -836,7 +836,7 @@
    ]
   },
   {
-   "title": "ファイターズ、AI旅行予約サービスの運営会社と資本業務提携、北海道Fビレッジへのインバウンド誘客を強化",
+   "title": "北海道ファイターズ、AI旅行予約サービスの運営会社と資本業務提携、Fビレッジへのインバウンド誘客を強化",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHRF9hNGR5Z3A0alFEWVJ3WDNnNVBualVnQ1JqTVU0TkJuT3R5Tm1DRFdiT1RoYTRBel9KV2lScnlyUUpFVXo3QlM0RlpjdTRKMzNiUw?oc=5",
    "source": "travelvoice",
    "published": "2026-10-09T10:52+09:00",
@@ -846,7 +846,7 @@
    ]
   },
   {
-   "title": "北海道ファイターズ、AI旅行予約サービスの運営会社と資本業務提携、Fビレッジへのインバウンド誘客を強化",
+   "title": "ファイターズ、AI旅行予約サービスの運営会社と資本業務提携、北海道Fビレッジへのインバウンド誘客を強化",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHRF9hNGR5Z3A0alFEWVJ3WDNnNVBualVnQ1JqTVU0TkJuT3R5Tm1DRFdiT1RoYTRBel9KV2lScnlyUUpFVXo3QlM0RlpjdTRKMzNiUw?oc=5",
    "source": "travelvoice",
    "published": "2026-10-09T10:52+09:00",
@@ -1034,16 +1034,6 @@
    ]
   },
   {
-   "title": "「おきなわ観光地域カルテ（8月度）」および「インバウンド人流分析（7月度）」公開のお知らせ",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BSENtMldMMkh2M0IzcExjck05MHk2MXRYX0hXcTZmYXF4cGF5NXhkSlM0S2lmRjhaZTMxbXh5Z1dZcnE3M29vMFdWcw?oc=5",
-   "source": "ocvb",
-   "published": "2026-10-05T18:27+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "次に仕掛けるべきUGC戦略 ~バズるUGCとAIに読まれるUGCは違う~",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95V2wzblhTR1VuSWs5VmN5WVp0QlFuczRaeF9oLXExMUJfZHJCdnVlSnVIUm1SVndhLXhoTmF5ZnBVQzU4SG9pd01QUnlSR0JWRWo2NUstTWRkb1psVkJGdWNmb1VRZFU?oc=5",
    "source": "honichi",
@@ -1061,6 +1051,16 @@
    "summary": "",
    "categories": [
     "dx_ai"
+   ]
+  },
+  {
+   "title": "「おきなわ観光地域カルテ（8月度）」および「インバウンド人流分析（7月度）」公開のお知らせ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BSENtMldMMkh2M0IzcExjck05MHk2MXRYX0hXcTZmYXF4cGF5NXhkSlM0S2lmRjhaZTMxbXh5Z1dZcnE3M29vMFdWcw?oc=5",
+   "source": "ocvb",
+   "published": "2026-10-05T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
    ]
   },
   {
@@ -1417,6 +1417,16 @@
    "categories": [
     "dx_ai",
     "okinawa"
+   ]
+  },
+  {
+   "title": "トリプラ、宿泊施設向けAIチャットボットで生成AI対応、FAQから自然な回答、100言語超で提供",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MQXVGTldQdHo1RzNQSEFOLThOV0ZMRGtXTFZPNUNOOE5xRzJFRU51b1lXUzNCOEl3bUx4ZFljQm4tclBWT2h6TDlPYURiX3NyalgyOQ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-09-18T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
    ]
   },
   {
