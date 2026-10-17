@@ -1,9 +1,11 @@
 [
-  {"out": "01_manzamo.jpg",   "category": "Manzamo", "search": ["Manzamo elephant", "万座毛 象の鼻"]},
+  {"out": "01_manzamo.jpg",   "file": "Cape Manza Elephant Rock, Okinawa.jpg"},
   {"out": "02_churaumi.jpg",  "file": "Okinawa Aquarium.jpg"},
-  {"out": "03_akahaka.jpg",   "search": ["Akahaka", "Kunigami coast sea", "国頭村 海岸", "Yanbaru coast", "Okinawa Kunigami beach"]},
-  {"out": "04_nakijin.jpg",   "category": "Nakijin Castle", "search": ["Nakijin Castle wall", "今帰仁城跡 城壁"]},
-  {"out": "05_kouri.jpg",     "category": "Kouri Bridge", "search": ["Kouri Bridge Okinawa"]},
-  {"out": "06_heartrock.jpg", "search": ["Heart Rock Kouri", "Tinu Beach Kouri", "Tinu-hama"]},
-  {"out": "07_otowadake.jpg", "search": ["Otowadake", "音羽岳", "古宇利島 展望", "Kouri Island view from hill", "View of Kouri Island"]}
+  {"out": "03_akahaka.jpg",   "file": "国頭村楚洲の海岸 20130205 - panoramio.jpg",
+   "caption": {"en": "Yanbaru coast, Kunigami (reference image)", "ja": "やんばる・国頭村の海岸（イメージ）"}},
+  {"out": "04_nakijin.jpg",   "file": "Nakijin Gusuku - panoramio.jpg"},
+  {"out": "05_kouri.jpg",     "file": "View of Kouri Island and Kouri Bridge seen from Mount Oppa 202408.jpg"},
+  {"out": "06_heartrock.jpg", "file": "Tinu-hama 202006 01.jpg"},
+  {"out": "07_otowadake.jpg", "file": "Kouri Bridge (15130568259).jpg",
+   "caption": {"en": "View over Kouri Island toward Kouri Bridge (reference image)", "ja": "古宇利島から古宇利大橋を望む（イメージ）"}}
 ]

@@ -8,6 +8,8 @@
 - 横幅 1200px に縮小した JPEG を images/ に保存し、
   作者・ライセンス・出典 URL を images/credits.json に書き出します（クレジット表示用）。
 - 候補一覧は images/candidates.json に出力します（差し替えの検討用）。
+  PREVIEW_DIR を指定すると候補の縮小版も保存します（Actions の手動実行で preview を ON にすると
+  photo-previews ブランチに保存されます）。
 
 GitHub Actions（.github/workflows/fetch-photos.yml）から実行される想定です。
 """
@@ -122,6 +124,9 @@ def main():
             continue
         download(pick["thumb"], IMG_DIR / spot["out"])
         credits[spot["out"]] = {k: pick[k] for k in ("title", "artist", "license", "license_url", "page")}
+        if spot.get("caption"):
+            # スポットそのものではない写真（イメージ写真）には、写っている場所を明記します
+            credits[spot["out"]]["caption"] = spot["caption"]
         print(f"✓ {spot['out']}: {pick['title']} ({pick['license']}, {pick['artist']})")
         time.sleep(1)
     (IMG_DIR / "credits.json").write_text(json.dumps(credits, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

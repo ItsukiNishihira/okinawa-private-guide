@@ -10,6 +10,11 @@ on:
       - scripts/fetch_photos.py
       - .github/workflows/fetch-photos.yml
   workflow_dispatch:
+    inputs:
+      preview:
+        description: "候補写真の縮小版を photo-previews ブランチに保存する"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -27,9 +32,10 @@ jobs:
       - name: 写真を取得
         run: python scripts/fetch_photos.py
         env:
-          PREVIEW_DIR: ${{ runner.temp }}/preview
+          PREVIEW_DIR: ${{ inputs.preview && format('{0}/preview', runner.temp) || '' }}
 
       - name: 候補写真を見比べ用ブランチ（photo-previews）に保存
+        if: inputs.preview
         run: |
           cd "${{ runner.temp }}/preview"
           git init -q -b photo-previews
