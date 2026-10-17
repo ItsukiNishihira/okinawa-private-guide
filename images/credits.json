@@ -1,0 +1,59 @@
+{
+  "01_manzamo.jpg": {
+    "title": "File:Cape Manza Elephant Rock, Okinawa.jpg",
+    "artist": "Mokkie",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cape_Manza_Elephant_Rock,_Okinawa.jpg"
+  },
+  "02_churaumi.jpg": {
+    "title": "File:Okinawa Aquarium.jpg",
+    "artist": "Jordy Meow",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Okinawa_Aquarium.jpg"
+  },
+  "03_akahaka.jpg": {
+    "title": "File:国頭村楚洲の海岸 20130205 - panoramio.jpg",
+    "artist": "690 Noda",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%E5%9B%BD%E9%A0%AD%E6%9D%91%E6%A5%9A%E6%B4%B2%E3%81%AE%E6%B5%B7%E5%B2%B8_20130205_-_panoramio.jpg",
+    "caption": {
+      "en": "Yanbaru coast, Kunigami (reference image)",
+      "ja": "やんばる・国頭村の海岸（イメージ）"
+    }
+  },
+  "04_nakijin.jpg": {
+    "title": "File:Nakijin Gusuku - panoramio.jpg",
+    "artist": "FoxyStranger Kawasaki",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Nakijin_Gusuku_-_panoramio.jpg"
+  },
+  "05_kouri.jpg": {
+    "title": "File:View of Kouri Island and Kouri Bridge seen from Mount Oppa 202408.jpg",
+    "artist": "Kugel~commonswiki",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:View_of_Kouri_Island_and_Kouri_Bridge_seen_from_Mount_Oppa_202408.jpg"
+  },
+  "06_heartrock.jpg": {
+    "title": "File:Tinu-hama 202006 01.jpg",
+    "artist": "Kugel~commonswiki",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tinu-hama_202006_01.jpg"
+  },
+  "07_otowadake.jpg": {
+    "title": "File:Kouri Bridge (15130568259).jpg",
+    "artist": "Takuya ASADA",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Kouri_Bridge_(15130568259).jpg",
+    "caption": {
+      "en": "View over Kouri Island toward Kouri Bridge (reference image)",
+      "ja": "古宇利島から古宇利大橋を望む（イメージ）"
+    }
+  }
+}

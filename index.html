@@ -42,13 +42,30 @@ button{font-family:Georgia,serif}
 .nprev:disabled{background:#071625;color:#1a3a52;cursor:default}
 .nnext{color:#fff;font-weight:bold}
 .nnext:disabled{background:#071625!important;color:#1a3a52;cursor:default}
+.hdr-row{display:flex;align-items:flex-start;justify-content:space-between;gap:12px}
+.lang{display:flex;background:#071625;border:1px solid #0f2a42;border-radius:999px;padding:3px;flex-shrink:0}
+.lang button{border:none;background:transparent;color:#5a9abf;font-family:sans-serif;font-size:12px;padding:6px 11px;border-radius:999px;cursor:pointer;min-width:44px}
+.lang button[aria-pressed="true"]{background:#0077b6;color:#fff;font-weight:bold}
+.photo{position:relative;background:#071625}
+.photo img{width:100%;height:220px;object-fit:cover;display:block}
+.credit{position:absolute;right:0;bottom:0;max-width:100%;background:rgba(0,0,0,.55);color:rgba(255,255,255,.85);font-family:sans-serif;font-size:9px;line-height:1.4;padding:3px 8px;border-top-left-radius:8px;text-decoration:none}
+html[lang="ja"] body,html[lang="ja"] button{font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",Georgia,serif}
+html[lang="ja"] .hero-sub,html[lang="ja"] .fin-txt{font-style:normal}
 </style>
 </head>
 <body>
 <div class="hdr">
-  <div class="hdr-lbl">OKINAWA PRIVATE GUIDE · DAY 1</div>
-  <div class="hdr-ttl">North Okinawa Discovery</div>
-
+  <div class="hdr-row">
+    <div>
+      <div class="hdr-lbl">OKINAWA PRIVATE GUIDE · DAY 1</div>
+      <div class="hdr-ttl" id="hdrTtl">North Okinawa Discovery</div>
+      <div class="hdr-sub" id="hdrSub"></div>
+    </div>
+    <div class="lang" role="group" aria-label="Language">
+      <button type="button" data-lang="en" onclick="setLang('en')">EN</button>
+      <button type="button" data-lang="ja" onclick="setLang('ja')">日本語</button>
+    </div>
+  </div>
 </div>
 <div id="dots"></div>
 <div id="card" class="card"></div>
@@ -147,7 +164,112 @@ const spots=[
  audio:"Your day ends here, high above everything you have seen. The Otowadake Observatory sits atop a forested hill on Kouri Island. As you reach the platform, the view opens with breathtaking completeness. Below, Kouri Island spreads in a tapestry of emerald fields and terracotta rooftops. The Kouri Bridge stretches across the water like a thin white thread. From this height, the color gradations of the ocean become fully visible. The Okinawan farewell blessing is Nifeedeebiruu — thank you from the bottom of my heart."}
 ];
 
+// 日本語版（英語版 spots と同じ id で対応）
+const JA={
+1:{name:"万座毛",subtitle:"「万人を座らせる」断崖",
+ duration:"約30分",entry:"¥100",
+ body:["目の前に広がるのは、東シナ海の波が長い年月をかけて削り出した高さ約20mの石灰岩の断崖です。海へ突き出した岩は巨大なゾウの鼻のような形をしており、「象の鼻」として万座毛のシンボルになっています。",
+       "1726年、琉球国王・尚敬王がこの地を訪れ「万人を座らせるに足る」と称えたことが名の由来とされます。「毛（もう）」は沖縄の言葉で草原を意味します。",
+       "この石灰岩の上に育つ植物群落は大変貴重で、一帯は天然記念物として保護されています。足元の小さな草花にもぜひ目を向けてみてください。",
+       "裏手には「裏万座毛」へ続く小道があります。人の少ない静かな場所から、象の鼻を反対側の角度で眺めることができます。"],
+ tip:"象の鼻は、左手側から西向きに、午前中の光で撮るのがおすすめです。午後は岩が影になりがちです。",
+ finland:"フィンランドの多島海の岩場や、ラップランドの丘から見た景色を思い出す方もいるでしょう。万座毛もまた、大地の成り立ちにじかに触れられる場所です。フィンランドと沖縄はどちらも、自然を心の再生の源として大切にしてきました。沖縄ではそれを「ぬちぐすい（命の薬）」と呼びます。",
+ audio:"ようこそ、万座毛へ。沖縄を代表する景勝地のひとつです。目の前の断崖は、東シナ海の波が長い年月をかけて削り出した石灰岩でできています。海へ突き出した岩は、まるでゾウの鼻のような形。これが万座毛のシンボル、象の鼻です。1726年、琉球の尚敬王がこの地を、万人を座らせるに足る草原と称えたことから、万座毛と呼ばれるようになりました。裏手の小道を進むと、人の少ない静かな場所から、象の鼻を反対側の角度で眺めることができます。"},
+
+2:{name:"沖縄美ら海水族館",subtitle:"世界の海を、ひとつの屋根の下に",
+ duration:"2〜3時間",entry:"大人 ¥2,090",
+ body:["館の主役は「黒潮の海」大水槽。幅35m、奥行27m、深さ10mの巨大な水槽で、観覧面のアクリルパネルは厚さ60cmを超える一枚板。世界最大級の大きさです。",
+       "スターはオスのジンベエザメ「ジンタ」。2026年3月時点で飼育31年を迎え、飼育下のジンベエザメとして世界最長記録を更新し続けています。地球最大の魚でありながら、主食はプランクトンです。",
+       "1日2回の給餌の時間には、ジンタが体を垂直に立て、大きな口を開けて海水ごとエサを吸い込む姿が見られます。ほかの水族館ではまず見られない光景です。",
+       "2025〜2026年には希少種の世界初の繁殖成功が続き、2026年3月にはリニューアルした深海エリアがオープンしました。無料のイルカショーやエメラルドビーチもすぐ隣にあります。"],
+ tip:"給餌の時間は入口の掲示で確認を。「美ら海シアター」の客席からは、ジンタを最も近く、正面の高さで眺められます。",
+ finland:"ジンタの31年は、まさに「待つこと」の物語。ひとつの世代にわたって注がれてきた手間と愛情の積み重ねです。長い時間軸で自然を見守り、科学を育ててきたフィンランドの姿勢とも重なります。",
+ audio:"ようこそ、沖縄美ら海水族館へ。美ら海とは、沖縄の言葉で美しい海という意味です。館の主役は、幅35メートル、深さ10メートルの大水槽、黒潮の海。そこで泳ぐスターが、オスのジンベエザメ、ジンタです。2026年3月時点で飼育31年。飼育下のジンベエザメとして、世界で最も長く生きています。1日2回の給餌の時間には、ジンタが体を垂直に立て、大きな口を開ける姿が見られます。一生忘れられない光景になるはずです。"},
+
+3:{name:"アカハカビーチ",subtitle:"静けさに包まれた、秘密の浜",
+ duration:"30〜60分",entry:"無料",
+ body:["美ら海水族館のスケール感のあとに訪れるアカハカビーチは、何ものにも代えがたい「静けさ」を届けてくれます。沖縄本島北部の知る人ぞ知る浜で、水深5mの海底まで見渡せるほど透明度の高い海が広がります。",
+       "ここは「やんばる」。2021年にユネスコ世界自然遺産に登録された、古くからの森が広がる地域です。森には、地元で「森の幽霊」とも呼ばれるヤンバルクイナなど、ここにしかいない生きものが暮らしています。",
+       "売店も喧騒もありません。あるのは波のリズムと、多くの旅行者が知らない場所を見つけたという特別な感覚だけ。これもまた「ぬちぐすい（命の薬）」です。",
+       "沖縄は世界有数の長寿の地として知られています。自然の中の静かなひとときを、贅沢ではなく「暮らしに欠かせないもの」として大切にする文化が、その理由のひとつと言われています。"],
+ tip:"浜には設備がないため、飲み物と日焼け対策をお忘れなく。波は穏やかで、静かに泳ぐのにぴったりです。",
+ finland:"フィンランドの方なら「メッツァラウハ（森の安らぎ）」や、夏の湖畔の静かな夕暮れを思い浮かべるかもしれません。どちらの文化でも、自然の中の静けさは心を癒やす、時に神聖な時間です。アカハカビーチは、沖縄版のサマーコテージのひとときと言えるでしょう。",
+ audio:"美ら海水族館のあとに訪れるアカハカビーチ。ここには、もっと貴重なものがあります。それは静けさです。沖縄本島北部の知る人ぞ知るこの浜は、驚くほど透明な海に囲まれています。ここはやんばる。2021年にユネスコ世界自然遺産に登録された、古い森が広がる地域です。靴を脱いで、午後のぬくもりが残る砂を感じてみてください。そして波の音に耳を傾けてください。これが、沖縄の言葉で命の薬を意味する、ぬちぐすいです。"},
+
+4:{name:"今帰仁城跡",subtitle:"空に近い、世界遺産の城（グスク）",
+ duration:"60〜90分",entry:"¥600",
+ body:["今帰仁城（なきじんぐすく）の歴史は13世紀にさかのぼります。標高約100mに築かれ、三方に海を望むこの城跡は、2000年にユネスコ世界文化遺産に登録されました。",
+       "全長約1.5kmにおよぶ石灰岩の城壁は、漆喰を使わず自然石を丁寧に積み上げたもの。丘の地形に沿って曲線を描き、土地に逆らわず寄り添うように築かれています。その姿は力強く、そして美しいものです。",
+       "最後の北山王・攀安知（はんあんち）は1416年、圧倒的な軍勢を前に、わずか17人の家臣とともに立ち向かったと伝えられています。「我らは北山の武士。後の世に笑われぬよう、最期を迎えよう」と語ったといいます。",
+       "城内の聖地「御内原（うーちばる）」は女性の神女だけが祭祀を担い、人の世と神の世をつなぐ場所でした。女性が祈りを担う伝統は、今も沖縄に息づいています。"],
+ tip:"石畳は足元が不安定なので、歩きやすい靴でどうぞ。主郭からのパノラマは、今日のツアーで一番の眺めです。",
+ finland:"フィンランドにも、大国のはざまで自らのアイデンティティを守り抜いてきた歴史があります。攀安知の最期の言葉には、フィンランドの「シス（sisu）」—静かで揺るぎない不屈の精神—と同じ響きがあります。今帰仁で、その精神が刻まれた場所に立ってみてください。",
+ audio:"目の前にあるのは、アジアでも屈指の壮大な城跡です。今帰仁城の歴史は13世紀にさかのぼり、標高およそ100メートルの高台に築かれています。2000年には、ユネスコ世界文化遺産に登録されました。全長1.5キロメートルの城壁は、漆喰を使わずに石を積み上げたものです。最後の北山王、攀安知は1416年、圧倒的な軍勢を前に、わずか17人の家臣とともにこう語ったと伝えられています。我らは北山の武士。後の世に笑われぬよう、最期を迎えよう。"},
+
+5:{name:"古宇利島",subtitle:"恋の島、そしてすべての始まりの島",
+ duration:"60〜90分",entry:"無料",
+ body:["東シナ海にかかる全長約2kmの古宇利大橋は、日本でも指折りの絶景ドライブコース。海はエメラルドから群青へと見事なグラデーションを描き、橋の下にウミガメが見えることも珍しくありません。",
+       "古宇利島は「クイジマ（恋島）」とも呼ばれます。天から降り立った最初の男女がこの島で暮らし、言葉や想い、つながりを少しずつ知っていった、という伝説が残っています。",
+       "その男女が身を寄せたとされる洞窟は、今も島の海岸に残っています。この伝説は、沖縄の文字の記録よりも古くから語り継がれてきたものです。",
+       "今の古宇利島は、サトウキビ畑が広がるのどかな島。その朝に獲れたウニや海ぶどうを出す小さな食堂が点在します。古宇利オーシャンタワーからは360度の眺望を楽しめます。"],
+ tip:"写真は橋の中央付近がおすすめです。旬の時期（春〜初夏）の生ウニは格別です。",
+ finland:"フィンランドの叙事詩『カレワラ』にも、島や原初の水から世界が生まれる創世の物語があります。古宇利島の伝説は、どこか懐かしく感じられるかもしれません。どちらの文化も、ある種の島が、見た目の美しさをはるかに超えた特別な意味を持つことを知っています。",
+ audio:"古宇利大橋を渡るドライブだけでも、ここまで来る価値があります。橋は東シナ海の上をおよそ2キロメートルにわたって延びています。海は、信じられないほど鮮やかなエメラルドと深い青に染まります。古宇利島は恋の島とも呼ばれます。天から降り立った最初の男女がこの島で暮らし、想いとつながりを知っていったという、古い創世の伝説が残っています。二人から、すべての人の命が広がっていったと語られています。二人が身を寄せたとされる洞窟は、今も島に残っています。"},
+
+6:{name:"ハートロック",subtitle:"海が刻んだラブレター",
+ duration:"30〜45分",entry:"駐車場 ¥100",
+ body:["波打ち際から15mほど離れ、少し右寄りに立ってみてください。ティーヌ浜の2つの岩が重なり、左の岩の根元に波が刻んだハートの形が現れます。岩と岩のすき間も、逆さまのハートに見えます。",
+       "ティーヌ浜は小さく、手つかずの自然が残る浜。白い砂がきめ細かく、海の中のサンゴが見えるほど水が澄んでいます。",
+       "大手航空会社のテレビCMの撮影地になったことで、全国的に知られるようになりました。二人で訪れると絆が深まる、という言い伝えもあります。",
+       "浜へは砂の急な坂を下ります。歩きやすい靴でどうぞ。干潮時は岩のそばまで近づけ、満潮時は最も印象的なシルエットが楽しめます。"],
+ tip:"15mほど離れ、少し右寄りから眺めるのがきれいなハートに見えるコツです。夕暮れのシルエットも見事。訪れる前に潮見表を確認しておきましょう。",
+ finland:"フィンランドは、見せることよりも深さを大切にする文化の中で、愛やパートナーシップを育んできました。ハートロックはまさにそんな場所。自らを誇示することなく、よく見る人にだけ美しさを見せてくれます。そうした静かな発見こそ、一生残る思い出になります。",
+ audio:"古宇利島の北の端、ティーヌ浜の浅瀬に、小さな岩が2つ並んでいます。一見すると、何の変哲もない岩です。でも、15メートルほど離れて、少し右寄りに立ってみてください。不思議なことが起こります。左の岩の根元が、波によってきれいなハートの形に削られているのです。さらに岩と岩のすき間には、逆さまのハートが浮かび上がります。自然が書いたラブレターが、見つけてくれる人を待っています。"},
+
+7:{name:"音羽岳展望台",subtitle:"島を見下ろす、旅のフィナーレ",
+ duration:"20〜30分",entry:"無料",
+ body:["古宇利島の東側、木々に覆われた丘の上。音羽岳展望台に着くと、視界が一気に開けます。眼下にはエメラルド色の畑、赤瓦の屋根、そして海を白く渡る古宇利大橋。",
+       "この高さからは、海の色のグラデーションがはっきりと見渡せます。サンゴや砂の上はターコイズ、深い水路はサファイアブルー。日が傾くにつれ、光は金色に変わっていきます。",
+       "この眺めの中に、今日訪れた場所—万座毛の断崖、水族館、城跡、橋、浜辺—の記憶がすべて重なります。",
+       "沖縄の感謝の言葉に「にふぇーでーびる（心からありがとう）」があります。今日、この島々は特別なものを届けてくれました。お礼を伝えるのに、ここほどふさわしい場所はありません。"],
+ tip:"日没の60〜90分前に到着するのがおすすめです。夕方の光で海の色が劇的に変わり、日没後のブルーアワーも待つ価値があります。",
+ finland:"フィンランド語の「マイセマ（maisema）」は、景色の見た目だけでなく、その景色が心に入り込み、残り続ける体験までを表す言葉です。ここを離れがたく感じたなら、それはこの景色への最高の賛辞です。",
+ audio:"今日の旅は、ここで締めくくりです。これまでに見てきたすべての景色の、はるか上。音羽岳展望台は、古宇利島の木々に覆われた丘の上にあります。展望台に上がると、景色が一気に開けます。眼下には、エメラルド色の畑と赤瓦の屋根。古宇利大橋が、細い白い糸のように海を渡っています。この高さからは、海の色のグラデーションがすべて見渡せます。沖縄の感謝の言葉、にふぇーでーびる。心から、ありがとうございました。"}
+};
+
+// 画面の文言
+const UI={
+ en:{ttl:"North Okinawa Discovery",sub:"7 stops · audio guide",stop:(n,t)=>`STOP ${n} OF ${t}`,listen:"Tap to hear audio guide",listenSub:"Clear English · deep commentary",
+     playing:"Narrating…",stopHint:"Tap again to stop",tip:"💡 GUIDE'S TIP",fin:"Finland Connection",finHint:"A note written especially for you",
+     finClose:"Tap to close",soon:"Photo coming soon",done:"Journey Complete ✓",photo:"Photo",via:"via Wikimedia Commons"},
+ ja:{ttl:"沖縄本島北部めぐり",sub:"全7スポット · 音声ガイド付き",stop:(n,t)=>`スポット ${n} / ${t}`,listen:"タップして音声ガイドを聴く",listenSub:"日本語ナレーション · じっくり解説",
+     playing:"再生中…",stopHint:"もう一度タップで停止",tip:"💡 ガイドのおすすめ",fin:"フィンランドとのつながり",finHint:"あなたのために書いたメッセージ",
+     finClose:"タップして閉じる",soon:"写真は準備中です",done:"ツアー完了 ✓",photo:"写真",via:"Wikimedia Commons より"}
+};
+
+// 写真のクレジット（作者・ライセンス）。images/credits.json の内容をここにも控えておき、
+// 公開サイト上では最新の credits.json を読み込んで上書きします（file:// で開いた場合は控えを使用）
+let CREDITS={"01_manzamo.jpg": {"artist": "Mokkie","license": "CC BY-SA 3.0","page": "https://commons.wikimedia.org/wiki/File:Cape_Manza_Elephant_Rock,_Okinawa.jpg"},"02_churaumi.jpg": {"artist": "Jordy Meow","license": "CC BY-SA 3.0","page": "https://commons.wikimedia.org/wiki/File:Okinawa_Aquarium.jpg"},"03_akahaka.jpg": {"artist": "690 Noda","license": "CC BY 3.0","page": "https://commons.wikimedia.org/wiki/File:%E5%9B%BD%E9%A0%AD%E6%9D%91%E6%A5%9A%E6%B4%B2%E3%81%AE%E6%B5%B7%E5%B2%B8_20130205_-_panoramio.jpg","caption": {"en": "Yanbaru coast, Kunigami (reference image)","ja": "やんばる・国頭村の海岸（イメージ）"}},"04_nakijin.jpg": {"artist": "FoxyStranger Kawasaki","license": "CC BY-SA 3.0","page": "https://commons.wikimedia.org/wiki/File:Nakijin_Gusuku_-_panoramio.jpg"},"05_kouri.jpg": {"artist": "Kugel~commonswiki","license": "CC BY-SA 4.0","page": "https://commons.wikimedia.org/wiki/File:View_of_Kouri_Island_and_Kouri_Bridge_seen_from_Mount_Oppa_202408.jpg"},"06_heartrock.jpg": {"artist": "Kugel~commonswiki","license": "CC BY-SA 4.0","page": "https://commons.wikimedia.org/wiki/File:Tinu-hama_202006_01.jpg"},"07_otowadake.jpg": {"artist": "Takuya ASADA","license": "CC BY 2.0","page": "https://commons.wikimedia.org/wiki/File:Kouri_Bridge_(15130568259).jpg","caption": {"en": "View over Kouri Island toward Kouri Bridge (reference image)","ja": "古宇利島から古宇利大橋を望む（イメージ）"}}};
+fetch("images/credits.json").then(r=>r.ok?r.json():null).then(j=>{ if(j){ CREDITS=j; showFin=false; render(); } }).catch(()=>{});
+
 let cur=0,playing=false,showFin=false;
+let lang=initLang();
+
+function initLang(){
+  const q=new URLSearchParams(location.search).get("lang");
+  if(q==="ja"||q==="en") return q;
+  try{ const saved=localStorage.getItem("guideLang"); if(saved==="ja"||saved==="en") return saved; }catch(e){}
+  return (navigator.language||"").toLowerCase().startsWith("ja")?"ja":"en";
+}
+function setLang(l){
+  if(l===lang) return;
+  stopSpeech(); lang=l; showFin=false;
+  try{ localStorage.setItem("guideLang",l); }catch(e){}
+  render();
+}
+const t=k=>UI[lang][k];
+// スポットの項目を現在の言語で返す（日本語が無い項目は英語を表示）
+const f=(s,k)=>lang==="ja"&&JA[s.id]&&JA[s.id][k]!==undefined?JA[s.id][k]:s[k];
 
 let utterance = null;
 
@@ -157,26 +279,27 @@ function stopSpeech(){
   playing = false;
 }
 
-function playSpeech(t){
+function playSpeech(text){
   stopSpeech();
+  const code = lang==="ja" ? "ja-JP" : "en-US";
 
-  // ボイス一覧を取得して英語ボイスを優先選択
+  // ボイス一覧を取得して、表示言語に合うボイスを優先選択
   function doSpeak(voices){
-    utterance = new SpeechSynthesisUtterance(t);
-    utterance.lang = "en-US";
-    utterance.rate = 0.82;
+    utterance = new SpeechSynthesisUtterance(text);
+    utterance.lang = code;
+    utterance.rate = lang==="ja" ? 0.95 : 0.82;
     utterance.pitch = 1.05;
     utterance.volume = 1.0;
 
-    // 英語ネイティブボイスを探す
-    const en = voices.filter(v => v.lang.startsWith("en"));
-    const preferred = en.find(v => /Samantha|Karen|Daniel|Google US|Google UK/i.test(v.name))
-                   || en.find(v => v.lang === "en-US")
-                   || en[0];
+    const pool = voices.filter(v => v.lang.replace("_","-").startsWith(lang));
+    const preferred = lang==="ja"
+      ? (pool.find(v => /Kyoko|Nanami|Google 日本語|O-ren|Haruka/i.test(v.name)) || pool[0])
+      : (pool.find(v => /Samantha|Karen|Daniel|Google US|Google UK/i.test(v.name))
+         || pool.find(v => v.lang === "en-US")
+         || pool[0]);
     if(preferred) utterance.voice = preferred;
 
     utterance.onstart  = () => { playing = true;  updateAudio(); };
-    utterance.onend    = () => { playing = false; utterance = null; updateAudio(); };
     utterance.onerror  = (e) => { console.warn("TTS error", e); playing = false; utterance = null; updateAudio(); };
 
     window.speechSynthesis.speak(utterance);
@@ -217,18 +340,18 @@ function updateAudio(){
   if(playing){
     btn.style.background = "linear-gradient(135deg,#c1121f,#ff6b6b)";
     btn.textContent = "⏹";
-    lbl.textContent = "Narrating…";
-    sub.textContent = "Tap again to stop";
+    lbl.textContent = t("playing");
+    sub.textContent = t("stopHint");
   } else {
     btn.style.background = "linear-gradient(135deg,#0077b6,#00b4d8)";
     btn.textContent = "▶";
-    lbl.textContent = "Tap to hear audio guide";
-    sub.textContent = "Clear English · deep commentary";
+    lbl.textContent = t("listen");
+    sub.textContent = t("listenSub");
   }
 }
 
 function go(i){ if(i<0||i>=spots.length)return; stopSpeech(); showFin=false; cur=i; render(); }
-function toggleAudio(){ playing ? stopSpeech() : playSpeech(spots[cur].audio); updateAudio(); }
+function toggleAudio(){ playing ? stopSpeech() : playSpeech(f(spots[cur],"audio")); updateAudio(); }
 function toggleFin(){
   showFin=!showFin;
   const c=document.getElementById("finContent");
@@ -239,7 +362,13 @@ function toggleFin(){
   b.style.borderRadius=showFin?"12px 12px 0 0":"12px";
   b.style.background=showFin?"#0a253e":"transparent";
   a.textContent=showFin?"▲":"▼";
-  h.textContent=showFin?"Tap to close":"A note written especially for you";
+  h.textContent=showFin?t("finClose"):t("finHint");
+}
+
+function placeholder(s){
+  const d=document.createElement("div");d.className="ph";
+  d.innerHTML=`<span class="ph-emoji">${s.emoji}</span><small class="ph-txt">${t("soon")}</small>`;
+  return d;
 }
 
 function render(){
@@ -248,53 +377,68 @@ function render(){
   const card=document.getElementById("card");
   card.innerHTML="";
 
-  // Photo
+  // Header / language
+  document.documentElement.lang=lang;
+  document.getElementById("hdrTtl").textContent=t("ttl");
+  document.getElementById("hdrSub").textContent=t("sub");
+  document.querySelectorAll(".lang button").forEach(b=>b.setAttribute("aria-pressed",b.dataset.lang===lang));
+
+  // Photo（読み込めない場合は絵文字のプレースホルダーに切り替え）
   if(img){
+    const wrap=document.createElement("div");wrap.className="photo";
     const i=document.createElement("img");
-    i.src=img;i.alt=s.name;i.style.cssText="width:100%;height:200px;object-fit:cover;display:block";
-    card.appendChild(i);
+    i.src=img;i.alt=f(s,"name");i.loading="eager";
+    i.onerror=()=>wrap.replaceWith(placeholder(s));
+    wrap.appendChild(i);
+    const c=CREDITS[img.split("/").pop()];
+    if(c){
+      const a=document.createElement("a");a.className="credit";a.href=c.page;a.target="_blank";a.rel="noopener";
+      const where=c.caption?c.caption[lang]+" · ":"";
+      a.textContent=`${where}${t("photo")}: ${c.artist.replace(/~commonswiki$/,"")} / ${c.license} ${t("via")}`;
+      wrap.appendChild(a);
+    }
+    card.appendChild(wrap);
   }else{
-    const d=document.createElement("div");d.className="ph";
-    d.innerHTML=`<span class="ph-emoji">${s.emoji}</span><small class="ph-txt">Photo coming soon</small>`;
-    card.appendChild(d);
+    card.appendChild(placeholder(s));
   }
 
   // Hero
   const hero=document.createElement("div");
   hero.className="hero";hero.style.background=s.gradient;
   card.appendChild(hero);
-  const stop=document.createElement("div");stop.className="hero-stop";stop.textContent=`STOP ${s.id} OF 7`;hero.appendChild(stop);
-  const name=document.createElement("div");name.className="hero-name";name.textContent=s.name;hero.appendChild(name);
-  const sub=document.createElement("div");sub.className="hero-sub";sub.textContent=s.subtitle;hero.appendChild(sub);
+  const stop=document.createElement("div");stop.className="hero-stop";stop.textContent=t("stop")(s.id,spots.length);hero.appendChild(stop);
+  const name=document.createElement("div");name.className="hero-name";name.textContent=f(s,"name");hero.appendChild(name);
+  const sub=document.createElement("div");sub.className="hero-sub";sub.textContent=f(s,"subtitle");hero.appendChild(sub);
   const pills=document.createElement("div");pills.className="pills";
-  ["⏱ "+s.duration,"🎟 "+s.entry].forEach(t=>{const p=document.createElement("span");p.className="pill";p.textContent=t;pills.appendChild(p);});
+  ["⏱ "+f(s,"duration"),"🎟 "+f(s,"entry")].forEach(x=>{const p=document.createElement("span");p.className="pill";p.textContent=x;pills.appendChild(p);});
   hero.appendChild(pills);
 
   // Audio bar
   const abar=document.createElement("div");abar.className="abar";
-  abar.innerHTML=`<button id="audioBtn" onclick="toggleAudio()" style="background:linear-gradient(135deg,#0077b6,#00b4d8)">▶</button><div><div id="aLbl" class="a-lbl">Tap to hear audio guide</div><div id="aSub" class="a-sub">Clear English · deep commentary</div></div>`;
+  abar.innerHTML=`<button id="audioBtn" onclick="toggleAudio()" style="background:linear-gradient(135deg,#0077b6,#00b4d8)">▶</button><div><div id="aLbl" class="a-lbl"></div><div id="aSub" class="a-sub"></div></div>`;
   card.appendChild(abar);
 
   // Body
   const body=document.createElement("div");body.className="body";
-  s.body.forEach(p=>{const el=document.createElement("p");el.className="para";el.textContent=p;body.appendChild(el);});
+  f(s,"body").forEach(p=>{const el=document.createElement("p");el.className="para";el.textContent=p;body.appendChild(el);});
 
   // Tip
   const tip=document.createElement("div");tip.className="tip";
-  const tl=document.createElement("div");tl.className="tip-lbl";tl.textContent="💡 GUIDE'S TIP";tip.appendChild(tl);
-  const tt=document.createElement("div");tt.className="tip-txt";tt.textContent=s.tip;tip.appendChild(tt);
+  const tl=document.createElement("div");tl.className="tip-lbl";tl.textContent=t("tip");tip.appendChild(tl);
+  const tt=document.createElement("div");tt.className="tip-txt";tt.textContent=f(s,"tip");tip.appendChild(tt);
   body.appendChild(tip);
 
   // Finland
   const fb=document.createElement("button");fb.id="finBtn";fb.onclick=toggleFin;
   fb.style.cssText="background:transparent;color:#6ac4e8;border:1px solid #1a4a70;border-radius:12px";
-  fb.innerHTML=`<span style="font-size:22px">🇫🇮</span><div style="flex:1"><div style="font-weight:bold;color:#9ad0ef;font-size:13px">Finland Connection</div><div id="finHint" style="font-size:11px;color:#3a7a9a;margin-top:2px">A note written especially for you</div></div><span id="finArrow" style="color:#3a7a9a">▼</span>`;
+  fb.innerHTML=`<span style="font-size:22px">🇫🇮</span><div style="flex:1"><div style="font-weight:bold;color:#9ad0ef;font-size:13px">${t("fin")}</div><div id="finHint" style="font-size:11px;color:#3a7a9a;margin-top:2px">${t("finHint")}</div></div><span id="finArrow" style="color:#3a7a9a">▼</span>`;
   body.appendChild(fb);
 
   const fc=document.createElement("div");fc.id="finContent";
-  const ft=document.createElement("p");ft.className="fin-txt";ft.textContent=s.finland;fc.appendChild(ft);
+  const ft=document.createElement("p");ft.className="fin-txt";ft.textContent=f(s,"finland");fc.appendChild(ft);
   body.appendChild(fc);
   card.appendChild(body);
+  updateAudio();
 
   // Dots
   const dots=document.getElementById("dots");dots.innerHTML="";
@@ -309,11 +453,11 @@ function render(){
   const prev=document.getElementById("prevBtn");
   const next=document.getElementById("nextBtn");
   prev.disabled=cur===0;
-  prev.textContent="← "+(cur>0?spots[cur-1].name:"—");
+  prev.textContent="← "+(cur>0?f(spots[cur-1],"name"):"—");
   next.disabled=cur===spots.length-1;
   next.style.background=cur<spots.length-1?s.gradient:"#071625";
   next.style.color=cur<spots.length-1?"#fff":"#1a3a52";
-  next.textContent=cur<spots.length-1?spots[cur+1].name+" →":"Journey Complete ✓";
+  next.textContent=cur<spots.length-1?f(spots[cur+1],"name")+" →":t("done");
 }
 
 render();
