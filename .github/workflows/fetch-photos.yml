@@ -1,0 +1,39 @@
+# images/photos.json に書かれたスポット写真を Wikimedia Commons から取得し、
+# images/ と images/credits.json（作者・ライセンス表記）を更新します。
+# photos.json を変更して push すると自動で実行されます（Actions タブから手動実行も可）。
+name: スポット写真を取得
+
+on:
+  push:
+    paths:
+      - images/photos.json
+      - scripts/fetch_photos.py
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 写真を取得
+        run: python scripts/fetch_photos.py
+
+      - name: 変更があれば保存（コミット）
+        run: |
+          git add images
+          if git diff --cached --quiet; then
+            echo "変更はありませんでした"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
+          git commit -m "スポット写真を更新"
+          git push origin HEAD:${{ github.ref_name }}
