@@ -1,33 +1,33 @@
 {
- "updated_at": "2026-10-17T19:33+09:00",
+ "updated_at": "2026-10-18T00:27+09:00",
  "sources": [
   {
    "id": "honichi",
    "name": "訪日ラボ",
    "home": "https://honichi.com/",
    "direct_feed": true,
-   "new_items": 13
+   "new_items": 14
   },
   {
    "id": "hotelbank",
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
    "direct_feed": false,
-   "new_items": 29
+   "new_items": 30
   },
   {
    "id": "travelvoice",
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 61
+   "new_items": 57
   },
   {
    "id": "ocvb",
    "name": "OCVB",
    "home": "https://www.ocvb.or.jp/",
    "direct_feed": true,
-   "new_items": 62
+   "new_items": 61
   },
   {
    "id": "kankodx",
@@ -45,6 +45,16 @@
   }
  ],
  "articles": [
+  {
+   "title": "奥入瀬渓流 来訪者時季平準化対策（冬季観光の広報）業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WZ0tCcWVWbV9tVTlaTkE3NU50Mjh2MkNPSkt1NEJCYWdiRGJmV0VXOXlhQ2d1UGZzT0VrU182dVpKNHJqMG9ZN1dKVi1nWUJT?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-17T17:14+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
   {
    "title": "首都圏における「北の近江」の魅力発信講座実施業務に係る公募型プロポーザルの実施",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CQTBaOTRudURqYThBTE9MZEZ2YmdQS1dSSGlGLXJnQWxtNXZOMGF0Q24zVEgyRF9QRndOSUFpRDJvREVqXy0xQ0djcWFqUnl2?oc=5",
@@ -204,16 +214,6 @@
    "summary": "",
    "categories": [
     "okinawa"
-   ]
-  },
-  {
-   "title": "奥入瀬渓流 来訪者時季平準化対策（冬季観光の広報）業務に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WZ0tCcWVWbV9tVTlaTkE3NU50Mjh2MkNPSkt1NEJCYWdiRGJmV0VXOXlhQ2d1UGZzT0VrU182dVpKNHJqMG9ZN1dKVi1nWUJT?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-16T10:24+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
    ]
   },
   {
@@ -1135,6 +1135,16 @@
    ]
   },
   {
+   "title": "REIT公表8月、大阪は稼働93.5%でADR−29.8%・沖縄は−9.9% — エリア差を推定成約ADRで読む",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM2ZRb2o5bzE4LUljTTBGZkJkSnZCWXY3MmNYQWFqMk0xZ0VoNXd2M0M5Z2NJRUJtQWstTWpCemRtUE9nc1FBUkN4LTFPbDdSS1VybmFWUWQ3UVRqVzQ1SFNZaWR5WDZCOFhHX2tRVzJ6d19jMXVVNEFJRWk1SExNWGwtZktUbG9NWnc?oc=5",
+   "source": "hotelbank",
+   "published": "2026-10-01T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
    "title": "ブッキング・ホールディングスCEOが語るAI戦略、5つのAIプロジェクトを同時進行、B2B再編にも言及",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yT0JaN2ZHV0dWc0JkTUxlNzB1WncyVkdmWDljU1g1WmM0ZXluWUdoWHhLRlREaDg5WC16MFI5OVQwQW1EaHpIeUhVdk5zXzkwX3lEYw?oc=5",
    "source": "travelvoice",
@@ -1162,16 +1172,6 @@
    "summary": "",
    "categories": [
     "dx_ai"
-   ]
-  },
-  {
-   "title": "REIT公表8月、大阪は稼働93.5%でADR−29.8%・沖縄は−9.9% — エリア差を推定成約ADRで読む",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM2ZRb2o5bzE4LUljTTBGZkJkSnZCWXY3MmNYQWFqMk0xZ0VoNXd2M0M5Z2NJRUJtQWstTWpCemRtUE9nc1FBUkN4LTFPbDdSS1VybmFWUWQ3UVRqVzQ1SFNZaWR5WDZCOFhHX2tRVzJ6d19jMXVVNEFJRWk1SExNWGwtZktUbG9NWnc?oc=5",
-   "source": "hotelbank",
-   "published": "2026-10-01T08:08+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
    ]
   },
   {
@@ -1816,6 +1816,16 @@
    ]
   },
   {
+   "title": "ユナイテッド航空、27年3月に関西〜ロサンゼルス線／那覇〜サンフランシスコ線を開設",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsNzE4cUtnN3BtSWFiR0NXbi05U08wMWdsMkJBSThDRnFPWjkyd2NyQ3Rtc056ZkxDTS1QWW1XdWpMSEFFYWxUQkxqQkZKcXhQa21lb05fSzBCUExPRTU0SEFKNVZ3TlZsdkZsajZDem0?oc=5",
+   "source": "honichi",
+   "published": "2026-09-04T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
    "title": "中国客半減でも宿泊費総額は+12.1% — 沖縄+22.6%・福岡+14.2%、大阪は-4.3%",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYzFiRWw0NWtJcHcwZmhPTW55SFNzX2ZPcnMwQ2pUeGJteWtWOEhBOWtiY1d1M2x4bGJIemFnUFZKUjFTSkRqNDFmdHEtb2pZOEhMUVRQWExzRko5b0pYczE0cUZxZVZxTjE5QUd2UTRFM3ZfbHVOdnFaVmg4eEdjQXFnay03azRJeG12UHJoWU4?oc=5",
    "source": "hotelbank",
@@ -1879,16 +1889,6 @@
    "title": "歴史を学ぶ体感型平和学習「旧海軍司令部壕 デジタルクイズラリー」9月19日(土)より開催",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpOE1FTU1feHRhWWU5X2RqcDhfVDNSbE4wUFJGWmdUblB3eHhOX3Z1aUJmWXN0Uk44Wi1FcTVUZ1dQNVBnQzBOY2tR?oc=5",
    "source": "ocvb",
-   "published": "2026-09-04T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "ユナイテッド航空、27年3月に関西〜ロサンゼルス線／那覇〜サンフランシスコ線を開設",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsNzE4cUtnN3BtSWFiR0NXbi05U08wMWdsMkJBSThDRnFPWjkyd2NyQ3Rtc056ZkxDTS1QWW1XdWpMSEFFYWxUQkxqQkZKcXhQa21lb05fSzBCUExPRTU0SEFKNVZ3TlZsdkZsajZDem0?oc=5",
-   "source": "honichi",
    "published": "2026-09-04T16:00+09:00",
    "summary": "",
    "categories": [
@@ -2254,6 +2254,16 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2LXJmbTBiUFFCa0Y0blktZWt2cGowTmxzN2F6M004NVJQWHZ6RUtpMmdrSzdvYXBDRUhzZHhMclhyZHJBUzVOLWRnS3I0UDk3UFlnclNFMU0?oc=5",
    "source": "ocvb",
    "published": "2026-08-25T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "離島旅館業に対する税制特例措置を ご存じですか?",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zdjJ0eFFJTUhSMGY4MTZFZkl2QnFwWHV1OVJPNU5DOGVZdjdfNHh5dE1oalhfdmJSVmY2SVFlTWJjU3J4WkwzZXgwdUdoanZwT0ZLQ2dBSDRCYkJGMnR3b3p2ckRlaHhsdGZQOXlvNWpVcDRoM256b2dHQUo?oc=5",
+   "source": "ocvb",
+   "published": "2026-08-25T12:03+09:00",
    "summary": "",
    "categories": [
     "okinawa"
@@ -2662,16 +2672,6 @@
    ]
   },
   {
-   "title": "【海外・MICE事業部】令和８年度 沖縄MICEプロジェクト「MICE商談会・ランチョンセミナー」運営業務にかかるコンペティションについて",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE51MHJ1dXNoR3FvQkRyVmhQbHNyODYxQ3dkV19sYUJIcHJnb0JIU002VXNMSFRVTHQ5TzRKcjBvazZqRlZDU1VrY0tn?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-03T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "メトロエンジン、宿泊施設向け「無料レベニュー診断」を提供開始｜OTA公開データからAIが価格戦略を分析",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZamZoRWcyS2VvZEpVNVZPQ3g3aEJ5dFAxU3FxVTA2Z1FoV0V2aTNic05wb1BPeU9TR2ZWb1d2SG1sRkhZTUt3OFYtUW93c2lqY1YxYjFzbVN2NjRfd2pqWEM0YUV6d3lkLXZJT0VhVGdRRFVHMnZRbTZ3?oc=5",
    "source": "hotelbank",
@@ -2745,6 +2745,16 @@
    ]
   },
   {
+   "title": "日立システムズ、旅費精算を生成AIで支援、伝票作成や不正検知、国家公務員旅費法改正にも対応",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Kb3ZWcm40TnpfUU5vb3hCRElIZ1luT0tkZ3l3UFhoLUZXQ1J4MXN6WkJLVFNkSENFM1dGMHJMdU1la05zVy1aMXhyTTc4SWd4bjBPSg?oc=5",
+   "source": "travelvoice",
+   "published": "2026-07-28T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
    "title": "SQUEEZE、宿泊運営システムにAI電話応答機能を実装、AIのみで完結した問い合わせは約8割",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqRmVCTC1MRFktQ1A1dFVmT1M0OHo3RG5ndms5RzFEVXV0amxqUGlsMHFBNTZaM0ZueFZ3V3FNU29ESlJxUDE5emhSZFlwcDgybnBITA?oc=5",
    "source": "travelvoice",
@@ -2757,16 +2767,6 @@
   {
    "title": "旅行テックの国際会議「スキフト・世界フォーラム2026」、AI時代の市場の再構築を議論、ニューヨークで9月開催",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2R3R6cW9uVFEyVUp1VEdncTZDRm81bnNoRnQ5OHo2T1c1ckttN3VmUUEya0Z1bVlFQlRWM2Jld1VUa1FLaE4zdHB2VVhxQjB4YjZvQw?oc=5",
-   "source": "travelvoice",
-   "published": "2026-07-28T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
-   "title": "日立システムズ、旅費精算を生成AIで支援、伝票作成や不正検知、国家公務員旅費法改正にも対応",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Kb3ZWcm40TnpfUU5vb3hCRElIZ1luT0tkZ3l3UFhoLUZXQ1J4MXN6WkJLVFNkSENFM1dGMHJMdU1la05zVy1aMXhyTTc4SWd4bjBPSg?oc=5",
    "source": "travelvoice",
    "published": "2026-07-28T16:00+09:00",
    "summary": "",
