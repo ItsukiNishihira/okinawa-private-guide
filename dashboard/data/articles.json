@@ -1,33 +1,33 @@
 {
- "updated_at": "2026-10-19T00:46+09:00",
+ "updated_at": "2026-10-19T05:33+09:00",
  "sources": [
   {
    "id": "honichi",
    "name": "訪日ラボ",
    "home": "https://honichi.com/",
    "direct_feed": true,
-   "new_items": 15
+   "new_items": 17
   },
   {
    "id": "hotelbank",
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
    "direct_feed": false,
-   "new_items": 31
+   "new_items": 32
   },
   {
    "id": "travelvoice",
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 63
+   "new_items": 64
   },
   {
    "id": "ocvb",
    "name": "OCVB",
    "home": "https://www.ocvb.or.jp/",
    "direct_feed": true,
-   "new_items": 66
+   "new_items": 65
   },
   {
    "id": "kankodx",
@@ -1286,16 +1286,6 @@
    ]
   },
   {
-   "title": "サウジアラビアの国際観光会議「TOURISE」、第2回の概要発表、AIと人の役割、次の50年を形づくる連携を議論",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84V01rS3RnSlQ3MXd1X0FJcDVKSnZLLURuMnN5bVJYMFZHZEFIYmtlLXJzaW9nQno5Rlh4SllnQXhTa2Z3ZlVDRXQyeDhBR1NIeEZqQg?oc=5",
-   "source": "travelvoice",
-   "published": "2026-09-29T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
    "title": "令和８年度 外国人材受入企業日本語学習支援事業（無料）のご案内",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1EbFdMWTdodjZ1SGo5cVNkYWMxNlUtcmVBRGxPRnNPVFVvZ1N6Q2JnbXRVbUxZNFBVdDZva09lRVJtOG9uQjRXY0Fn?oc=5",
    "source": "ocvb",
@@ -1304,6 +1294,16 @@
    "categories": [
     "okinawa",
     "subsidy"
+   ]
+  },
+  {
+   "title": "サウジアラビアの国際観光会議「TOURISE」、第2回の概要発表、AIと人の役割、次の50年を形づくる連携を議論",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84V01rS3RnSlQ3MXd1X0FJcDVKSnZLLURuMnN5bVJYMFZHZEFIYmtlLXJzaW9nQno5Rlh4SllnQXhTa2Z3ZlVDRXQyeDhBR1NIeEZqQg?oc=5",
+   "source": "travelvoice",
+   "published": "2026-09-29T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
    ]
   },
   {
@@ -1354,6 +1354,16 @@
    "summary": "",
    "categories": [
     "okinawa"
+   ]
+  },
+  {
+   "title": "Meta、新AIエージェント「Muse」を発表 複雑な旅行計画やフライト比較、予約作業にも自律対応",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rbGFIRHZucC0tYkltVWRhUHdpVFZFYlRwVU1VcVg0TDgxRDd1YldqRmhLM240Y0FYV0MtS1NIWlAzd0NFYlRyUU55Skw0eXIyY3Rob01teFQzTEk4TUFGanJZQkE?oc=5",
+   "source": "honichi",
+   "published": "2026-09-25T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
    ]
   },
   {
@@ -1530,6 +1540,16 @@
    "categories": [
     "dx_ai",
     "okinawa"
+   ]
+  },
+  {
+   "title": "訪日ラボ運営のmov、AI時代におけるお店選びの新たなユーザージャーニー「AICRAS（アイクラズ）」を提唱",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFV1BNQ0R3MGduaXNnR0duZHY4ckUwcWdqS3hPbXBUQktzUnpldVF4dGUxY0hVUGlyM1BPVEJ5eVR5aFhjNUZzSVpwTEtUSkJQMGZQdlB3?oc=5",
+   "source": "honichi",
+   "published": "2026-09-17T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
    ]
   },
   {
@@ -1956,6 +1976,16 @@
    ]
   },
   {
+   "title": "中国客半減でも宿泊費総額は+12.1% — 沖縄+22.6%・福岡+14.2%、大阪は-4.3%",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYzFiRWw0NWtJcHcwZmhPTW55SFNzX2ZPcnMwQ2pUeGJteWtWOEhBOWtiY1d1M2x4bGJIemFnUFZKUjFTSkRqNDFmdHEtb2pZOEhMUVRQWExzRko5b0pYczE0cUZxZVZxTjE5QUd2UTRFM3ZfbHVOdnFaVmg4eEdjQXFnay03azRJeG12UHJoWU4?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-04T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
    "title": "ブッキング・ドットコム本社でAI戦略を聞いてきた、旅行全体を起点に再設計へ、旅行者のAI利用89％も「完全信頼」はわずか6％を受け",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52aHpkaXdud1VhQjNnUXRtalFiRmRrYXBpR0Y2R1pMMVREYmhKUmFfYXVhRTQ3eXIxWVJXa08yazZoZ0tYam0xV1gxUlNFTWt5RXREdQ?oc=5",
    "source": "travelvoice",
@@ -2009,16 +2039,6 @@
    "title": "歴史を学ぶ体感型平和学習「旧海軍司令部壕 デジタルクイズラリー」9月19日(土)より開催",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpOE1FTU1feHRhWWU5X2RqcDhfVDNSbE4wUFJGWmdUblB3eHhOX3Z1aUJmWXN0Uk44Wi1FcTVUZ1dQNVBnQzBOY2tR?oc=5",
    "source": "ocvb",
-   "published": "2026-09-04T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "中国客半減でも宿泊費総額は+12.1% — 沖縄+22.6%・福岡+14.2%、大阪は-4.3%",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYzFiRWw0NWtJcHcwZmhPTW55SFNzX2ZPcnMwQ2pUeGJteWtWOEhBOWtiY1d1M2x4bGJIemFnUFZKUjFTSkRqNDFmdHEtb2pZOEhMUVRQWExzRko5b0pYczE0cUZxZVZxTjE5QUd2UTRFM3ZfbHVOdnFaVmg4eEdjQXFnay03azRJeG12UHJoWU4?oc=5",
-   "source": "hotelbank",
    "published": "2026-09-04T16:00+09:00",
    "summary": "",
    "categories": [
@@ -2430,8 +2450,8 @@
    ]
   },
   {
-   "title": "新着情報",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1EZWdST29kTDFZN0dVWlNMM19oXzB4ak1EOTduZDJ5NzJGWlo1RFdiZUVHaVhud3hIbXN3VmRJeVdjcUUxQTNWZnA4MzI?oc=5",
+   "title": "【国内事業部】令和8年度 国内需要安定化事業 「おきなわ物語 特集記事リニューアル及び新規記事作成業務」の業務執行及び企画コンペティションについて（終了・結果発表）",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBrRjQ2M0xMQzdvcDEtbDVIRGEzUEhwOFJ3cmlmb2x1S0pNMHRPblIzWTlrZk5GNlFMbGRVdGxYUW5KQ1cwUTg5RzVB?oc=5",
    "source": "ocvb",
    "published": "2026-08-24T16:00+09:00",
    "summary": "",
@@ -2440,8 +2460,8 @@
    ]
   },
   {
-   "title": "【国内事業部】令和8年度 国内需要安定化事業 「おきなわ物語 特集記事リニューアル及び新規記事作成業務」の業務執行及び企画コンペティションについて（終了・結果発表）",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBrRjQ2M0xMQzdvcDEtbDVIRGEzUEhwOFJ3cmlmb2x1S0pNMHRPblIzWTlrZk5GNlFMbGRVdGxYUW5KQ1cwUTg5RzVB?oc=5",
+   "title": "新着情報",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1EZWdST29kTDFZN0dVWlNMM19oXzB4ak1EOTduZDJ5NzJGWlo1RFdiZUVHaVhud3hIbXN3VmRJeVdjcUUxQTNWZnA4MzI?oc=5",
    "source": "ocvb",
    "published": "2026-08-24T16:00+09:00",
    "summary": "",
@@ -2839,26 +2859,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2R3R6cW9uVFEyVUp1VEdncTZDRm81bnNoRnQ5OHo2T1c1ckttN3VmUUEya0Z1bVlFQlRWM2Jld1VUa1FLaE4zdHB2VVhxQjB4YjZvQw?oc=5",
    "source": "travelvoice",
    "published": "2026-07-28T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
-   "title": "ウーバー、法人向け経費精算を効率化、SAP Concurと連携で、インボイス対応を自動化",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xbUtxbjJoakM4U0FselMzQmxOekttNExSUHRnMFU5S2VMYXJXQjBxTjJpNGlETEVOd0dIQXBEZlhkaksxa1dvUy1kRkkycW9ZOExuUw?oc=5",
-   "source": "travelvoice",
-   "published": "2026-07-28T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
-   "title": "観光庁「観光DX」第1回”Next Tourism Seminar 2026” 開催のお知らせ",
-   "url": "https://prtimes.jp/main/html/rd/p/000000038.000107216.html",
-   "source": "kankodx",
-   "published": "2026-07-28T00:00+09:00",
    "summary": "",
    "categories": [
     "dx_ai"
