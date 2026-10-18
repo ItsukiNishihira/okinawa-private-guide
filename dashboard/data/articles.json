@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T13:19+09:00",
+ "updated_at": "2026-10-18T19:54+09:00",
  "sources": [
   {
    "id": "honichi",
@@ -20,14 +20,14 @@
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 59
+   "new_items": 63
   },
   {
    "id": "ocvb",
    "name": "OCVB",
    "home": "https://www.ocvb.or.jp/",
    "direct_feed": true,
-   "new_items": 64
+   "new_items": 65
   },
   {
    "id": "kankodx",
@@ -45,6 +45,16 @@
   }
  ],
  "articles": [
+  {
+   "title": "首都圏における「北の近江」の魅力発信講座実施業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CQTBaOTRudURqYThBTE9MZEZ2YmdQS1dSSGlGLXJnQWxtNXZOMGF0Q24zVEgyRF9QRndOSUFpRDJvREVqXy0xQ0djcWFqUnl2?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-18T13:21+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
   {
    "title": "那覇・旭橋で既存ビル2棟342室を再生 — 1km圏1.49万室、新築に頼らない供給と那覇市ADR1.03万円",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV3pYdGFsZzVsWkRIN1RwUkJDMUs0R2J1X2ZzQmFUWlk2MnRtNjhqN2RsWC1HZFEtTVZXOFgtWlVvR3NMMDlLdUFtaUZaYUNoa0NMbnFEOVczaXZlZFQ5MC1YY2FONXdheTM5ckxlWFBTMXhtMndQWmFFUS1wUE9aaDRGODhXRTQ0WHh1SWVEZng0VHdrUmVpc3lGSzBRTldYb1E?oc=5",
@@ -66,6 +76,26 @@
    ]
   },
   {
+   "title": "ぶらり丹波路魅力体験＆拡散ツアー事業に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtcDI5NGVQNElpYktIOUxYSG4wWkhPZVFkQ1Y3TUl3VWVBUWZHdnNpODBjeTN2OTNLNTBhenJzdmRLLVhkVl9ueldyOVFPUGFU?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-18T11:03+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "ベトナムにおける青森県レセプション運営等業務に係る企画提案の公募",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1enZLNmpXTXpLS25FcEVMSzJaWGFHdWJraGtfckVHRk5TQjJhaWFNemVhWVU5am5IZnhENWx4bVlnNUpYRDV3b3BELW9VQlhK?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-18T05:18+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
    "title": "奥入瀬渓流 来訪者時季平準化対策（冬季観光の広報）業務に係る公募型プロポーザルの実施",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WZ0tCcWVWbV9tVTlaTkE3NU50Mjh2MkNPSkt1NEJCYWdiRGJmV0VXOXlhQ2d1UGZzT0VrU182dVpKNHJqMG9ZN1dKVi1nWUJT?oc=5",
    "source": "travelvoice",
@@ -76,10 +106,10 @@
    ]
   },
   {
-   "title": "首都圏における「北の近江」の魅力発信講座実施業務に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CQTBaOTRudURqYThBTE9MZEZ2YmdQS1dSSGlGLXJnQWxtNXZOMGF0Q24zVEgyRF9QRndOSUFpRDJvREVqXy0xQ0djcWFqUnl2?oc=5",
+   "title": "冬・春のひろしま観光ブランドプロモーション業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlcEhMMHVDLWR0aTA2RjZIMjdSVXdONmJtZmxnVWIwckJ5ZXdjeWtEZmJnaFhzclVzbm5qS2JvbTJ3XzBiVndjNGI1Rk1uT3BJ?oc=5",
    "source": "travelvoice",
-   "published": "2026-10-17T16:49+09:00",
+   "published": "2026-10-17T15:31+09:00",
    "summary": "",
    "categories": [
     "subsidy"
@@ -254,26 +284,6 @@
    "summary": "訪日外国人 の情報収集が Google から AI 検索（ AI Overviews・ChatGPT型）へシフトしている現在。 AI がユーザーに商品を推薦する際、その情報源になるか否かは「UGCの厚み」で決まります。 本セミナーでは、 AI に推薦されるブランドとそうでないブランドを分けるUGCの条件を最新データで解…",
    "categories": [
     "dx_ai"
-   ]
-  },
-  {
-   "title": "ベトナムにおける青森県レセプション運営等業務に係る企画提案の公募",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1enZLNmpXTXpLS25FcEVMSzJaWGFHdWJraGtfckVHRk5TQjJhaWFNemVhWVU5am5IZnhENWx4bVlnNUpYRDV3b3BELW9VQlhK?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-16T05:15+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
-   ]
-  },
-  {
-   "title": "ぶらり丹波路魅力体験＆拡散ツアー事業に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtcDI5NGVQNElpYktIOUxYSG4wWkhPZVFkQ1Y3TUl3VWVBUWZHdnNpODBjeTN2OTNLNTBhenJzdmRLLVhkVl9ueldyOVFPUGFU?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-16T00:54+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
    ]
   },
   {
@@ -612,16 +622,6 @@
    "summary": "",
    "categories": [
     "okinawa"
-   ]
-  },
-  {
-   "title": "冬・春のひろしま観光ブランドプロモーション業務に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlcEhMMHVDLWR0aTA2RjZIMjdSVXdONmJtZmxnVWIwckJ5ZXdjeWtEZmJnaFhzclVzbm5qS2JvbTJ3XzBiVndjNGI1Rk1uT3BJ?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-15T13:10+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
    ]
   },
   {
@@ -1268,6 +1268,16 @@
   {
    "title": "ITBアジア2026、AI時代の「人間中心の旅行・観光」を議論、10月にシンガポールで開催",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1TFpJam15MzlhZmkwaDhWRzFFYkxnOVdZR2xZNFNYS0wtelJvaF9NRE50SUl3NzdMemhOeXkyX1ktMExVU3lKRWlkN3RsazVJblo3ZA?oc=5",
+   "source": "travelvoice",
+   "published": "2026-09-29T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "サウジアラビアの国際観光会議「TOURISE」、第2回の概要発表、AIと人の役割、次の50年を形づくる連携を議論",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84V01rS3RnSlQ3MXd1X0FJcDVKSnZLLURuMnN5bVJYMFZHZEFIYmtlLXJzaW9nQno5Rlh4SllnQXhTa2Z3ZlVDRXQyeDhBR1NIeEZqQg?oc=5",
    "source": "travelvoice",
    "published": "2026-09-29T16:00+09:00",
    "summary": "",
@@ -2117,6 +2127,16 @@
    ]
   },
   {
+   "title": "➀入域観光客数概況について",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sV0ZDUFBaUEQwcFB1eEdLWmltMk1QMUhLRzFDMWtFMjdjMDhuYVZBYkxhYXZEZFlDajFlYnZrenllQTFXNXdxOXZvaGZ0ODZvQVhNR0FHTzFRakFSeXFjWHFHZ3ZxWV9EM3lqcFdZYWp1UEI3S2xCS1RyNmg?oc=5",
+   "source": "ocvb",
+   "published": "2026-08-31T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
    "title": "吉野ヶ里町観光まちづくり戦略策定業務に係る公募型プロポーザルの実施",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NQmVPcGFmWk5UUXpsbld6MEMzRWpNTnlBN1R1T2JfSFMxQlVkMDJVNjR3SnUzWWY1cTh5cU1iRnRCMXJOLUNzemNXcVlkdFZW?oc=5",
    "source": "travelvoice",
@@ -2642,16 +2662,6 @@
    ]
   },
   {
-   "title": "台風接近に伴う臨時閉園・閉館のお知らせ（8/8 11：00時点）",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xNW9zaGpuTGZ5c0VTZWs2bEZWNGI0c05mX0g2Mnk0NzF5Ym55U2hCLWcyZ1V6bDRnWmd6NWdGeWNfbDh4S210eDZtbDYzTlZyN05qY2J6N2k?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-08T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "日本の小売事業者334社の「AIエージェント」への投資意向は97％、一方で消費者62％は「抵抗あり」 ―Adyen調査",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yWEtTdk50bWxlVEhZbzNoYkIwRGRfVnVBRUxyWmJhYnpKUEUxY2MtUGp3VU04UDctSFozNTRaZWxYcHIya3RGODBqT0VuS1RjMmR1Mg?oc=5",
    "source": "travelvoice",
@@ -2785,6 +2795,16 @@
    ]
   },
   {
+   "title": "日立システムズ、旅費精算を生成AIで支援、伝票作成や不正検知、国家公務員旅費法改正にも対応",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Kb3ZWcm40TnpfUU5vb3hCRElIZ1luT0tkZ3l3UFhoLUZXQ1J4MXN6WkJLVFNkSENFM1dGMHJMdU1la05zVy1aMXhyTTc4SWd4bjBPSg?oc=5",
+   "source": "travelvoice",
+   "published": "2026-07-28T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
    "title": "SQUEEZE、宿泊運営システムにAI電話応答機能を実装、AIのみで完結した問い合わせは約8割",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqRmVCTC1MRFktQ1A1dFVmT1M0OHo3RG5ndms5RzFEVXV0amxqUGlsMHFBNTZaM0ZueFZ3V3FNU29ESlJxUDE5emhSZFlwcDgybnBITA?oc=5",
    "source": "travelvoice",
@@ -2807,16 +2827,6 @@
   {
    "title": "ウーバー、法人向け経費精算を効率化、SAP Concurと連携で、インボイス対応を自動化",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xbUtxbjJoakM4U0FselMzQmxOekttNExSUHRnMFU5S2VMYXJXQjBxTjJpNGlETEVOd0dIQXBEZlhkaksxa1dvUy1kRkkycW9ZOExuUw?oc=5",
-   "source": "travelvoice",
-   "published": "2026-07-28T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
-   "title": "日立システムズ、旅費精算を生成AIで支援、伝票作成や不正検知、国家公務員旅費法改正にも対応",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Kb3ZWcm40TnpfUU5vb3hCRElIZ1luT0tkZ3l3UFhoLUZXQ1J4MXN6WkJLVFNkSENFM1dGMHJMdU1la05zVy1aMXhyTTc4SWd4bjBPSg?oc=5",
    "source": "travelvoice",
    "published": "2026-07-28T16:00+09:00",
    "summary": "",
@@ -2852,17 +2862,6 @@
    "summary": "",
    "categories": [
     "dx_ai"
-   ]
-  },
-  {
-   "title": "第1回『AIセミナー≪ＤＸ＆ブランディング編≫』を開催します！（令和７年度補正 観光事業者収益力向上サポート事業２０２６）",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ERzJJNlREUUlXZWlHV3l0MmQzS1gzUVVicjBvdUJhSkNmd1FFUWo1dlJzTFA5aWI4RnQ5N1RsUXFMYVdhQTdrcU1n?oc=5",
-   "source": "ocvb",
-   "published": "2026-07-17T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
    ]
   },
   {
