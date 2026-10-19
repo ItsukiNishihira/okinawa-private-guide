@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T13:29+09:00",
+ "updated_at": "2026-10-19T21:58+09:00",
  "sources": [
   {
    "id": "honichi",
@@ -13,35 +13,35 @@
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
    "direct_feed": false,
-   "new_items": 32
+   "new_items": 31
   },
   {
    "id": "travelvoice",
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 62
+   "new_items": 60
   },
   {
    "id": "ocvb",
    "name": "OCVB",
    "home": "https://www.ocvb.or.jp/",
    "direct_feed": true,
-   "new_items": 65
+   "new_items": 63
   },
   {
    "id": "kankodx",
    "name": "観光DX（観光庁）",
    "home": "https://kanko-dx.go.jp/",
-   "direct_feed": false,
-   "new_items": 13
+   "direct_feed": true,
+   "new_items": 12
   },
   {
    "id": "resortech",
    "name": "リゾテック沖縄",
    "home": "https://resortech-expo.okinawa/",
-   "direct_feed": false,
-   "new_items": 42
+   "direct_feed": true,
+   "new_items": 9
   }
  ],
  "articles": [
@@ -1168,17 +1168,6 @@
    ]
   },
   {
-   "title": "オンラインセミナー配信開始のお知らせ",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BM01XcW5yclloT2tiZFJab1FYdHR0UVl6b0FhSUg3ckdmdTlJZFRuLXFlMi1VTVQ2U1pNX0NURWJFZGY4QWtYQkJGa3dha3dGNUJvNQ?oc=5",
-   "source": "resortech",
-   "published": "2026-10-02T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
    "title": "「2027 ぐんまベトナム交流祭」運営業務に係る公募型プロポーザルの実施",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xb0Z2bmhmXzE5VjFtVE01LVNsN01VR1MtOTRYMFE2MGFrSzZ5RFROT1RPOWZRN2JEdHFzcGRWM0Z5THl4MnFZT2ZtXzFpQmUz?oc=5",
    "source": "travelvoice",
@@ -1206,6 +1195,27 @@
    "summary": "",
    "categories": [
     "okinawa"
+   ]
+  },
+  {
+   "title": "オンラインセミナー配信開始のお知らせ",
+   "url": "https://resortech-expo.okinawa/news/11768/",
+   "source": "resortech",
+   "published": "2026-10-02T00:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai",
+    "okinawa"
+   ]
+  },
+  {
+   "title": "AIツール推奨店への来店率は60%！訪日ラボ、AIツールが飲食店選定に与える影響度レポートを公開",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wQVlzeU5CVVlCVG1zZVduZFVmd08wcEpuLTBheHBiWkF6ZUlxWEdUTlpjYmhFNi1CX2RncHl5bmJ4djdiakN2SVFCNzhGdkJhWXFMZG9oSkRFZnpWS1J3SnBfVEpQczZiei00cFFB?oc=5",
+   "source": "honichi",
+   "published": "2026-10-01T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
    ]
   },
   {
@@ -1243,16 +1253,6 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nM25zZW1iN3VjaEx4U0dfS0xtWWpocjR2aUFfSnRGeExheVVFc2hoS3Vvc2JYdlotZFhSUGl0WGZVblNoTzNVZ1RzSG9rOERYU3JBdDNQemZjelJxNEV3NTZvZw?oc=5",
    "source": "honichi",
    "published": "2026-10-01T12:40+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
-   "title": "AIツール推奨店への来店率は60%！訪日ラボ、AIツールが飲食店選定に与える影響度レポートを公開",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wQVlzeU5CVVlCVG1zZVduZFVmd08wcEpuLTBheHBiWkF6ZUlxWEdUTlpjYmhFNi1CX2RncHl5bmJ4djdiakN2SVFCNzhGdkJhWXFMZG9oSkRFZnpWS1J3SnBfVEpQczZiei00cFFB?oc=5",
-   "source": "honichi",
-   "published": "2026-10-01T12:01+09:00",
    "summary": "",
    "categories": [
     "dx_ai"
@@ -1299,17 +1299,6 @@
    ]
   },
   {
-   "title": "「京都スマートシティエキスポ2026」出展のお知らせ",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84TkhRc2pVVlB3emFjbHF6czlvb2UyaUtaMk9NZXhMTDRNSDBZaTVjR0J5dkIwR09QUUZGN3IyV21qd0I4cUI4TkxjWWd4Q1FrZ0tmdA?oc=5",
-   "source": "resortech",
-   "published": "2026-09-30T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
    "title": "埼玉県、移住相談に対応する「住むなら埼玉」AI相談を開始、先輩移住者への無料相談も｜ふるさと住民制度・実践ガイド【公式】",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82VHhFX2p2a0p0R0loeV9UX2hSY1UzS1d2VTB5ai1aYVk4UVh3MFkzZlNSUlUxaTVfVnhpYUNFcHpFX0M3Y1o1M2xYcVRldnhCVDJqY28tVDBBT3NnQ2wwRzh3?oc=5",
    "source": "travelvoice",
@@ -1317,6 +1306,17 @@
    "summary": "",
    "categories": [
     "dx_ai"
+   ]
+  },
+  {
+   "title": "「京都スマートシティエキスポ2026」出展のお知らせ",
+   "url": "https://resortech-expo.okinawa/news/11523/",
+   "source": "resortech",
+   "published": "2026-09-30T00:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai",
+    "okinawa"
    ]
   },
   {
@@ -1878,17 +1878,6 @@
    ]
   },
   {
-   "title": "「KOZAROCKS 2026 Special」同日開催のお知らせ",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfTm1JZTRrcGVvMF9UN2x3ajduRmVRVGotQVZBM3QwT2dYbUx3VjIwNXRjU3FXYzYxX213VExsMm9Ya2kxRVA1cWY1M1JVUktELXo1bg?oc=5",
-   "source": "resortech",
-   "published": "2026-09-10T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
    "title": "自治体情報システム担当者が押さえるべき最新セキュリティ動向",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4VENPQ0Z4bGU4d1Z6Y3I4dEhoOE91V1BYS2E4MTFielNEenZSeFh2LXZyYnR4cE9aOVdYNmVlQm9hUjdpOVMtSTFBcGloZUU4dE90aHR4RQ?oc=5",
    "source": "resortech",
@@ -1907,6 +1896,17 @@
    "summary": "",
    "categories": [
     "dx_ai"
+   ]
+  },
+  {
+   "title": "「KOZAROCKS 2026 Special」同日開催のお知らせ",
+   "url": "https://resortech-expo.okinawa/news/11505/",
+   "source": "resortech",
+   "published": "2026-09-10T00:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai",
+    "okinawa"
    ]
   },
   {
@@ -2010,16 +2010,6 @@
    ]
   },
   {
-   "title": "ユナイテッド航空、27年3月に関西〜ロサンゼルス線／那覇〜サンフランシスコ線を開設",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsNzE4cUtnN3BtSWFiR0NXbi05U08wMWdsMkJBSThDRnFPWjkyd2NyQ3Rtc056ZkxDTS1QWW1XdWpMSEFFYWxUQkxqQkZKcXhQa21lb05fSzBCUExPRTU0SEFKNVZ3TlZsdkZsajZDem0?oc=5",
-   "source": "honichi",
-   "published": "2026-09-04T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "中国客半減でも宿泊費総額は+12.1% — 沖縄+22.6%・福岡+14.2%、大阪は-4.3%",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYzFiRWw0NWtJcHcwZmhPTW55SFNzX2ZPcnMwQ2pUeGJteWtWOEhBOWtiY1d1M2x4bGJIemFnUFZKUjFTSkRqNDFmdHEtb2pZOEhMUVRQWExzRko5b0pYczE0cUZxZVZxTjE5QUd2UTRFM3ZfbHVOdnFaVmg4eEdjQXFnay03azRJeG12UHJoWU4?oc=5",
    "source": "hotelbank",
@@ -2083,6 +2073,16 @@
    "title": "歴史を学ぶ体感型平和学習「旧海軍司令部壕 デジタルクイズラリー」9月19日(土)より開催",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpOE1FTU1feHRhWWU5X2RqcDhfVDNSbE4wUFJGWmdUblB3eHhOX3Z1aUJmWXN0Uk44Wi1FcTVUZ1dQNVBnQzBOY2tR?oc=5",
    "source": "ocvb",
+   "published": "2026-09-04T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "ユナイテッド航空、27年3月に関西〜ロサンゼルス線／那覇〜サンフランシスコ線を開設",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsNzE4cUtnN3BtSWFiR0NXbi05U08wMWdsMkJBSThDRnFPWjkyd2NyQ3Rtc056ZkxDTS1QWW1XdWpMSEFFYWxUQkxqQkZKcXhQa21lb05fSzBCUExPRTU0SEFKNVZ3TlZsdkZsajZDem0?oc=5",
+   "source": "honichi",
    "published": "2026-09-04T16:00+09:00",
    "summary": "",
    "categories": [
