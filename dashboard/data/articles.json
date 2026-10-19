@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T21:58+09:00",
+ "updated_at": "2026-10-20T07:17+09:00",
  "sources": [
   {
    "id": "honichi",
@@ -13,21 +13,21 @@
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
    "direct_feed": false,
-   "new_items": 31
+   "new_items": 32
   },
   {
    "id": "travelvoice",
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 60
+   "new_items": 56
   },
   {
    "id": "ocvb",
    "name": "OCVB",
    "home": "https://www.ocvb.or.jp/",
    "direct_feed": true,
-   "new_items": 63
+   "new_items": 65
   },
   {
    "id": "kankodx",
@@ -45,6 +45,16 @@
   }
  ],
  "articles": [
+  {
+   "title": "ぶらり丹波路魅力体験＆拡散ツアー事業に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtcDI5NGVQNElpYktIOUxYSG4wWkhPZVFkQ1Y3TUl3VWVBUWZHdnNpODBjeTN2OTNLNTBhenJzdmRLLVhkVl9ueldyOVFPUGFU?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-19T23:15+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
   {
    "title": "高岡市北部地区観光商品造成・情報発信業務に係る公募型プロポーザルの実施",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wVnRTbVpNQXpIOW1YSENWVWJybUM4SjdCdlVFazJYUFViOTMyRnphMUdOVnJFYUtaZlFsV1BOQTBMMEVkei1tRlhjMjh3RkRX?oc=5",
@@ -83,16 +93,6 @@
    "summary": "",
    "categories": [
     "okinawa"
-   ]
-  },
-  {
-   "title": "ぶらり丹波路魅力体験＆拡散ツアー事業に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtcDI5NGVQNElpYktIOUxYSG4wWkhPZVFkQ1Y3TUl3VWVBUWZHdnNpODBjeTN2OTNLNTBhenJzdmRLLVhkVl9ueldyOVFPUGFU?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-18T11:03+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
    ]
   },
   {
@@ -1523,6 +1523,16 @@
    ]
   },
   {
+   "title": "ホテルの自家消費型太陽光、回収14〜18年 — 3モデルのCapexとPPA・補助金の効き方",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS1VWeTU1R2xYNG9OU1Z1OXlvSnlVN3lrZ2FwWUhIemJOZ01iT1JUalJRaUhFbU1uMFhOa2g5eFprNFZQaHNvajhFdWQ0dTl6Z3JPRUtHN041XzZ0Mld3Ym03eFVLWE9lYWpSdi10dGRBNmZNNk1GTU4weVBGbU95MVRSa2NFdV9PT1ZCS1pB?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-20T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
    "title": "リニア中間4駅のホテル投資｜駅5km圏46施設3,943室、2036年開業へ用地公募と必要ADR",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYXdYeUhjU3FIQkJOcWNFT09xOGtKNVdLVE5aeGxBUFVRMnlGNnpDQmFTRC1yQUp0QnFRbHJNcjVSYTZQdWtlcFhWRnhndnRjVjZrNDMtRWtiV09vV3RPVUVKSUhKWk5ZSlNubG9TcUZZT21KZHZmVks2SGF2YmZxWHI4VS16YUJXZzFIZEFoU2xSUQ?oc=5",
    "source": "hotelbank",
@@ -1828,6 +1838,16 @@
    ]
   },
   {
+   "title": "【総務企画部】令和8年度 災害時観光客一時避難及び帰宅支援運用訓練の開催について",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE91VHVzdjljZ2JLcFRoZW41MXEwSUNaNmhocjV5cGZ2R2Vsa3B6X3p2aDAzSGlZMFNSTkp5VmFHazFpb2laUDhkN1ZB?oc=5",
+   "source": "ocvb",
+   "published": "2026-09-11T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
    "title": "北九州市観光ショートドラマ制作業務に係る公募型プロポーザルの実施",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jdWNSbXhPUUxMaDZieENsTkJTMWlQb1JSRFRMaXRwWUJwVTNwZm5JSjJXSGRIcllINEwtV041M0xnZlBXUFBFd3owT2h3WWwt?oc=5",
    "source": "travelvoice",
@@ -2010,6 +2030,16 @@
    ]
   },
   {
+   "title": "ユナイテッド航空、27年3月に関西〜ロサンゼルス線／那覇〜サンフランシスコ線を開設",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsNzE4cUtnN3BtSWFiR0NXbi05U08wMWdsMkJBSThDRnFPWjkyd2NyQ3Rtc056ZkxDTS1QWW1XdWpMSEFFYWxUQkxqQkZKcXhQa21lb05fSzBCUExPRTU0SEFKNVZ3TlZsdkZsajZDem0?oc=5",
+   "source": "honichi",
+   "published": "2026-09-04T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
    "title": "中国客半減でも宿泊費総額は+12.1% — 沖縄+22.6%・福岡+14.2%、大阪は-4.3%",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYzFiRWw0NWtJcHcwZmhPTW55SFNzX2ZPcnMwQ2pUeGJteWtWOEhBOWtiY1d1M2x4bGJIemFnUFZKUjFTSkRqNDFmdHEtb2pZOEhMUVRQWExzRko5b0pYczE0cUZxZVZxTjE5QUd2UTRFM3ZfbHVOdnFaVmg4eEdjQXFnay03azRJeG12UHJoWU4?oc=5",
    "source": "hotelbank",
@@ -2073,16 +2103,6 @@
    "title": "歴史を学ぶ体感型平和学習「旧海軍司令部壕 デジタルクイズラリー」9月19日(土)より開催",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpOE1FTU1feHRhWWU5X2RqcDhfVDNSbE4wUFJGWmdUblB3eHhOX3Z1aUJmWXN0Uk44Wi1FcTVUZ1dQNVBnQzBOY2tR?oc=5",
    "source": "ocvb",
-   "published": "2026-09-04T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "ユナイテッド航空、27年3月に関西〜ロサンゼルス線／那覇〜サンフランシスコ線を開設",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsNzE4cUtnN3BtSWFiR0NXbi05U08wMWdsMkJBSThDRnFPWjkyd2NyQ3Rtc056ZkxDTS1QWW1XdWpMSEFFYWxUQkxqQkZKcXhQa21lb05fSzBCUExPRTU0SEFKNVZ3TlZsdkZsajZDem0?oc=5",
-   "source": "honichi",
    "published": "2026-09-04T16:00+09:00",
    "summary": "",
    "categories": [
@@ -2662,16 +2682,6 @@
    "summary": "",
    "categories": [
     "dx_ai"
-   ]
-  },
-  {
-   "title": "沖縄の新規供給2,842室を業態別に割り戻す — 在庫比はビジネス0.6%・シティ22.1%、推定成約ADRは7月確定で+7.6%〜+9.9%",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNllYOExwUmZXTHBSSlhwUnBNekxraEgwSjZHWG9jZGtWb2xvemlpRFMweXdTRklERExrbjRMWEgwMVdzeDZiaUR1RklhZU45MV92SzV6R1NsdURFRnpraVN2UUp2OFBBY3FuUWd0U2ZYejFUM0wyM2JieEw4ZVRtbFNkTVNpbDlnR1E?oc=5",
-   "source": "hotelbank",
-   "published": "2026-08-16T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
    ]
   },
   {
