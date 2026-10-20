@@ -1,19 +1,19 @@
 {
- "updated_at": "2026-10-20T13:39+09:00",
+ "updated_at": "2026-10-20T20:25+09:00",
  "sources": [
   {
    "id": "honichi",
    "name": "訪日ラボ",
    "home": "https://honichi.com/",
    "direct_feed": true,
-   "new_items": 18
+   "new_items": 20
   },
   {
    "id": "hotelbank",
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
    "direct_feed": true,
-   "new_items": 32
+   "new_items": 34
   },
   {
    "id": "travelvoice",
@@ -27,7 +27,7 @@
    "name": "OCVB",
    "home": "https://www.ocvb.or.jp/",
    "direct_feed": true,
-   "new_items": 66
+   "new_items": 64
   },
   {
    "id": "kankodx",
@@ -46,6 +46,36 @@
  ],
  "articles": [
   {
+   "title": "AIに見えない地域やホテルは「旅行者からも見えなくなる」、宿泊施設の情報発信と「人」の価値を議論 ―ブッキング・ドットコム",
+   "url": "https://www.travelvoice.jp/20261020-160555",
+   "source": "travelvoice",
+   "published": "2026-10-20T17:58+09:00",
+   "summary": "ブッキング・ドットコム（Booking.com）は、「Booking.com Innovation Summit Japan 2026」を開催。AIテクノロジー、フィンテック、サイバーセキュリティなどについて議論を深めた。",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "ホテルの現場経験から生まれたAI宿泊管理システムとは？ SQUEEZEが実践する施設運営とテクノロジーの融合、利益最大化の手法を聞いてきた（PR）",
+   "url": "https://www.travelvoice.jp/20261020-160673",
+   "source": "travelvoice",
+   "published": "2026-10-20T16:24+09:00",
+   "summary": "（PR）AIで宿泊運営はどう変わるのか。ホテル運営とシステム開発を手がけるSQUEEZEに、AIで収益最大化を図り、人の力を高めていく現場起点の実践を聞いた。",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "ベトナムにおける青森県レセプション運営等業務に係る企画提案の公募",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1enZLNmpXTXpLS25FcEVMSzJaWGFHdWJraGtfckVHRk5TQjJhaWFNemVhWVU5am5IZnhENWx4bVlnNUpYRDV3b3BELW9VQlhK?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-20T12:33+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
    "title": "松本地域インバウンド振興パネルディスカッションにおけるグラフィックレコーディング事業業務、公募型プロポーザルの実施",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xUGRENFpLTlN2dk92OFUzU3AzeVlRVmtIelNxS2tPMEhuS2p1R2F4b0o2Q2J1R3ROVjhVU1kyVWsxSHBtMmRxVFUxWVFuRTdL?oc=5",
    "source": "travelvoice",
@@ -59,7 +89,7 @@
    "title": "ふくしまアフターDCにおけるクーポン付きレンタカーキャンペーン準備事業に係る公募型プロポーザルの実施",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxRGlYN0FhajE4ZHNaQ3RxV1dwejJTc0ZkLW1ISDRXaXQwVGlYOWZ3TS1BTW80TnBEYnpSZ2ljdmt5TkZvaUdLbFBaVEIwRGRQ?oc=5",
    "source": "travelvoice",
-   "published": "2026-10-20T11:16+09:00",
+   "published": "2026-10-20T11:21+09:00",
    "summary": "",
    "categories": [
     "subsidy"
@@ -69,7 +99,7 @@
    "title": "札幌集中を緩和するためのMICE受入調査・受入環境整備事業に係る企画提案の公募",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45a1FuVXQtbUFMV1kxdDVnM2tfRTF0aDRFU1dGYlpmeVZLbUlueWFGUGNfSzhTVW80MFgtMTdCckRSR1ZKanRQOFlUXzNiRm5C?oc=5",
    "source": "travelvoice",
-   "published": "2026-10-20T11:16+09:00",
+   "published": "2026-10-20T11:21+09:00",
    "summary": "",
    "categories": [
     "subsidy"
@@ -130,16 +160,6 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtcDI5NGVQNElpYktIOUxYSG4wWkhPZVFkQ1Y3TUl3VWVBUWZHdnNpODBjeTN2OTNLNTBhenJzdmRLLVhkVl9ueldyOVFPUGFU?oc=5",
    "source": "travelvoice",
    "published": "2026-10-18T11:03+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
-   ]
-  },
-  {
-   "title": "ベトナムにおける青森県レセプション運営等業務に係る企画提案の公募",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1enZLNmpXTXpLS25FcEVMSzJaWGFHdWJraGtfckVHRk5TQjJhaWFNemVhWVU5am5IZnhENWx4bVlnNUpYRDV3b3BELW9VQlhK?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-18T05:18+09:00",
    "summary": "",
    "categories": [
     "subsidy"
@@ -887,6 +907,16 @@
    ]
   },
   {
+   "title": "AIはアパレル購買にどこまで使われている？〜生成AIでアパレル店を探す600人に聞いた検索手段とAIの影響度",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1valJSeXpZY3dWdGNjVzd6eWZtdm14aVJDbF91c0dWSk9HSkNGbWpMeHJnRVJfS3FNbUVuNnNFZmZ6aTBDYUtGYkJqZ1FkaERuaTFtZVBJaDFEZ2VaeFlHS0RR?oc=5",
+   "source": "honichi",
+   "published": "2026-10-09T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
    "title": "沖縄 宿泊税は2027年2月1日から2%｜1名1泊100〜320円、上限2,000円が効く価格帯と宿の準備",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN3V3ekExVnlJUlJJLUFaRDRITDFPZzRzMVhpS1ktb09IV0FhWmpmVmsyR2FWZ2JZMzNWTkpROUc2cHB6VEVCZjNKQmtmNXB0ZWJfTEluai04NVBmeFBTQ3pBQmFpOUsyX085RFBzdExlUDJZUjlIQ0dnc0lSaEFOQ1NuUmZPeTFh?oc=5",
    "source": "hotelbank",
@@ -914,16 +944,6 @@
    "summary": "",
    "categories": [
     "subsidy"
-   ]
-  },
-  {
-   "title": "AIはアパレル購買にどこまで使われている？〜生成AIでアパレル店を探す600人に聞いた検索手段とAIの影響度",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1valJSeXpZY3dWdGNjVzd6eWZtdm14aVJDbF91c0dWSk9HSkNGbWpMeHJnRVJfS3FNbUVuNnNFZmZ6aTBDYUtGYkJqZ1FkaERuaTFtZVBJaDFEZ2VaeFlHS0RR?oc=5",
-   "source": "honichi",
-   "published": "2026-10-09T14:38+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
    ]
   },
   {
@@ -1309,8 +1329,8 @@
    ]
   },
   {
-   "title": "2026年9月～11月 入域観光客数見通し",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpTm5PYXpHZTB1Uk1EZHNGUzVvX0hmbUEzaTktbVRDVG9rQkpkR0Fnb2lvZEJCUGwtY1BSVG40ZElSeGNDNDJ1VkN3?oc=5",
+   "title": "令和８年度「観光危機管理計画・BCP策定支援セミナー」を開催しました",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1lVGtfQjZjOGRvcnR1ajZpN3BWQmNMS0M3aWo2M0FZYzNVdlByaDRMNlI3d1BEUWVudHp5S1l2Um9WQ1pzX0g2a3hn?oc=5",
    "source": "ocvb",
    "published": "2026-09-30T16:00+09:00",
    "summary": "",
@@ -1319,8 +1339,8 @@
    ]
   },
   {
-   "title": "令和８年度「観光危機管理計画・BCP策定支援セミナー」を開催しました",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1lVGtfQjZjOGRvcnR1ajZpN3BWQmNMS0M3aWo2M0FZYzNVdlByaDRMNlI3d1BEUWVudHp5S1l2Um9WQ1pzX0g2a3hn?oc=5",
+   "title": "2026年9月～11月 入域観光客数見通し",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpTm5PYXpHZTB1Uk1EZHNGUzVvX0hmbUEzaTktbVRDVG9rQkpkR0Fnb2lvZEJCUGwtY1BSVG40ZElSeGNDNDJ1VkN3?oc=5",
    "source": "ocvb",
    "published": "2026-09-30T16:00+09:00",
    "summary": "",
@@ -2854,28 +2874,6 @@
    "categories": [
     "okinawa",
     "subsidy"
-   ]
-  },
-  {
-   "title": "IT未来フェス開催のお知らせ！",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43TkFRQ1JwVWhRdVNLOS1zSUFFTTgxRDY5Rk1ybkkxbWhvbTJTcmFSX3ZwTGxZdkJ3Zndqd1dQSWtIczNFZlExQ2hmajd0VXg2QzFqSA?oc=5",
-   "source": "resortech",
-   "published": "2026-07-30T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
-   "title": "リゾテックエキスポ2026「逆商談ブース」",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45TTcxMG9ZUVFDakNuVkdXUXY5TjUxU2dyWk1kLVlIN3FWWnpLTVQwZWFlZ2lBWEs0cFEtVC05SXhsTVpjQS1xMkJWSlo2V05vRmFhd1REcTVKZHQ5Mnc?oc=5",
-   "source": "resortech",
-   "published": "2026-07-30T14:34+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
    ]
   },
   {
