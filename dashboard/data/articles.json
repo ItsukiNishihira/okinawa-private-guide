@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T01:51+09:00",
+ "updated_at": "2026-10-21T06:32+09:00",
  "sources": [
   {
    "id": "honichi",
@@ -20,14 +20,14 @@
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 59
+   "new_items": 57
   },
   {
    "id": "ocvb",
    "name": "OCVB",
    "home": "https://www.ocvb.or.jp/",
    "direct_feed": true,
-   "new_items": 65
+   "new_items": 63
   },
   {
    "id": "kankodx",
@@ -46,6 +46,16 @@
  ],
  "articles": [
   {
+   "title": "旅行のAI対応、まず重要なのは情報をAIに「読ませる」こと、宿泊施設の情報発信と「人」の価値を議論 ―ブッキング・ドットコム",
+   "url": "https://www.travelvoice.jp/20261020-160555",
+   "source": "travelvoice",
+   "published": "2026-10-21T02:31+09:00",
+   "summary": "ブッキング・ドットコム（Booking.com）は、「Booking.com Innovation Summit Japan 2026」を開催。AIテクノロジー、フィンテック、サイバーセキュリティなどについて議論を深めた。",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
    "title": "安全・安心な観光地へ！",
    "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPYWh1SWVQS0FFc1RzTnhSYU91VXlqam9XTThpM1ZSYlBTdTZQdWprd3lhSEFMS1ZHSExnNlNMR0lwTW1kTXZZcU1YdFUwaW9zU1lTYzlPOEZaeGNpYVZFTTlaU0w1R29pd3ltaGVnS05UUGthbjB0b3gwXzdSMjlwNGl3SVhrU0lxekRsRkxIQlRIaERER1l2SXFzVFNMZjMyNHdtUURWV1N4Q3RBMTV4ZlNhZklpQzljS1VZcjZXLVJZbTMwb1FHMDNBU2N0YjZMb0YtVGxVWnNUTld1S1A5WEtnaENTQ29fSmNSWk9FS2lsQTNfOFo4U091SnRhZFFKS2RqcWkwS0NJcjFCSzJqU1V5MEZOR05MTDRXTE1GV00zcDRTMDRMMG1RUHVkbXRhdUtUbFNkc2Zva3Z2c2ZRZi0xNGM?oc=5",
    "source": "ocvb",
@@ -53,6 +63,16 @@
    "summary": "",
    "categories": [
     "okinawa"
+   ]
+  },
+  {
+   "title": "ぶらり丹波路魅力体験＆拡散ツアー事業に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtcDI5NGVQNElpYktIOUxYSG4wWkhPZVFkQ1Y3TUl3VWVBUWZHdnNpODBjeTN2OTNLNTBhenJzdmRLLVhkVl9ueldyOVFPUGFU?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-20T19:17+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
    ]
   },
   {
@@ -107,10 +127,10 @@
   },
   {
    "title": "恩納村〜名護湾のリゾート客室、約4割が津波浸水想定区域 — BCP投資1室10万〜28万円、恩納村ADR2.19万円",
-   "url": "https://hotelbank.jp/investment/okinawa-west-coast-onna-nago-resort-rooms-tsunami-inundation-40pct-bcp-capex-2026/",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObnpsZzVxZWl5Um9lR0V2OUlsQmJzdVlETjh3clZYLVFJVjVaT3lFMzNJMmN6NkpjS01fUmZLRE9GQmx0OTNjQUhBOWpob1FjeEVpSjZGc0xSdWhnbnkyVlNJVW50MG8xMzctTE9heGtlaHZDTkJZS3UwNEo4eUNBOFpiaThmVk9CaDJoMG4xbWhBak5yWjNRUnlra2lhc1FrclA4dnc0dVliSFk0T25DbFM3RTM?oc=5",
    "source": "hotelbank",
-   "published": "2026-10-20T10:03+09:00",
-   "summary": "恩納村中心10km圏のリゾート34施設6,819室のうち12施設2,762室（40.5%）が津波浸水想定区域内にあり、6割は浸水深1m未満。受変電の上階化と非常用発電機を1室9.8万〜28.0万円で試算し、恩納村ADR21,895円で回収感度を分析する。",
+   "published": "2026-10-20T10:07+09:00",
+   "summary": "",
    "categories": [
     "okinawa"
    ]
@@ -120,16 +140,6 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wVnRTbVpNQXpIOW1YSENWVWJybUM4SjdCdlVFazJYUFViOTMyRnphMUdOVnJFYUtaZlFsV1BOQTBMMEVkei1tRlhjMjh3RkRX?oc=5",
    "source": "travelvoice",
    "published": "2026-10-20T09:57+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
-   ]
-  },
-  {
-   "title": "ぶらり丹波路魅力体験＆拡散ツアー事業に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtcDI5NGVQNElpYktIOUxYSG4wWkhPZVFkQ1Y3TUl3VWVBUWZHdnNpODBjeTN2OTNLNTBhenJzdmRLLVhkVl9ueldyOVFPUGFU?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-19T23:15+09:00",
    "summary": "",
    "categories": [
     "subsidy"
@@ -1349,16 +1359,6 @@
    ]
   },
   {
-   "title": "埼玉県、移住相談に対応する「住むなら埼玉」AI相談を開始、先輩移住者への無料相談も｜ふるさと住民制度・実践ガイド【公式】",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82VHhFX2p2a0p0R0loeV9UX2hSY1UzS1d2VTB5ai1aYVk4UVh3MFkzZlNSUlUxaTVfVnhpYUNFcHpFX0M3Y1o1M2xYcVRldnhCVDJqY28tVDBBT3NnQ2wwRzh3?oc=5",
-   "source": "travelvoice",
-   "published": "2026-09-30T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
    "title": "令和８年度「観光危機管理計画・BCP策定支援セミナー」を開催しました",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1lVGtfQjZjOGRvcnR1ajZpN3BWQmNMS0M3aWo2M0FZYzNVdlByaDRMNlI3d1BEUWVudHp5S1l2Um9WQ1pzX0g2a3hn?oc=5",
    "source": "ocvb",
@@ -1386,6 +1386,16 @@
    "summary": "",
    "categories": [
     "okinawa"
+   ]
+  },
+  {
+   "title": "埼玉県、移住相談に対応する「住むなら埼玉」AI相談を開始、先輩移住者への無料相談も｜ふるさと住民制度・実践ガイド【公式】",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82VHhFX2p2a0p0R0loeV9UX2hSY1UzS1d2VTB5ai1aYVk4UVh3MFkzZlNSUlUxaTVfVnhpYUNFcHpFX0M3Y1o1M2xYcVRldnhCVDJqY28tVDBBT3NnQ2wwRzh3?oc=5",
+   "source": "travelvoice",
+   "published": "2026-09-30T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
    ]
   },
   {
@@ -2221,6 +2231,16 @@
    ]
   },
   {
+   "title": "AIエージェント時代の旅行販売、勝負を分ける「予約・決済」の仕組みとは？ 次世代販売戦略を決済大手のAdyenがウェビナーで解説（PR）",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Bb1MxY19yUUtNV1poLWhwQ29oVmtXR2hiYldJenRlVkVwYUM3Yk1vQ0JhOF9wc1Z0QVFOcTcyMVJ1MlRoNHpIWWxlZXdnRXVFd2pjcA?oc=5",
+   "source": "travelvoice",
+   "published": "2026-09-02T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
    "title": "観光人材の未来を拓くワールドカフェを開催しました",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85MHZMRUlaUVFpblRCVmRDNkZVVHE0UGhVNFlFdnl5dmN5VU9DSjNIV0VsUXJWejZvYzA2STdIV3diMGF4ZjdvLTh3?oc=5",
    "source": "ocvb",
@@ -2248,16 +2268,6 @@
    "summary": "",
    "categories": [
     "subsidy"
-   ]
-  },
-  {
-   "title": "AIエージェント時代の旅行販売、勝負を分ける「予約・決済」の仕組みとは？ 次世代販売戦略を決済大手のAdyenがウェビナーで解説（PR）",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Bb1MxY19yUUtNV1poLWhwQ29oVmtXR2hiYldJenRlVkVwYUM3Yk1vQ0JhOF9wc1Z0QVFOcTcyMVJ1MlRoNHpIWWxlZXdnRXVFd2pjcA?oc=5",
-   "source": "travelvoice",
-   "published": "2026-09-02T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
    ]
   },
   {
@@ -2869,16 +2879,6 @@
    "title": "メトロエンジン、宿泊施設向け「無料レベニュー診断」を提供開始｜OTA公開データからAIが価格戦略を分析",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZamZoRWcyS2VvZEpVNVZPQ3g3aEJ5dFAxU3FxVTA2Z1FoV0V2aTNic05wb1BPeU9TR2ZWb1d2SG1sRkhZTUt3OFYtUW93c2lqY1YxYjFzbVN2NjRfd2pqWEM0YUV6d3lkLXZJT0VhVGdRRFVHMnZRbTZ3?oc=5",
    "source": "hotelbank",
-   "published": "2026-07-31T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
-   "title": "AI時代に人の心を動かすものとは？ 旅行と家族型ロボット「LOVOT（ラボット）」の意外な共通点を開発者に聞いてきた",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XWF9GTDlBa0w2Ni03TTJ6a3hiM2RIanQ1TFdBaWp1c3Q0OTBfcjA5YlNhUVJPeExBbmlUdDVSckFkRFlRQWI1amJZSXdya3hRMTJJeQ?oc=5",
-   "source": "travelvoice",
    "published": "2026-07-31T16:00+09:00",
    "summary": "",
    "categories": [
