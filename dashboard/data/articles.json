@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T20:25+09:00",
+ "updated_at": "2026-10-21T01:51+09:00",
  "sources": [
   {
    "id": "honichi",
@@ -20,14 +20,14 @@
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 58
+   "new_items": 59
   },
   {
    "id": "ocvb",
    "name": "OCVB",
    "home": "https://www.ocvb.or.jp/",
    "direct_feed": true,
-   "new_items": 64
+   "new_items": 65
   },
   {
    "id": "kankodx",
@@ -45,6 +45,16 @@
   }
  ],
  "articles": [
+  {
+   "title": "安全・安心な観光地へ！",
+   "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPYWh1SWVQS0FFc1RzTnhSYU91VXlqam9XTThpM1ZSYlBTdTZQdWprd3lhSEFMS1ZHSExnNlNMR0lwTW1kTXZZcU1YdFUwaW9zU1lTYzlPOEZaeGNpYVZFTTlaU0w1R29pd3ltaGVnS05UUGthbjB0b3gwXzdSMjlwNGl3SVhrU0lxekRsRkxIQlRIaERER1l2SXFzVFNMZjMyNHdtUURWV1N4Q3RBMTV4ZlNhZklpQzljS1VZcjZXLVJZbTMwb1FHMDNBU2N0YjZMb0YtVGxVWnNUTld1S1A5WEtnaENTQ29fSmNSWk9FS2lsQTNfOFo4U091SnRhZFFKS2RqcWkwS0NJcjFCSzJqU1V5MEZOR05MTDRXTE1GV00zcDRTMDRMMG1RUHVkbXRhdUtUbFNkc2Zva3Z2c2ZRZi0xNGM?oc=5",
+   "source": "ocvb",
+   "published": "2026-10-20T23:50+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
   {
    "title": "AIに見えない地域やホテルは「旅行者からも見えなくなる」、宿泊施設の情報発信と「人」の価値を議論 ―ブッキング・ドットコム",
    "url": "https://www.travelvoice.jp/20261020-160555",
@@ -66,16 +76,6 @@
    ]
   },
   {
-   "title": "ベトナムにおける青森県レセプション運営等業務に係る企画提案の公募",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1enZLNmpXTXpLS25FcEVMSzJaWGFHdWJraGtfckVHRk5TQjJhaWFNemVhWVU5am5IZnhENWx4bVlnNUpYRDV3b3BELW9VQlhK?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-20T12:33+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
-   ]
-  },
-  {
    "title": "松本地域インバウンド振興パネルディスカッションにおけるグラフィックレコーディング事業業務、公募型プロポーザルの実施",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xUGRENFpLTlN2dk92OFUzU3AzeVlRVmtIelNxS2tPMEhuS2p1R2F4b0o2Q2J1R3ROVjhVU1kyVWsxSHBtMmRxVFUxWVFuRTdL?oc=5",
    "source": "travelvoice",
@@ -86,8 +86,8 @@
    ]
   },
   {
-   "title": "ふくしまアフターDCにおけるクーポン付きレンタカーキャンペーン準備事業に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxRGlYN0FhajE4ZHNaQ3RxV1dwejJTc0ZkLW1ISDRXaXQwVGlYOWZ3TS1BTW80TnBEYnpSZ2ljdmt5TkZvaUdLbFBaVEIwRGRQ?oc=5",
+   "title": "札幌集中を緩和するためのMICE受入調査・受入環境整備事業に係る企画提案の公募",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45a1FuVXQtbUFMV1kxdDVnM2tfRTF0aDRFU1dGYlpmeVZLbUlueWFGUGNfSzhTVW80MFgtMTdCckRSR1ZKanRQOFlUXzNiRm5C?oc=5",
    "source": "travelvoice",
    "published": "2026-10-20T11:21+09:00",
    "summary": "",
@@ -96,8 +96,8 @@
    ]
   },
   {
-   "title": "札幌集中を緩和するためのMICE受入調査・受入環境整備事業に係る企画提案の公募",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45a1FuVXQtbUFMV1kxdDVnM2tfRTF0aDRFU1dGYlpmeVZLbUlueWFGUGNfSzhTVW80MFgtMTdCckRSR1ZKanRQOFlUXzNiRm5C?oc=5",
+   "title": "ふくしまアフターDCにおけるクーポン付きレンタカーキャンペーン準備事業に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxRGlYN0FhajE4ZHNaQ3RxV1dwejJTc0ZkLW1ISDRXaXQwVGlYOWZ3TS1BTW80TnBEYnpSZ2ljdmt5TkZvaUdLbFBaVEIwRGRQ?oc=5",
    "source": "travelvoice",
    "published": "2026-10-20T11:21+09:00",
    "summary": "",
@@ -120,6 +120,16 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wVnRTbVpNQXpIOW1YSENWVWJybUM4SjdCdlVFazJYUFViOTMyRnphMUdOVnJFYUtaZlFsV1BOQTBMMEVkei1tRlhjMjh3RkRX?oc=5",
    "source": "travelvoice",
    "published": "2026-10-20T09:57+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "ぶらり丹波路魅力体験＆拡散ツアー事業に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtcDI5NGVQNElpYktIOUxYSG4wWkhPZVFkQ1Y3TUl3VWVBUWZHdnNpODBjeTN2OTNLNTBhenJzdmRLLVhkVl9ueldyOVFPUGFU?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-19T23:15+09:00",
    "summary": "",
    "categories": [
     "subsidy"
@@ -156,10 +166,10 @@
    ]
   },
   {
-   "title": "ぶらり丹波路魅力体験＆拡散ツアー事業に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtcDI5NGVQNElpYktIOUxYSG4wWkhPZVFkQ1Y3TUl3VWVBUWZHdnNpODBjeTN2OTNLNTBhenJzdmRLLVhkVl9ueldyOVFPUGFU?oc=5",
+   "title": "ベトナムにおける青森県レセプション運営等業務に係る企画提案の公募",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1enZLNmpXTXpLS25FcEVMSzJaWGFHdWJraGtfckVHRk5TQjJhaWFNemVhWVU5am5IZnhENWx4bVlnNUpYRDV3b3BELW9VQlhK?oc=5",
    "source": "travelvoice",
-   "published": "2026-10-18T11:03+09:00",
+   "published": "2026-10-18T05:18+09:00",
    "summary": "",
    "categories": [
     "subsidy"
@@ -1008,6 +1018,16 @@
    ]
   },
   {
+   "title": "鹿児島県「九州ふっこう応援割事業」に係る事務局設置業務、公募型プロポーザルを実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oYm5lemp1aGVCX0JxWFVOa21YU1lkdUx0eUh6c2NYbXYzQmlNbkdraFZ2UHlvdE5Zc0NIZTBQaEN6YTgwVk9hMmN1Rk45cDZ1?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-08T14:46+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
    "title": "福島県観光地実態ウェブ調査業務に係る公募型プロポーザルの実施",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6dWQ1T3B4UmE5MTdKaURUNDJlSmcxd2w4WGl2c0pnZVR6Z18xWWFPclg5Q3NHUW43OVNYM0ZwM2FBdXBLaXZ3RTl2XzJwcEFl?oc=5",
    "source": "travelvoice",
@@ -1329,6 +1349,16 @@
    ]
   },
   {
+   "title": "埼玉県、移住相談に対応する「住むなら埼玉」AI相談を開始、先輩移住者への無料相談も｜ふるさと住民制度・実践ガイド【公式】",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82VHhFX2p2a0p0R0loeV9UX2hSY1UzS1d2VTB5ai1aYVk4UVh3MFkzZlNSUlUxaTVfVnhpYUNFcHpFX0M3Y1o1M2xYcVRldnhCVDJqY28tVDBBT3NnQ2wwRzh3?oc=5",
+   "source": "travelvoice",
+   "published": "2026-09-30T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
    "title": "令和８年度「観光危機管理計画・BCP策定支援セミナー」を開催しました",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1lVGtfQjZjOGRvcnR1ajZpN3BWQmNMS0M3aWo2M0FZYzNVdlByaDRMNlI3d1BEUWVudHp5S1l2Um9WQ1pzX0g2a3hn?oc=5",
    "source": "ocvb",
@@ -1356,16 +1386,6 @@
    "summary": "",
    "categories": [
     "okinawa"
-   ]
-  },
-  {
-   "title": "埼玉県、移住相談に対応する「住むなら埼玉」AI相談を開始、先輩移住者への無料相談も｜ふるさと住民制度・実践ガイド【公式】",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82VHhFX2p2a0p0R0loeV9UX2hSY1UzS1d2VTB5ai1aYVk4UVh3MFkzZlNSUlUxaTVfVnhpYUNFcHpFX0M3Y1o1M2xYcVRldnhCVDJqY28tVDBBT3NnQ2wwRzh3?oc=5",
-   "source": "travelvoice",
-   "published": "2026-09-30T15:15+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
    ]
   },
   {
