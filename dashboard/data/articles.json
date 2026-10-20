@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T07:17+09:00",
+ "updated_at": "2026-10-20T13:39+09:00",
  "sources": [
   {
    "id": "honichi",
@@ -12,7 +12,7 @@
    "id": "hotelbank",
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
-   "direct_feed": false,
+   "direct_feed": true,
    "new_items": 32
   },
   {
@@ -20,14 +20,14 @@
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 56
+   "new_items": 58
   },
   {
    "id": "ocvb",
    "name": "OCVB",
    "home": "https://www.ocvb.or.jp/",
    "direct_feed": true,
-   "new_items": 65
+   "new_items": 66
   },
   {
    "id": "kankodx",
@@ -46,20 +46,50 @@
  ],
  "articles": [
   {
-   "title": "ぶらり丹波路魅力体験＆拡散ツアー事業に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtcDI5NGVQNElpYktIOUxYSG4wWkhPZVFkQ1Y3TUl3VWVBUWZHdnNpODBjeTN2OTNLNTBhenJzdmRLLVhkVl9ueldyOVFPUGFU?oc=5",
+   "title": "松本地域インバウンド振興パネルディスカッションにおけるグラフィックレコーディング事業業務、公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xUGRENFpLTlN2dk92OFUzU3AzeVlRVmtIelNxS2tPMEhuS2p1R2F4b0o2Q2J1R3ROVjhVU1kyVWsxSHBtMmRxVFUxWVFuRTdL?oc=5",
    "source": "travelvoice",
-   "published": "2026-10-19T23:15+09:00",
+   "published": "2026-10-20T12:15+09:00",
    "summary": "",
    "categories": [
     "subsidy"
    ]
   },
   {
+   "title": "ふくしまアフターDCにおけるクーポン付きレンタカーキャンペーン準備事業に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxRGlYN0FhajE4ZHNaQ3RxV1dwejJTc0ZkLW1ISDRXaXQwVGlYOWZ3TS1BTW80TnBEYnpSZ2ljdmt5TkZvaUdLbFBaVEIwRGRQ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-20T11:16+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "札幌集中を緩和するためのMICE受入調査・受入環境整備事業に係る企画提案の公募",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45a1FuVXQtbUFMV1kxdDVnM2tfRTF0aDRFU1dGYlpmeVZLbUlueWFGUGNfSzhTVW80MFgtMTdCckRSR1ZKanRQOFlUXzNiRm5C?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-20T11:16+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "恩納村〜名護湾のリゾート客室、約4割が津波浸水想定区域 — BCP投資1室10万〜28万円、恩納村ADR2.19万円",
+   "url": "https://hotelbank.jp/investment/okinawa-west-coast-onna-nago-resort-rooms-tsunami-inundation-40pct-bcp-capex-2026/",
+   "source": "hotelbank",
+   "published": "2026-10-20T10:03+09:00",
+   "summary": "恩納村中心10km圏のリゾート34施設6,819室のうち12施設2,762室（40.5%）が津波浸水想定区域内にあり、6割は浸水深1m未満。受変電の上階化と非常用発電機を1室9.8万〜28.0万円で試算し、恩納村ADR21,895円で回収感度を分析する。",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
    "title": "高岡市北部地区観光商品造成・情報発信業務に係る公募型プロポーザルの実施",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wVnRTbVpNQXpIOW1YSENWVWJybUM4SjdCdlVFazJYUFViOTMyRnphMUdOVnJFYUtaZlFsV1BOQTBMMEVkei1tRlhjMjh3RkRX?oc=5",
    "source": "travelvoice",
-   "published": "2026-10-19T07:15+09:00",
+   "published": "2026-10-20T09:57+09:00",
    "summary": "",
    "categories": [
     "subsidy"
@@ -93,6 +123,16 @@
    "summary": "",
    "categories": [
     "okinawa"
+   ]
+  },
+  {
+   "title": "ぶらり丹波路魅力体験＆拡散ツアー事業に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtcDI5NGVQNElpYktIOUxYSG4wWkhPZVFkQ1Y3TUl3VWVBUWZHdnNpODBjeTN2OTNLNTBhenJzdmRLLVhkVl9ueldyOVFPUGFU?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-18T11:03+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
    ]
   },
   {
@@ -850,7 +890,7 @@
    "title": "沖縄 宿泊税は2027年2月1日から2%｜1名1泊100〜320円、上限2,000円が効く価格帯と宿の準備",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN3V3ekExVnlJUlJJLUFaRDRITDFPZzRzMVhpS1ktb09IV0FhWmpmVmsyR2FWZ2JZMzNWTkpROUc2cHB6VEVCZjNKQmtmNXB0ZWJfTEluai04NVBmeFBTQ3pBQmFpOUsyX085RFBzdExlUDJZUjlIQ0dnc0lSaEFOQ1NuUmZPeTFh?oc=5",
    "source": "hotelbank",
-   "published": "2026-10-09T22:58+09:00",
+   "published": "2026-10-09T16:00+09:00",
    "summary": "",
    "categories": [
     "okinawa"
@@ -1279,8 +1319,8 @@
    ]
   },
   {
-   "title": "おきなわ応援ポケモン「ガーディ」×離島コラボステッカー 今年度は沖縄本島周辺15離島すべてに拡大 — 10月1日より配布開始、新たに9離島が初参加",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5QdHB3a1BPMTdsUXRMNzBoQWwxUWVYT3RFa1owLTdkV0tBS0hUY2ctUVZlTG02aHpPeGdLMS1nRlFvTEhKd0VWQUdn?oc=5",
+   "title": "令和８年度「観光危機管理計画・BCP策定支援セミナー」を開催しました",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1lVGtfQjZjOGRvcnR1ajZpN3BWQmNMS0M3aWo2M0FZYzNVdlByaDRMNlI3d1BEUWVudHp5S1l2Um9WQ1pzX0g2a3hn?oc=5",
    "source": "ocvb",
    "published": "2026-09-30T16:00+09:00",
    "summary": "",
@@ -1289,8 +1329,8 @@
    ]
   },
   {
-   "title": "令和８年度「観光危機管理計画・BCP策定支援セミナー」を開催しました",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1lVGtfQjZjOGRvcnR1ajZpN3BWQmNMS0M3aWo2M0FZYzNVdlByaDRMNlI3d1BEUWVudHp5S1l2Um9WQ1pzX0g2a3hn?oc=5",
+   "title": "おきなわ応援ポケモン「ガーディ」×離島コラボステッカー 今年度は沖縄本島周辺15離島すべてに拡大 — 10月1日より配布開始、新たに9離島が初参加",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5QdHB3a1BPMTdsUXRMNzBoQWwxUWVYT3RFa1owLTdkV0tBS0hUY2ctUVZlTG02aHpPeGdLMS1nRlFvTEhKd0VWQUdn?oc=5",
    "source": "ocvb",
    "published": "2026-09-30T16:00+09:00",
    "summary": "",
@@ -2641,16 +2681,6 @@
    "summary": "",
    "categories": [
     "dx_ai",
-    "okinawa"
-   ]
-  },
-  {
-   "title": "映画「涙そうそう」公開20周年／「宝島」公開１周年記念イベント 開催のお知らせ【2026年9月20日(日)】",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IWDgxUDNReGhpYU9WYm14RHNySng5bDhsbTFtTVZnaGxmeXRSZHVXeXdoOUtCTDVqaGpucEZYMkdkNFVpYlVjM2J1OVJpSGhvUkxmS01rOA?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-18T16:00+09:00",
-   "summary": "",
-   "categories": [
     "okinawa"
    ]
   },
