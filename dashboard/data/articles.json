@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-10-21T20:39+09:00",
+ "updated_at": "2026-10-22T02:05+09:00",
  "sources": [
   {
    "id": "honichi",
    "name": "訪日ラボ",
    "home": "https://honichi.com/",
    "direct_feed": true,
-   "new_items": 21
+   "new_items": 20
   },
   {
    "id": "hotelbank",
@@ -20,7 +20,7 @@
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 64
+   "new_items": 62
   },
   {
    "id": "ocvb",
@@ -127,10 +127,10 @@
   },
   {
    "title": "観光地形成促進地域の投資税額控除は3年延びるか — 令和9年度税制改正要望と沖縄ホテル投資への効き方",
-   "url": "https://hotelbank.jp/investment/okinawa-tourism-zone-tax-credit-extension-fy2027-request/",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVnZ6WXBSWS1LZnRQOGhrWElEUFk1MUFYaG05UEJna0haY0hLQm5tWWtQYWZEWWtsZ2xQYXdGazNtMWhkcmpEdUJ0aXVFcmFRa2l0NFFIS1Z1TnlCSzZDcTBrV1UxN2g2UkhZTkxHY2lLcTdRZTVFb0t1aktKYVE2bWpCaHJZLWVjYXl1di03MDR5SE0?oc=5",
    "source": "hotelbank",
-   "published": "2026-10-21T10:09+09:00",
-   "summary": "沖縄の観光地形成促進地域の投資税額控除（建物等8%）と地方税免除は、2030年3月末まで3年延長が要望された段階。宿泊棟は対象外で、100室リゾートの簡易試算ではIRRを0.1〜0.3pt押し上げる。沖縄県42,577室のストックと2026年開業、12月大綱までの逆算表を整理する。",
+   "published": "2026-10-21T10:12+09:00",
+   "summary": "",
    "categories": [
     "okinawa"
    ]
@@ -197,8 +197,8 @@
    ]
   },
   {
-   "title": "ふくしまアフターDCにおけるクーポン付きレンタカーキャンペーン準備事業に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxRGlYN0FhajE4ZHNaQ3RxV1dwejJTc0ZkLW1ISDRXaXQwVGlYOWZ3TS1BTW80TnBEYnpSZ2ljdmt5TkZvaUdLbFBaVEIwRGRQ?oc=5",
+   "title": "札幌集中を緩和するためのMICE受入調査・受入環境整備事業に係る企画提案の公募",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45a1FuVXQtbUFMV1kxdDVnM2tfRTF0aDRFU1dGYlpmeVZLbUlueWFGUGNfSzhTVW80MFgtMTdCckRSR1ZKanRQOFlUXzNiRm5C?oc=5",
    "source": "travelvoice",
    "published": "2026-10-20T11:21+09:00",
    "summary": "",
@@ -207,8 +207,8 @@
    ]
   },
   {
-   "title": "札幌集中を緩和するためのMICE受入調査・受入環境整備事業に係る企画提案の公募",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45a1FuVXQtbUFMV1kxdDVnM2tfRTF0aDRFU1dGYlpmeVZLbUlueWFGUGNfSzhTVW80MFgtMTdCckRSR1ZKanRQOFlUXzNiRm5C?oc=5",
+   "title": "ふくしまアフターDCにおけるクーポン付きレンタカーキャンペーン準備事業に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxRGlYN0FhajE4ZHNaQ3RxV1dwejJTc0ZkLW1ISDRXaXQwVGlYOWZ3TS1BTW80TnBEYnpSZ2ljdmt5TkZvaUdLbFBaVEIwRGRQ?oc=5",
    "source": "travelvoice",
    "published": "2026-10-20T11:21+09:00",
    "summary": "",
@@ -1048,6 +1048,16 @@
    ]
   },
   {
+   "title": "北海道ファイターズ、AI旅行予約サービスの運営会社と資本業務提携、Fビレッジへのインバウンド誘客を強化",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHRF9hNGR5Z3A0alFEWVJ3WDNnNVBualVnQ1JqTVU0TkJuT3R5Tm1DRFdiT1RoYTRBel9KV2lScnlyUUpFVXo3QlM0RlpjdTRKMzNiUw?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-09T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
    "title": "冬季誘客コンテンツ充実業務に係る公募型プロポーザルの実施",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qY0tBbnN0NE1jQmk1Ry1xXzhGczRlYVFWUzBlNWphTEpRZGtteEJ6NXhHajIxeURidTVVcUJhRUJpNkp6RG5vNmRWZ0p2ZXEz?oc=5",
    "source": "travelvoice",
@@ -1055,16 +1065,6 @@
    "summary": "",
    "categories": [
     "subsidy"
-   ]
-  },
-  {
-   "title": "北海道ファイターズ、AI旅行予約サービスの運営会社と資本業務提携、Fビレッジへのインバウンド誘客を強化",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHRF9hNGR5Z3A0alFEWVJ3WDNnNVBualVnQ1JqTVU0TkJuT3R5Tm1DRFdiT1RoYTRBel9KV2lScnlyUUpFVXo3QlM0RlpjdTRKMzNiUw?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-09T10:52+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
    ]
   },
   {
@@ -1542,16 +1542,6 @@
    ]
   },
   {
-   "title": "2026年開業1,592施設、半数は1室の宿 — フロント不設置の3要件と省人化型の新規供給",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRkxOUlBvUEtsUzNQQkxVQ1ZVOXpnc0NzMjh6WDc5WkRnV09iRGMwenhvbTU5OXpCbkdtYzhqVnFyR0RkdkdjcjZKS2lia2ZWOWVlUG40SWNud3VPSEVBWjZIMk11cjNtdGEwSkVmWFIxaTRmTVJmTkUxN2llNDYyaENrUQ?oc=5",
-   "source": "hotelbank",
-   "published": "2026-09-28T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
    "title": "業務改善助成金2026の締切は最短9月30日 — 宿の47都道府県残り日数と上限600万円の1室換算",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWkYtY09VTm9NY2hvalQ4M0NPUHlobnM4RkJUajBMZ3Bna2hIWndISzhFYWMySFNyWGxuYjJMYkhzNzJld0F4WTBaTXE5bzZ6bEF2N2V5WFFhVm9QNXdOcVdKYzI1cTRJTmR1UkJaRmN3eUNOTkRpajBvcDRBQnRxZktPcWVzMTB4dGJQeFA0VVhXdGo4dTlR?oc=5",
    "source": "hotelbank",
@@ -1559,6 +1549,16 @@
    "summary": "",
    "categories": [
     "subsidy"
+   ]
+  },
+  {
+   "title": "2026年開業1,592施設、半数は1室の宿 — フロント不設置の3要件と省人化型の新規供給",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRkxOUlBvUEtsUzNQQkxVQ1ZVOXpnc0NzMjh6WDc5WkRnV09iRGMwenhvbTU5OXpCbkdtYzhqVnFyR0RkdkdjcjZKS2lia2ZWOWVlUG40SWNud3VPSEVBWjZIMk11cjNtdGEwSkVmWFIxaTRmTVJmTkUxN2llNDYyaENrUQ?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-28T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
    ]
   },
   {
@@ -2121,6 +2121,16 @@
    ]
   },
   {
+   "title": "九州ふっこう応援割2026 まとめ｜いつから・いつまで・いくら安い・県別の予約開始日と補助率（最大60%）",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORG44ZWZPN080WU43Q1lON2xVbndJLU5rdDBwcnA0WnlvWFJGSXl3ZDBrblNwb1l0TTZQQXg4MTFuc0t2R3l1SER0T0h2YlZQMUctVHRWaExGTFhCSjlPM0UtX3I2ekNlMXF2QXM3ME4xT1FxaW1ta2ZFcnVUbWpwYTgtYw?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-09T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
    "title": "AI時代の旅行者行動の変化、予約タイミングは早期化、Google マップが「コンシェルジュ」に、事業者に求められる対応とは？",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yZXd5UjZQNndROFNfdFMzVUJkNUhCT1MwVUVuZ2VIS1hRV0poaVItYldSeWdXdW5oOWJoU19FVFBOSWZ4VHVmNkt4ZjlRNlRaNkY4Zg?oc=5",
    "source": "travelvoice",
@@ -2138,16 +2148,6 @@
    "summary": "",
    "categories": [
     "dx_ai"
-   ]
-  },
-  {
-   "title": "九州ふっこう応援割2026 まとめ｜いつから・いつまで・いくら安い・県別の予約開始日と補助率（最大60%）",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORG44ZWZPN080WU43Q1lON2xVbndJLU5rdDBwcnA0WnlvWFJGSXl3ZDBrblNwb1l0TTZQQXg4MTFuc0t2R3l1SER0T0h2YlZQMUctVHRWaExGTFhCSjlPM0UtX3I2ekNlMXF2QXM3ME4xT1FxaW1ta2ZFcnVUbWpwYTgtYw?oc=5",
-   "source": "hotelbank",
-   "published": "2026-09-09T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
    ]
   },
   {
