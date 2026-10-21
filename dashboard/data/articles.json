@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T02:05+09:00",
+ "updated_at": "2026-10-22T06:34+09:00",
  "sources": [
   {
    "id": "honichi",
@@ -20,7 +20,7 @@
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 62
+   "new_items": 63
   },
   {
    "id": "ocvb",
@@ -1309,16 +1309,6 @@
    ]
   },
   {
-   "title": "「おきなわ観光地域カルテ（8月度）」および「インバウンド人流分析（7月度）」公開のお知らせ",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BSENtMldMMkh2M0IzcExjck05MHk2MXRYX0hXcTZmYXF4cGF5NXhkSlM0S2lmRjhaZTMxbXh5Z1dZcnE3M29vMFdWcw?oc=5",
-   "source": "ocvb",
-   "published": "2026-10-05T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "旅行者は「安さ」から「納得感」重視へ、スカイスキャナー・JALらが語る乗り継ぎ、旅先選び、AI活用の変化",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15eGo3TFBid0Jlb0ZPSnhMRk5PUFdKWlhOZEJCSGJ6VVdROFlLWjJXbzY0QjlEY09SNGdFYkVxSzRzS19PS0NqaDhWbkVPNjZKVUU0OA?oc=5",
    "source": "travelvoice",
@@ -1326,6 +1316,16 @@
    "summary": "",
    "categories": [
     "dx_ai"
+   ]
+  },
+  {
+   "title": "「おきなわ観光地域カルテ（8月度）」および「インバウンド人流分析（7月度）」公開のお知らせ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BSENtMldMMkh2M0IzcExjck05MHk2MXRYX0hXcTZmYXF4cGF5NXhkSlM0S2lmRjhaZTMxbXh5Z1dZcnE3M29vMFdWcw?oc=5",
+   "source": "ocvb",
+   "published": "2026-10-05T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
    ]
   },
   {
@@ -1542,16 +1542,6 @@
    ]
   },
   {
-   "title": "業務改善助成金2026の締切は最短9月30日 — 宿の47都道府県残り日数と上限600万円の1室換算",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWkYtY09VTm9NY2hvalQ4M0NPUHlobnM4RkJUajBMZ3Bna2hIWndISzhFYWMySFNyWGxuYjJMYkhzNzJld0F4WTBaTXE5bzZ6bEF2N2V5WFFhVm9QNXdOcVdKYzI1cTRJTmR1UkJaRmN3eUNOTkRpajBvcDRBQnRxZktPcWVzMTB4dGJQeFA0VVhXdGo4dTlR?oc=5",
-   "source": "hotelbank",
-   "published": "2026-09-28T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
-   ]
-  },
-  {
    "title": "2026年開業1,592施設、半数は1室の宿 — フロント不設置の3要件と省人化型の新規供給",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRkxOUlBvUEtsUzNQQkxVQ1ZVOXpnc0NzMjh6WDc5WkRnV09iRGMwenhvbTU5OXpCbkdtYzhqVnFyR0RkdkdjcjZKS2lia2ZWOWVlUG40SWNud3VPSEVBWjZIMk11cjNtdGEwSkVmWFIxaTRmTVJmTkUxN2llNDYyaENrUQ?oc=5",
    "source": "hotelbank",
@@ -1559,6 +1549,16 @@
    "summary": "",
    "categories": [
     "dx_ai"
+   ]
+  },
+  {
+   "title": "業務改善助成金2026の締切は最短9月30日 — 宿の47都道府県残り日数と上限600万円の1室換算",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWkYtY09VTm9NY2hvalQ4M0NPUHlobnM4RkJUajBMZ3Bna2hIWndISzhFYWMySFNyWGxuYjJMYkhzNzJld0F4WTBaTXE5bzZ6bEF2N2V5WFFhVm9QNXdOcVdKYzI1cTRJTmR1UkJaRmN3eUNOTkRpajBvcDRBQnRxZktPcWVzMTB4dGJQeFA0VVhXdGo4dTlR?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-28T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
    ]
   },
   {
