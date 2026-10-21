@@ -1,26 +1,26 @@
 {
- "updated_at": "2026-10-21T13:32+09:00",
+ "updated_at": "2026-10-21T20:39+09:00",
  "sources": [
   {
    "id": "honichi",
    "name": "訪日ラボ",
    "home": "https://honichi.com/",
    "direct_feed": true,
-   "new_items": 20
+   "new_items": 21
   },
   {
    "id": "hotelbank",
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
    "direct_feed": true,
-   "new_items": 35
+   "new_items": 36
   },
   {
    "id": "travelvoice",
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 61
+   "new_items": 64
   },
   {
    "id": "ocvb",
@@ -46,20 +46,50 @@
  ],
  "articles": [
   {
-   "title": "三河港クルーズ船誘致推進事業業務に係る企画提案の公募",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02dkxlbUNDREZSTjNGMHltYV9pSW1URktLbHZSMHo4QV9SRHZSUWd4dzNoOURnbmN5MU9ORU1Ob3FDNUVub1FRdjNXZmFuQWpn?oc=5",
+   "title": "AI旅行計画アプリで「もう1か所」の訪問を後押し、熊本市で観光周遊の実証開始、バス時刻表と連動してルート提案",
+   "url": "https://www.travelvoice.jp/20261021-160658",
    "source": "travelvoice",
-   "published": "2026-10-21T12:00+09:00",
-   "summary": "",
+   "published": "2026-10-21T18:17+09:00",
+   "summary": "Plaru社は熊本国際観光コンベンション協会と連携し、AI旅行計画アプリ「ぷらる」を活用した実証事業を熊本市で開始。利用者の興味や滞在時間に応じてルート提案、「もう1か所」への訪問後押し。",
    "categories": [
-    "subsidy"
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "羽田・成田・那覇空港で消費税のセルフ還付サービス、約1分で日本円の現金受け取り、11月開始の新免税制度に対応",
+   "url": "https://www.travelvoice.jp/20261021-160714",
+   "source": "travelvoice",
+   "published": "2026-10-21T18:14+09:00",
+   "summary": "日本空港ビルらは、2026年11月より羽田・成田・那覇空港で消費税セルフ還付サービスを開始する。新制度に対応し、端末操作により約1分で消費税を現金受領できる環境を整備し利便性を向上させる。",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "年末年始2026-27のホテル料金、東京は12月→1月で−22% — 5都市の日別ピークと成人の日までの谷",
+   "url": "https://hotelbank.jp/seasonal-events/year-end-2026-27-tokyo-osaka-kyoto-hokkaido-okinawa-daily-peak-january-trough-pricing/",
+   "source": "hotelbank",
+   "published": "2026-10-21T15:02+09:00",
+   "summary": "年末年始2026-27の5都市の宿泊単価を検証。東京の推定成約ADRは12月1万7,500円→1月1万3,700円（−22%）。日別の頂点は都市型が大晦日、リゾート・旅館は元日。前年の稼働率と日別価格から、成人の日3連休までの1月平日の値付けを整理する。",
+   "categories": [
+    "okinawa"
    ]
   },
   {
    "title": "SNSを通じた訪日外国人旅行者に対するマナー啓発業務に係る公募型プロポーザルの実施",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oLTNwMzV2X2t3dHozOFRkYkhNM3RBVUFpTnY2cGRYaENMUVczRXFLYmNaYW8zNi1YU0dxODlwdEpDU3o4N09ZMjNFRkJCMkJJ?oc=5",
    "source": "travelvoice",
-   "published": "2026-10-21T11:56+09:00",
+   "published": "2026-10-21T12:07+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "三河港クルーズ船誘致推進事業業務に係る企画提案の公募",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02dkxlbUNDREZSTjNGMHltYV9pSW1URktLbHZSMHo4QV9SRHZSUWd4dzNoOURnbmN5MU9ORU1Ob3FDNUVub1FRdjNXZmFuQWpn?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-21T12:07+09:00",
    "summary": "",
    "categories": [
     "subsidy"
@@ -87,10 +117,10 @@
   },
   {
    "title": "AI旅行計画アプリで「もう1カ所」の訪問を後押し、熊本市で観光周遊の実証開始、バス時刻表と連動してルート提案",
-   "url": "https://www.travelvoice.jp/20261021-160658",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94WENrWl81UWV1Mko4M004dWpQSHVKOUpPc04yS2pKdEZZTzdWeVVRMERjd0I2VElYbnhSVkZVWFFmdV94UG0yMkZ2MzhYSnBLeGQxYw?oc=5",
    "source": "travelvoice",
-   "published": "2026-10-21T10:35+09:00",
-   "summary": "Plaru社は熊本国際観光コンベンション協会と連携し、AI旅行計画アプリ「ぷらる」を活用した実証事業を熊本市で開始。利用者の興味や滞在時間に応じてルート提案、「もう1か所」への訪問後押し。",
+   "published": "2026-10-21T10:36+09:00",
+   "summary": "",
    "categories": [
     "dx_ai"
    ]
@@ -167,8 +197,8 @@
    ]
   },
   {
-   "title": "札幌集中を緩和するためのMICE受入調査・受入環境整備事業に係る企画提案の公募",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45a1FuVXQtbUFMV1kxdDVnM2tfRTF0aDRFU1dGYlpmeVZLbUlueWFGUGNfSzhTVW80MFgtMTdCckRSR1ZKanRQOFlUXzNiRm5C?oc=5",
+   "title": "ふくしまアフターDCにおけるクーポン付きレンタカーキャンペーン準備事業に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxRGlYN0FhajE4ZHNaQ3RxV1dwejJTc0ZkLW1ISDRXaXQwVGlYOWZ3TS1BTW80TnBEYnpSZ2ljdmt5TkZvaUdLbFBaVEIwRGRQ?oc=5",
    "source": "travelvoice",
    "published": "2026-10-20T11:21+09:00",
    "summary": "",
@@ -177,8 +207,8 @@
    ]
   },
   {
-   "title": "ふくしまアフターDCにおけるクーポン付きレンタカーキャンペーン準備事業に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxRGlYN0FhajE4ZHNaQ3RxV1dwejJTc0ZkLW1ISDRXaXQwVGlYOWZ3TS1BTW80TnBEYnpSZ2ljdmt5TkZvaUdLbFBaVEIwRGRQ?oc=5",
+   "title": "札幌集中を緩和するためのMICE受入調査・受入環境整備事業に係る企画提案の公募",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45a1FuVXQtbUFMV1kxdDVnM2tfRTF0aDRFU1dGYlpmeVZLbUlueWFGUGNfSzhTVW80MFgtMTdCckRSR1ZKanRQOFlUXzNiRm5C?oc=5",
    "source": "travelvoice",
    "published": "2026-10-20T11:21+09:00",
    "summary": "",
@@ -2292,6 +2322,16 @@
    ]
   },
   {
+   "title": "スターラックス航空、神戸・那覇〜高雄（台湾）線を新規就航",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92bFRCc0t4bnowZHZKT1N4dG9MU21VcnN1S2hUdGZnSWtiWm1mUjhpX01rTlIwbHVzVnFmTWoyUnJubTUtbmJxbXd0UWkyTmNDYWV0QjY4a05OQ01lN092MmljX2Y?oc=5",
+   "source": "honichi",
+   "published": "2026-09-02T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
    "title": "AIエージェント時代の旅行販売、勝負を分ける「予約・決済」の仕組みとは？ 次世代販売戦略を決済大手のAdyenがウェビナーで解説（PR）",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Bb1MxY19yUUtNV1poLWhwQ29oVmtXR2hiYldJenRlVkVwYUM3Yk1vQ0JhOF9wc1Z0QVFOcTcyMVJ1MlRoNHpIWWxlZXdnRXVFd2pjcA?oc=5",
    "source": "travelvoice",
@@ -2305,16 +2345,6 @@
    "title": "観光人材の未来を拓くワールドカフェを開催しました",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85MHZMRUlaUVFpblRCVmRDNkZVVHE0UGhVNFlFdnl5dmN5VU9DSjNIV0VsUXJWejZvYzA2STdIV3diMGF4ZjdvLTh3?oc=5",
    "source": "ocvb",
-   "published": "2026-09-02T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "スターラックス航空、神戸・那覇〜高雄（台湾）線を新規就航",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92bFRCc0t4bnowZHZKT1N4dG9MU21VcnN1S2hUdGZnSWtiWm1mUjhpX01rTlIwbHVzVnFmTWoyUnJubTUtbmJxbXd0UWkyTmNDYWV0QjY4a05OQ01lN092MmljX2Y?oc=5",
-   "source": "honichi",
    "published": "2026-09-02T16:00+09:00",
    "summary": "",
    "categories": [
@@ -2675,26 +2705,6 @@
    ]
   },
   {
-   "title": "新着情報",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1EZWdST29kTDFZN0dVWlNMM19oXzB4ak1EOTduZDJ5NzJGWlo1RFdiZUVHaVhud3hIbXN3VmRJeVdjcUUxQTNWZnA4MzI?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-24T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "映画「マッチング TRUE LOVE」× 沖縄フィルムオフィス Instagram Wフォローキャンペーン実施のお知らせ",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qUnd6V3JSalpfSE9oMy1EX3BNN0o4VUYxZzFtSHhSbDdWQ0hIUDc1QnZTcGl5QVoyZm9VUmVhRkVpaGd6NjVQZ2hUTEVsMDhOMWg3YjlhNA?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-21T18:14+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "九州応援割、詳細は8月28日に発表予定 — 過去制度の補助率で読む実質単価と宿の準備",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV1dkekhvTDRYU19GMTZSb01hWTh5ZWdURFBlQjdaeUZBMTM0MGc1NnNYUl9uQllqRDc4RDVzV1JiMTdsTW1KRk03aWdmenhUbEJmUTVVVnBvRG5JWHdZWjRpdEszbFp5VnlkTHZ1eFJXZ09IZGhHWU42Z2x2ZWlRWQ?oc=5",
    "source": "hotelbank",
@@ -2869,16 +2879,6 @@
   {
    "title": "AI利用率トップは「旅行」で35.3%、一方で影響度は平均並み、旅程作成や複雑な条件の宿探しで活用 ―読売広告社",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlNlBLckRoUml1UjNyTTZoZlRMY3Q4VFZtbTEwVHRPMnRqQnFRMVRRT0xCLUF2S2VSTUhIVTlOaE93a1NHWVZNX3RjR3l1MTI0ZjNLdQ?oc=5",
-   "source": "travelvoice",
-   "published": "2026-08-04T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
-   "title": "AIが変えるDMOの役割とは？ 観光の新運営モデル「デスティネーション・アズ・ア・サービス」（DaaS）が必要な理由【外電】",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tZ1lneC16clhTc3RaeVlMRENOOGxkdDBFWlVmOEJXb2kxMGZTdWpvbTBMcVZ5Znh0MmhzVVZIdEdCay05aTA1aDNMeHI0TWxRNVhsaA?oc=5",
    "source": "travelvoice",
    "published": "2026-08-04T16:00+09:00",
    "summary": "",
