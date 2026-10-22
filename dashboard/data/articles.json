@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-10-22T06:34+09:00",
+ "updated_at": "2026-10-22T13:31+09:00",
  "sources": [
   {
    "id": "honichi",
    "name": "訪日ラボ",
    "home": "https://honichi.com/",
    "direct_feed": true,
-   "new_items": 20
+   "new_items": 21
   },
   {
    "id": "hotelbank",
@@ -20,7 +20,7 @@
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 63
+   "new_items": 65
   },
   {
    "id": "ocvb",
@@ -46,11 +46,41 @@
  ],
  "articles": [
   {
-   "title": "AI旅行計画アプリで「もう1か所」の訪問を後押し、熊本市で観光周遊の実証開始、バス時刻表と連動してルート提案",
-   "url": "https://www.travelvoice.jp/20261021-160658",
+   "title": "九州ふっこう応援割の対象プランをChatGPTで検索、「HotelME」が公式予約サイトの観測情報を案内 — メトロエンジンが発表",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY3BJTmFSVV9yRXFSTDZRbWhaOXYwRzNuWGw5dF92UmdDOHhwbXltc1NIU1JsNUJiVDBaYl9TOWJIUUliY0VoNnFUdEVzck1pSEJnbVFCaWo3RGlIeDlVSDdHSkpTVHd2Y2JGRUN2a3piT0d1MGV4NjVvdVpVOF96Ymt2eGlTWXFtWjVDMWdfTVRONUlQTzg3VUNpNW9FXy1HVUE?oc=5",
+   "source": "hotelbank",
+   "published": "2026-10-22T12:02+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "祖母・傾・大崩ユネスコエコパーク映像コンテンツ制作・メディア活用業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRS1V3ZVlYdW50aFFJa2toOEVkY3Y4MG9GY3ZPUUN2RzIwUWFJQUo5aXVqS3Q3M2pDSzdJay05bFhES1labFM0YUpjSmc0Sldh?oc=5",
    "source": "travelvoice",
-   "published": "2026-10-21T18:17+09:00",
-   "summary": "Plaru社は熊本国際観光コンベンション協会と連携し、AI旅行計画アプリ「ぷらる」を活用した実証事業を熊本市で開始。利用者の興味や滞在時間に応じてルート提案、「もう1か所」への訪問後押し。",
+   "published": "2026-10-22T11:57+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "羽田・成田・那覇空港でインバウンド向け新免税制度のセルフ還付サービス、約1分で日本円の現金受け取り、11月開始",
+   "url": "https://www.travelvoice.jp/20261021-160714",
+   "source": "travelvoice",
+   "published": "2026-10-22T09:31+09:00",
+   "summary": "日本空港ビルらは、2026年11月より羽田・成田・那覇空港で消費税セルフ還付サービスを開始する。新制度に対応し、端末操作により約1分で消費税を現金受領できる環境を整備し利便性を向上させる。",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "サウスウエスト航空、ChatGPT上で旅程に合った航空券の検索・比較ができるプラグインをリリース",
+   "url": "https://honichi.com/news/2026/10/22/southwest_airline_chatgpt/",
+   "source": "honichi",
+   "published": "2026-10-22T08:00+09:00",
+   "summary": "サウスウエスト航空は10月6日、ChatGPTに同社フライトの検索・比較ができるプラグインをリリースしました。 これにより、ChatGPTと対話しながら、よりシームレスな旅程の検討が可能となります。 目次 AIを搭載した予約機能の第一歩 直感的な旅行計画を手助け 無料版ChatGPTアカウントでも利用可能 新機能追加も…",
    "categories": [
     "dx_ai"
    ]
@@ -96,21 +126,21 @@
    ]
   },
   {
-   "title": "旅行のAI対応、まず重要なのは情報をAIに「読ませる」こと、宿泊施設の情報発信と「人」の価値を議論 ―ブッキング・ドットコム",
-   "url": "https://www.travelvoice.jp/20261020-160555",
+   "title": "ホテル内レストランの電話予約をAIで完結、変更・キャンセルも、100言語以上でメニュー指定も可能に、ナツメグとテーブルチェックが連携",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZWm5DbWxwWlNrU0RZdzY2YWcxZGNJZUVmOGsyY21LTXhmMjhscTV3eGh1NjVfWXp3RjFrbnFUTDcyb3I5WC04VEFlN09tWFcxbjlJSw?oc=5",
    "source": "travelvoice",
-   "published": "2026-10-21T11:55+09:00",
-   "summary": "ブッキング・ドットコムが、「イノベーション・サミット 2026」を開催。AIテクノロジー、フィンテック、サイバーセキュリティなどについて議論を深めた。",
+   "published": "2026-10-21T10:41+09:00",
+   "summary": "",
    "categories": [
     "dx_ai"
    ]
   },
   {
-   "title": "ホテル内レストランの電話予約をAIで完結、変更・キャンセルも、100言語以上でメニュー指定も可能に、ナツメグとテーブルチェックが連携",
-   "url": "https://www.travelvoice.jp/20261021-160705",
+   "title": "AI旅行計画アプリで「もう1か所」の訪問を後押し、熊本市で観光周遊の実証開始、バス時刻表と連動してルート提案",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94WENrWl81UWV1Mko4M004dWpQSHVKOUpPc04yS2pKdEZZTzdWeVVRMERjd0I2VElYbnhSVkZVWFFmdV94UG0yMkZ2MzhYSnBLeGQxYw?oc=5",
    "source": "travelvoice",
-   "published": "2026-10-21T10:40+09:00",
-   "summary": "NutmegLabs Japanは、レストラン予約プラットフォーム「TableCheck（テーブルチェック）」とAPI連携。AI電話オペレーターがホテル内レストランの予約に対応。",
+   "published": "2026-10-21T10:36+09:00",
+   "summary": "",
    "categories": [
     "dx_ai"
    ]
@@ -167,6 +197,16 @@
    ]
   },
   {
+   "title": "旅行のAI対応、まず重要なのは情報をAIに「読ませる」こと、宿泊施設の情報発信と「人」の価値を議論 ―ブッキング・ドットコム",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RTGU2NnNGZGJZOU1LSklrR0hVLUtSMzJXVFhuWXVEV1c2RU5naFAwYU9nLTluS3RPZTdzYWlCTUhwbVdtRF8wT2lCM1c5bzEtYWJtSg?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-20T18:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
    "title": "AIに見えない地域やホテルは「旅行者からも見えなくなる」、宿泊施設の情報発信と「人」の価値を議論 ―ブッキング・ドットコム",
    "url": "https://www.travelvoice.jp/20261020-160555",
    "source": "travelvoice",
@@ -178,10 +218,10 @@
   },
   {
    "title": "ホテルの現場経験から生まれたAI宿泊管理システムとは？ SQUEEZEが実践する施設運営とテクノロジーの融合、利益最大化の手法を聞いてきた（PR）",
-   "url": "https://www.travelvoice.jp/20261020-160673",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBycEtSQ09tTXZ4c3ZjUEo5SzM0dnN4b2JFTlJpSkFBMzNsVC1tdFNYRzJuT0x0T3d0VFZqU1JPMkl3WjFybG1MeG4zRGM4WFJ5NlF0UQ?oc=5",
    "source": "travelvoice",
-   "published": "2026-10-20T16:24+09:00",
-   "summary": "（PR）AIで宿泊運営はどう変わるのか。ホテル運営とシステム開発を手がけるSQUEEZEに、AIで収益最大化を図り、人の力を高めていく現場起点の実践を聞いた。",
+   "published": "2026-10-20T16:25+09:00",
+   "summary": "",
    "categories": [
     "dx_ai"
    ]
@@ -877,6 +917,16 @@
    ]
   },
   {
+   "title": "AIツール推奨商品の購買率は60%！アパレル購買におけるAI利用実態レポート",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXU3JnUXNZSTFybmZFSXlxM2w5VUQzQ1ZnMTZUZTJzVkdtUWRiT2hmMjhwNGxLc001VzVJS0RaM08wek9FRVFISl8zbGxRRFJiNHUzZzlJSFdLYUZaZW5SU2w1ZFJhMjlxeFZaQg?oc=5",
+   "source": "honichi",
+   "published": "2026-10-13T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
    "title": "アクセス情報2026",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPRUwzVFkzVUZ2MDRRUGRlX0NRekRyVG44MXBsT2VPRjN1Y25ibTg5SjN0bFo3Y1VMQWE1MHZTa0dLaGZXUFdpRVVQd2owOHFlOHI2Yw?oc=5",
    "source": "resortech",
@@ -885,16 +935,6 @@
    "categories": [
     "dx_ai",
     "okinawa"
-   ]
-  },
-  {
-   "title": "AIツール推奨商品の購買率は60%！アパレル購買におけるAI利用実態レポート",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXU3JnUXNZSTFybmZFSXlxM2w5VUQzQ1ZnMTZUZTJzVkdtUWRiT2hmMjhwNGxLc001VzVJS0RaM08wek9FRVFISl8zbGxRRFJiNHUzZzlJSFdLYUZaZW5SU2w1ZFJhMjlxeFZaQg?oc=5",
-   "source": "honichi",
-   "published": "2026-10-13T13:05+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
    ]
   },
   {
@@ -2695,16 +2735,6 @@
    ]
   },
   {
-   "title": "【国内事業部】令和8年度 国内需要安定化事業 「おきなわ物語 特集記事リニューアル及び新規記事作成業務」の業務執行及び企画コンペティションについて（終了・結果発表）",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBrRjQ2M0xMQzdvcDEtbDVIRGEzUEhwOFJ3cmlmb2x1S0pNMHRPblIzWTlrZk5GNlFMbGRVdGxYUW5KQ1cwUTg5RzVB?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-24T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "九州応援割、詳細は8月28日に発表予定 — 過去制度の補助率で読む実質単価と宿の準備",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV1dkekhvTDRYU19GMTZSb01hWTh5ZWdURFBlQjdaeUZBMTM0MGc1NnNYUl9uQllqRDc4RDVzV1JiMTdsTW1KRk03aWdmenhUbEJmUTVVVnBvRG5JWHdZWjRpdEszbFp5VnlkTHZ1eFJXZ09IZGhHWU42Z2x2ZWlRWQ?oc=5",
    "source": "hotelbank",
@@ -2861,26 +2891,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yWEtTdk50bWxlVEhZbzNoYkIwRGRfVnVBRUxyWmJhYnpKUEUxY2MtUGp3VU04UDctSFozNTRaZWxYcHIya3RGODBqT0VuS1RjMmR1Mg?oc=5",
    "source": "travelvoice",
    "published": "2026-08-07T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
-   "title": "「AIに聞いて宿を決める」時代の情報整備 — Google UCP・ChatGPT経由の来訪に備える3つの実務",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTjdRVWZkMnlEb05PYV9fM3ZWakgxVmhINGZfMG9KSnVwX0N2TllUTDdnejZ6QklKcFZqNVYxZTU2NkdnelBHalY2d3BFbUVqWXNtcjlWMVhhRFIxUzByU3MtbDdXUkdnTHZXdkhrNnVCWWpJQ0ZUUlE4NGVlQ3B6QjdOT3pPS2tIUmNSOEFWNA?oc=5",
-   "source": "hotelbank",
-   "published": "2026-08-06T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
-   "title": "AI利用率トップは「旅行」で35.3%、一方で影響度は平均並み、旅程作成や複雑な条件の宿探しで活用 ―読売広告社",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlNlBLckRoUml1UjNyTTZoZlRMY3Q4VFZtbTEwVHRPMnRqQnFRMVRRT0xCLUF2S2VSTUhIVTlOaE93a1NHWVZNX3RjR3l1MTI0ZjNLdQ?oc=5",
-   "source": "travelvoice",
-   "published": "2026-08-04T16:00+09:00",
    "summary": "",
    "categories": [
     "dx_ai"
