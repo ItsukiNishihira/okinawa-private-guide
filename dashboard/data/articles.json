@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T20:40+09:00",
+ "updated_at": "2026-10-23T02:04+09:00",
  "sources": [
   {
    "id": "honichi",
@@ -13,21 +13,21 @@
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
    "direct_feed": true,
-   "new_items": 36
+   "new_items": 37
   },
   {
    "id": "travelvoice",
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 64
+   "new_items": 65
   },
   {
    "id": "ocvb",
    "name": "OCVB",
    "home": "https://www.ocvb.or.jp/",
    "direct_feed": true,
-   "new_items": 66
+   "new_items": 65
   },
   {
    "id": "kankodx",
@@ -45,6 +45,17 @@
   }
  ],
  "articles": [
+  {
+   "title": "九州ふっこう割、予約サイトで受付終了でも今からまだ探せる｜HotelMEで公式サイトの対象プランを見つける使い方と質問例",
+   "url": "https://hotelbank.jp/lifestyle/kyushu-fukkowari-still-available-hotelme-guide/",
+   "source": "hotelbank",
+   "published": "2026-10-22T21:40+09:00",
+   "summary": "大手予約サイトで九州ふっこう応援割の受付終了・停止が続くなか、ホテル公式サイトには対象プランが残っていることがある。ChatGPTアプリ「HotelME」で公式予約サイトの対象プランを探す手順を、そのまま使える質問例6つ、回答の読み方、予約前の確認点とともに解説する。",
+   "categories": [
+    "dx_ai",
+    "okinawa"
+   ]
+  },
   {
    "title": "【エキストラ募集】10 代・20 代に大人気のＢＬ作品 エキストラ募集のお知らせ 記念品のプレゼントあり",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GSk01cHpxSUVjcUF1b2FoQkVRUENVVXZTR210eHdTalB5UzBQc0NsRzdZZ09kaTdyclFyM0RGeFJEc2I5TkpINFpNS0ZsREhSMEJ6Njl5Yw?oc=5",
@@ -87,10 +98,10 @@
   },
   {
    "title": "九州ふっこう応援割の対象プランをChatGPTで検索、「HotelME」が公式予約サイトの観測情報を案内 — メトロエンジンが発表",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY3BJTmFSVV9yRXFSTDZRbWhaOXYwRzNuWGw5dF92UmdDOHhwbXltc1NIU1JsNUJiVDBaYl9TOWJIUUliY0VoNnFUdEVzck1pSEJnbVFCaWo3RGlIeDlVSDdHSkpTVHd2Y2JGRUN2a3piT0d1MGV4NjVvdVpVOF96Ymt2eGlTWXFtWjVDMWdfTVRONUlQTzg3VUNpNW9FXy1HVUE?oc=5",
+   "url": "https://hotelbank.jp/industry-trends/hotelme-chatgpt-kyushu-fukko-ouenwari-official-site-plans-2026/",
    "source": "hotelbank",
-   "published": "2026-10-22T12:02+09:00",
-   "summary": "",
+   "published": "2026-10-22T12:00+09:00",
+   "summary": "メトロエンジンが、ChatGPTアプリ「HotelME」で九州ふっこう応援割の対象プランをホテル公式予約サイトの観測情報から探せる機能を提供開始。利用は無料。検索条件、確認時刻の読み方、県別の受付状況を整理する。",
    "categories": [
     "dx_ai"
    ]
@@ -2725,16 +2736,6 @@
    ]
   },
   {
-   "title": "【国内事業部】令和8年度 エシカルトラベル動画プロモーション業務にかかる企画コンペティションについて（終了・結果発表）",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4zTjRBWG1ldTI5TlhvYWFiMnlvdkhWcXFJb19jZ1hYZ2ZReDdYSnpoVXF5TUUxMGQwZUY4aTZBQkdJcTlNZW5zTVNR?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-24T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "九州応援割、詳細は8月28日に発表予定 — 過去制度の補助率で読む実質単価と宿の準備",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV1dkekhvTDRYU19GMTZSb01hWTh5ZWdURFBlQjdaeUZBMTM0MGc1NnNYUl9uQllqRDc4RDVzV1JiMTdsTW1KRk03aWdmenhUbEJmUTVVVnBvRG5JWHdZWjRpdEszbFp5VnlkTHZ1eFJXZ09IZGhHWU42Z2x2ZWlRWQ?oc=5",
    "source": "hotelbank",
@@ -2884,16 +2885,6 @@
    "categories": [
     "dx_ai",
     "okinawa"
-   ]
-  },
-  {
-   "title": "日本の小売事業者334社の「AIエージェント」への投資意向は97％、一方で消費者62％は「抵抗あり」 ―Adyen調査",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yWEtTdk50bWxlVEhZbzNoYkIwRGRfVnVBRUxyWmJhYnpKUEUxY2MtUGp3VU04UDctSFozNTRaZWxYcHIya3RGODBqT0VuS1RjMmR1Mg?oc=5",
-   "source": "travelvoice",
-   "published": "2026-08-07T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
    ]
   },
   {
