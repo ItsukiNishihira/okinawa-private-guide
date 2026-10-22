@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-10-22T13:31+09:00",
+ "updated_at": "2026-10-22T20:40+09:00",
  "sources": [
   {
    "id": "honichi",
    "name": "訪日ラボ",
    "home": "https://honichi.com/",
    "direct_feed": true,
-   "new_items": 21
+   "new_items": 20
   },
   {
    "id": "hotelbank",
@@ -20,14 +20,14 @@
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 65
+   "new_items": 64
   },
   {
    "id": "ocvb",
    "name": "OCVB",
    "home": "https://www.ocvb.or.jp/",
    "direct_feed": true,
-   "new_items": 64
+   "new_items": 66
   },
   {
    "id": "kankodx",
@@ -45,6 +45,46 @@
   }
  ],
  "articles": [
+  {
+   "title": "【エキストラ募集】10 代・20 代に大人気のＢＬ作品 エキストラ募集のお知らせ 記念品のプレゼントあり",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GSk01cHpxSUVjcUF1b2FoQkVRUENVVXZTR210eHdTalB5UzBQc0NsRzdZZ09kaTdyclFyM0RGeFJEc2I5TkpINFpNS0ZsREhSMEJ6Njl5Yw?oc=5",
+   "source": "ocvb",
+   "published": "2026-10-22T18:08+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "札幌集中を緩和するためのMICE受入調査・受入環境整備事業に係る企画提案の公募",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45a1FuVXQtbUFMV1kxdDVnM2tfRTF0aDRFU1dGYlpmeVZLbUlueWFGUGNfSzhTVW80MFgtMTdCckRSR1ZKanRQOFlUXzNiRm5C?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-22T18:04+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "ふくしまアフターDCにおけるクーポン付きレンタカーキャンペーン準備事業に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxRGlYN0FhajE4ZHNaQ3RxV1dwejJTc0ZkLW1ISDRXaXQwVGlYOWZ3TS1BTW80TnBEYnpSZ2ljdmt5TkZvaUdLbFBaVEIwRGRQ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-22T17:41+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "三河港クルーズ船誘致推進事業業務に係る企画提案の公募",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02dkxlbUNDREZSTjNGMHltYV9pSW1URktLbHZSMHo4QV9SRHZSUWd4dzNoOURnbmN5MU9ORU1Ob3FDNUVub1FRdjNXZmFuQWpn?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-22T16:51+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
   {
    "title": "九州ふっこう応援割の対象プランをChatGPTで検索、「HotelME」が公式予約サイトの観測情報を案内 — メトロエンジンが発表",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY3BJTmFSVV9yRXFSTDZRbWhaOXYwRzNuWGw5dF92UmdDOHhwbXltc1NIU1JsNUJiVDBaYl9TOWJIUUliY0VoNnFUdEVzck1pSEJnbVFCaWo3RGlIeDlVSDdHSkpTVHd2Y2JGRUN2a3piT0d1MGV4NjVvdVpVOF96Ymt2eGlTWXFtWjVDMWdfTVRONUlQTzg3VUNpNW9FXy1HVUE?oc=5",
@@ -66,16 +106,6 @@
    ]
   },
   {
-   "title": "羽田・成田・那覇空港でインバウンド向け新免税制度のセルフ還付サービス、約1分で日本円の現金受け取り、11月開始",
-   "url": "https://www.travelvoice.jp/20261021-160714",
-   "source": "travelvoice",
-   "published": "2026-10-22T09:31+09:00",
-   "summary": "日本空港ビルらは、2026年11月より羽田・成田・那覇空港で消費税セルフ還付サービスを開始する。新制度に対応し、端末操作により約1分で消費税を現金受領できる環境を整備し利便性を向上させる。",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "サウスウエスト航空、ChatGPT上で旅程に合った航空券の検索・比較ができるプラグインをリリース",
    "url": "https://honichi.com/news/2026/10/22/southwest_airline_chatgpt/",
    "source": "honichi",
@@ -83,6 +113,16 @@
    "summary": "サウスウエスト航空は10月6日、ChatGPTに同社フライトの検索・比較ができるプラグインをリリースしました。 これにより、ChatGPTと対話しながら、よりシームレスな旅程の検討が可能となります。 目次 AIを搭載した予約機能の第一歩 直感的な旅行計画を手助け 無料版ChatGPTアカウントでも利用可能 新機能追加も…",
    "categories": [
     "dx_ai"
+   ]
+  },
+  {
+   "title": "羽田・成田・那覇空港でインバウンド向け新免税制度のセルフ還付サービス、約1分で日本円の現金受け取り、11月開始",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsTWR3VFp2elpQbVFEUnhOQ1NuX2FqUDlaWUVrMHVBbnVsOWloVlBjaTJjbkNwV0Z1RkU2U2c2TDFhQVh6RmxKcjVqajNsWUp5OEw2NQ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-21T18:16+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
    ]
   },
   {
@@ -108,16 +148,6 @@
   {
    "title": "SNSを通じた訪日外国人旅行者に対するマナー啓発業務に係る公募型プロポーザルの実施",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oLTNwMzV2X2t3dHozOFRkYkhNM3RBVUFpTnY2cGRYaENMUVczRXFLYmNaYW8zNi1YU0dxODlwdEpDU3o4N09ZMjNFRkJCMkJJ?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-21T12:07+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
-   ]
-  },
-  {
-   "title": "三河港クルーズ船誘致推進事業業務に係る企画提案の公募",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02dkxlbUNDREZSTjNGMHltYV9pSW1URktLbHZSMHo4QV9SRHZSUWd4dzNoOURnbmN5MU9ORU1Ob3FDNUVub1FRdjNXZmFuQWpn?oc=5",
    "source": "travelvoice",
    "published": "2026-10-21T12:07+09:00",
    "summary": "",
@@ -231,26 +261,6 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xUGRENFpLTlN2dk92OFUzU3AzeVlRVmtIelNxS2tPMEhuS2p1R2F4b0o2Q2J1R3ROVjhVU1kyVWsxSHBtMmRxVFUxWVFuRTdL?oc=5",
    "source": "travelvoice",
    "published": "2026-10-20T12:15+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
-   ]
-  },
-  {
-   "title": "札幌集中を緩和するためのMICE受入調査・受入環境整備事業に係る企画提案の公募",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45a1FuVXQtbUFMV1kxdDVnM2tfRTF0aDRFU1dGYlpmeVZLbUlueWFGUGNfSzhTVW80MFgtMTdCckRSR1ZKanRQOFlUXzNiRm5C?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-20T11:21+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
-   ]
-  },
-  {
-   "title": "ふくしまアフターDCにおけるクーポン付きレンタカーキャンペーン準備事業に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxRGlYN0FhajE4ZHNaQ3RxV1dwejJTc0ZkLW1ISDRXaXQwVGlYOWZ3TS1BTW80TnBEYnpSZ2ljdmt5TkZvaUdLbFBaVEIwRGRQ?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-20T11:21+09:00",
    "summary": "",
    "categories": [
     "subsidy"
@@ -2717,16 +2727,6 @@
   {
    "title": "【国内事業部】令和8年度 エシカルトラベル動画プロモーション業務にかかる企画コンペティションについて（終了・結果発表）",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4zTjRBWG1ldTI5TlhvYWFiMnlvdkhWcXFJb19jZ1hYZ2ZReDdYSnpoVXF5TUUxMGQwZUY4aTZBQkdJcTlNZW5zTVNR?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-24T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "【総務企画部】令和8年度観光危機管理計画・BCP策定支援セミナーの開催について",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9LY2JEc0JvZGE0alN1d0s0MUlSOUNNQUVQY09heFI5ZktlMTdiaU9CUFV4TGpOTWsxV0FDenNlNFBxbnpKbl9CYWhn?oc=5",
    "source": "ocvb",
    "published": "2026-08-24T16:00+09:00",
    "summary": "",
