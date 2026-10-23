@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T20:30+09:00",
+ "updated_at": "2026-10-24T01:58+09:00",
  "sources": [
   {
    "id": "honichi",
@@ -13,7 +13,7 @@
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
    "direct_feed": true,
-   "new_items": 36
+   "new_items": 35
   },
   {
    "id": "travelvoice",
@@ -46,11 +46,21 @@
  ],
  "articles": [
   {
+   "title": "沖縄・大阪・横浜のホテル稼働率はいくつか｜9月は沖縄86.7%・大阪80.4%・神奈川84.2%、観光庁値との読み分け",
+   "url": "https://hotelbank.jp/trends/hotel-occupancy-rate-okinawa-osaka-yokohama-fukuoka-2026-09/",
+   "source": "hotelbank",
+   "published": "2026-10-23T20:55+09:00",
+   "summary": "2026年9月のOTA在庫ベース推定稼働率は沖縄86.7%・大阪80.4%・神奈川84.2%・福岡88.3%。観光庁の7月客室稼働率（沖縄61.8%・大阪72.6%）と並べ、47都道府県と那覇市・博多区・大阪市5区・横浜市2区の値、3つの定義の使い分けとRevPAR目安を整理する。",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
    "title": "世界旅行ツーリズム協議会、中小観光企業の競争力・発言力強化へ、国際商業会議所と連携、資金・デジタル化などの障壁解消を支援",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TVmo2by1QbFljTm5MRkRpbjBhSmo0cEFNMksyN29Jd2ZFd0pSY2tqZ3p2Y1F4VjJhVGp4TG1zSkgwa0QyYi1WT0JtamtjZkVLbWJ5Nw?oc=5",
+   "url": "https://www.travelvoice.jp/20261023-160629",
    "source": "travelvoice",
    "published": "2026-10-23T20:12+09:00",
-   "summary": "",
+   "summary": "世界旅行ツーリズム協議会（WTTC）と国際商業会議所（ICC）は、世界の旅行・観光分野の中小企業の成長支援で提携。両者の知見とネットワークを生かし、規制や障壁を取り除く取り組みにより中小企業の競争力・発言力を強化。",
    "categories": [
     "dx_ai"
    ]
