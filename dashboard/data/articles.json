@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T01:58+09:00",
+ "updated_at": "2026-10-24T06:19+09:00",
  "sources": [
   {
    "id": "honichi",
@@ -13,14 +13,14 @@
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
    "direct_feed": true,
-   "new_items": 35
+   "new_items": 34
   },
   {
    "id": "travelvoice",
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 71
+   "new_items": 70
   },
   {
    "id": "ocvb",
