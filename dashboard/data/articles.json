@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T13:36+09:00",
+ "updated_at": "2026-10-23T20:30+09:00",
  "sources": [
   {
    "id": "honichi",
@@ -20,14 +20,14 @@
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 69
+   "new_items": 71
   },
   {
    "id": "ocvb",
    "name": "OCVB",
    "home": "https://www.ocvb.or.jp/",
    "direct_feed": true,
-   "new_items": 65
+   "new_items": 66
   },
   {
    "id": "kankodx",
@@ -46,10 +46,50 @@
  ],
  "articles": [
   {
+   "title": "世界旅行ツーリズム協議会、中小観光企業の競争力・発言力強化へ、国際商業会議所と連携、資金・デジタル化などの障壁解消を支援",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TVmo2by1QbFljTm5MRkRpbjBhSmo0cEFNMksyN29Jd2ZFd0pSY2tqZ3p2Y1F4VjJhVGp4TG1zSkgwa0QyYi1WT0JtamtjZkVLbWJ5Nw?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-23T20:12+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "解説コラム「2026年6月度データから見えたこと」を公開しました（おきなわ観光地域カルテ）",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE95bXVwTXpER3MxWHZESDdKTUFIcVoxbW4yemlXSDBSaG42QmtuSW1HMlk4a2dOT2VyMEdlS2gzWklmMU1kcWlQS1FoQQ?oc=5",
+   "source": "ocvb",
+   "published": "2026-10-23T18:22+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "世界のホテル大手が「旅行者との関係」を奪い合う時代へ、航空会社との連携からAI、金融進出まで、「旅全体」の囲い込み戦略を考察【コラム】",
+   "url": "https://www.travelvoice.jp/20261023-160346",
+   "source": "travelvoice",
+   "published": "2026-10-23T18:00+09:00",
+   "summary": "客室稼働率の競争から顧客との関係性重視へ。航空連携、生成AI、金融進出などを通じ、宿泊にとどまらず旅という体験全体をデザインするホテル会社の最新戦略を解説する。",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "SNSを通じた訪日外国人旅行者に対するマナー啓発業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oLTNwMzV2X2t3dHozOFRkYkhNM3RBVUFpTnY2cGRYaENMUVczRXFLYmNaYW8zNi1YU0dxODlwdEpDU3o4N09ZMjNFRkJCMkJJ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-23T16:28+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
    "title": "温泉情緒エリア整備に係るフィージビリティ調査業務、公募型プロポーザルの実施",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hbEhSOVBFSzBhOHNac1k1V0R6OF9TTjF2ckxNdFpLcmJGellxRkU5OXFWVTU4aHQ0eDdIZE94c2hwcG5USHc3NHVIUkpGUHh1?oc=5",
    "source": "travelvoice",
-   "published": "2026-10-23T12:46+09:00",
+   "published": "2026-10-23T12:48+09:00",
    "summary": "",
    "categories": [
     "subsidy"
@@ -204,16 +244,6 @@
    "summary": "年末年始2026-27の5都市の宿泊単価を検証。東京の推定成約ADRは12月1万7,500円→1月1万3,700円（−22%）。日別の頂点は都市型が大晦日、リゾート・旅館は元日。前年の稼働率と日別価格から、成人の日3連休までの1月平日の値付けを整理する。",
    "categories": [
     "okinawa"
-   ]
-  },
-  {
-   "title": "SNSを通じた訪日外国人旅行者に対するマナー啓発業務に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oLTNwMzV2X2t3dHozOFRkYkhNM3RBVUFpTnY2cGRYaENMUVczRXFLYmNaYW8zNi1YU0dxODlwdEpDU3o4N09ZMjNFRkJCMkJJ?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-21T12:07+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
    ]
   },
   {
@@ -570,26 +600,6 @@
    ]
   },
   {
-   "title": "欧州観光の成長に向け「8つの優先政策」を発表、ビザ改革からAI導入まで、2036年に経済効果3.8兆ドルへ ―WTTCグローバルサミット",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zUnpaYXNwTElybkYzMUR3aWZOalNDRDRIRDJnNy05VVg5X3pQdmxTelgwVUJhTi0xMHNrRk15TThDTTRWRUV1REhuUndwZ3U1TU10SA?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-15T21:01+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
-   "title": "地図は観光と地域をどう変えるか？ 周遊促進から担い手の「手応え」まで、データ活用の可能性を聞いてきた",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HbGFCOHcxYUFGZzFnV2d6VnpON2RNQ2pTcDlsRVZ0YUpFT2JBSTBseDctcjFXNjNwWTR6TDdkdzVNZFJDR3A2RjZsZUhBc0o0RWdlZQ?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-15T20:56+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
    "title": "日本ビジネスシステムズ株式会社（JBS）沖縄事業所",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95cWNKRTJ4dkt6TUsySXlTTjhGMF80SWdVUnFnc0N1MnJ2SDc1d1Z3amc4TEp6eXpNeHY3YTRiNGw2WDZPYVVMMUpYUjNxUVpEaUIzZU5fQUtIcGs?oc=5",
    "source": "resortech",
@@ -905,6 +915,26 @@
    "summary": "",
    "categories": [
     "okinawa"
+   ]
+  },
+  {
+   "title": "地図は観光と地域をどう変えるか？ 周遊促進から担い手の「手応え」まで、データ活用の可能性を聞いてきた",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HbGFCOHcxYUFGZzFnV2d6VnpON2RNQ2pTcDlsRVZ0YUpFT2JBSTBseDctcjFXNjNwWTR6TDdkdzVNZFJDR3A2RjZsZUhBc0o0RWdlZQ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-15T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "欧州観光の成長に向け「8つの優先政策」を発表、ビザ改革からAI導入まで、2036年に経済効果3.8兆ドルへ ―WTTCグローバルサミット",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zUnpaYXNwTElybkYzMUR3aWZOalNDRDRIRDJnNy05VVg5X3pQdmxTelgwVUJhTi0xMHNrRk15TThDTTRWRUV1REhuUndwZ3U1TU10SA?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-15T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "dx_ai"
    ]
   },
   {
@@ -2120,6 +2150,16 @@
    ]
   },
   {
+   "title": "【総務企画部】令和8年度 災害時観光客一時避難及び帰宅支援運用訓練の開催について（2026.10.20更新）",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE91VHVzdjljZ2JLcFRoZW41MXEwSUNaNmhocjV5cGZ2R2Vsa3B6X3p2aDAzSGlZMFNSTkp5VmFHazFpb2laUDhkN1ZB?oc=5",
+   "source": "ocvb",
+   "published": "2026-09-11T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
    "title": "【総務企画部】令和8年度 災害時観光客一時避難及び帰宅支援運用訓練の開催について",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE91VHVzdjljZ2JLcFRoZW41MXEwSUNaNmhocjV5cGZ2R2Vsa3B6X3p2aDAzSGlZMFNSTkp5VmFHazFpb2laUDhkN1ZB?oc=5",
    "source": "ocvb",
@@ -2553,8 +2593,8 @@
    ]
   },
   {
-   "title": "【海外・MICE事業部】「沖縄観光商談会in 高雄・台中」参加事業者募集について",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xbkVtbENaaVNsNUs4ZWQ2Z3BJVUFITW5Ub2pYS0o1UEk5N1J4R3h2b0E0c1pSaTd4dEdVU2tIYTJObUp2bnF4TFVn?oc=5",
+   "title": "令和 8 年 8 月 28 日 令和 8 年度 沖縄観光誘致対策事業 「沖縄観光感謝の集い 2027」実施業務 企",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xcU8zWjI3LTRIX3pWV3U4c29nN2RqY1dKLTk0QW9iZHhRT1VORUtZTnM3S2dqVFVCYmdDckNCdVh1MnV5RWt5N2VsSU1VcU1YMVYzMVRVOEZFMW40ck5XRGY5R1EzczhoNGt5VWUzMThKQVc0aFE?oc=5",
    "source": "ocvb",
    "published": "2026-08-28T16:00+09:00",
    "summary": "",
@@ -2563,8 +2603,8 @@
    ]
   },
   {
-   "title": "令和 8 年 8 月 28 日 令和 8 年度 沖縄観光誘致対策事業 「沖縄観光感謝の集い 2027」実施業務 企",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xcU8zWjI3LTRIX3pWV3U4c29nN2RqY1dKLTk0QW9iZHhRT1VORUtZTnM3S2dqVFVCYmdDckNCdVh1MnV5RWt5N2VsSU1VcU1YMVYzMVRVOEZFMW40ck5XRGY5R1EzczhoNGt5VWUzMThKQVc0aFE?oc=5",
+   "title": "【海外・MICE事業部】「沖縄観光商談会in 高雄・台中」参加事業者募集について",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xbkVtbENaaVNsNUs4ZWQ2Z3BJVUFITW5Ub2pYS0o1UEk5N1J4R3h2b0E0c1pSaTd4dEdVU2tIYTJObUp2bnF4TFVn?oc=5",
    "source": "ocvb",
    "published": "2026-08-28T16:00+09:00",
    "summary": "",
@@ -2746,26 +2786,6 @@
    ]
   },
   {
-   "title": "ユナイテッド航空、米国本土から沖縄へ新規就航、世界10都市に路線拡大、過去最大の国際線拡充と新型機導入を発表",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RdjBIYW1RVmZFZFNSSWwwU0ZET1pBSE8wQVNpN2l4X2JTLWhNZVd4d0thRk5EckhySVd0NldnczZVVDNVX3BxWkVMN0VWSXhsYlZONQ?oc=5",
-   "source": "travelvoice",
-   "published": "2026-08-26T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "台風18号接近に伴う営業についてのお知らせ（R8.8/25時点）",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2LXJmbTBiUFFCa0Y0blktZWt2cGowTmxzN2F6M004NVJQWHZ6RUtpMmdrSzdvYXBDRUhzZHhMclhyZHJBUzVOLWRnS3I0UDk3UFlnclNFMU0?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-25T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "九州応援割、詳細は8月28日に発表予定 — 過去制度の補助率で読む実質単価と宿の準備",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV1dkekhvTDRYU19GMTZSb01hWTh5ZWdURFBlQjdaeUZBMTM0MGc1NnNYUl9uQllqRDc4RDVzV1JiMTdsTW1KRk03aWdmenhUbEJmUTVVVnBvRG5JWHdZWjRpdEszbFp5VnlkTHZ1eFJXZ09IZGhHWU42Z2x2ZWlRWQ?oc=5",
    "source": "hotelbank",
@@ -2861,26 +2881,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmSTFSeTFqRGQ1Q1g2NWxnaVlBMWQzSV9hTVdmTTE0amVOTFRjdjdWQ3JMREU5UDRLU3dSWDAtUlBlcFd6cGZ6X2RzdGtYbFAtN3ZSOA?oc=5",
    "source": "travelvoice",
    "published": "2026-08-17T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
-   "title": "Z世代の富裕層旅行者、ストレスない旅を求め自分で計画・手配をする傾向に 23%がAIツールを活用（マリオット・インターナショナ",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMQlVNZWk2eXFTSmhyRUJ5TjAzcVh5b21sLTdLZlVVNmV4TWpaeVBYTE9XSXY1dnZOMld1LWp6MUJkX1RvblE4RWpseHpUUng5eTk2YzN2bTFpZGpzcWptZmFxQXNYcG9SZWs2MWJyNHlUdw?oc=5",
-   "source": "honichi",
-   "published": "2026-08-17T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
-   "title": "家族型AIロボット「LOVOT（ラボット）」のオーナー向け1泊2日のオフ会、製造地の静岡県伊豆の国市で",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPbU9NVndVUnhySEY3SS1PN0s4Z3FqTVAwZ2JSOTJsSlBuaERnM21yYS1oOGZ4ZTMxRjhGd21OWi03QXFUTFd2UWxSWTlyUW80QXh3ag?oc=5",
-   "source": "travelvoice",
-   "published": "2026-08-14T16:00+09:00",
    "summary": "",
    "categories": [
     "dx_ai"
