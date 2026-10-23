@@ -1,33 +1,33 @@
 {
- "updated_at": "2026-10-23T06:28+09:00",
+ "updated_at": "2026-10-23T13:36+09:00",
  "sources": [
   {
    "id": "honichi",
    "name": "訪日ラボ",
    "home": "https://honichi.com/",
    "direct_feed": true,
-   "new_items": 20
+   "new_items": 22
   },
   {
    "id": "hotelbank",
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
    "direct_feed": true,
-   "new_items": 37
+   "new_items": 36
   },
   {
    "id": "travelvoice",
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 68
+   "new_items": 69
   },
   {
    "id": "ocvb",
    "name": "OCVB",
    "home": "https://www.ocvb.or.jp/",
    "direct_feed": true,
-   "new_items": 66
+   "new_items": 65
   },
   {
    "id": "kankodx",
@@ -45,6 +45,56 @@
   }
  ],
  "articles": [
+  {
+   "title": "温泉情緒エリア整備に係るフィージビリティ調査業務、公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hbEhSOVBFSzBhOHNac1k1V0R6OF9TTjF2ckxNdFpLcmJGellxRkU5OXFWVTU4aHQ0eDdIZE94c2hwcG5USHc3NHVIUkpGUHh1?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-23T12:46+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "LINEヤフー、飲食店向けAI電話対応サービスを正式開始、空席確認から予約、満席時の代案提示まで自動化",
+   "url": "https://www.travelvoice.jp/20261023-160724",
+   "source": "travelvoice",
+   "published": "2026-10-23T10:40+09:00",
+   "summary": "LINEヤフーは、飲食店向けAI電話対応サービス「LINE AI予約」の正式提供を開始。空席確認から予約確定、変更・キャンセル、満席時の候補時間の提案までを自動化。予約の取りこぼしを回避。",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "奈良県と日本免税が連携協定 免税店増とデータ活用で観光消費額の増加目指す",
+   "url": "https://honichi.com/news/2026/10/23/nara_taxfree/",
+   "source": "honichi",
+   "published": "2026-10-23T09:00+09:00",
+   "summary": "奈良県 と株式会社日本 免税 は10月9日、観光消費額の増加に向けた連携協定を締結しました。 外国人旅行者の県内での観光消費額をさらに増やし、 地域活性化 を図ることが目的です。 関連記事： 奈良市、2025年のインバウンド客数＆宿泊者数が過去最高 滞在型観光地への転換進む 目次 インバウンド消費単価は全国最下位 免税…",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "松本地域インバウンド振興パネルディスカッションにおけるグラフィックレコーディング事業業務、公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xUGRENFpLTlN2dk92OFUzU3AzeVlRVmtIelNxS2tPMEhuS2p1R2F4b0o2Q2J1R3ROVjhVU1kyVWsxSHBtMmRxVFUxWVFuRTdL?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-23T08:10+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "【10月4週 人気記事】「世界で最もクールな街2026」大阪・北加賀屋と高円寺が選出 ほか｜インバウンドニュース週間アクセスTOP5",
+   "url": "https://honichi.com/news/2026/10/23/accessranking_20261023/",
+   "source": "honichi",
+   "published": "2026-10-23T08:00+09:00",
+   "summary": "この1週間でアクセス数が多かった、 インバウンドニュース の ランキング を発表します！ 見逃している記事があれば、この機会にぜひご覧ください。 目次 週間アクセスランキング トップ5 1位. 「世界で最もクールな街2026」大阪・北加賀屋が6位、高円寺が8位に選出 2位. 名護市内の移動手段と地域課題の解消へ Lim…",
+   "categories": [
+    "okinawa"
+   ]
+  },
   {
    "title": "札幌集中を緩和するためのMICE受入調査・受入環境整備事業に係る企画提案の公募",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45a1FuVXQtbUFMV1kxdDVnM2tfRTF0aDRFU1dGYlpmeVZLbUlueWFGUGNfSzhTVW80MFgtMTdCckRSR1ZKanRQOFlUXzNiRm5C?oc=5",
@@ -265,16 +315,6 @@
    "summary": "",
    "categories": [
     "dx_ai"
-   ]
-  },
-  {
-   "title": "松本地域インバウンド振興パネルディスカッションにおけるグラフィックレコーディング事業業務、公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xUGRENFpLTlN2dk92OFUzU3AzeVlRVmtIelNxS2tPMEhuS2p1R2F4b0o2Q2J1R3ROVjhVU1kyVWsxSHBtMmRxVFUxWVFuRTdL?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-20T12:15+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
    ]
   },
   {
@@ -2513,8 +2553,8 @@
    ]
   },
   {
-   "title": "令和 8 年 8 月 28 日 令和 8 年度 沖縄観光誘致対策事業 「沖縄観光感謝の集い 2027」実施業務 企",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xcU8zWjI3LTRIX3pWV3U4c29nN2RqY1dKLTk0QW9iZHhRT1VORUtZTnM3S2dqVFVCYmdDckNCdVh1MnV5RWt5N2VsSU1VcU1YMVYzMVRVOEZFMW40ck5XRGY5R1EzczhoNGt5VWUzMThKQVc0aFE?oc=5",
+   "title": "【海外・MICE事業部】「沖縄観光商談会in 高雄・台中」参加事業者募集について",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xbkVtbENaaVNsNUs4ZWQ2Z3BJVUFITW5Ub2pYS0o1UEk5N1J4R3h2b0E0c1pSaTd4dEdVU2tIYTJObUp2bnF4TFVn?oc=5",
    "source": "ocvb",
    "published": "2026-08-28T16:00+09:00",
    "summary": "",
@@ -2523,8 +2563,8 @@
    ]
   },
   {
-   "title": "【海外・MICE事業部】「沖縄観光商談会in 高雄・台中」参加事業者募集について",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xbkVtbENaaVNsNUs4ZWQ2Z3BJVUFITW5Ub2pYS0o1UEk5N1J4R3h2b0E0c1pSaTd4dEdVU2tIYTJObUp2bnF4TFVn?oc=5",
+   "title": "令和 8 年 8 月 28 日 令和 8 年度 沖縄観光誘致対策事業 「沖縄観光感謝の集い 2027」実施業務 企",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xcU8zWjI3LTRIX3pWV3U4c29nN2RqY1dKLTk0QW9iZHhRT1VORUtZTnM3S2dqVFVCYmdDckNCdVh1MnV5RWt5N2VsSU1VcU1YMVYzMVRVOEZFMW40ck5XRGY5R1EzczhoNGt5VWUzMThKQVc0aFE?oc=5",
    "source": "ocvb",
    "published": "2026-08-28T16:00+09:00",
    "summary": "",
@@ -2726,16 +2766,6 @@
    ]
   },
   {
-   "title": "離島旅館業に対する税制特例措置を ご存じですか?",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zdjJ0eFFJTUhSMGY4MTZFZkl2QnFwWHV1OVJPNU5DOGVZdjdfNHh5dE1oalhfdmJSVmY2SVFlTWJjU3J4WkwzZXgwdUdoanZwT0ZLQ2dBSDRCYkJGMnR3b3p2ckRlaHhsdGZQOXlvNWpVcDRoM256b2dHQUo?oc=5",
-   "source": "ocvb",
-   "published": "2026-08-25T12:03+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "九州応援割、詳細は8月28日に発表予定 — 過去制度の補助率で読む実質単価と宿の準備",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV1dkekhvTDRYU19GMTZSb01hWTh5ZWdURFBlQjdaeUZBMTM0MGc1NnNYUl9uQllqRDc4RDVzV1JiMTdsTW1KRk03aWdmenhUbEJmUTVVVnBvRG5JWHdZWjRpdEszbFp5VnlkTHZ1eFJXZ09IZGhHWU42Z2x2ZWlRWQ?oc=5",
    "source": "hotelbank",
@@ -2857,16 +2887,6 @@
    ]
   },
   {
-   "title": "Googleマップ、AI連携の新機能「マップに相談」日本で提供開始、旅行計画やリアルタイム交通情報にも対応",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45T0lxY3B6NEhyNzBhV1dyNFAya3Bmc1hLM2FyemZtNkZwSnRGRWtGRXo4c0F6S25yWVVzYVFkRXpTdFlqa2I1bXlSd1FQd3dvQnc4NA?oc=5",
-   "source": "travelvoice",
-   "published": "2026-08-13T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
    "title": "「まるっと京都」周遊観光促進クエスト型デジタルラリー企画・運営業務に係る企画提案の公募",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5OFk0ZUJZaG9kbGFtbkFYamdhc2FvVk1feC01Z0Q5RnB6RWNKSXBPRUlnQmZ0Q29NWTd1RXQ2VWlKdXA0XzY3V1kxUEhNLXlF?oc=5",
    "source": "travelvoice",
@@ -2874,17 +2894,6 @@
    "summary": "",
    "categories": [
     "subsidy"
-   ]
-  },
-  {
-   "title": "リゾテックエキスポ2026：来場登録・セミナー予約方法",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ESlFNVzc3QTJPV09wV0dnWWNHc3F6T3JWVW5JRXBPYjRrVE9wNGplM0xmaVE2cVNyeUk1YVFUVnpmUmUwRWxOTy1nc1JpRng1WGdxRV9jb083dzhS?oc=5",
-   "source": "resortech",
-   "published": "2026-08-12T00:05+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai",
-    "okinawa"
    ]
   },
   {
