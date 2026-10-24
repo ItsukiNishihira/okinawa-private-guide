@@ -1,33 +1,33 @@
 {
- "updated_at": "2026-10-24T06:19+09:00",
+ "updated_at": "2026-10-24T13:26+09:00",
  "sources": [
   {
    "id": "honichi",
    "name": "訪日ラボ",
    "home": "https://honichi.com/",
    "direct_feed": true,
-   "new_items": 22
+   "new_items": 23
   },
   {
    "id": "hotelbank",
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
    "direct_feed": true,
-   "new_items": 34
+   "new_items": 33
   },
   {
    "id": "travelvoice",
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 70
+   "new_items": 68
   },
   {
    "id": "ocvb",
    "name": "OCVB",
    "home": "https://www.ocvb.or.jp/",
    "direct_feed": true,
-   "new_items": 66
+   "new_items": 65
   },
   {
    "id": "kankodx",
@@ -46,11 +46,21 @@
  ],
  "articles": [
   {
-   "title": "沖縄・大阪・横浜のホテル稼働率はいくつか｜9月は沖縄86.7%・大阪80.4%・神奈川84.2%、観光庁値との読み分け",
-   "url": "https://hotelbank.jp/trends/hotel-occupancy-rate-okinawa-osaka-yokohama-fukuoka-2026-09/",
+   "title": "HotelMEの九州ふっこう割検索が拡充、一人旅〜大人5名・複数県・候補日比較と割引手続きの確認方法",
+   "url": "https://hotelbank.jp/industry-trends/hotelme-kyushu-fukkowari-search-expansion-solo-multi-prefecture-2026/",
    "source": "hotelbank",
-   "published": "2026-10-23T20:55+09:00",
-   "summary": "2026年9月のOTA在庫ベース推定稼働率は沖縄86.7%・大阪80.4%・神奈川84.2%・福岡88.3%。観光庁の7月客室稼働率（沖縄61.8%・大阪72.6%）と並べ、47都道府県と那覇市・博多区・大阪市5区・横浜市2区の値、3つの定義の使い分けとRevPAR目安を整理する。",
+   "published": "2026-10-24T09:55+09:00",
+   "summary": "ChatGPTアプリ「HotelME」の九州ふっこう割検索が10月22日以降に拡充。大人1〜5名の人数別料金、複数県と最大31日間の候補日比較、「割引後（表示額）」と「計算値・目安」の違い、クーポン・STAYNAVI・後日返金の手続き、公式予約先での最終確認までを10月24日時点の確認情報で解説する。",
+   "categories": [
+    "dx_ai"
+   ]
+  },
+  {
+   "title": "沖縄・大阪・横浜のホテル稼働率はいくつか｜9月は沖縄86.7%・大阪80.4%・神奈川84.2%、観光庁値との読み分け",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdk05c1ZTZzQycGEwdm41eFIxYS0yWEgtR05PZnBiWm1QdmdNTjg5NlVpR0FnSDg4UDNZeFVFcmk0Y2Y1bE8tOWdubVEzd21sbVdpSmJDWElyMGtoQkxKTkxuclkyaEZENHRlVm0wOXdZekhTTENXdVN3bi1tUzNiZ0RmUjYwR1VxS09Vbmx3dTVKZw?oc=5",
+   "source": "hotelbank",
+   "published": "2026-10-23T21:00+09:00",
+   "summary": "",
    "categories": [
     "okinawa"
    ]
@@ -928,6 +938,16 @@
    ]
   },
   {
+   "title": "名護市内の移動手段不足と地域課題の解消へ Limeなど5者が観光モビリティに関する包括連携協定を締結",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wX1ptbDFYaWY0TzlXS2ZEcWE0bW90b25hbDY2d2NoUGMwbktxVjdVdE9MUEhwRVR1c3lFc2dGTlRGQU0yR19oamY5azB2NnlaYS1iV1BLZURZSi00TWZxbUh0Tm84VkI4OUFOT3VScVhIcWc?oc=5",
+   "source": "honichi",
+   "published": "2026-10-15T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
    "title": "地図は観光と地域をどう変えるか？ 周遊促進から担い手の「手応え」まで、データ活用の可能性を聞いてきた",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HbGFCOHcxYUFGZzFnV2d6VnpON2RNQ2pTcDlsRVZ0YUpFT2JBSTBseDctcjFXNjNwWTR6TDdkdzVNZFJDR3A2RjZsZUhBc0o0RWdlZQ?oc=5",
    "source": "travelvoice",
@@ -975,16 +995,6 @@
    "summary": "じげん傘下のアップルワールドが旅行BtoB事業を拡大している。深田健史氏に、価格競争とは一線を画すBtoB戦略、国内ホテルの開拓、団体旅行、AI活用まで今後の展望を聞いた。",
    "categories": [
     "dx_ai"
-   ]
-  },
-  {
-   "title": "名護市内の移動手段不足と地域課題の解消へ Limeなど5者が観光モビリティに関する包括連携協定を締結",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wX1ptbDFYaWY0TzlXS2ZEcWE0bW90b25hbDY2d2NoUGMwbktxVjdVdE9MUEhwRVR1c3lFc2dGTlRGQU0yR19oamY5azB2NnlaYS1iV1BLZURZSi00TWZxbUh0Tm84VkI4OUFOT3VScVhIcWc?oc=5",
-   "source": "honichi",
-   "published": "2026-10-15T07:01+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
    ]
   },
   {
@@ -2100,16 +2110,6 @@
    ]
   },
   {
-   "title": "沖縄の返還跡地1,000ha超は用地になるか — 浦添4軒43室・宜野湾7軒583室",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFBObld2WmFudnlsazhxZ1U3eHNqaVVJRTV4bGpWclo3T1BOZWlQQkh4RDNTUjBjc241bUgzdFNGOTVpTEZsRWpaalVrRnFQQWs4YVhGa191SmZITEtwX2FiNTJQQjF6bjNwVVd2c1dScWkxd1hKc0M4QV9mUVZWTTY3UTU0Y3VNNnpabA?oc=5",
-   "source": "hotelbank",
-   "published": "2026-09-11T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "【取材】なぜホテルの客室に“森”をつくったのか 沖縄・EMウェルネス「ミ森 -MIMORI-」誕生の背景",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGTlljbWlHajlodkt3QWdoLVJWYm1DaUdDTGpkc184NlBPZXdhNEo1dnZhSkhYNW9Rc2NhQjN0ZFpqdGs5dTItaGNpYWVvcDNKWDJ0T1NhVEd4amRWQzRPYVJkaWI1VXpsZ3F6R0JJVk9SWXNDYTdZ?oc=5",
    "source": "hotelbank",
@@ -2163,6 +2163,16 @@
    "title": "【総務企画部】令和8年度 災害時観光客一時避難及び帰宅支援運用訓練の開催について（2026.10.20更新）",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE91VHVzdjljZ2JLcFRoZW41MXEwSUNaNmhocjV5cGZ2R2Vsa3B6X3p2aDAzSGlZMFNSTkp5VmFHazFpb2laUDhkN1ZB?oc=5",
    "source": "ocvb",
+   "published": "2026-09-11T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "沖縄の返還跡地1,000ha超は用地になるか — 浦添4軒43室・宜野湾7軒583室",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFBObld2WmFudnlsazhxZ1U3eHNqaVVJRTV4bGpWclo3T1BOZWlQQkh4RDNTUjBjc241bUgzdFNGOTVpTEZsRWpaalVrRnFQQWs4YVhGa191SmZITEtwX2FiNTJQQjF6bjNwVVd2c1dScWkxd1hKc0M4QV9mUVZWTTY3UTU0Y3VNNnpabA?oc=5",
+   "source": "hotelbank",
    "published": "2026-09-11T16:00+09:00",
    "summary": "",
    "categories": [
@@ -2881,16 +2891,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80eTV4ZEM1LTVmQ0xXUm9ISndFb2dBTWtsQzFJeU9fM3BKdWlVTy1QMGNxLTNvX0dPNThTc3JZS0V2UjJUa21DMUxxWlB5b0F6aVAwdg?oc=5",
    "source": "travelvoice",
    "published": "2026-08-18T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "dx_ai"
-   ]
-  },
-  {
-   "title": "ニュースアプリのスマニュー、地図アプリを提供開始、AIで全国のスポット情報を集約、街歩きの見どころを提案",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmSTFSeTFqRGQ1Q1g2NWxnaVlBMWQzSV9hTVdmTTE0amVOTFRjdjdWQ3JMREU5UDRLU3dSWDAtUlBlcFd6cGZ6X2RzdGtYbFAtN3ZSOA?oc=5",
-   "source": "travelvoice",
-   "published": "2026-08-17T16:00+09:00",
    "summary": "",
    "categories": [
     "dx_ai"
