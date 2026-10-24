@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T19:49+09:00",
+ "updated_at": "2026-10-25T00:50+09:00",
  "sources": [
   {
    "id": "honichi",
@@ -13,21 +13,21 @@
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
    "direct_feed": true,
-   "new_items": 34
+   "new_items": 32
   },
   {
    "id": "travelvoice",
    "name": "トラベルボイス",
    "home": "https://www.travelvoice.jp/",
    "direct_feed": true,
-   "new_items": 68
+   "new_items": 70
   },
   {
    "id": "ocvb",
    "name": "OCVB",
    "home": "https://www.ocvb.or.jp/",
    "direct_feed": true,
-   "new_items": 66
+   "new_items": 65
   },
   {
    "id": "kankodx",
@@ -45,6 +45,26 @@
   }
  ],
  "articles": [
+  {
+   "title": "SNSを通じた訪日外国人旅行者に対するマナー啓発業務に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oLTNwMzV2X2t3dHozOFRkYkhNM3RBVUFpTnY2cGRYaENMUVczRXFLYmNaYW8zNi1YU0dxODlwdEpDU3o4N09ZMjNFRkJCMkJJ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-24T21:18+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
+  {
+   "title": "三河港クルーズ船誘致推進事業業務に係る企画提案の公募",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02dkxlbUNDREZSTjNGMHltYV9pSW1URktLbHZSMHo4QV9SRHZSUWd4dzNoOURnbmN5MU9ORU1Ob3FDNUVub1FRdjNXZmFuQWpn?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-24T21:18+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
   {
    "title": "解説コラム「2026年6月度データから見えたこと」を公開しました",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HUjEtVHZDQWI1X0tNd0lCOGlzaURWdXlYY0syOFhLQVFqS3lIRTQyV3hxUDV6bnhRSTI4dndiRWtjYUFZdWdpUDNFTm1CQ0tURXUxS3NzYzJta0E?oc=5",
@@ -113,16 +133,6 @@
    "summary": "客室稼働率の競争から顧客との関係性重視へ。航空連携、生成AI、金融進出などを通じ、宿泊にとどまらず旅という体験全体をデザインするホテル会社の最新戦略を解説する。",
    "categories": [
     "dx_ai"
-   ]
-  },
-  {
-   "title": "SNSを通じた訪日外国人旅行者に対するマナー啓発業務に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oLTNwMzV2X2t3dHozOFRkYkhNM3RBVUFpTnY2cGRYaENMUVczRXFLYmNaYW8zNi1YU0dxODlwdEpDU3o4N09ZMjNFRkJCMkJJ?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-23T16:28+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
    ]
   },
   {
@@ -204,16 +214,6 @@
    "summary": "",
    "categories": [
     "okinawa"
-   ]
-  },
-  {
-   "title": "三河港クルーズ船誘致推進事業業務に係る企画提案の公募",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02dkxlbUNDREZSTjNGMHltYV9pSW1URktLbHZSMHo4QV9SRHZSUWd4dzNoOURnbmN5MU9ORU1Ob3FDNUVub1FRdjNXZmFuQWpn?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-22T16:51+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
    ]
   },
   {
@@ -2120,16 +2120,6 @@
    ]
   },
   {
-   "title": "沖縄の返還跡地1,000ha超は用地になるか — 浦添4軒43室・宜野湾7軒583室",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFBObld2WmFudnlsazhxZ1U3eHNqaVVJRTV4bGpWclo3T1BOZWlQQkh4RDNTUjBjc241bUgzdFNGOTVpTEZsRWpaalVrRnFQQWs4YVhGa191SmZITEtwX2FiNTJQQjF6bjNwVVd2c1dScWkxd1hKc0M4QV9mUVZWTTY3UTU0Y3VNNnpabA?oc=5",
-   "source": "hotelbank",
-   "published": "2026-09-11T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
    "title": "【取材】なぜホテルの客室に“森”をつくったのか 沖縄・EMウェルネス「ミ森 -MIMORI-」誕生の背景",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGTlljbWlHajlodkt3QWdoLVJWYm1DaUdDTGpkc184NlBPZXdhNEo1dnZhSkhYNW9Rc2NhQjN0ZFpqdGs5dTItaGNpYWVvcDNKWDJ0T1NhVEd4amRWQzRPYVJkaWI1VXpsZ3F6R0JJVk9SWXNDYTdZ?oc=5",
    "source": "hotelbank",
@@ -2183,6 +2173,16 @@
    "title": "【総務企画部】令和8年度 災害時観光客一時避難及び帰宅支援運用訓練の開催について（2026.10.20更新）",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE91VHVzdjljZ2JLcFRoZW41MXEwSUNaNmhocjV5cGZ2R2Vsa3B6X3p2aDAzSGlZMFNSTkp5VmFHazFpb2laUDhkN1ZB?oc=5",
    "source": "ocvb",
+   "published": "2026-09-11T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "沖縄の返還跡地1,000ha超は用地になるか — 浦添4軒43室・宜野湾7軒583室",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFBObld2WmFudnlsazhxZ1U3eHNqaVVJRTV4bGpWclo3T1BOZWlQQkh4RDNTUjBjc241bUgzdFNGOTVpTEZsRWpaalVrRnFQQWs4YVhGa191SmZITEtwX2FiNTJQQjF6bjNwVVd2c1dScWkxd1hKc0M4QV9mUVZWTTY3UTU0Y3VNNnpabA?oc=5",
+   "source": "hotelbank",
    "published": "2026-09-11T16:00+09:00",
    "summary": "",
    "categories": [
