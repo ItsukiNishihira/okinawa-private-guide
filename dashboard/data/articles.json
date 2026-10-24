@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T13:26+09:00",
+ "updated_at": "2026-10-24T19:49+09:00",
  "sources": [
   {
    "id": "honichi",
@@ -13,7 +13,7 @@
    "name": "HOTEL BANK",
    "home": "https://hotelbank.jp/",
    "direct_feed": true,
-   "new_items": 33
+   "new_items": 34
   },
   {
    "id": "travelvoice",
@@ -27,7 +27,7 @@
    "name": "OCVB",
    "home": "https://www.ocvb.or.jp/",
    "direct_feed": true,
-   "new_items": 65
+   "new_items": 66
   },
   {
    "id": "kankodx",
@@ -45,6 +45,26 @@
   }
  ],
  "articles": [
+  {
+   "title": "解説コラム「2026年6月度データから見えたこと」を公開しました",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HUjEtVHZDQWI1X0tNd0lCOGlzaURWdXlYY0syOFhLQVFqS3lIRTQyV3hxUDV6bnhRSTI4dndiRWtjYUFZdWdpUDNFTm1CQ0tURXUxS3NzYzJta0E?oc=5",
+   "source": "ocvb",
+   "published": "2026-10-24T16:45+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
+   "title": "ふくしまアフターDCにおけるクーポン付きレンタカーキャンペーン準備事業に係る公募型プロポーザルの実施",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxRGlYN0FhajE4ZHNaQ3RxV1dwejJTc0ZkLW1ISDRXaXQwVGlYOWZ3TS1BTW80TnBEYnpSZ2ljdmt5TkZvaUdLbFBaVEIwRGRQ?oc=5",
+   "source": "travelvoice",
+   "published": "2026-10-24T11:14+09:00",
+   "summary": "",
+   "categories": [
+    "subsidy"
+   ]
+  },
   {
    "title": "HotelMEの九州ふっこう割検索が拡充、一人旅〜大人5名・複数県・候補日比較と割引手続きの確認方法",
    "url": "https://hotelbank.jp/industry-trends/hotelme-kyushu-fukkowari-search-expansion-solo-multi-prefecture-2026/",
@@ -184,16 +204,6 @@
    "summary": "",
    "categories": [
     "okinawa"
-   ]
-  },
-  {
-   "title": "ふくしまアフターDCにおけるクーポン付きレンタカーキャンペーン準備事業に係る公募型プロポーザルの実施",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxRGlYN0FhajE4ZHNaQ3RxV1dwejJTc0ZkLW1ISDRXaXQwVGlYOWZ3TS1BTW80TnBEYnpSZ2ljdmt5TkZvaUdLbFBaVEIwRGRQ?oc=5",
-   "source": "travelvoice",
-   "published": "2026-10-22T17:41+09:00",
-   "summary": "",
-   "categories": [
-    "subsidy"
    ]
   },
   {
@@ -2110,6 +2120,16 @@
    ]
   },
   {
+   "title": "沖縄の返還跡地1,000ha超は用地になるか — 浦添4軒43室・宜野湾7軒583室",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFBObld2WmFudnlsazhxZ1U3eHNqaVVJRTV4bGpWclo3T1BOZWlQQkh4RDNTUjBjc241bUgzdFNGOTVpTEZsRWpaalVrRnFQQWs4YVhGa191SmZITEtwX2FiNTJQQjF6bjNwVVd2c1dScWkxd1hKc0M4QV9mUVZWTTY3UTU0Y3VNNnpabA?oc=5",
+   "source": "hotelbank",
+   "published": "2026-09-11T16:00+09:00",
+   "summary": "",
+   "categories": [
+    "okinawa"
+   ]
+  },
+  {
    "title": "【取材】なぜホテルの客室に“森”をつくったのか 沖縄・EMウェルネス「ミ森 -MIMORI-」誕生の背景",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGTlljbWlHajlodkt3QWdoLVJWYm1DaUdDTGpkc184NlBPZXdhNEo1dnZhSkhYNW9Rc2NhQjN0ZFpqdGs5dTItaGNpYWVvcDNKWDJ0T1NhVEd4amRWQzRPYVJkaWI1VXpsZ3F6R0JJVk9SWXNDYTdZ?oc=5",
    "source": "hotelbank",
@@ -2163,16 +2183,6 @@
    "title": "【総務企画部】令和8年度 災害時観光客一時避難及び帰宅支援運用訓練の開催について（2026.10.20更新）",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE91VHVzdjljZ2JLcFRoZW41MXEwSUNaNmhocjV5cGZ2R2Vsa3B6X3p2aDAzSGlZMFNSTkp5VmFHazFpb2laUDhkN1ZB?oc=5",
    "source": "ocvb",
-   "published": "2026-09-11T16:00+09:00",
-   "summary": "",
-   "categories": [
-    "okinawa"
-   ]
-  },
-  {
-   "title": "沖縄の返還跡地1,000ha超は用地になるか — 浦添4軒43室・宜野湾7軒583室",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFBObld2WmFudnlsazhxZ1U3eHNqaVVJRTV4bGpWclo3T1BOZWlQQkh4RDNTUjBjc241bUgzdFNGOTVpTEZsRWpaalVrRnFQQWs4YVhGa191SmZITEtwX2FiNTJQQjF6bjNwVVd2c1dScWkxd1hKc0M4QV9mUVZWTTY3UTU0Y3VNNnpabA?oc=5",
-   "source": "hotelbank",
    "published": "2026-09-11T16:00+09:00",
    "summary": "",
    "categories": [
